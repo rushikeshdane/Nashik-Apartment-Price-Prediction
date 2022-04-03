@@ -85,11 +85,11 @@ pycparser==2.21
 pydeck==0.7.1
 Pygments==2.11.2
 Pympler==1.0.1
-pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyparsing 
 pyproj==3.2.1
 pyrsistent==0.18.1
 pytest==5.4.3
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dateutil 
 python-dotenv==0.19.2
 pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
