@@ -1,4 +1,4 @@
-altair
+altair==4.2.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 astor==0.8.1
@@ -9,17 +9,17 @@ backports.zoneinfo==0.2.1
 base58==2.1.1
 bleach==4.1.0
 blinker==1.4
-Bottleneck
-branca
-cachetools
-certifi
-cffi
-charset-normalizer
-click
+Bottleneck==1.3.2
+branca==0.4.2
+cachetools==5.0.0
+certifi==2021.10.8
+cffi==1.15.0
+charset-normalizer==2.0.12
+click==7.1.2
 click-plugins==1.1.1
 cligj==0.7.2
 colorama==0.4.4
-cycler 
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
 debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
@@ -40,37 +40,41 @@ ipython-genutils==0.2.0
 ipywidgets==7.6.5
 jedi==0.18.1
 Jinja2==3.0.3
-joblib 
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
 jsonschema==4.4.0
 jupyter-client==7.1.2
 jupyter-core==4.9.2
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
-kiwisolver 
-lazypredict
+kiwisolver @ file:///C:/ci/kiwisolver_1644944417636/work
+lazypredict==0.2.9
 lightgbm==2.3.1
 MarkupSafe==2.1.0
-matplotlib 
+matplotlib @ file:///C:/ci/matplotlib-suite_1645455836921/work
 matplotlib-inline==0.1.3
-missingno 
+missingno @ file:///tmp/build/80754af9/missingno_1605824147679/work
 mistune==0.8.4
-munch
-munkres
-nbclient
-nbconvert
-nbformat
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
+mkl-service==2.4.0
+more-itertools==8.12.0
+munch==2.5.0
+munkres==1.1.4
+nbclient==0.5.11
+nbconvert==6.4.2
+nbformat==5.1.3
 nest-asyncio==1.5.4
 notebook==6.4.8
-numexpr 
-numpy 
-packaging 
-pandas
+numexpr @ file:///C:/ci/numexpr_1640704420125/work
+numpy @ file:///C:/ci_310/numpy_and_numpy_base_1643798589088/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.3.5
 pandocfilters==1.5.0
 parso==0.8.3
 patsy==0.5.2
 pickleshare==0.7.5
 Pillow==9.0.1
-plotly 
+plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
 pluggy==0.13.1
 prometheus-client==0.13.1
 prompt-toolkit==3.0.28
@@ -81,37 +85,42 @@ pycparser==2.21
 pydeck==0.7.1
 Pygments==2.11.2
 Pympler==1.0.1
-pyparsing 
-pyproj
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyproj==3.2.1
 pyrsistent==0.18.1
 pytest==5.4.3
-python-dateutil 
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 python-dotenv==0.19.2
 pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
+pywin32==303
+pywinpty==2.0.5
 PyYAML==5.3.1
 pyzmq==22.3.0
 requests==2.27.1
-scikit-learn 
-scipy 
-seaborn 
+scikit-learn @ file:///C:/ci/scikit-learn_1642599122269/work
+scipy @ file:///C:/ci/scipy_1641555141383/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
 semver==2.13.0
 Send2Trash==1.8.0
-sip
-sklearn
-smmap
+Shapely==1.8.1.post1
+simplejson==3.17.6
+sip==4.19.13
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0
+smmap==5.0.0
 statsmodels==0.13.2
 streamlit==1.7.0
 streamlit-aggrid==0.2.3.post2
 streamlit-folium==0.6.2
 streamlit-lottie==0.0.3
-tenacity 
-terminado
+tenacity @ file:///C:/ci/tenacity_1632759497842/work
+terminado==0.13.2
 testpath==0.6.0
 threadpoolctl==3.1.0
 toml==0.10.2
 toolz==0.11.2
-tornado
+tornado @ file:///C:/ci/tornado_1606935947090/work
 tqdm==4.56.0
 traitlets==5.1.1
 typing_extensions==4.1.1
