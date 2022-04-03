@@ -102,7 +102,7 @@ seaborn
 semver==2.13.0
 Send2Trash==1.8.0
 sip
-sklearn==0.24.2
+sklearn
 smmap
 statsmodels==0.13.2
 streamlit==1.7.0
