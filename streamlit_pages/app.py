@@ -16,7 +16,7 @@ try:
     app.add_page("EDA2", EDA2.app)
     app.add_page("Feature Engineering", feature_engineering.app)
     app.add_page("Feature selection",feature_selection.app)
-    app.add_page("Model Building",model_building.app)
+   # app.add_page("Model Building",model_building.app)
     app.add_page("About",About.app)
     #app.add_page("Machine Learning", machine_learning.app)
     #app.add_page("Data Analysis",data_visualize.app)
