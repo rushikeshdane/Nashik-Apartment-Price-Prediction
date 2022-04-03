@@ -102,7 +102,6 @@ seaborn
 semver==2.13.0
 Send2Trash==1.8.0
 Shapely==1.8.1.post1
-simplejson==3.17.6
 sip==4.19.13
 sklearn==0.0
 smmap==5.0.0
