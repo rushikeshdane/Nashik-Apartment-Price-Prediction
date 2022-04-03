@@ -89,7 +89,7 @@ def app():
         st.text('(note : hover your mouse on the map '
                         'to get extra detail about particular house)')
         def get_map(value1,value2):
-            df = get_data.get_data(path='../read_data/raw_data.csv')
+            df = get_data.get_data(path='raw_data.csv')
             dff = df[df['price'].between(value1,value2,inclusive=True)]
             fig = px.scatter_mapbox(dff,
                                     lat=dff.latitude,
