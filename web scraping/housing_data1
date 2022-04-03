@@ -1,0 +1,470 @@
+,name,price,address,sq_ft,owners,emi,house_condition,housetype
+0,2 BHK Apartment for sale in Niphad,₹11.49 L,"Renuka Apartment,Niphad, Nashik",520 sq.ft,DisposalHub,EMI starts at ₹6.09 K,old,Apartment
+1,2 BHK Apartment for sale in Samta Nagar,₹35.0 L,"Samraat Dream Citi, Samta Nagar, Nashik",945 sq.ft,Sumit Acharya,EMI starts at ₹18.53 K,old,Apartment
+2,3 BHK Apartment for sale in Samta Nagar,₹46.99 L,"Samraat Dream Citi, Samta Nagar, Nashik",1160 sq.ft,Kartik Peshwe,EMI starts at ₹24.88 K,old,Apartment
+3,1 BHK Apartment for sale in Niphad,₹12.85 L,"Renuka Apartment,Niphad, Nashik",520 sq.ft,DisposalHub,EMI starts at ₹6.80 K,old,Apartment
+4,3 BHK Apartment for sale in Samta Nagar,₹42.0 L,"Samraat Dream Citi, Samta Nagar, Nashik",1145 sq.ft,Sumit Acharya,EMI starts at ₹22.24 K,old,Apartment
+5,2 BHK Apartment for sale in Wadala Gaon,₹45.0 L,"Siddhi Elite, Tirumla Nagar, Wadala Gaon,Nashik",1020 sq.ft,Sankricha,EMI starts at ₹23.83 K,old,Apartment
+6,2 BHK Apartment for sale in Nashik Road,₹28.0 L,"Dream project,Ayodhya Nagar, Nashik Road,Nashik",980 sq.ft,Hrushikesh Shejval,EMI starts at ₹14.83 K,old,Apartment
+7,2 BHK Apartment for sale in Kalpataru Nagar,₹45.0 L,"Karda hari sankul,Kalpataru Nagar, Nashik",960 sq.ft,Sachin Deshmukh,EMI starts at ₹23.83 K,old,Apartment
+8,2 BHK Apartment for sale in Kalpataru Nagar,₹63.0 L,"Shriji,Kalpataru Nagar, Nashik",1310 sq.ft,Sachin Deshmukh,EMI starts at ₹33.36 K,old,Apartment
+9,2 BHK Apartment for sale in Samta Nagar,₹37.0 L,"Samraat Dream Citi, Samta Nagar, Nashik",1000 sq.ft,Sunny Estates,EMI starts at ₹19.59 K,old,Apartment
+10,2 BHK Apartment for sale in Samta Nagar,₹37.51 L,"Samraat Dream Citi, Samta Nagar, Nashik",1050 sq.ft,Sunny Estates,EMI starts at ₹19.86 K,old,Apartment
+11,1 BHK Apartment for sale in Nashik Road,₹35.5 L,"Garden, Nashik Road, Nashik",725 sq.ft,Ami Sheth,EMI starts at ₹18.80 K,old,Apartment
+12,1 BHK Apartment for sale in Makhmalabad,₹15.5 L,"Karada Hari anand,Makhmalabad, Nashik",595 sq.ft,Swapnil,EMI starts at ₹8.21 K,old,Apartment
+13,2 BHK Apartment for sale in Sharda Vihar,₹46.0 L,"Apurvai, Sharda Vihar, Nashik",1250 sq.ft,Swapnil,EMI starts at ₹24.36 K,old,Apartment
+14,2 BHK Apartment for sale in Amrutdham,₹28.5 L,"siddheshwar apts,Amrutdham, Nashik",1350 sq.ft,Anurag Pramotions,EMI starts at ₹15.09 K,old,Apartment
+15,1 BHK Apartment for sale in Nashik Road,₹16.0 L,"shivshruti,Pintoo Colony, Nashik Road,Nashik",575 sq.ft,Devas Property,EMI starts at ₹8.47 K,old,Apartment
+16,2 BHK Apartment for sale in Parijat Nagar,₹40.0 L,"Parijat Nagar, Nashik",850 sq.ft,Khan Abdul Aziz,EMI starts at ₹21.18 K,old,Apartment
+17,2 BHK Apartment for sale in Uttara Nagar,₹28.5 L,"Shailaja,RTO Colony, Uttara Nagar,Nashik",917 sq.ft,Swapnil,EMI starts at ₹15.09 K,old,Apartment
+18,2 BHK Apartment for sale in Kishor Nagar,₹28.0 L,"Kishor Nagar, Nashik",950 sq.ft,Shakil Sayyed,EMI starts at ₹14.83 K,old,Apartment
+19,2 BHK Apartment for sale in Indira Nagar,₹48.0 L,"Ganesh Signifia, Indira Nagar, Nashik",977 sq.ft,OMRAJ REAL ESTATE,EMI starts at ₹25.42 K,old,Apartment
+20,1 BHK Apartment for sale in Mhasrul Gaon,₹16.0 L,"Gulmohar nagar mhasrul nashik,Mhasrul Gaon, Nashik",600 sq.ft,Swapnil Bodke,EMI starts at ₹8.47 K,old,Apartment
+21,2 BHK Apartment for sale in Rane Nagar,₹27.0 L,"Chetana Nagar, Rane Nagar,Nashik",840 sq.ft,Mahesh Gore,EMI starts at ₹14.30 K,old,Apartment
+22,2 BHK Apartment for sale in Deepali Nagar,₹28.0 L,"Shri ram nagar ,Deepali Nagar, Nashik",800 sq.ft,Jai Gajanan,EMI starts at ₹14.83 K,old,Apartment
+23,4 BHK Apartment for sale in Kishor Nagar,₹1.0 Cr,"Kishor Nagar, Nashik",1820 sq.ft,OMRAJ REAL ESTATE,EMI starts at ₹49.65 K,old,Apartment
+24,2 BHK Apartment for sale in Panchavati,₹35.0 L,"Saraf Bazar, Panchavati,Nashik",840 sq.ft,Ashok Bhosale,EMI starts at ₹18.53 K,old,Apartment
+25,2 BHK Apartment for sale in Pathardi Phata,₹26.0 L,"Omkar annex,Damodar Nagar, Pathardi Phata,Nashik",823 sq.ft,Mukund Khule,EMI starts at ₹13.77 K,old,Apartment
+26,1 BHK Apartment for sale in Uttara Nagar,₹21.0 L,"Ajita appartment,Kathemala Colony, Uttara Nagar,Nashik",600 sq.ft,OMRAJ REAL ESTATE,EMI starts at ₹11.12 K,old,Apartment
+27,1 BHK Apartment for sale in Panchavati,₹17.71 L,"Satya Vijay society,Panchavati, Nashik",670 sq.ft,Harsshal Amrritkar,EMI starts at ₹9.38 K,old,Apartment
+28,1 BHK Apartment for sale in Niphad,₹14.0 L,"Niphad, Nashik",1007 sq.ft,Pradeep,EMI starts at ₹7.41 K,old,Apartment
+29,2 BHK Apartment for sale in Pathardi Phata,₹25.0 L,"Damodar Nagar, Pathardi Phata,Nashik",940 sq.ft,Nitin,EMI starts at ₹13.24 K,old,Apartment
+30,3 BHK Apartment for sale in Ram Wadi,₹65.0 L,"Kausalya Nagar, Ram Wadi,Nashik",1170 sq.ft,Krishnamurti,EMI starts at ₹34.42 K,old,Apartment
+31,3 BHK Apartment for sale in Anandwalli Gaon,₹60.0 L,"Balawant Nagar, Anandwalli Gaon,Nashik",1305 sq.ft,Krishnamurti,EMI starts at ₹31.77 K,old,Apartment
+32,2 BHK Apartment for sale in Indira Nagar,₹40.0 L,"Indira Nagar, Nashik",1000 sq.ft,Mr. Raju Date,EMI starts at ₹21.18 K,old,Apartment
+33,2 BHK Apartment for sale in Panchavati,₹35.0 L,"Saraf Bazar, Panchavati,Nashik",840 sq.ft,Ashok Bhosale,EMI starts at ₹18.53 K,old,Apartment
+34,3 BHK Apartment for sale in Kishor Nagar,₹46.0 L,"Atulya A,Kishor Nagar, Nashik",1400 sq.ft,Santosh Gaikwad,EMI starts at ₹24.36 K,old,Apartment
+35,1 BHK Apartment for sale in Panchavati,₹27.0 L,"Aditya kunj ,Panchavati, Nashik",700 sq.ft,Pavan Giri,EMI starts at ₹14.30 K,old,Apartment
+36,2 BHK Apartment for sale in Indira Nagar,₹40.0 L,"Kala Nagar, Indira Nagar,Nashik",960 sq.ft,Prashant Koranne,EMI starts at ₹21.18 K,old,Apartment
+37,2 BHK Apartment for sale in Gole Colony,₹45.0 L,"Gole Colony, Nashik",750 sq.ft,Krishnamurti,EMI starts at ₹23.83 K,old,Apartment
+38,1 BHK Apartment for sale in Ram Wadi,₹15.0 L,"Maitrabandhan How Society,Kranti Nagar, Ram Wadi,Nashik",521 sq.ft,Shree Gajanan,EMI starts at ₹7.94 K,old,Apartment
+39,2 BHK Apartment for sale in Rajiv Nagar,₹30.0 L,"prerna park,Vaibhav Colony, Rajiv Nagar,Nashik",950 sq.ft,Ajay Singh,EMI starts at ₹15.89 K,old,Apartment
+40,2 BHK Apartment for sale in Nashik Road,₹35.0 L,"Gandharv Nagari ,DattaMandir, Nashik Road,Nashik",1100 sq.ft,"Astvinayak Real Estate,",EMI starts at ₹18.53 K,old,Apartment
+41,2 BHK Apartment for sale in Pathardi Phata,₹45.0 L,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",956 sq.ft,Vineet Sakhare,EMI starts at ₹23.83 K,old,Apartment
+42,2 BHK Apartment for sale in Nashik Road,₹30.0 L,"Brickstones,Ayodhya Nagar, Nashik Road,Nashik",1000 sq.ft,Vishal Shah,EMI starts at ₹15.89 K,old,Apartment
+43,1 BHK Apartment for sale in Sneha Nagar,₹24.0 L,"Gorksha Nagar, Sneha Nagar,Nashik",800 sq.ft,Mayur Hire,EMI starts at ₹12.71 K,old,Apartment
+44,1 BHK Apartment for sale in Loksahakar Nagar,₹17.71 L,"Satyavijay, Loksahakar Nagar, Nashik",715 sq.ft,Harsshal Amrritkar,EMI starts at ₹9.38 K,old,Apartment
+45,3 BHK Apartment for sale in Nashik Road,₹55.0 L,"Nashik Road, Nashik",1250 sq.ft,Mr. Rahul Burse,EMI starts at ₹29.13 K,old,Apartment
+46,2 BHK Apartment for sale in Nashik Road,₹34.0 L,"Nashik Road, Nashik",1200 sq.ft,Pushpak Kalantri,EMI starts at ₹18.00 K,old,Apartment
+47,3 BHK Apartment for sale in Nashik Road,₹55.0 L,"Nashik Road, Nashik",1370 sq.ft,"Astvinayak Real Estate,",EMI starts at ₹29.13 K,old,Apartment
+48,2 BHK Apartment for sale in Nashik Road,₹26.51 L,"2BHK Jail Road,Pintoo Colony, Nashik Road,Nashik",980 sq.ft,Shree Balaji Estate,EMI starts at ₹14.04 K,old,Apartment
+49,2 BHK Apartment for sale in Dwarka,₹30.0 L,"Dwarka, Nashik",900 sq.ft,Mahakalpa ESTATE,EMI starts at ₹15.89 K,old,Apartment
+50,2 BHK Apartment for sale in Indira Nagar,₹36.5 L,"Vista Phase 1,Indira Nagar, Nashik",1080 sq.ft,Shreyas Intercity Services,EMI starts at ₹19.33 K,old,Apartment
+51,1 BHK Apartment for sale in Makhmalabad,₹18.5 L,"Dattadarshan appartment,Makhmalabad, Nashik",700 sq.ft,Rushikesh Rajguru,EMI starts at ₹9.80 K,old,Apartment
+52,Studio Apartment for sale in Pawan Nagar,₹2.01 Cr,"Pawan Nagar, Nashik",451 sq.ft,Nilesh Naphade,EMI starts at ₹99.79 K,old,Apartment
+53,1 BHK Apartment for sale in Niphad,₹32.0 L,"Niphad, Nashik",589 sq.ft,Pradeep,EMI starts at ₹16.95 K,old,Apartment
+54,4 BHK Apartment for sale in Niphad,₹45.0 L,"Niphad, Nashik",4500 sq.ft,Pradeep,EMI starts at ₹23.83 K,old,Apartment
+55,2 BHK Apartment for sale in Niphad,₹78.0 L,"Niphad, Nashik",922 sq.ft,Pradeep,EMI starts at ₹38.72 K,old,Apartment
+56,1 BHK Apartment for sale in Niphad,₹50.0 L,"Niphad, Nashik",657 sq.ft,Pradeep,EMI starts at ₹26.48 K,old,Apartment
+57,2 BHK Apartment for sale in Niphad,₹56.0 L,"Niphad, Nashik",809 sq.ft,Pradeep,EMI starts at ₹29.66 K,old,Apartment
+58,2 BHK Apartment for sale in Deolali Gaon,₹30.0 L,"Hari karda construction,Gandhi Nagar Airport Area, Deolali Gaon,Nashik",875 sq.ft,Vijay Laute,EMI starts at ₹15.89 K,old,Apartment
+59,1 BHK Apartment for sale in Niphad,₹14.32 L,"Niphad, Nashik",651 sq.ft,Pradeep,EMI starts at ₹7.58 K,old,Apartment
+60,1 BHK Apartment for sale in Niphad,₹14.5 L,"Niphad, Nashik",800 sq.ft,Pradeep,EMI starts at ₹7.68 K,old,Apartment
+61,1 BHK Apartment for sale in Niphad,₹14.32 L,"Niphad, Nashik",658 sq.ft,Pradeep,EMI starts at ₹7.58 K,old,Apartment
+62,1 BHK Apartment for sale in Niphad,₹14.5 L,"Niphad, Nashik",506 sq.ft,Pradeep,EMI starts at ₹7.68 K,old,Apartment
+63,1 BHK Apartment for sale in Niphad,₹14.0 L,"Niphad, Nashik",1000 sq.ft,Pradeep,EMI starts at ₹7.41 K,old,Apartment
+64,3 BHK Apartment for sale in Indira Nagar,₹56.0 L,"Vista Phase 1,Indira Nagar, Nashik",1545 sq.ft,Shreyas Intercity Services,EMI starts at ₹29.66 K,old,Apartment
+65,2 BHK Apartment for sale in TIDKE NAGAR,₹41.0 L,"TIDKE NAGAR, Nashik",1040 sq.ft,Laxmikant Ratnaparkhi,EMI starts at ₹21.71 K,old,Apartment
+66,1 BHK Apartment for sale in Nashik Road,₹23.0 L,"Shikrewadi ,Nashik Road, Nashik",750 sq.ft,Mr. Rahul Burse,EMI starts at ₹12.18 K,old,Apartment
+67,2 BHK Apartment for sale in Nashik Road,₹39.0 L,"Nashik Road, Nashik",1000 sq.ft,Pushpak Kalantri,EMI starts at ₹20.65 K,old,Apartment
+68,1 BHK Apartment for sale in Nashik Road,₹24.0 L,"Nashik Road, Nashik",730 sq.ft,"Astvinayak Real Estate,",EMI starts at ₹12.71 K,old,Apartment
+69,1 BHK Apartment for sale in Nashik Road,₹22.0 L,"jijamata nagar,DattaMandir, Nashik Road,Nashik",645 sq.ft,Manish Dhruv,EMI starts at ₹11.65 K,old,Apartment
+70,4 BHK Apartment for sale in Nashik Road,₹55.0 L,"Gandharva nagari,Nashik Road, Nashik",1294 sq.ft,Manish Dhruv,EMI starts at ₹29.13 K,old,Apartment
+71,2 BHK Apartment for sale in Govind Nagar,₹55.0 L,"Rk residency,Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",1350 sq.ft,Sameer,EMI starts at ₹29.13 K,old,Apartment
+72,1 BHK Apartment for sale in Gaikwad Nagar,₹24.0 L,"Sai apts,Gaikwad Nagar, Nashik",650 sq.ft,Sameer,EMI starts at ₹12.71 K,old,Apartment
+73,2 BHK Apartment for sale in Tagore Nagar,₹32.0 L,"Tagore Nagar, Nashik",980 sq.ft,Ejaj Sayyad,EMI starts at ₹16.95 K,old,Apartment
+74,2 BHK Apartment for sale in Renuka Nagar,₹32.81 L,"Renuka Nagar, Nashik",900 sq.ft,Ejaj Sayyad,EMI starts at ₹17.37 K,old,Apartment
+75,3 BHK Apartment for sale in Gangapur,₹80.0 L,"Spanco realty,Gangapur, Nashik",1800 sq.ft,Rakesh Shinde,EMI starts at ₹39.72 K,old,Apartment
+76,2 BHK Apartment for sale in Indira Nagar,₹32.0 L,"Indira Nagar, Nashik",980 sq.ft,Ejaj Sayyad,EMI starts at ₹16.95 K,old,Apartment
+77,2 BHK Apartment for sale in Nashik Road,₹29.81 L,"Nashik Road, Nashik",955 sq.ft,Ejaj Sayyad,EMI starts at ₹15.79 K,old,Apartment
+78,2 BHK Apartment for sale in Nashik Road,₹29.0 L,"Pintoo Colony, Nashik Road,Nashik",1020 sq.ft,Ejaj Sayyad,EMI starts at ₹15.36 K,old,Apartment
+79,1 BHK Apartment for sale in Dwarka,₹16.0 L,"Dwarka, Nashik",534 sq.ft,Mr. Sunil Panjwani,EMI starts at ₹8.47 K,old,Apartment
+80,3 BHK Apartment for sale in Nashik Road,₹57.5 L,"Dawkhar Wadi, Nashik Road,Nashik",1325 sq.ft,Ejaj Sayyad,EMI starts at ₹30.45 K,old,Apartment
+81,2 BHK Apartment for sale in Nashik Road,₹32.0 L,"Laxman Nagar, Nashik Road,Nashik",980 sq.ft,Ejaj Sayyad,EMI starts at ₹16.95 K,old,Apartment
+82,2 BHK Apartment for sale in Nashik Road,₹26.51 L,"Nashik Road, Nashik",760 sq.ft,Ejaj Sayyad,EMI starts at ₹14.04 K,old,Apartment
+83,2 BHK Apartment for sale in Nashik Road,₹28.51 L,"Nashik Road, Nashik",1050 sq.ft,Ejaj Sayyad,EMI starts at ₹15.10 K,old,Apartment
+84,2 BHK Apartment for sale in Nashik Road,₹28.51 L,"Nashik Road, Nashik",1050 sq.ft,Ejaj Sayyad,EMI starts at ₹15.10 K,old,Apartment
+85,2 BHK Apartment for sale in Nashik Road,₹38.0 L,"Rivrine next apartment,Adhav Nagar, Nashik Road,Nashik",1100 sq.ft,Sajish Gangurde,EMI starts at ₹20.12 K,old,Apartment
+86,2 BHK Apartment for sale in Nashik Road,₹38.0 L,"Rivrine next apartment,Adhav Nagar, Nashik Road,Nashik",1100 sq.ft,Sajish Gangurde,EMI starts at ₹20.12 K,old,Apartment
+87,2 BHK Apartment for sale in Nashik Road,₹38.09 L,"Nashik Road, Nashik",860 sq.ft,Nandlal,EMI starts at ₹20.17 K,old,Apartment
+88,2 BHK Apartment for sale in Nashik Road,₹25.18 L,"Nashik Road, Nashik",980 sq.ft,Nandlal,EMI starts at ₹13.33 K,old,Apartment
+89,2 BHK Apartment for sale in Nashik Road,₹25.21 L,"Nashik Road, Nashik",800 sq.ft,Ejaj Sayyad,EMI starts at ₹13.35 K,old,Apartment
+90,2 BHK Apartment for sale in Nashik Road,₹27.0 L,"Laxman Nagar, Nashik Road,Nashik",850 sq.ft,Ejaj Sayyad,EMI starts at ₹14.30 K,old,Apartment
+91,2 BHK Apartment for sale in Deolali Gaon,₹32.0 L,"Anand Nagar, Deolali Gaon,Nashik",1050 sq.ft,Nitin Goher,EMI starts at ₹16.95 K,old,Apartment
+92,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹40.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",562 sq.ft,Mr Sanjay,EMI starts at ₹21.18 K,old,Apartment
+93,3 BHK Apartment for sale in Nashik Road,₹33.0 L,"Gandhi Nagar Airport Area, Nashik Road,Nashik",1800 sq.ft,Nitin Goher,EMI starts at ₹17.48 K,old,Apartment
+94,2 BHK Apartment for sale in Jagtap Nagar,₹36.0 L,"Jagtap Nagar, Nashik",890 sq.ft,Kiran,EMI starts at ₹19.06 K,old,Apartment
+95,3 BHK Apartment for sale in Samta Nagar,₹48.0 L,"Samraat Dream Citi, Samta Nagar, Nashik",1160 sq.ft,Sunny Estates,EMI starts at ₹25.42 K,old,Apartment
+96,2 BHK Apartment for sale in Kalpataru Nagar,₹35.0 L,"Ashoka mrga ,Kalpataru Nagar, Nashik",871 sq.ft,Deepak Kardak,EMI starts at ₹18.53 K,old,Apartment
+97,2 BHK Apartment for sale in College Road,₹42.0 L,"College Road, Nashik",850 sq.ft,Mr Sanjay,EMI starts at ₹22.24 K,old,Apartment
+98,2 BHK Apartment for sale in Matoshree Nagar,₹60.0 L,"Near chandak circle,Matoshree Nagar, Nashik",1300 sq.ft,Sameer,EMI starts at ₹31.77 K,old,Apartment
+99,3 BHK Apartment for sale in Pathardi Phata,₹54.0 L,"Parksyde Residences,Pandav Nagari, Pathardi Phata,Nashik",1200 sq.ft,Navin Chavan,EMI starts at ₹28.60 K,old,Apartment
+100,3 BHK Apartment for sale in Nashik Road,₹55.0 L,"Dream Avenue, Nashik Road, Nashik",1350 sq.ft,Sandeep Thakur,EMI starts at ₹29.13 K,old,Apartment
+101,3 BHK Apartment for sale in Satpur,₹55.0 L,"Hemansh Harisankul,Ashoknagar, Satpur,Nashik",1269 sq.ft,Sandeep Thakur,EMI starts at ₹29.13 K,old,Apartment
+102,3 BHK Apartment for sale in Samta Nagar,₹50.01 L,"Samraat Dream Citi, Samta Nagar, Nashik",1130 sq.ft,Sandeep Thakur,EMI starts at ₹26.48 K,old,Apartment
+103,2 BHK Apartment for sale in Samta Nagar,₹32.0 L,"Shiv Residency,Samta Nagar, Nashik",900 sq.ft,Sandeep Thakur,EMI starts at ₹16.95 K,old,Apartment
+104,2 BHK Apartment for sale in Gangapur,₹48.0 L,"vrushilp,Gangapur, Nashik",1200 sq.ft,Sandeep Thakur,EMI starts at ₹25.42 K,old,Apartment
+105,3 BHK Apartment for sale in Uttara Nagar,₹65.0 L,"Samraat Dream Flower, Kathemala Colony, Uttara Nagar,Nashik",1500 sq.ft,Sandeep Thakur,EMI starts at ₹34.42 K,old,Apartment
+106,2 BHK Apartment for sale in Nashik Road,₹48.0 L,"Samraat Dream Avenue, Nashik Road, Nashik",1350 sq.ft,Sandeep Thakur,EMI starts at ₹25.42 K,old,Apartment
+107,2 BHK Apartment for sale in Pathardi Phata,₹40.0 L,"Tarangan, Damodar Nagar, Pathardi Phata,Nashik",1080 sq.ft,Navin Chavan,EMI starts at ₹21.18 K,old,Apartment
+108,2 BHK Apartment for sale in Kishor Nagar,₹30.0 L,"2BHK Patil Garden,Kishor Nagar, Nashik",865 sq.ft,Shree Balaji Estate,EMI starts at ₹15.89 K,old,Apartment
+109,3 BHK Apartment for sale in Vrindavan Nagar,₹49.51 L,"Vrindavan Nagar, Nashik",1390 sq.ft,Ejaj Sayyad,EMI starts at ₹26.22 K,old,Apartment
+110,1 BHK Apartment for sale in Kishor Nagar,₹16.0 L,"Gharkul,Kishor Nagar, Nashik",700 sq.ft,Nilesh Vasant Bodke,EMI starts at ₹8.47 K,old,Apartment
+111,2 BHK Apartment for sale in Anandwalli Gaon,₹42.0 L,"Samrat,Serene Meadows, Anandwalli Gaon,Nashik",800 sq.ft,Kiran,EMI starts at ₹22.24 K,old,Apartment
+112,2 BHK Apartment for sale in MIDC Ambad,₹45.0 L,"Greenville,MIDC Ambad, Nashik",900 sq.ft,Nilesh Vasant Bodke,EMI starts at ₹23.83 K,old,Apartment
+113,1 BHK Apartment for sale in Durganagar,₹24.0 L,"Mangal Murti nagar,Durganagar, Nashik",600 sq.ft,Nilesh Vasant Bodke,EMI starts at ₹12.71 K,old,Apartment
+114,1 BHK Apartment for sale in Pathardi Phata,₹30.0 L,"Hill Syde, Prashant Nagar, Pathardi Phata,Nashik",800 sq.ft,Nilesh Vasant Bodke,EMI starts at ₹15.89 K,old,Apartment
+115,2 BHK Apartment for sale in Nashik Road,₹41.5 L,"Gayakhe Colony, Nashik Road,Nashik",970 sq.ft,Ejaj Sayyad,EMI starts at ₹21.98 K,old,Apartment
+116,1 BHK Apartment for sale in Pathardi Phata,₹19.0 L,"Society project,Pandav Nagari, Pathardi Phata,Nashik",625 sq.ft,Kiran Dataatraya Shimpi,EMI starts at ₹10.06 K,old,Apartment
+117,3 BHK Apartment for sale in Anandwalli Gaon,₹85.0 L,"Ganpati Nagar, Anandwalli Gaon,Nashik",2150 sq.ft,Laxmikant Ratnaparkhi,EMI starts at ₹42.20 K,old,Apartment
+118,2 BHK Apartment for sale in Kalpataru Nagar,₹28.0 L,"2Bhk Ashoka Marg,Kalpataru Nagar, Nashik",900 sq.ft,Shree Balaji Estate,EMI starts at ₹14.83 K,old,Apartment
+119,1 BHK Apartment for sale in Kishor Nagar,₹17.0 L,"1BHK Indira Nagar,Kishor Nagar, Nashik",600 sq.ft,Shree Balaji Estate,EMI starts at ₹9.00 K,old,Apartment
+120,3 BHK Apartment for sale in Samta Nagar,₹50.0 L,"Samraat Dream Citi, Samta Nagar, Nashik",1230 sq.ft,Laxmikant Ratnaparkhi,EMI starts at ₹26.48 K,old,Apartment
+121,3 BHK Apartment for sale in Nashik Road,₹55.0 L,"Dattamandir Signal,Gayakhe Colony, Nashik Road,Nashik",1250 sq.ft,"Astvinayak Real Estate,",EMI starts at ₹29.13 K,old,Apartment
+122,2 BHK Apartment for sale in Gole Colony,₹30.0 L,"Gole Colony, Nashik",702 sq.ft,NISHANT,EMI starts at ₹15.89 K,old,Apartment
+123,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹75.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1300 sq.ft,Mr Sanjay,EMI starts at ₹39.72 K,old,Apartment
+124,1 RK Apartment for sale in Makhmalabad,₹12.0 L,"Ramchandra Vitthal Suryawanshi Surya Park G, Makhmalabad, Nashik",370 sq.ft,SHREE GAJANAN REAL ESTATE COUNSULTANCY NASHIK,EMI starts at ₹6.35 K,old,Apartment
+125,2 BHK Apartment for sale in College Road,₹42.0 L,"College Road, Nashik",850 sq.ft,Mr Sanjay,EMI starts at ₹22.24 K,old,Apartment
+126,2 BHK Apartment for sale in Deolali Gaon,₹39.0 L,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",1350 sq.ft,Ejaj Sayyad,EMI starts at ₹20.65 K,old,Apartment
+127,2 BHK Apartment for sale in College Road,₹75.0 L,"College Road,College Road, Nashik",1350 sq.ft,Sunil Pandharinath Wani,EMI starts at ₹39.72 K,old,Apartment
+128,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹60.0 L,"Veer Sawarkar Nagar,Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",1080 sq.ft,Sunil Pandharinath Wani,EMI starts at ₹31.77 K,old,Apartment
+129,2 BHK Apartment for sale in Trimbak,₹55.0 L,"Trimbak, Nashik",1190 sq.ft,Sunil Pandharinath Wani,EMI starts at ₹29.13 K,old,Apartment
+130,2 BHK Apartment for sale in Parijat Nagar,₹45.0 L,"Mahatma Nagar, Parijat Nagar,Nashik",1250 sq.ft,Sunil Pandharinath Wani,EMI starts at ₹23.83 K,old,Apartment
+131,3 BHK Apartment for sale in Sharanpur,₹62.0 L,"Jejurkar Wadi, Sharanpur,Nashik",1800 sq.ft,Sunil Pandharinath Wani,EMI starts at ₹32.83 K,old,Apartment
+132,2 BHK Apartment for sale in Indira Nagar,₹30.0 L,"Indira Nagar, Nashik",1050 sq.ft,Swapnil Vispute,EMI starts at ₹15.89 K,old,Apartment
+133,1 BHK Apartment for sale in Indira Nagar,₹23.0 L,"Vedant Apartment, Indira Nagar, Nashik",750 sq.ft,Swapnil Vispute,EMI starts at ₹12.18 K,old,Apartment
+134,1 BHK Apartment for sale in Rane Nagar,₹18.5 L,"Chetana Nagar, Rane Nagar,Nashik",700 sq.ft,Swapnil Vispute,EMI starts at ₹9.80 K,old,Apartment
+135,2 BHK Apartment for sale in Trimbak,₹55.0 L,"Residential Tower,Trimbak, Nashik",1100 sq.ft,Sunil Pandharinath Wani,EMI starts at ₹29.13 K,old,Apartment
+136,2 BHK Apartment for sale in Parijat Nagar,₹45.0 L,"Residential Tower,Mahatma Nagar, Parijat Nagar,Nashik",1250 sq.ft,Sunil Pandharinath Wani,EMI starts at ₹23.83 K,old,Apartment
+137,3 BHK Apartment for sale in Dr.Homi Bhabha Nagar,₹38.0 L,"Bhagwant Nagar, Dr.Homi Bhabha Nagar,Nashik",1300 sq.ft,Ramesh Jadhav,EMI starts at ₹20.12 K,old,Apartment
+138,2 BHK Apartment for sale in Vrindavan Nagar,₹38.0 L,"Vrindavan Nagar, Nashik",1081 sq.ft,Ejaj Sayyad,EMI starts at ₹20.12 K,old,Apartment
+139,2 BHK Apartment for sale in Anandwalli Gaon,₹42.0 L,"Samrat,Serene Meadows, Anandwalli Gaon,Nashik",800 sq.ft,Kiran,EMI starts at ₹22.24 K,old,Apartment
+140,2 BHK Apartment for sale in Govind Nagar,₹51.0 L,"Variyans Space,Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",1200 sq.ft,Navin Chavan,EMI starts at ₹27.01 K,old,Apartment
+141,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹45.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",1240 sq.ft,Mr Sanjay,EMI starts at ₹23.83 K,old,Apartment
+142,3 BHK Apartment for sale in Govind Nagar,₹52.0 L,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",1300 sq.ft,Navin Chavan,EMI starts at ₹27.54 K,old,Apartment
+143,3 BHK Apartment for sale in College Road,₹1.35 Cr,"College Road, Nashik",2116 sq.ft,Suntosh Kathey,EMI starts at ₹67.02 K,old,Apartment
+144,2 BHK Apartment for sale in Deepali Nagar,₹23.0 L,"Ganesh Parvati,Deepali Nagar, Nashik",750 sq.ft,Nilesh Vasant Bodke,EMI starts at ₹12.18 K,old,Apartment
+145,3 BHK Apartment for sale in Indira Nagar,₹80.0 L,"The Metrozone, Kala Nagar, Indira Nagar,Nashik",1918 sq.ft,Bhushan Yashwant Patil,EMI starts at ₹39.72 K,old,Apartment
+146,3 BHK Apartment for sale in Anandwalli Gaon,₹60.0 L,"Balawant Nagar, Anandwalli Gaon,Nashik",1572 sq.ft,Aman Varma,EMI starts at ₹31.77 K,old,Apartment
+147,3 BHK Apartment for sale in Gangapur,₹65.0 L,"Bapu Apartment,Gangapur, Nashik",1400 sq.ft,Rahul Kale,EMI starts at ₹34.42 K,old,Apartment
+148,3 BHK Apartment for sale in Parijat Nagar,₹65.21 L,"Jaipur House,Parijat Nagar, Nashik",1394 sq.ft,Rahul Kale,EMI starts at ₹34.53 K,old,Apartment
+149,3 BHK Apartment for sale in Parijat Nagar,₹61.1 L,"Parijat Nagar,Parijat Nagar, Nashik",1250 sq.ft,Rahul Kale,EMI starts at ₹32.36 K,old,Apartment
+150,2 BHK Apartment for sale in Gangapur,₹34.0 L,"Gangapur,Gangapur, Nashik",1100 sq.ft,Rahul Kale,EMI starts at ₹18.00 K,old,Apartment
+151,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹67.0 L,"Prasad Apartment,Shanker Nagar, Veer Sawarkar Nagar,Nashik",1800 sq.ft,Rahul Kale,EMI starts at ₹35.48 K,old,Apartment
+152,3 BHK Apartment for sale in Anandwalli Gaon,₹1.11 Cr,"OM Apartment Gangapur Road,Serene Meadows, Anandwalli Gaon,Nashik",1800 sq.ft,Rahul Kale,EMI starts at ₹55.11 K,old,Apartment
+153,2 BHK Apartment for sale in Parijat Nagar,₹48.0 L,"Mahatma Apartment, Mahatma Nagar, Parijat Nagar,Nashik",1075 sq.ft,Rahul Kale,EMI starts at ₹25.42 K,old,Apartment
+154,1 BHK Apartment for sale in College Road,₹29.11 L,"College Road,College Road, Nashik",545 sq.ft,Rahul Kale,EMI starts at ₹15.42 K,old,Apartment
+155,3 BHK Apartment for sale in Gangapur,₹52.0 L,"Gangapur,Gangapur, Nashik",1100 sq.ft,Rahul Kale,EMI starts at ₹27.54 K,old,Apartment
+156,3 BHK Apartment for sale in Gangapur,₹93.0 L,"Gangapur,Gangapur, Nashik",1700 sq.ft,Rahul Kale,EMI starts at ₹46.17 K,old,Apartment
+157,3 BHK Apartment for sale in Professor Colony,₹51.1 L,"shree row house,Professor Colony, Nashik",1250 sq.ft,Rahul Kale,EMI starts at ₹27.06 K,old,Apartment
+158,1 BHK Apartment for sale in Wadala Gaon,₹18.0 L,"1BHK Ravi Shankar,Tirumla Nagar, Wadala Gaon,Nashik",640 sq.ft,Shree Balaji Estate,EMI starts at ₹9.53 K,old,Apartment
+159,2 BHK Apartment for sale in Indira Nagar,₹35.0 L,"Aditya Apartment, Kamod Nagar, Indira Nagar,Nashik",900 sq.ft,Bhushan Yashwant Patil,EMI starts at ₹18.53 K,old,Apartment
+160,1 BHK Apartment for sale in Kishor Nagar,₹27.0 L,"Kishor Nagar, Nashik",620 sq.ft,Vineet Sakhare,EMI starts at ₹14.30 K,old,Apartment
+161,1 BHK Apartment for sale in TIDKE NAGAR,₹30.0 L,"Swasthi Apartment, TIDKE NAGAR, Nashik",700 sq.ft,Nilesh Vasant Bodke,EMI starts at ₹15.89 K,old,Apartment
+162,2 BHK Apartment for sale in Anandwalli Gaon,₹49.0 L,"Shri Sadguru Apartment, Viveka Nand Nagar, Anandwalli Gaon,Nashik",1078 sq.ft,Nilesh Vasant Bodke,EMI starts at ₹25.95 K,old,Apartment
+163,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹1.1 Cr,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",2100 sq.ft,Vineet Sakhare,EMI starts at ₹54.61 K,old,Apartment
+164,2 BHK Apartment for sale in Panchavati,₹37.0 L,"Lilawati hospital,Panchavati, Nashik",850 sq.ft,Nilesh Vasant Bodke,EMI starts at ₹19.59 K,old,Apartment
+165,2 BHK Apartment for sale in Koknipura,₹36.0 L,"Hari Om Residency, Koknipura, Nashik",985 sq.ft,Nilesh Vasant Bodke,EMI starts at ₹19.06 K,old,Apartment
+166,2 BHK Apartment for sale in Indira Nagar,₹51.0 L,"Shraddha, Kamod Nagar, Indira Nagar,Nashik",1400 sq.ft,Nilesh Vasant Bodke,EMI starts at ₹27.01 K,old,Apartment
+167,2 BHK Apartment for sale in Samta Nagar,₹36.0 L,"Samraat Dream Citi, Samta Nagar, Nashik",945 sq.ft,Vishal Shah,EMI starts at ₹19.06 K,old,Apartment
+168,3 BHK Apartment for sale in Dwarka,₹42.0 L,"Dwarka, Nashik",1250 sq.ft,Ejaj Sayyad,EMI starts at ₹22.24 K,old,Apartment
+169,1 BHK Apartment for sale in Parijat Nagar,₹26.5 L,"Mahatma Nagar, Parijat Nagar,Nashik",800 sq.ft,Mr Sanjay,EMI starts at ₹14.03 K,old,Apartment
+170,2 BHK Apartment for sale in Kishor Nagar,₹31.5 L,"2BHK Semi Furnished,Kishor Nagar, Nashik",850 sq.ft,Shree Balaji Estate,EMI starts at ₹16.68 K,old,Apartment
+171,3 BHK Apartment for sale in Kishor Nagar,₹62.0 L,"Shree raj app,Kishor Nagar, Nashik",1250 sq.ft,Yogesh Patil,EMI starts at ₹32.83 K,old,Apartment
+172,2 BHK Apartment for sale in Anandwalli Gaon,₹52.0 L,"Balawant Nagar, Anandwalli Gaon,Nashik",1190 sq.ft,Yogesh Patil,EMI starts at ₹27.54 K,old,Apartment
+173,1 BHK Apartment for sale in Palase,₹14.85 L,"Sheetal Residency Building No 2 And 3, Palase, Nashik",600 sq.ft,Pramod Murkewar,EMI starts at ₹7.86 K,old,Apartment
+174,2 BHK Apartment for sale in Jagtap Nagar,₹36.0 L,"Jagtap Nagar, Nashik",890 sq.ft,Kiran,EMI starts at ₹19.06 K,old,Apartment
+175,2 BHK Apartment for sale in Gangapur,₹45.0 L,"Gangapur, Nashik",1150 sq.ft,Abhishek Bidawat,EMI starts at ₹23.83 K,old,Apartment
+176,2 BHK Apartment for sale in Gangapur,₹45.0 L,"NPG Apartment,Gangapur, Nashik",1150 sq.ft,Abhishek Bidawat,EMI starts at ₹23.83 K,old,Apartment
+177,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹45.0 L,"Shanker Nagar, Veer Sawarkar Nagar,Nashik",1150 sq.ft,Abhishek Bidawat,EMI starts at ₹23.83 K,old,Apartment
+178,2 BHK Apartment for sale in Indira Nagar,₹35.0 L,"2BHK Kamod Nagar,Kamod Nagar, Indira Nagar,Nashik",950 sq.ft,Shree Balaji Estate,EMI starts at ₹18.53 K,old,Apartment
+179,2 BHK Apartment for sale in Kishor Nagar,₹27.0 L,"2BHK Indira Nagar,Kishor Nagar, Nashik",850 sq.ft,Shree Balaji Estate,EMI starts at ₹14.30 K,old,Apartment
+180,2 BHK Apartment for sale in Dr.Homi Bhabha Nagar,₹38.0 L,"Mumbai naka ,Bhagwant Nagar, Dr.Homi Bhabha Nagar,Nashik",900 sq.ft,BHOOMI RANJAN REAL ESTATE Property CONSULTANT,EMI starts at ₹20.12 K,old,Apartment
+181,2 BHK Apartment for sale in Indira Nagar,₹35.0 L,"Kalyani Apartment ,Kala Nagar, Indira Nagar,Nashik",1200 sq.ft,BHOOMI RANJAN REAL ESTATE Property CONSULTANT,EMI starts at ₹18.53 K,old,Apartment
+182,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹95.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",2000 sq.ft,Mr Sanjay,EMI starts at ₹47.16 K,old,Apartment
+183,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+184,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+185,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹38.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",900 sq.ft,Mr Sanjay,EMI starts at ₹20.12 K,old,Apartment
+186,1 BHK Apartment for sale in Abhiyanta Nagar,₹18.0 L,"Abhiyanta Nagar, Nashik",590 sq.ft,Kiran Dataatraya Shimpi,EMI starts at ₹9.53 K,old,Apartment
+187,1 BHK Apartment for sale in Veer Sawarkar Nagar,₹28.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",678 sq.ft,Mr Sanjay,EMI starts at ₹14.83 K,old,Apartment
+188,3 BHK Apartment for sale in Deolali Gaon,₹36.0 L,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",1400 sq.ft,Mr. Rahul Burse,EMI starts at ₹19.06 K,old,Apartment
+189,1 BHK Apartment for sale in Rane Nagar,₹24.0 L,"Chetana Nagar, Rane Nagar,Nashik",700 sq.ft,Navin Chavan,EMI starts at ₹12.71 K,old,Apartment
+190,1 BHK Apartment for sale in Panchavati,₹21.0 L,"Panchavati, Nashik",700 sq.ft,NISHANT,EMI starts at ₹11.12 K,old,Apartment
+191,1 BHK Apartment for sale in Nashik Road,₹17.0 L,"Nashik Road, Nashik",650 sq.ft,Pushpak Kalantri,EMI starts at ₹9.00 K,old,Apartment
+192,2 BHK Apartment for sale in Nashik Road,₹22.0 L,"DattaMandir, Nashik Road,Nashik",800 sq.ft,Pushpak Kalantri,EMI starts at ₹11.65 K,old,Apartment
+193,1 BHK Apartment for sale in Parijat Nagar,₹20.0 L,"Lavate Nager, Parijat Nagar,Nashik",600 sq.ft,Pushpak Kalantri,EMI starts at ₹10.59 K,old,Apartment
+194,1 BHK Apartment for sale in Nashik Road,₹16.0 L,"Nashik Road, Nashik",625 sq.ft,Pushpak Kalantri,EMI starts at ₹8.47 K,old,Apartment
+195,1 BHK Apartment for sale in Nashik Road,₹17.0 L,"Nashik Road, Nashik",650 sq.ft,Pushpak Kalantri,EMI starts at ₹9.00 K,old,Apartment
+196,1 BHK Apartment for sale in Nashik Road,₹16.0 L,"Nashik Road, Nashik",625 sq.ft,Pushpak Kalantri,EMI starts at ₹8.47 K,old,Apartment
+197,2 BHK Apartment for sale in Nashik Road,₹32.0 L,"Nashik Road, Nashik",1000 sq.ft,Pushpak Kalantri,EMI starts at ₹16.95 K,old,Apartment
+198,2 BHK Apartment for sale in Indira Nagar,₹32.0 L,"Kala Nagar, Indira Nagar,Nashik",850 sq.ft,Chetan Kishor Kale,EMI starts at ₹16.95 K,old,Apartment
+199,2 BHK Apartment for sale in Indira Nagar,₹27.0 L,"Kala Nagar, Indira Nagar,Nashik",950 sq.ft,Chetan Kishor Kale,EMI starts at ₹14.30 K,old,Apartment
+200,2 BHK Apartment for sale in Nashik Road,₹35.0 L,"Hari Gokuldham, Gurudatta Nagar, Nashik Road,Nashik",1260 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+201,1 BHK Apartment for sale in Indira Nagar,₹19.0 L,"Bapu Bungalow ,Kala Nagar, Indira Nagar,Nashik",563 sq.ft,Shree Balaji Estate,EMI starts at ₹10.06 K,old,Apartment
+202,1 BHK Apartment for sale in Kishor Nagar,₹18.0 L,"Kishor Nagar, Nashik",600 sq.ft,Navin Chavan,EMI starts at ₹9.53 K,old,Apartment
+203,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹42.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1050 sq.ft,Mr Sanjay,EMI starts at ₹22.24 K,old,Apartment
+204,1 BHK Apartment for sale in Panchavati,₹21.0 L,"Panchavati, Nashik",700 sq.ft,NISHANT,EMI starts at ₹11.12 K,old,Apartment
+205,3 BHK Apartment for sale in Parijat Nagar,₹61.0 L,"Mahatma Nagar, Parijat Nagar,Nashik",1500 sq.ft,Mr Sanjay,EMI starts at ₹32.30 K,old,Apartment
+206,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹82.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",1559 sq.ft,Mr Sanjay,EMI starts at ₹40.71 K,old,Apartment
+207,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹85.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",1610 sq.ft,Mr Sanjay,EMI starts at ₹42.20 K,old,Apartment
+208,1 BHK Apartment for sale in Vrindavan Nagar,₹22.0 L,"Vrindavan Nagar, Nashik",710 sq.ft,Ejaj Sayyad,EMI starts at ₹11.65 K,old,Apartment
+209,1 BHK Apartment for sale in Pathardi Phata,₹20.0 L,"Damodar Nagar, Pathardi Phata,Nashik",650 sq.ft,Yogesh Patil,EMI starts at ₹10.59 K,old,Apartment
+210,1 BHK Apartment for sale in Parijat Nagar,₹28.5 L,"Mahatma Nagar, Parijat Nagar,Nashik",942 sq.ft,Mr Sanjay,EMI starts at ₹15.09 K,old,Apartment
+211,3 BHK Apartment for sale in Indira Nagar,₹68.0 L,"Hari Shrushti,Indira Nagar, Nashik",1410 sq.ft,Varkhede Sarang,EMI starts at ₹36.01 K,old,Apartment
+212,2 BHK Apartment for sale in Kishor Nagar,₹30.0 L,"Kishor Nagar, Nashik",920 sq.ft,Navin Chavan,EMI starts at ₹15.89 K,old,Apartment
+213,1 BHK Apartment for sale in Panchavati,₹19.01 L,"Panchavati, Nashik",650 sq.ft,NISHANT,EMI starts at ₹10.07 K,old,Apartment
+214,2 BHK Apartment for sale in Pathardi Phata,₹27.0 L,"Damodar Nagar, Pathardi Phata,Nashik",880 sq.ft,Yogesh Patil,EMI starts at ₹14.30 K,old,Apartment
+215,1 BHK Apartment for sale in Anandwalli Gaon,₹20.0 L,"Balawant Nagar, Anandwalli Gaon,Nashik",650 sq.ft,Mr Sanjay,EMI starts at ₹10.59 K,old,Apartment
+216,3 BHK Apartment for sale in Govind Nagar,₹56.0 L,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",1290 sq.ft,Yogesh Patil,EMI starts at ₹29.66 K,old,Apartment
+217,2 BHK Apartment for sale in Indira Nagar,₹33.0 L,"Nerkar Ganesh Signifia, Indira Nagar, Nashik",858 sq.ft,Navin Chavan,EMI starts at ₹17.48 K,old,Apartment
+218,2 BHK Apartment for sale in Ram Wadi,₹30.0 L,"Kausalya Nagar, Ram Wadi,Nashik",702 sq.ft,NISHANT,EMI starts at ₹15.89 K,old,Apartment
+219,3 BHK Apartment for sale in Dwarka,₹44.81 L,"Thakkers Eva Luxuria, Dwarka, Nashik",1180 sq.ft,Ejaj Sayyad,EMI starts at ₹23.73 K,old,Apartment
+220,1 BHK Apartment for sale in Panchavati,₹19.01 L,"Panchavati, Nashik",650 sq.ft,NISHANT,EMI starts at ₹10.07 K,old,Apartment
+221,2 BHK Apartment for sale in Vrindavan Nagar,₹29.81 L,"Vrindavan Nagar, Nashik",955 sq.ft,Ejaj Sayyad,EMI starts at ₹15.79 K,old,Apartment
+222,2 BHK Apartment for sale in Chandshi,₹24.0 L,"Suryoday Apartment, Chandshi, Nashik",855 sq.ft,Kiran,EMI starts at ₹12.71 K,old,Apartment
+223,2 BHK Apartment for sale in Kalpataru Nagar,₹32.0 L,"Kalpataru Nagar, Nashik",900 sq.ft,Ejaj Sayyad,EMI starts at ₹16.95 K,old,Apartment
+224,1 BHK Apartment for sale in Pathardi Phata,₹20.0 L,"Damodar Nagar, Pathardi Phata,Nashik",650 sq.ft,Yogesh Patil,EMI starts at ₹10.59 K,old,Apartment
+225,2 BHK Apartment for sale in Pathardi Phata,₹27.0 L,"Damodar Nagar, Pathardi Phata,Nashik",880 sq.ft,Yogesh Patil,EMI starts at ₹14.30 K,old,Apartment
+226,2 BHK Apartment for sale in Kalpataru Nagar,₹30.0 L,"Kalpataru Nagar, Nashik",950 sq.ft,Ejaj Sayyad,EMI starts at ₹15.89 K,old,Apartment
+227,2 BHK Apartment for sale in College Road,₹58.0 L,"Mayureshwar apartment,College Road, Nashik",1050 sq.ft,Mr Manish Kottkonda,EMI starts at ₹30.71 K,old,Apartment
+228,1 BHK Apartment for sale in Pathardi Phata,₹19.0 L,"Pandav Nagari, Pathardi Phata,Nashik",682 sq.ft,Kiran Shimpi,EMI starts at ₹10.06 K,old,Apartment
+229,3 BHK Apartment for sale in Nashik Road,₹35.51 L,"Nashik Road, Nashik",1170 sq.ft,Ejaj Sayyad,EMI starts at ₹18.80 K,old,Apartment
+230,1 RK Apartment for sale in Nashik Road,₹13.0 L,"Nashik Road, Nashik",550 sq.ft,Ejaj Sayyad,EMI starts at ₹6.88 K,old,Apartment
+231,2 BHK Apartment for sale in Nashik Road,₹27.81 L,"Nashik Road, Nashik",980 sq.ft,Ejaj Sayyad,EMI starts at ₹14.73 K,old,Apartment
+232,1 BHK Apartment for sale in Nashik Road,₹16.0 L,"Nashik Road, Nashik",600 sq.ft,Ejaj Sayyad,EMI starts at ₹8.47 K,old,Apartment
+233,2 BHK Apartment for sale in Vrindavan Nagar,₹26.0 L,"Vrindavan Nagar, Nashik",900 sq.ft,Ejaj Sayyad,EMI starts at ₹13.77 K,old,Apartment
+234,1 BHK Apartment for sale in Nashik Road,₹14.0 L,"Nashik Road, Nashik",600 sq.ft,Ejaj Sayyad,EMI starts at ₹7.41 K,old,Apartment
+235,2 BHK Apartment for sale in Samta Nagar,₹38.0 L,"Samta Nagar, Nashik",925 sq.ft,Rajkumar,EMI starts at ₹20.12 K,old,Apartment
+236,1 BHK Apartment for sale in Palase,₹15.21 L,"Palase, Nashik",585 sq.ft,Pramod Murkewar,EMI starts at ₹8.05 K,old,Apartment
+237,1 BHK Apartment for sale in Nashik Road,₹15.51 L,"Manurgaon, Nashik Road,Nashik",600 sq.ft,Ejaj Sayyad,EMI starts at ₹8.21 K,old,Apartment
+238,2 BHK Apartment for sale in Uttara Nagar,₹31.0 L,"RTO Colony, Uttara Nagar,Nashik",950 sq.ft,Ejaj Sayyad,EMI starts at ₹16.42 K,old,Apartment
+239,2 BHK Apartment for sale in Nashik Road,₹23.51 L,"Nashik Road, Nashik",870 sq.ft,Ejaj Sayyad,EMI starts at ₹12.45 K,old,Apartment
+240,2 BHK Apartment for sale in Vrindavan Nagar,₹28.51 L,"Vrindavan Nagar, Nashik",934 sq.ft,Ejaj Sayyad,EMI starts at ₹15.10 K,old,Apartment
+241,2 BHK Apartment for sale in Kalpataru Nagar,₹32.51 L,"Kalpataru Nagar, Nashik",980 sq.ft,Ejaj Sayyad,EMI starts at ₹17.22 K,old,Apartment
+242,1 BHK Apartment for sale in Nashik Road,₹21.0 L,"Dawkhar Wadi, Nashik Road,Nashik",600 sq.ft,"Astvinayak Real Estate,",EMI starts at ₹11.12 K,old,Apartment
+243,2 BHK Apartment for sale in Nashik Road,₹28.0 L,"Nashik Road, Nashik",880 sq.ft,Ejaj Sayyad,EMI starts at ₹14.83 K,old,Apartment
+244,2 BHK Apartment for sale in Nashik Road,₹34.81 L,"Nashik Road, Nashik",1250 sq.ft,Ejaj Sayyad,EMI starts at ₹18.43 K,old,Apartment
+245,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Pintoo Colony, Nashik Road,Nashik",850 sq.ft,Ejaj Sayyad,EMI starts at ₹13.24 K,old,Apartment
+246,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+247,1 BHK Apartment for sale in Nashik Road,₹15.81 L,"Nashik Road, Nashik",650 sq.ft,Ejaj Sayyad,EMI starts at ₹8.37 K,old,Apartment
+248,2 BHK Apartment for sale in Nashik Road,₹26.0 L,"Sai Apartment, Nashik Road, Nashik",810 sq.ft,Ejaj Sayyad,EMI starts at ₹13.77 K,old,Apartment
+249,2 BHK Apartment for sale in Kalpataru Nagar,₹28.0 L,"Kalpataru Nagar, Nashik",800 sq.ft,Ejaj Sayyad,EMI starts at ₹14.83 K,old,Apartment
+250,2 BHK Apartment for sale in Nashik Road,₹22.0 L,"Shrikrishna,Adhav Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹11.65 K,old,Apartment
+251,2 BHK Apartment for sale in Nashik Road,₹24.0 L,"Nashik Road, Nashik",830 sq.ft,Ejaj Sayyad,EMI starts at ₹12.71 K,old,Apartment
+252,2 BHK Apartment for sale in Nashik Road,₹25.5 L,"Nashik Road, Nashik",880 sq.ft,Ejaj Sayyad,EMI starts at ₹13.50 K,old,Apartment
+253,1 BHK Apartment for sale in Nashik Road,₹16.5 L,"Gurudatta Nagar, Nashik Road,Nashik",550 sq.ft,Ejaj Sayyad,EMI starts at ₹8.74 K,old,Apartment
+254,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",900 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+255,1 BHK Apartment for sale in Nashik Road,₹14.51 L,"Laxman Nagar, Nashik Road,Nashik",630 sq.ft,Ejaj Sayyad,EMI starts at ₹7.68 K,old,Apartment
+256,1 BHK Apartment for sale in Nashik Road,₹18.0 L,"Nashik Road, Nashik",670 sq.ft,Ejaj Sayyad,EMI starts at ₹9.53 K,old,Apartment
+257,2 BHK Apartment for sale in Nashik Road,₹26.51 L,"Nashik Road, Nashik",920 sq.ft,Ejaj Sayyad,EMI starts at ₹14.04 K,old,Apartment
+258,2 BHK Apartment for sale in Nashik Road,₹29.0 L,"Gayakhe Colony, Nashik Road,Nashik",900 sq.ft,Ejaj Sayyad,EMI starts at ₹15.36 K,old,Apartment
+259,2 BHK Apartment for sale in Nashik Road,₹21.5 L,"Nashik Road, Nashik",760 sq.ft,Ejaj Sayyad,EMI starts at ₹11.39 K,old,Apartment
+260,3 BHK Apartment for sale in Nashik Road,₹36.0 L,"Nashik Road, Nashik",1180 sq.ft,Ejaj Sayyad,EMI starts at ₹19.06 K,old,Apartment
+261,2 BHK Apartment for sale in Nashik Road,₹37.5 L,"Nashik Road, Nashik",1080 sq.ft,Ejaj Sayyad,EMI starts at ₹19.86 K,old,Apartment
+262,2 BHK Apartment for sale in Nashik Road,₹60.0 L,"Nashik Road, Nashik",1160 sq.ft,Ejaj Sayyad,EMI starts at ₹31.77 K,old,Apartment
+263,2 BHK Apartment for sale in Nashik Road,₹28.0 L,"Nashik Road, Nashik",860 sq.ft,Ejaj Sayyad,EMI starts at ₹14.83 K,old,Apartment
+264,2 BHK Apartment for sale in Kishor Nagar,₹40.0 L,"Kishor Nagar, Nashik",1120 sq.ft,Navin Chavan,EMI starts at ₹21.18 K,old,Apartment
+265,3 BHK Apartment for sale in Nashik Road,₹48.0 L,"Gayakhe Colony, Nashik Road,Nashik",1170 sq.ft,Ejaj Sayyad,EMI starts at ₹25.42 K,old,Apartment
+266,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+267,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+268,1 BHK Apartment for sale in Nashik Road,₹18.81 L,"Matoshri Nagar, Nashik Road,Nashik",750 sq.ft,Ejaj Sayyad,EMI starts at ₹9.96 K,old,Apartment
+269,2 BHK Apartment for sale in Nashik Road,₹37.0 L,"Nashik Road, Nashik",1090 sq.ft,Ejaj Sayyad,EMI starts at ₹19.59 K,old,Apartment
+270,2 BHK Apartment for sale in Nashik Road,₹30.0 L,"Nashik Road, Nashik",1300 sq.ft,Ejaj Sayyad,EMI starts at ₹15.89 K,old,Apartment
+271,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Nashik Road, Nashik",690 sq.ft,Ejaj Sayyad,EMI starts at ₹7.94 K,old,Apartment
+272,2 BHK Apartment for sale in Nashik Road,₹28.0 L,"Shantipark, Nashik Road,Nashik",940 sq.ft,Ejaj Sayyad,EMI starts at ₹14.83 K,old,Apartment
+273,2 BHK Apartment for sale in Nashik Road,₹60.0 L,"Nashik Road, Nashik",1160 sq.ft,Ejaj Sayyad,EMI starts at ₹31.77 K,old,Apartment
+274,2 BHK Apartment for sale in Nashik Road,₹19.91 L,"Nashik Road, Nashik",835 sq.ft,Ejaj Sayyad,EMI starts at ₹10.54 K,old,Apartment
+275,2 BHK Apartment for sale in Nashik Road,₹58.0 L,"Gayakhe Colony, Nashik Road,Nashik",1190 sq.ft,Ejaj Sayyad,EMI starts at ₹30.71 K,old,Apartment
+276,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Nashik Road, Nashik",630 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+277,1 BHK Apartment for sale in Nashik Road,₹19.0 L,"Nashik Road, Nashik",607 sq.ft,Ejaj Sayyad,EMI starts at ₹10.06 K,old,Apartment
+278,2 BHK Apartment for sale in Nashik Road,₹22.5 L,"Nashik Road, Nashik",720 sq.ft,Ejaj Sayyad,EMI starts at ₹11.92 K,old,Apartment
+279,1 BHK Apartment for sale in Nashik Road,₹19.7 L,"Nashik Road, Nashik",600 sq.ft,Ejaj Sayyad,EMI starts at ₹10.43 K,old,Apartment
+280,2 BHK Apartment for sale in Nashik Road,₹25.51 L,"Gurudatta Nagar, Nashik Road,Nashik",830 sq.ft,Ejaj Sayyad,EMI starts at ₹13.51 K,old,Apartment
+281,3 BHK Apartment for sale in Nashik Road,₹34.81 L,"Nashik Road, Nashik",1280 sq.ft,Ejaj Sayyad,EMI starts at ₹18.43 K,old,Apartment
+282,2 BHK Apartment for sale in Nashik Road,₹21.0 L,"Nashik Road, Nashik",800 sq.ft,Ejaj Sayyad,EMI starts at ₹11.12 K,old,Apartment
+283,3 BHK Apartment for sale in Nashik Road,₹60.0 L,"Nashik Road, Nashik",1300 sq.ft,Ejaj Sayyad,EMI starts at ₹31.77 K,old,Apartment
+284,3 BHK Apartment for sale in Nashik Road,₹64.0 L,"Nashik Road, Nashik",1550 sq.ft,Ejaj Sayyad,EMI starts at ₹33.89 K,old,Apartment
+285,2 BHK Apartment for sale in Kalpataru Nagar,₹30.51 L,"Kalpataru Nagar, Nashik",951 sq.ft,Ejaj Sayyad,EMI starts at ₹16.16 K,old,Apartment
+286,2 BHK Apartment for sale in Nashik Road,₹34.0 L,"Dawkhar Wadi, Nashik Road,Nashik",1050 sq.ft,Ejaj Sayyad,EMI starts at ₹18.00 K,old,Apartment
+287,2 BHK Apartment for sale in Nashik Road,₹28.0 L,"Nashik Road, Nashik",915 sq.ft,Ejaj Sayyad,EMI starts at ₹14.83 K,old,Apartment
+288,2 BHK Apartment for sale in Nashik Road,₹32.0 L,"Nashik Road, Nashik",985 sq.ft,Ejaj Sayyad,EMI starts at ₹16.95 K,old,Apartment
+289,2 BHK Apartment for sale in Pathardi Phata,₹27.0 L,"Damodar Nagar, Pathardi Phata,Nashik",880 sq.ft,Yogesh Patil,EMI starts at ₹14.30 K,old,Apartment
+290,1 BHK Apartment for sale in Pathardi Phata,₹23.0 L,"Damodar Nagar, Pathardi Phata,Nashik",700 sq.ft,Navin Chavan,EMI starts at ₹12.18 K,old,Apartment
+291,1 BHK Apartment for sale in P&T COLONY,₹29.0 L,"P&T COLONY, Nashik",695 sq.ft,Kiran Shimpi,EMI starts at ₹15.36 K,old,Apartment
+292,3 BHK Apartment for sale in D'souza Colony,₹60.0 L,"Dhanami Society ,D'souza Colony, Nashik",1200 sq.ft,Mr Manish Kottkonda,EMI starts at ₹31.77 K,old,Apartment
+293,3 BHK Apartment for sale in Indira Nagar,₹42.0 L,"3BHK Flat Bapu Bungalow,Kala Nagar, Indira Nagar,Nashik",1145 sq.ft,Shree Balaji Estate,EMI starts at ₹22.24 K,old,Apartment
+294,2 BHK Apartment for sale in Nashik Road,₹35.0 L,"Giri Riveryne Nest, Gurudatta Nagar, Nashik Road,Nashik",1050 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+295,1 BHK Apartment for sale in Pathardi Phata,₹18.0 L,"Pandav Nagari, Pathardi Phata,Nashik",625 sq.ft,Kiran Shimpi,EMI starts at ₹9.53 K,old,Apartment
+296,3 BHK Apartment for sale in Nashik Road,₹75.0 L,"Gayakhe Colony, Nashik Road,Nashik",1200 sq.ft,Rajkumar,EMI starts at ₹39.72 K,old,Apartment
+297,3 BHK Apartment for sale in Uttara Nagar,₹59.8 L,"RTO Colony, Uttara Nagar,Nashik",1550 sq.ft,Ejaj Sayyad,EMI starts at ₹31.67 K,old,Apartment
+298,3 BHK Apartment for sale in Nashik Road,₹45.51 L,"Anand Nagar, Nashik Road,Nashik",1200 sq.ft,Ejaj Sayyad,EMI starts at ₹24.10 K,old,Apartment
+299,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+300,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+301,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+302,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+303,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+304,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+305,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+306,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+307,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+308,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+309,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+310,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+311,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+312,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+313,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+314,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+315,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+316,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+317,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+318,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+319,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+320,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+321,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+322,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+323,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+324,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+325,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+326,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+327,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+328,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+329,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+330,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+331,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+332,3 BHK Apartment for sale in Parijat Nagar,₹35.0 L,"Forest Colony, Parijat Nagar,Nashik",1200 sq.ft,Sajish Gangurde,EMI starts at ₹18.53 K,old,Apartment
+333,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+334,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+335,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+336,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+337,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+338,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+339,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+340,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+341,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+342,2 BHK Apartment for sale in Nashik Road,₹30.0 L,"Nashik Road, Nashik",950 sq.ft,Ejaj Sayyad,EMI starts at ₹15.89 K,old,Apartment
+343,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+344,2 BHK Apartment for sale in Nashik Road,₹25.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",800 sq.ft,Sajish Gangurde,EMI starts at ₹13.24 K,old,Apartment
+345,2 BHK Apartment for sale in Nashik Road,₹22.81 L,"Pintoo Colony, Nashik Road,Nashik",750 sq.ft,Ejaj Sayyad,EMI starts at ₹12.08 K,old,Apartment
+346,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+347,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+348,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",690 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+349,3 BHK Apartment for sale in Indira Nagar,₹42.51 L,"Indira Nagar, Nashik",1180 sq.ft,Ejaj Sayyad,EMI starts at ₹22.51 K,old,Apartment
+350,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+351,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+352,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+353,1 BHK Apartment for sale in Nashik Road,₹15.0 L,"Swami Samarth Nagar, Nashik Road,Nashik",650 sq.ft,Sajish Gangurde,EMI starts at ₹7.94 K,old,Apartment
+354,3 BHK Apartment for sale in Pathardi Phata,₹48.51 L,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",1335 sq.ft,Ejaj Sayyad,EMI starts at ₹25.69 K,old,Apartment
+355,2 BHK Apartment for sale in Nashik Road,₹60.0 L,"Nashik Road, Nashik",1160 sq.ft,Ejaj Sayyad,EMI starts at ₹31.77 K,old,Apartment
+356,3 BHK Apartment for sale in Kishor Nagar,₹45.0 L,"Kishor Nagar, Nashik",1600 sq.ft,Nandlal,EMI starts at ₹23.83 K,old,Apartment
+357,1 BHK Apartment for sale in Vrindavan Nagar,₹28.36 L,"Vrindavan Nagar, Nashik",750 sq.ft,Nandlal,EMI starts at ₹15.02 K,old,Apartment
+358,3 BHK Apartment for sale in Vrindavan Nagar,₹48.41 L,"Vrindavan Nagar, Nashik",1390 sq.ft,Ejaj Sayyad,EMI starts at ₹25.64 K,old,Apartment
+359,1 BHK Apartment for sale in Vrindavan Nagar,₹20.61 L,"Vrindavan Nagar, Nashik",650 sq.ft,Ejaj Sayyad,EMI starts at ₹10.91 K,old,Apartment
+360,1 BHK Apartment for sale in Nashik Road,₹19.0 L,"Nashik Road, Nashik",607 sq.ft,Ejaj Sayyad,EMI starts at ₹10.06 K,old,Apartment
+361,2 BHK Apartment for sale in Kalpataru Nagar,₹30.0 L,"Kalpataru Nagar, Nashik",950 sq.ft,Ejaj Sayyad,EMI starts at ₹15.89 K,old,Apartment
+362,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹95.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",3000 sq.ft,Mr Sanjay,EMI starts at ₹47.16 K,old,Apartment
+363,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹81.6 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1556 sq.ft,Mr Sanjay,EMI starts at ₹40.51 K,old,Apartment
+364,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹77.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1552 sq.ft,Mr Sanjay,EMI starts at ₹38.23 K,old,Apartment
+365,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹85.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1700 sq.ft,Mr Sanjay,EMI starts at ₹42.20 K,old,Apartment
+366,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹55.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1221 sq.ft,Mr Sanjay,EMI starts at ₹29.13 K,old,Apartment
+367,2 BHK Apartment for sale in Trimbak,₹55.0 L,"Trimbak, Nashik",1100 sq.ft,Mr Sanjay,EMI starts at ₹29.13 K,old,Apartment
+368,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹35.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",910 sq.ft,Mr Sanjay,EMI starts at ₹18.53 K,old,Apartment
+369,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹60.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1350 sq.ft,Mr Sanjay,EMI starts at ₹31.77 K,old,Apartment
+370,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹70.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1521 sq.ft,Mr Sanjay,EMI starts at ₹37.07 K,old,Apartment
+371,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹34.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",950 sq.ft,Mr Sanjay,EMI starts at ₹18.00 K,old,Apartment
+372,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹32.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",812 sq.ft,Mr Sanjay,EMI starts at ₹16.95 K,old,Apartment
+373,3 BHK Apartment for sale in TIDKE NAGAR,₹77.0 L,"TIDKE NAGAR, Nashik",1540 sq.ft,Mr Sanjay,EMI starts at ₹38.23 K,old,Apartment
+374,3 BHK Apartment for sale in Nashik Road,₹65.0 L,"Nashik Road, Nashik",1340 sq.ft,Mr Sanjay,EMI starts at ₹34.42 K,old,Apartment
+375,4 BHK Apartment for sale in Anandwalli Gaon,₹90.0 L,"Serene Meadows, Anandwalli Gaon,Nashik",2050 sq.ft,Mr Sanjay,EMI starts at ₹44.68 K,old,Apartment
+376,3 BHK Apartment for sale in Anandwalli Gaon,₹60.0 L,"Balawant Nagar, Anandwalli Gaon,Nashik",1620 sq.ft,Mr Sanjay,EMI starts at ₹31.77 K,old,Apartment
+377,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹80.0 L,"Datey Nagar, Veer Sawarkar Nagar,Nashik",1550 sq.ft,Mr Sanjay,EMI starts at ₹39.72 K,old,Apartment
+378,3 BHK Apartment for sale in Canada Corner,₹72.0 L,"Patil Colony, Canada Corner,Nashik",1258 sq.ft,NISHANT,EMI starts at ₹38.13 K,old,Apartment
+379,3 BHK Apartment for sale in Canada Corner,₹72.0 L,"Patil Colony, Canada Corner,Nashik",1258 sq.ft,NISHANT,EMI starts at ₹38.13 K,old,Apartment
+380,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹75.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1200 sq.ft,Mr Sanjay,EMI starts at ₹39.72 K,old,Apartment
+381,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹85.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1620 sq.ft,Mr Sanjay,EMI starts at ₹42.20 K,old,Apartment
+382,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹62.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1500 sq.ft,Mr Sanjay,EMI starts at ₹32.83 K,old,Apartment
+383,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹64.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1595 sq.ft,Mr Sanjay,EMI starts at ₹33.89 K,old,Apartment
+384,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹56.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1500 sq.ft,Mr Sanjay,EMI starts at ₹29.66 K,old,Apartment
+385,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹78.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",1480 sq.ft,Mr Sanjay,EMI starts at ₹38.72 K,old,Apartment
+386,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹55.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1150 sq.ft,Mr Sanjay,EMI starts at ₹29.13 K,old,Apartment
+387,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹60.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",1315 sq.ft,Mr Sanjay,EMI starts at ₹31.77 K,old,Apartment
+388,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹80.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1450 sq.ft,Mr Sanjay,EMI starts at ₹39.72 K,old,Apartment
+389,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹63.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1525 sq.ft,Mr Sanjay,EMI starts at ₹33.36 K,old,Apartment
+390,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹32.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",850 sq.ft,Mr Sanjay,EMI starts at ₹16.95 K,old,Apartment
+391,4 BHK Apartment for sale in Veer Sawarkar Nagar,₹1.21 Cr,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",2200 sq.ft,Mr Sanjay,EMI starts at ₹60.07 K,old,Apartment
+392,1 BHK Apartment for sale in Veer Sawarkar Nagar,₹28.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",710 sq.ft,Mr Sanjay,EMI starts at ₹14.83 K,old,Apartment
+393,3 BHK Apartment for sale in Satpur,₹75.0 L,"Ashoknagar, Satpur,Nashik",1305 sq.ft,Mr Sanjay,EMI starts at ₹39.72 K,old,Apartment
+394,3 BHK Apartment for sale in Pathardi Phata,₹52.0 L,"Damodar Nagar, Pathardi Phata,Nashik",1546 sq.ft,Mr Sanjay,EMI starts at ₹27.54 K,old,Apartment
+395,2 BHK Apartment for sale in Satpur,₹63.0 L,"Ashoknagar, Satpur,Nashik",1395 sq.ft,Mr Sanjay,EMI starts at ₹33.36 K,old,Apartment
+396,3 BHK Apartment for sale in Kishor Nagar,₹49.0 L,"Kishor Nagar, Nashik",1135 sq.ft,Mr Sanjay,EMI starts at ₹25.95 K,old,Apartment
+397,3 BHK Apartment for sale in Kishor Nagar,₹47.0 L,"Kishor Nagar, Nashik",1135 sq.ft,Mr Sanjay,EMI starts at ₹24.89 K,old,Apartment
+398,1 BHK Apartment for sale in Wadala Gaon,₹28.0 L,"Tirumla Nagar, Wadala Gaon,Nashik",550 sq.ft,Mr Sanjay,EMI starts at ₹14.83 K,old,Apartment
+399,3 BHK Apartment for sale in Kishor Nagar,₹47.0 L,"Kishor Nagar, Nashik",1100 sq.ft,Mr Sanjay,EMI starts at ₹24.89 K,old,Apartment
+400,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹56.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1820 sq.ft,Mr Sanjay,EMI starts at ₹29.66 K,old,Apartment
+401,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹82.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",1620 sq.ft,Mr Sanjay,EMI starts at ₹40.71 K,old,Apartment
+402,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹55.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1150 sq.ft,Mr Sanjay,EMI starts at ₹29.13 K,old,Apartment
+403,4 BHK Apartment for sale in Veer Sawarkar Nagar,₹1.21 Cr,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",2100 sq.ft,Mr Sanjay,EMI starts at ₹60.07 K,old,Apartment
+404,3 BHK Apartment for sale in Satpur,₹62.0 L,"Ashoknagar, Satpur,Nashik",1410 sq.ft,Mr Sanjay,EMI starts at ₹32.83 K,old,Apartment
+405,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹75.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1305 sq.ft,Mr Sanjay,EMI starts at ₹39.72 K,old,Apartment
+406,2 BHK Apartment for sale in Kishor Nagar,₹40.0 L,"Kishor Nagar, Nashik",1120 sq.ft,Yogesh Patil,EMI starts at ₹21.18 K,old,Apartment
+407,1 BHK Apartment for sale in Parijat Nagar,₹28.5 L,"Mahatma Nagar, Parijat Nagar,Nashik",818 sq.ft,Mr Sanjay,EMI starts at ₹15.09 K,old,Apartment
+408,3 BHK Apartment for sale in Satpur,₹85.0 L,"Ashoknagar, Satpur,Nashik",1650 sq.ft,Mr Sanjay,EMI starts at ₹42.20 K,old,Apartment
+409,2 BHK Apartment for sale in Anandwalli Gaon,₹45.0 L,"Balawant Nagar, Anandwalli Gaon,Nashik",1125 sq.ft,Mr Sanjay,EMI starts at ₹23.83 K,old,Apartment
+410,2 BHK Apartment for sale in Ram Wadi,₹30.0 L,"Kausalya Nagar, Ram Wadi,Nashik",702 sq.ft,NISHANT,EMI starts at ₹15.89 K,old,Apartment
+411,3 BHK Apartment for sale in Rane Nagar,₹47.0 L,"Chetana Nagar, Rane Nagar,Nashik",1135 sq.ft,Mr Sanjay,EMI starts at ₹24.89 K,old,Apartment
+412,1 BHK Apartment for sale in Panchavati,₹19.01 L,"Panchavati, Nashik",650 sq.ft,NISHANT,EMI starts at ₹10.07 K,old,Apartment
+413,2 BHK Apartment for sale in Panchavati,₹36.26 L,"Panchavati, Nashik",1000 sq.ft,NISHANT,EMI starts at ₹19.20 K,old,Apartment
+414,3 BHK Apartment for sale in Kishor Nagar,₹46.0 L,"Kishor Nagar, Nashik",1135 sq.ft,Mr Sanjay,EMI starts at ₹24.36 K,old,Apartment
+415,3 BHK Apartment for sale in Pramod Nagar,₹75.0 L,"Pramod Nagar, Nashik",1400 sq.ft,Mr Sanjay,EMI starts at ₹39.72 K,old,Apartment
+416,3 BHK Apartment for sale in Anandwalli Gaon,₹20.0 L,"Serene Meadows, Anandwalli Gaon,Nashik",1668 sq.ft,Mr Sanjay,EMI starts at ₹10.59 K,old,Apartment
+417,3 BHK Apartment for sale in Kishor Nagar,₹48.0 L,"Kishor Nagar, Nashik",1123 sq.ft,Mr Sanjay,EMI starts at ₹25.42 K,old,Apartment
+418,2 BHK Apartment for sale in Hirawadi,₹30.0 L,"Panchawati, Hirawadi,Nashik",875 sq.ft,NISHANT,EMI starts at ₹15.89 K,old,Apartment
+419,3 BHK Apartment for sale in Canada Corner,₹72.0 L,"Patil Colony, Canada Corner,Nashik",1258 sq.ft,NISHANT,EMI starts at ₹38.13 K,old,Apartment
+420,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹70.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1521 sq.ft,Mr Sanjay,EMI starts at ₹37.07 K,old,Apartment
+421,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹63.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1500 sq.ft,Mr Sanjay,EMI starts at ₹33.36 K,old,Apartment
+422,2 BHK Apartment for sale in Trimbak,₹55.0 L,"Trimbak, Nashik",1100 sq.ft,Mr Sanjay,EMI starts at ₹29.13 K,old,Apartment
+423,4 BHK Apartment for sale in Veer Sawarkar Nagar,₹1.9 Cr,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",2900 sq.ft,Mr Sanjay,EMI starts at ₹94.33 K,old,Apartment
+424,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹42.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",950 sq.ft,Mr Sanjay,EMI starts at ₹22.24 K,old,Apartment
+425,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹63.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1414 sq.ft,Mr Sanjay,EMI starts at ₹33.36 K,old,Apartment
+426,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹32.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",800 sq.ft,Mr Sanjay,EMI starts at ₹16.95 K,old,Apartment
+427,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹64.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1551 sq.ft,Mr Sanjay,EMI starts at ₹33.89 K,old,Apartment
+428,4 BHK Apartment for sale in Veer Sawarkar Nagar,₹1.21 Cr,"Datey Nagar, Veer Sawarkar Nagar,Nashik",2125 sq.ft,Mr Sanjay,EMI starts at ₹60.07 K,old,Apartment
+429,3 BHK Apartment for sale in TIDKE NAGAR,₹77.0 L,"TIDKE NAGAR, Nashik",1442 sq.ft,Mr Sanjay,EMI starts at ₹38.23 K,old,Apartment
+430,3 BHK Apartment for sale in Makhmalabad,₹41.0 L,"Makhmalabad, Nashik",1123 sq.ft,Mr Sanjay,EMI starts at ₹21.71 K,old,Apartment
+431,3 BHK Apartment for sale in Anandwalli Gaon,₹60.0 L,"Balawant Nagar, Anandwalli Gaon,Nashik",1528 sq.ft,Mr Sanjay,EMI starts at ₹31.77 K,old,Apartment
+432,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹76.0 L,"Datey Nagar, Veer Sawarkar Nagar,Nashik",1400 sq.ft,Mr Sanjay,EMI starts at ₹37.73 K,old,Apartment
+433,3 BHK Apartment for sale in Anandwalli Gaon,₹60.0 L,"Serene Meadows, Anandwalli Gaon,Nashik",1520 sq.ft,Mr Sanjay,EMI starts at ₹31.77 K,old,Apartment
+434,3 BHK Apartment for sale in Rane Nagar,₹46.0 L,"Chetana Nagar, Rane Nagar,Nashik",1135 sq.ft,Mr Sanjay,EMI starts at ₹24.36 K,old,Apartment
+435,3 BHK Apartment for sale in Kishor Nagar,₹49.0 L,"Kishor Nagar, Nashik",1135 sq.ft,Mr Sanjay,EMI starts at ₹25.95 K,old,Apartment
+436,4 BHK Apartment for sale in College Road,₹1.9 Cr,"College Road, Nashik",2900 sq.ft,Mr Sanjay,EMI starts at ₹94.33 K,old,Apartment
+437,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹38.0 L,"Datey Nagar, Veer Sawarkar Nagar,Nashik",900 sq.ft,Mr Sanjay,EMI starts at ₹20.12 K,old,Apartment
+438,3 BHK Apartment for sale in College Road,₹96.0 L,"College Road, Nashik",1800 sq.ft,Mr Sanjay,EMI starts at ₹47.66 K,old,Apartment
+439,2 BHK Apartment for sale in Kishor Nagar,₹43.0 L,"Kishor Nagar, Nashik",985 sq.ft,Mr Sanjay,EMI starts at ₹22.77 K,old,Apartment
+440,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹85.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1550 sq.ft,Mr Sanjay,EMI starts at ₹42.20 K,old,Apartment
+441,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹62.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1375 sq.ft,Mr Sanjay,EMI starts at ₹32.83 K,old,Apartment
+442,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹85.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1650 sq.ft,Mr Sanjay,EMI starts at ₹42.20 K,old,Apartment
+443,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹62.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",1400 sq.ft,Mr Sanjay,EMI starts at ₹32.83 K,old,Apartment
+444,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹60.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",1356 sq.ft,Mr Sanjay,EMI starts at ₹31.77 K,old,Apartment
+445,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹85.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",1610 sq.ft,Mr Sanjay,EMI starts at ₹42.20 K,old,Apartment
+446,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹45.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",1045 sq.ft,Mr Sanjay,EMI starts at ₹23.83 K,old,Apartment
+447,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹40.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",822 sq.ft,Mr Sanjay,EMI starts at ₹21.18 K,old,Apartment
+448,2 BHK Apartment for sale in Veer Sawarkar Nagar,₹38.0 L,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",856 sq.ft,Mr Sanjay,EMI starts at ₹20.12 K,old,Apartment
+449,1 BHK Apartment for sale in Veer Sawarkar Nagar,₹29.0 L,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",800 sq.ft,Mr Sanjay,EMI starts at ₹15.36 K,old,Apartment
+450,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹82.0 L,"Datey Nagar, Veer Sawarkar Nagar,Nashik",1550 sq.ft,Mr Sanjay,EMI starts at ₹40.71 K,old,Apartment
+451,3 BHK Apartment for sale in Satpur,₹62.0 L,"Ashoknagar, Satpur,Nashik",1400 sq.ft,Mr Sanjay,EMI starts at ₹32.83 K,old,Apartment
+452,3 BHK Apartment for sale in Satpur,₹63.0 L,"Ashoknagar, Satpur,Nashik",1525 sq.ft,Mr Sanjay,EMI starts at ₹33.36 K,old,Apartment
+453,3 BHK Apartment for sale in Pathardi Phata,₹52.0 L,"Damodar Nagar, Pathardi Phata,Nashik",1400 sq.ft,Mr Sanjay,EMI starts at ₹27.54 K,old,Apartment
+454,3 BHK Apartment for sale in Pathardi Phata,₹52.0 L,"Damodar Nagar, Pathardi Phata,Nashik",1459 sq.ft,Mr Sanjay,EMI starts at ₹27.54 K,old,Apartment
+455,3 BHK Apartment for sale in Satpur,₹63.0 L,"Ashoknagar, Satpur,Nashik",1500 sq.ft,Mr Sanjay,EMI starts at ₹33.36 K,old,Apartment
+456,3 BHK Apartment for sale in Veer Sawarkar Nagar,₹82.0 L,"Datey Nagar, Veer Sawarkar Nagar,Nashik",1600 sq.ft,Mr Sanjay,EMI starts at ₹40.71 K,old,Apartment
+457,1 BHK Apartment for sale in Satpur,₹34.0 L,"Ashoknagar, Satpur,Nashik",735 sq.ft,Mr Sanjay,EMI starts at ₹18.00 K,old,Apartment
+458,2 BHK Apartment for sale in Kishor Nagar,₹53.0 L,"Kishor Nagar, Nashik",985 sq.ft,Mr Sanjay,EMI starts at ₹28.07 K,old,Apartment
+459,3 BHK Apartment for sale in Kalpataru Nagar,₹60.0 L,"Kalpataru Nagar, Nashik",1300 sq.ft,Mr Sanjay,EMI starts at ₹31.77 K,old,Apartment
+460,4 BHK Apartment for sale in Satpur,₹1.5 Cr,"Ashoknagar, Satpur,Nashik",2200 sq.ft,Mr Sanjay,EMI starts at ₹74.47 K,old,Apartment
+461,2 BHK Apartment for sale in Anandwalli Gaon,₹45.0 L,"Balawant Nagar, Anandwalli Gaon,Nashik",853 sq.ft,Mr Sanjay,EMI starts at ₹23.83 K,old,Apartment
+462,1 BHK Apartment for sale in Kishor Nagar,₹24.0 L,"Kishor Nagar, Nashik",750 sq.ft,Yogesh Patil,EMI starts at ₹12.71 K,old,Apartment
+463,2 BHK Apartment for sale in Anandwalli Gaon,₹12.0 L,"Balawant Nagar, Anandwalli Gaon,Nashik",1050 sq.ft,Mr Sanjay,EMI starts at ₹6.35 K,old,Apartment
+464,1 BHK Apartment for sale in Nashik Road,₹21.0 L,"Gayakhe Colony, Nashik Road,Nashik",650 sq.ft,"Astvinayak Real Estate,",EMI starts at ₹11.12 K,old,Apartment
+465,2 BHK Apartment for sale in Nashik Road,₹55.0 L,"Anand Nagar, Nashik Road,Nashik",1150 sq.ft,"Astvinayak Real Estate,",EMI starts at ₹29.13 K,old,Apartment
+466,2 BHK Apartment for sale in Nashik Road,₹23.0 L,"Gurudatta Nagar, Nashik Road,Nashik",980 sq.ft,Ejaj Sayyad,EMI starts at ₹12.18 K,old,Apartment
+467,2 BHK Apartment for sale in Vrindavan Nagar,₹28.0 L,"Vrindavan Nagar, Nashik",900 sq.ft,Ejaj Sayyad,EMI starts at ₹14.83 K,old,Apartment
+468,2 BHK Apartment for sale in Satpur,₹38.51 L,"Gulmohar Vihar, Satpur,Nashik",975 sq.ft,Ashish Purwar,EMI starts at ₹20.39 K,old,Apartment

@@ -1,0 +1,501 @@
+,address,owners,housetype,house_condition,BHK,price,per_month_emi,total_sqft,cordinates,latitude,longitude
+4100,"Gangapur, Nashik",Rahul Kale,Apartment,new,3.0,75.1,37.28,1589.0,"Gangapur, Nashik, Maharashtra",20.030860000000075,73.71665000000007
+4101,"Navashya Ganpati,Gangapur, Nashik",Rahul Kale,Apartment,new,3.0,67.51,35.75,1631.0,"Navshya Ganpati A Lane, Anandvalli, Nashik, Maharashtra, 422013",20.015061360613544,73.74505904454574
+4102,"Guruji Aparment,Gangapur, Nashik",Rahul Kale,Apartment,new,2.0,53.11,28.12,1200.0,"Gangapur, Nashik, Maharashtra",20.030860000000075,73.71665000000007
+4103,"Gangapur,Gangapur, Nashik",Rahul Kale,Apartment,new,3.0,81.0,40.21,1825.0,"Gangapur, Nashik, Maharashtra",20.030860000000075,73.71665000000007
+4104,"Sanklecha The Metrozone, Kala Nagar, Indira Nagar,Nashik",Bhushan Yashwant Patil,Apartment,new,3.0,80.0,39.72,1918.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4105,"Karda Hari om Phase 1,Kala Nagar, Indira Nagar,Nashik",Bhushan Yashwant Patil,Apartment,new,2.0,35.0,18.53,957.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4106,"Gurugovind College,Kala Nagar, Indira Nagar,Nashik",Shree Balaji Estate,Apartment,new,1.0,20.0,10.59,635.0,"Guru Govind Singh College Road, Indira Nagar, Nashik, Maharashtra, 422009",19.966380988054016,73.78036778272747
+4107,"NPG Apartment,Gangapur, Nashik",Abhishek Bidawat,Apartment,new,2.0,45.01,23.84,1150.0,"Gangapur, Nashik, Maharashtra",20.030860000000075,73.71665000000007
+4108,"Ashoka Royale, Kalpataru Nagar, Nashik",Vaibhav Kamble,Apartment,new,2.0,48.0,25.42,965.0,Royale,19.977720000000033,73.79793000000006
+4109,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,38.45,20.36,973.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4110,"Ashoka Royale, Kalpataru Nagar, Nashik",Vaibhav Kamble,Apartment,new,2.0,48.5,25.68,965.0,Royale,19.977720000000033,73.79793000000006
+4111,"Karda Hari Smruti, Kalpataru Nagar, Nashik",Vishal Shah,Apartment,new,3.0,69.5,36.8,1344.0,"Kalpataru Nagar, Wadala, Nashik, Maharashtra",19.978110000000072,73.79962000000006
+4112,"Jaikumar Parksyde Residences, Kala Nagar, Indira Nagar,Nashik",Vishal Shah,Apartment,new,3.0,60.0,31.77,1295.0,Parksyde Residences,19.95103000000006,73.77544000000006
+4113,"Hari Sankul Phase 1,Raviwar Karanja, Panchavati,Nashik",Vishal Shah,Apartment,new,2.0,40.0,21.18,960.0,"Raviwar Karanja, Old Nashik, Nashik, Maharashtra",20.006580000000042,73.78997000000004
+4114,"BrickStones,Kalpataru Nagar, Nashik",Vishal Shah,Apartment,new,3.0,45.0,23.83,1500.0,Brickstones,19.979730000000075,73.80547000000007
+4115,"Karda Hari Smruti, Kalpataru Nagar, Nashik",Vishal Shah,Apartment,new,2.0,49.0,25.95,1021.0,"Kalpataru Nagar, Wadala, Nashik, Maharashtra",19.978110000000072,73.79962000000006
+4116,"Karda Hari Om Residency,Kala Nagar, Indira Nagar,Nashik",Vishal Shah,Apartment,new,2.0,38.0,20.12,1003.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4117,"Hari Sankul Phase 2,Raviwar Karanja, Panchavati,Nashik",Vishal Shah,Apartment,new,2.0,40.0,21.18,960.0,"Raviwar Karanja, Old Nashik, Nashik, Maharashtra",20.006580000000042,73.78997000000004
+4118,"Ashrayan Apartment,Hirawadi, Nashik",Ejaj Sayyad,Apartment,new,2.0,24.25,12.84,866.0,"Hirawadi, Panchavati, Nashik, Maharashtra",20.010980000000075,73.80851000000007
+4119,"Narayan Nagar Apartment,Ashoknagar, Satpur,Nashik",Vishal Shah,Apartment,new,2.0,32.0,16.95,830.0,"Ashok Nagar, Satpur, Nashik, Maharashtra",19.98858000000007,73.71576000000005
+4120,"Karda Hari Smruti, Kalpataru Nagar, Nashik",Vishal Shah,Apartment,new,2.0,51.0,27.01,1027.0,"Kalpataru Nagar, Wadala, Nashik, Maharashtra",19.978110000000072,73.79962000000006
+4121,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,34.96,18.51,885.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4122,"Thatte Nagar, Nashik",Suntosh Kathey,Apartment,new,3.0,109.0,54.21,1680.0,"Thatte Nagar, College Road, Nashik, Maharashtra",20.009300000000053,73.76012000000003
+4123,"Sunshine,D. K. Nagar, Nashik",Suntosh Kathey,Apartment,new,3.0,75.0,39.72,1500.0,"D K Nagar, Gangapur Road, Nashik, Maharashtra",20.018850000000043,73.76363000000003
+4124,"Kishor Nagar, Nashik",Yogesh Patil,Apartment,new,2.0,41.0,21.71,1050.0,Kishor Nagar,19.965990000000033,73.77292000000006
+4125,"Sai res,Holaram Colony, Sharanpur,Nashik",Kiran,Apartment,new,3.0,115.0,57.09,2000.0,"Holaram Colony, Sharanpur, Nashik, Maharashtra",19.99604000000005,73.77065000000005
+4126,"Vastu Vihar Apatment,Shivaji Nagar, Satpur,Nashik",Dinanath R Chaudhari,Apartment,new,2.0,25.99,13.76,950.0,"Shivaji Nagar, Satpur, Nashik, Maharashtra",20.00326000000007,73.70924000000008
+4127,"Ashrayan Apartment B,Hirawadi, Nashik",Ejaj Sayyad,Apartment,new,2.0,23.49,12.44,839.0,"Hirawadi, Panchavati, Nashik, Maharashtra",20.010980000000075,73.80851000000007
+4128,"Archit Vihar apartement ,Nashik Road, Nashik",Deepak Kalwit,Apartment,new,2.0,67.5,35.75,1500.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4129,"Gangapur, Nashik",Deepak Kalwit,Apartment,new,2.0,52.0,27.54,1100.0,"Gangapur, Nashik, Maharashtra",20.030860000000075,73.71665000000007
+4130,"Loksahakar Nagar, Nashik",Deepak Kalwit,Apartment,new,4.0,161.0,79.93,3100.0,"Lokasahakar Nagar, Gangapur Road, Nashik, Maharashtra",20.008430000000033,73.77515000000005
+4131,"Loksahakar Nagar, Nashik",Deepak Kalwit,Apartment,new,3.0,55.0,29.13,1215.0,"Lokasahakar Nagar, Gangapur Road, Nashik, Maharashtra",20.008430000000033,73.77515000000005
+4132,"Serene Meadows, Anandwalli Gaon,Nashik",Deepak Kalwit,Apartment,new,3.0,70.5,37.33,1500.0,"Serene Meadows, Anandvalli, Nashik, Maharashtra",20.013280000000066,73.73606000000007
+4133,"Loksahakar Nagar, Nashik",Deepak Kalwit,Apartment,new,2.0,46.0,24.36,1150.0,"Lokasahakar Nagar, Gangapur Road, Nashik, Maharashtra",20.008430000000033,73.77515000000005
+4134,"Balawant Nagar, Anandwalli Gaon,Nashik",Deepak Kalwit,Apartment,new,2.0,42.0,22.24,1085.0,"Balawant Nagar, Anandvalli, Nashik, Maharashtra",20.012770000000046,73.73992000000004
+4135,"Loksahakar Nagar, Nashik",Deepak Kalwit,Apartment,new,3.0,80.6,40.01,1550.0,"Lokasahakar Nagar, Gangapur Road, Nashik, Maharashtra",20.008430000000033,73.77515000000005
+4136,"Matoshree Nagar, Nashik",Deepak Kalwit,Apartment,new,2.0,44.99,23.82,1081.0,"Matoshree Nagar, Tidke Colony, Nashik, Maharashtra",19.988690000000076,73.77717000000007
+4137,"Loksahakar Nagar, Nashik",Deepak Kalwit,Apartment,new,3.0,46.0,24.36,1150.0,"Lokasahakar Nagar, Gangapur Road, Nashik, Maharashtra",20.008430000000033,73.77515000000005
+4138,"Loksahakar Nagar, Nashik",Deepak Kalwit,Apartment,new,1.0,27.0,14.3,870.0,"Lokasahakar Nagar, Gangapur Road, Nashik, Maharashtra",20.008430000000033,73.77515000000005
+4139,"Bagad Natures Pride Phase I, Chandshi, Nashik",Kiran,Apartment,new,2.0,61.0,32.3,1069.0,"Chandshi, Nashik Sub-District, Nashik, Maharashtra",20.03875000000005,73.75025000000005
+4140,"Anand Nagar, Nashik Road,Nashik",Mr. Rahul Burse,Apartment,new,2.0,24.0,12.71,680.0,"Anand Nagar, Upnagar, Nashik, Maharashtra",19.971140000000048,73.82090000000005
+4141,"Sai wisva,Pawar Wadi, Nashik",Kalpesh Rajput,Apartment,new,1.0,16.51,8.74,600.0,"Pawar Wadi, Panchak, Nashik, Maharashtra",19.976110000000062,73.85640000000006
+4142,"Shree Apurvai, Sharda Vihar, Nashik",BHOOMI RANJAN REAL ESTATE Property CONSULTANT,Apartment,new,2.0,32.0,16.95,911.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4143,"Samraat Tropicano, Serene Meadows, Anandwalli Gaon,Nashik",Abhishek Bidawat,Apartment,new,2.0,60.0,31.77,1050.0,Samraat Tropicano,20.010940000000062,73.73240000000004
+4144,"Samraat Tropicano, Gangapur, Nashik",Abhishek Bidawat,Apartment,new,2.0,60.0,31.77,778.0,Samraat Tropicano,20.010940000000062,73.73240000000004
+4145,"Residential Apartments,Satpur, Nashik",Abhishek Bidawat,Apartment,new,1.0,11.0,5.83,560.0,Apt,20.005420000000072,73.71993000000003
+4146,"Residential Apartments,Satpur, Nashik",Abhishek Bidawat,Apartment,new,2.0,153.0,75.96,2000.0,Apt,20.005420000000072,73.71993000000003
+4147,"Gangapur road,Gangapur, Nashik",Abhishek Bidawat,Apartment,new,3.0,113.0,56.1,1730.0,"Gangapur Road, Gangapur, Nashik, Maharashtra, 422013",20.019666173724573,73.7309336156839
+4148,"Residential Apartments,Jejurkar Wadi, Sharanpur,Nashik",Abhishek Bidawat,Apartment,new,3.0,90.0,44.68,1550.0,Jejurkarwadi,19.998450000000048,73.77502000000004
+4149,"Residential Apartments,Mahatma Nagar, Parijat Nagar,Nashik",Abhishek Bidawat,Apartment,new,2.0,44.0,23.3,1100.0,"Mahatmanagar, Parijat Nagar, Nashik, Maharashtra",20.000380000000064,73.75442000000004
+4150,"Residential Apartments,Mahatma Nagar, Parijat Nagar,Nashik",Abhishek Bidawat,Apartment,new,2.0,44.0,23.3,700.0,"Mahatmanagar, Parijat Nagar, Nashik, Maharashtra",20.000380000000064,73.75442000000004
+4151,"Residential Apartments,Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Abhishek Bidawat,Apartment,new,1.0,23.0,12.18,450.0,"Govind Nagar, Nashik, Maharashtra",19.983200000000068,73.77883000000008
+4152,"Residential Apartments,Satpur, Nashik",Abhishek Bidawat,Apartment,new,1.0,11.0,5.83,500.0,Apt,20.005420000000072,73.71993000000003
+4153,"Residential Apartments,Jejurkar Wadi, Sharanpur,Nashik",Abhishek Bidawat,Apartment,new,3.0,90.0,44.68,850.0,Jejurkarwadi,19.998450000000048,73.77502000000004
+4154,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,37.34,19.77,945.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4155,"Jaikumar Parksyde Homes, Hanuman Nagar, Nashik",Vineet Sakhare,Apartment,new,2.0,50.0,26.48,960.0,"Hanuman Nagar, Dasak, Nashik, Maharashtra",19.975940000000037,73.82971000000003
+4156,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,3.0,45.44,24.06,1150.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4157,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,1.0,26.7,14.14,675.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4158,"Nerkar Ganesh Signifia, Indira Nagar, Nashik",BHOOMI RANJAN REAL ESTATE Property CONSULTANT,Apartment,new,3.0,45.0,23.83,1306.0,"Indira Nagar, Nashik, Maharashtra",19.97219000000007,73.78350000000006
+4159,"Perfect Residency, Manik Nagar, Nashik",BHOOMI RANJAN REAL ESTATE Property CONSULTANT,Apartment,new,2.0,45.0,23.83,1055.0,"Manik Nagar, Gangapur Road, Nashik, Maharashtra",20.01174000000003,73.76289000000008
+4160,"Nerkar Ganesh Signifia, Indira Nagar, Nashik",BHOOMI RANJAN REAL ESTATE Property CONSULTANT,Apartment,new,2.0,36.0,19.06,977.0,"Indira Nagar, Nashik, Maharashtra",19.97219000000007,73.78350000000006
+4161,"Karda Hari Vishwa, Buddha Vihar, Pathardi Phata,Nashik",Shree Balaji Estate,Apartment,new,3.0,60.0,31.77,1405.0,"Buddha Vihar, Pathardi Phata, Nashik, Maharashtra",19.945340000000044,73.74791000000005
+4162,"3BHK Indira Nagar,Kala Nagar, Indira Nagar,Nashik",Shree Balaji Estate,Apartment,new,3.0,46.0,24.36,1300.0,"Kala Nagar Chowk, Indira Nagar, Nashik, Maharashtra, 422009",19.969141176198054,73.78248161970262
+4163,"Karda Hari Shrushti, Kala Nagar, Indira Nagar,Nashik",Shree Balaji Estate,Apartment,new,2.0,47.0,24.89,1250.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4164,"2BHK Kala Nagar,Kala Nagar, Indira Nagar,Nashik",Shree Balaji Estate,Apartment,new,2.0,32.0,16.95,970.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4165,"Arpit hight,Kala Nagar, Indira Nagar,Nashik",BHOOMI RANJAN REAL ESTATE Property CONSULTANT,Apartment,new,2.0,40.0,21.18,1200.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4166,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,32.4,17.16,820.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4167,"Indira Nagar, Nashik",Navin Chavan,Apartment,new,2.0,28.0,14.83,810.0,"Indira Nagar, Nashik, Maharashtra",19.97219000000007,73.78350000000006
+4168,"New Building ,Serene Meadows, Anandwalli Gaon,Nashik",Laxmikant Ratnaparkhi,Apartment,new,3.0,150.0,74.47,2800.0,"Serene Meadows, Anandvalli, Nashik, Maharashtra",20.013280000000066,73.73606000000007
+4169,"Shree Empire,DGP Nagar, Nashik",Mr Manish Kottkonda,Apartment,new,2.0,36.0,19.06,985.0,"DGP Nagar, Ambad, Nashik, Maharashtra",19.968270000000075,73.74230000000006
+4170,"Parksyde residences ,Kala Nagar, Indira Nagar,Nashik",Pawar Ajay,Apartment,new,3.0,48.0,25.42,1135.0,Parksyde Residences,19.95103000000006,73.77544000000006
+4171,"New Apartment ,Ganpati Nagar, Anandwalli Gaon,Nashik",Laxmikant Ratnaparkhi,Apartment,new,4.0,120.0,59.58,2300.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4172,"Jay Bhavani road ,Adke Nagar, Deolali Gaon,Nashik",Mr. Rahul Burse,Apartment,new,2.0,26.0,13.77,750.0,"Jai Bhavani Road, Devlali, Nashik, Maharashtra, 422401",19.954299880414343,73.82467582005795
+4173,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Mr. Rahul Burse,Apartment,new,2.0,32.0,16.95,805.0,"Gandhi Nagar Airport Area, Gandhi Nagar, Nashik, Maharashtra",19.946250000000077,73.81470000000007
+4174,"Shri Sadaguru Shivram Sheetal Residency Building No 2 And 3, Palase, Nashik",Pramod Murkewar,Apartment,new,2.0,16.77,8.88,660.0,"2nd Street & 3rd Avenue, Anandvalli, Nashik, Maharashtra, 422013",20.01201004256123,73.73700008435966
+4175,"Shri Sadaguru Shivram Sheetal Residency Building No 2 And 3, Palase, Nashik",Pramod Murkewar,Apartment,new,1.0,13.91,7.37,560.0,"2nd Street & 3rd Avenue, Anandvalli, Nashik, Maharashtra, 422013",20.01201004256123,73.73700008435966
+4176,"Ganesh Singnefia ,Kala Nagar, Indira Nagar,Nashik",BHOOMI RANJAN REAL ESTATE Property CONSULTANT,Apartment,new,2.0,34.0,18.0,900.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4177,"Ashoka Royale, Kalpataru Nagar, Nashik",Jeetendra Rajput,Apartment,new,2.0,53.0,28.07,980.0,Royale,19.977720000000033,73.79793000000006
+4178,"Hari Sanskruti ,Rajwada Nagar, Nashik Road,Nashik",Mr. Rahul Burse,Apartment,new,2.0,32.0,16.95,830.0,"Rajwada Nagar, Nashik Road, Nashik, Maharashtra",19.941340000000025,73.83830000000006
+4179,"Oasis life ,Kala Nagar, Indira Nagar,Nashik",Dayashankar Upadhyay,Apartment,new,1.0,26.5,14.03,650.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4180,"Harimangal,Serene Meadows, Anandwalli Gaon,Nashik",Sudit,Apartment,new,2.0,45.0,23.83,1100.0,"Serene Meadows, Anandvalli, Nashik, Maharashtra",20.013280000000066,73.73606000000007
+4181,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Mr. Rahul Burse,Apartment,new,2.0,34.5,18.27,881.0,"Gandhi Nagar Airport Area, Gandhi Nagar, Nashik, Maharashtra",19.946250000000077,73.81470000000007
+4182,"Nerkar Ganesh Signifia, Indira Nagar, Nashik",Navin Chavan,Apartment,new,2.0,36.0,19.06,1050.0,"Indira Nagar, Nashik, Maharashtra",19.97219000000007,73.78350000000006
+4183,"Tagore Nagar, Nashik",VK PROPERTIES,Apartment,new,2.0,32.0,16.95,950.0,"Tagor Nagar, Nashik, Maharashtra",19.97667000000007,73.80673000000007
+4184,"RTO Colony, Uttara Nagar,Nashik",Mr. Rahul Burse,Apartment,new,2.0,35.0,18.53,950.0,"Rto Colony, Sarnath, Varanasi, Uttar Pradesh",25.36176000000006,83.01741000000004
+4185,"RTO Colony, Uttara Nagar,Nashik",Mr. Rahul Burse,Apartment,new,2.0,35.0,18.53,950.0,"Rto Colony, Sarnath, Varanasi, Uttar Pradesh",25.36176000000006,83.01741000000004
+4186,"rk residency,Dwarka, Nashik",Rakesh,Apartment,new,1.0,19.5,10.33,620.0,"Om Residency, Dwarka, Nashik, Maharashtra",19.987100000000055,73.80387000000007
+4187,"Nashik Road, Nashik",Pushpak Kalantri,Apartment,new,1.0,16.5,8.74,560.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4188,"DattaMandir, Nashik Road,Nashik",Pushpak Kalantri,Apartment,new,1.0,21.0,11.12,615.0,Datta Mandir,19.951460000000054,73.84069000000005
+4189,"Shri Sadaguru Shivram Sheetal Residency Building No 1, Nashik Road, Nashik",Pramod Murkewar,Apartment,new,2.0,15.85,8.39,640.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4190,"Nashik Road, Nashik",Mr. Rahul Burse,Apartment,new,2.0,32.0,16.95,860.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4191,"Kala Nagar, Indira Nagar,Nashik",Chetan Kishor Kale,Apartment,new,2.0,27.51,14.57,850.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4193,"Shri Sadaguru Shivram Sheetal Residency Building No 2 And 3, Palase, Nashik",Pramod Murkewar,Apartment,new,2.0,15.21,8.05,640.0,"2nd Street & 3rd Avenue, Anandvalli, Nashik, Maharashtra, 422013",20.01201004256123,73.73700008435966
+4194,"Shri Sadaguru Shivram Sheetal Residency Building No 2 And 3, Palase, Nashik",Pramod Murkewar,Apartment,new,1.0,13.21,7.0,555.0,"2nd Street & 3rd Avenue, Anandvalli, Nashik, Maharashtra, 422013",20.01201004256123,73.73700008435966
+4195,"Nashik Road, Nashik",Pushpak Kalantri,Apartment,new,1.0,21.0,11.12,615.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4196,"Nashik Road, Nashik",Pushpak Kalantri,Apartment,new,1.0,20.0,10.59,620.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4197,"Nashik Road, Nashik",Pushpak Kalantri,Apartment,new,2.0,35.0,18.53,980.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4198,"Kala Nagar, Indira Nagar,Nashik",Pushpak Kalantri,Apartment,new,2.0,35.0,18.53,900.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4199,"Adhav Nagar, Nashik Road,Nashik",Pushpak Kalantri,Apartment,new,3.0,38.0,20.12,1132.0,"Adhav Nagar, Dasak, Nashik, Maharashtra",19.978050000000053,73.83652000000006
+4200,"Nashik Road, Nashik",Chetan Kishor Kale,Apartment,new,2.0,49.0,25.95,1010.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4201,"Ayodhya Nagar, Nashik Road,Nashik",Chetan Kishor Kale,Apartment,new,1.0,23.0,12.18,625.0,"Ayodhya Nagar, Upnagar, Nashik, Maharashtra",19.97475000000003,73.82099000000005
+4202,"Ashwin Nagar, Nashik",Chetan Kishor Kale,Apartment,new,4.0,42.0,22.24,1300.0,"Ashwin Nagar, Cidco, Nashik, Maharashtra",19.961150000000032,73.76057000000003
+4203,"Shri Sadaguru Shivram Sheetal Residency Building No 1, Nashik Road, Nashik",Pramod Murkewar,Apartment,new,1.0,12.91,6.84,585.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4204,"Shri Sadaguru Shivram Sheetal Residency Building No 2 And 3, Palase, Nashik",Pramod Murkewar,Apartment,new,2.0,13.85,7.33,640.0,"2nd Street & 3rd Avenue, Anandvalli, Nashik, Maharashtra, 422013",20.01201004256123,73.73700008435966
+4205,"Shri Sadaguru Shivram Sheetal Residency Building No 2 And 3, Palase, Nashik",Pramod Murkewar,Apartment,new,1.0,13.86,7.34,560.0,"2nd Street & 3rd Avenue, Anandvalli, Nashik, Maharashtra, 422013",20.01201004256123,73.73700008435966
+4206,"Shri Sadaguru Shivram Sheetal Residency Building No 2 And 3, Palase, Nashik",Pramod Murkewar,Apartment,new,2.0,19.84,10.51,640.0,"2nd Street & 3rd Avenue, Anandvalli, Nashik, Maharashtra, 422013",20.01201004256123,73.73700008435966
+4207,"PANCHAVATI PRIDE,Raviwar Karanja, Panchavati,Nashik",Prabodhan Rudrake,Apartment,new,2.0,38.51,20.39,1045.0,"Panchavati, Nashik, Maharashtra",20.01678000000004,73.79665000000006
+4208,"panchavati pride,Panchavati, Nashik",Prabodhan Rudrake,Apartment,new,2.0,38.51,20.39,886.0,"Panchavati, Nashik, Maharashtra",20.01678000000004,73.79665000000006
+4209,"C GLOBAL PLAZA,Chetana Nagar, Rane Nagar,Nashik",Chetan Kishor Kale,Apartment,new,2.0,31.0,16.42,930.0,"Chetana Nagar, Indira Nagar, Nashik, Maharashtra",19.96311000000003,73.77113000000008
+4210,"Samraat Nucleus, Bhagwant Nagar, Dr.Homi Bhabha Nagar,Nashik",Chetan Kishor Kale,Apartment,new,2.0,49.0,25.95,1010.0,"Bhagwant Nagar, Dr Homi Bhabha Nagar, Nashik, Maharashtra",19.98693000000003,73.78671000000008
+4211,"2Bhk Ravishankar ,Nashik Road, Nashik",Shree Balaji Estate,Apartment,new,2.0,35.0,18.53,980.0,Ravishankar,19.99473000000006,73.75465000000008
+4212,"3bhk Amit,Kala Nagar, Indira Nagar,Nashik",Shree Balaji Estate,Apartment,new,3.0,55.0,29.13,1348.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4213,"Rivrine apprment,Nashik Road, Nashik",Sajish Gangurde,Apartment,new,1.0,21.0,11.12,670.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4214,"1Bhk Jail oad,Nashik Road, Nashik",Shree Balaji Estate,Apartment,new,1.0,20.0,10.59,620.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4215,"Dhatrak Priyanka Blossom, Serene Meadows, Anandwalli Gaon,Nashik",Rakesh,Apartment,new,3.0,68.0,36.01,1650.0,Priyanka Blossom,20.011280000000056,73.73377000000005
+4216,"Ekta Ekta Greenville, Buddha Vihar, Pathardi Phata,Nashik",Rakesh,Apartment,new,2.0,28.0,14.83,1040.0,"Buddha Vihar, Pathardi Phata, Nashik, Maharashtra",19.945340000000044,73.74791000000005
+4217,"Shri Sadaguru Shivram Sheetal Residency Building No 1, Palase, Nashik",Pramod Murkewar,Apartment,new,1.0,13.3,7.04,585.0,"Palase, Nashik Sub-District, Nashik, Maharashtra",19.89169000000004,73.88093000000003
+4218,"Gandhi Nagar Airport Area, Nashik Road,Nashik","Astvinayak Real Estate,",Apartment,new,1.0,21.0,11.12,635.0,"Gandhi Nagar Airport Area, Gandhi Nagar, Nashik, Maharashtra",19.946250000000077,73.81470000000007
+4219,"Dhruv Navshya Elite, Ganpati Nagar, Anandwalli Gaon,Nashik",Kiran,Apartment,new,3.0,67.55,35.77,1571.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4220,"2Bhk Chetna Nagar,Chetana Nagar, Rane Nagar,Nashik",Shree Balaji Estate,Apartment,new,2.0,35.0,18.53,990.0,"Chetana Nagar, Indira Nagar, Nashik, Maharashtra",19.96311000000003,73.77113000000008
+4221,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,32.4,17.16,820.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4222,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,47.4,25.1,1200.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4223,"Kala Nagar, Indira Nagar,Nashik",Dayashankar Upadhyay,Apartment,new,1.0,18.0,9.53,650.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4224,"1BHK Samarth Nagar,Kala Nagar, Indira Nagar,Nashik",Shree Balaji Estate,Apartment,new,1.0,15.0,7.94,504.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4225,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,32.4,17.16,820.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4226,"Gayakhe Colony, Nashik Road,Nashik","Astvinayak Real Estate,",Apartment,new,3.0,70.0,37.07,1450.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4227,"Ashrayan Apartment,Hirawadi, Nashik",Ejaj Sayyad,Apartment,new,2.0,23.81,12.61,850.0,"Hirawadi, Panchavati, Nashik, Maharashtra",20.010980000000075,73.80851000000007
+4228,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,1.0,26.67,14.12,675.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4229,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,3.0,45.44,24.06,1150.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4230,"Vastu Vihar Apartment,MIDC, Satpur,Nashik",Dinanath R Chaudhari,Apartment,new,1.0,19.36,10.25,715.0,Vastuvihar Apartment,19.94449000000003,73.82880000000006
+4231,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,37.38,19.79,946.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4232,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Satish,Apartment,new,3.0,69.0,36.54,1408.0,"Anand Vihar Colony, Veer Savarkar Nagar, Nashik, Maharashtra",20.01290000000006,73.75045000000006
+4233,"Leash Residency,Matoshri Nagar, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,2.0,31.5,16.68,900.0,"Matoshri Nagar, Upnagar, Nashik, Maharashtra",19.97308000000004,73.82193000000007
+4234,"Gayakhe Colony, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,2.0,34.0,18.0,910.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4235,"Suryoday Apartment, Chandshi, Nashik",Kiran,Apartment,new,3.0,33.5,17.74,1190.0,Suryoday,19.976080000000024,73.77717000000007
+4236,"Palase, Nashik",Pramod Murkewar,Apartment,new,1.0,15.6,8.26,600.0,"Palase, Nashik Sub-District, Nashik, Maharashtra",19.89169000000004,73.88093000000003
+4237,"Palase, Nashik",Pramod Murkewar,Apartment,new,1.0,14.56,7.71,560.0,"Palase, Nashik Sub-District, Nashik, Maharashtra",19.89169000000004,73.88093000000003
+4238,"Palase, Nashik",Pramod Murkewar,Apartment,new,1.0,14.53,7.69,555.0,"Palase, Nashik Sub-District, Nashik, Maharashtra",19.89169000000004,73.88093000000003
+4239,"Kalash Palace,Nashik Road, Nashik",Ejaj Sayyad,Apartment,new,2.0,22.0,11.65,750.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4240,"Anand Nagar, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,2.0,34.0,18.0,955.0,"Anand Nagar, Upnagar, Nashik, Maharashtra",19.971140000000048,73.82090000000005
+4241,"Leash Residency,Matoshri Nagar, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,2.0,30.21,16.0,863.0,"Matoshri Nagar, Upnagar, Nashik, Maharashtra",19.97308000000004,73.82193000000007
+4242,"Leash Residency,Matoshri Nagar, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,2.0,28.46,15.07,813.0,"Matoshri Nagar, Upnagar, Nashik, Maharashtra",19.97308000000004,73.82193000000007
+4243,"Bardia Pearl Residency, Nashik Road, Nashik",Ejaj Sayyad,Apartment,new,2.0,22.38,11.85,740.0,Peavl Residency,19.99341000000004,73.80725000000007
+4244,"Anmol Nayantara Gold, Dnyaneshwar Nagar, Pathardi Phata,Nashik",Jagdish,Apartment,new,2.0,38.51,20.39,1100.0,"Dnyaneshwar Nagar, Pathardi Phata, Nashik, Maharashtra",19.953640000000064,73.76930000000004
+4245,"Ayodhya Nagar, Nashik Road,Nashik",Rajkumar,Apartment,new,1.0,27.0,14.3,700.0,"Ayodhya Nagar, Upnagar, Nashik, Maharashtra",19.97475000000003,73.82099000000005
+4246,"Swami Samarth Nagar, Nashik Road,Nashik",Sajish Gangurde,Apartment,new,1.0,15.0,7.94,690.0,"Swami Samarth Nagar, Mankar Mala, Nashik, Maharashtra",19.955390000000023,73.85953000000006
+4247,"Kalash Palace,Nashik Road, Nashik",Ejaj Sayyad,Apartment,new,2.0,22.1,11.7,740.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4248,"Leash Residency,Matoshri Nagar, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,1.0,14.77,7.82,422.0,"Matoshri Nagar, Upnagar, Nashik, Maharashtra",19.97308000000004,73.82193000000007
+4249,"Gayakhe Colony, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,2.0,34.81,18.43,950.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4250,"Arjun Park Apatment,Sharda Vihar, Nashik",Navin Chavan,Apartment,new,1.0,25.0,13.24,653.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4251,"Sham Shardha Apatment,Sharda Vihar, Nashik",Navin Chavan,Apartment,new,2.0,30.0,15.89,810.0,Shardha Apartment,19.926870000000065,73.83625000000006
+4252,"Bardia Pearl Residency, Nashik Road, Nashik",Ejaj Sayyad,Apartment,new,1.0,17.5,9.27,574.0,Peavl Residency,19.99341000000004,73.80725000000007
+4253,"Gayakhe Colony, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,1.0,22.5,11.92,640.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4254,"Anushree Apatment,Siemens Colony, Rane Nagar,Nashik",Navin Chavan,Apartment,new,2.0,36.54,19.35,1015.0,"Rane Nagar, Indira Nagar, Nashik, Maharashtra",19.965230000000076,73.76795000000004
+4255,"Nanda Deep Apartment,Nashik Road, Nashik",Ejaj Sayyad,Apartment,new,2.0,22.5,11.92,910.0,Nandadeep Apartments,19.97887000000003,73.80983000000003
+4256,"Vastu Vihar Apartment,Dhurav Nagar, Satpur,Nashik",Dinanath R Chaudhari,Apartment,new,2.0,25.99,13.76,980.0,Vastuvihar Apartment,19.94449000000003,73.82880000000006
+4257,"Bardia Pearl Residency, Nashik Road, Nashik",Ejaj Sayyad,Apartment,new,2.0,23.1,12.23,753.0,Peavl Residency,19.99341000000004,73.80725000000007
+4258,"Bardia Pearl Residency, Nashik Road, Nashik",Ejaj Sayyad,Apartment,new,1.0,17.5,9.27,575.0,Peavl Residency,19.99341000000004,73.80725000000007
+4259,"2BHK Happy Home,Ganesh Baba Nagar, Nashik",Shree Balaji Estate,Apartment,new,2.0,38.0,20.12,1132.0,"Ganesh Baba Nagar, Wadala, Nashik, Maharashtra",19.981810000000053,73.80200000000008
+4260,"Kala Nagar,DattaMandir, Nashik Road,Nashik",Rajkumar,Apartment,new,2.0,55.0,29.13,1450.0,Datta Mandir,19.951460000000054,73.84069000000005
+4261,"Shri Sadaguru Shivram Sheetal Residency Building No 2 And 3, Palase, Nashik",Pramod Murkewar,Apartment,new,1.0,14.51,7.68,585.0,"2nd Street & 3rd Avenue, Anandvalli, Nashik, Maharashtra, 422013",20.01201004256123,73.73700008435966
+4262,"Shri Sadaguru Shivram Sheetal Residency Building No 2 And 3, Palase, Nashik",Pramod Murkewar,Apartment,new,2.0,15.85,8.39,640.0,"2nd Street & 3rd Avenue, Anandvalli, Nashik, Maharashtra, 422013",20.01201004256123,73.73700008435966
+4263,"Markone,Viveka Nand Nagar, Anandwalli Gaon,Nashik",Mr Manish Kottkonda,Apartment,new,2.0,48.0,25.42,1200.0,"Vivekanand Nagar, Anandvalli, Nashik, Maharashtra",20.010830000000055,73.74738000000008
+4264,"Vascon Vista Phase 2, Kala Nagar, Indira Nagar,Nashik",Shree Balaji Estate,Apartment,new,2.0,35.0,18.53,900.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4265,"Khutwad Nagar, Nashik",Kiran Shimpi,Apartment,new,2.0,33.0,17.48,985.0,"Khutwad Nagar, Cidco, Nashik, Maharashtra",19.986080000000072,73.74698000000006
+4266,"Arjun Park Apatment,Sharda Vihar, Nashik",Navin Chavan,Apartment,new,2.0,27.5,14.56,860.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4267,"Aditya Apatment, Siemens Colony, Rane Nagar,Nashik",Navin Chavan,Apartment,new,2.0,32.0,16.95,1155.0,"Rane Nagar, Indira Nagar, Nashik, Maharashtra",19.965230000000076,73.76795000000004
+4268,"Aditya Apatment,Siemens Colony, Rane Nagar,Nashik",Navin Chavan,Apartment,new,2.0,32.0,16.95,1150.0,"Rane Nagar, Indira Nagar, Nashik, Maharashtra",19.965230000000076,73.76795000000004
+4269,"Aditya Apatment, Siemens Colony, Rane Nagar,Nashik",Navin Chavan,Apartment,new,2.0,30.0,15.89,930.0,"Rane Nagar, Indira Nagar, Nashik, Maharashtra",19.965230000000076,73.76795000000004
+4270,"Hari kunj,Gandhi Nagar Airport Area, Nashik Road,Nashik",Sajish Gangurde,Apartment,new,2.0,35.0,18.53,960.0,"Gandhi Nagar Airport Area, Gandhi Nagar, Nashik, Maharashtra",19.946250000000077,73.81470000000007
+4271,"Dream Apartment,Eklahare, Nashik",Ejaj Sayyad,Apartment,new,1.0,20.6,10.91,650.0,Dream Apartment,19.972090000000037,73.82113000000004
+4272,"Dream Apartment,Eklahare, Nashik",Ejaj Sayyad,Apartment,new,1.0,19.6,10.38,600.0,Dream Apartment,19.972090000000037,73.82113000000004
+4273,"Dream Apartment,Eklahare, Nashik",Ejaj Sayyad,Apartment,new,2.0,22.05,11.68,690.0,Dream Apartment,19.972090000000037,73.82113000000004
+4274,"Dream Apartment,Eklahare, Nashik",Ejaj Sayyad,Apartment,new,2.0,23.4,12.39,722.0,Dream Apartment,19.972090000000037,73.82113000000004
+4275,"Dream Apartment,Eklahare, Nashik",Ejaj Sayyad,Apartment,new,1.0,20.5,10.86,575.0,Dream Apartment,19.972090000000037,73.82113000000004
+4276,"Dream Apartment,Eklahare, Nashik",Ejaj Sayyad,Apartment,new,2.0,23.17,12.27,778.0,Dream Apartment,19.972090000000037,73.82113000000004
+4277,"Dream Apartment,Eklahare, Nashik",Ejaj Sayyad,Apartment,new,2.0,23.45,12.42,750.0,Dream Apartment,19.972090000000037,73.82113000000004
+4278,"Dream Apartment,Eklahare, Nashik",Ejaj Sayyad,Apartment,new,2.0,23.0,12.18,767.0,Dream Apartment,19.972090000000037,73.82113000000004
+4279,"Dream Apartment,Eklahare, Nashik",Ejaj Sayyad,Apartment,new,2.0,23.12,12.24,697.0,Dream Apartment,19.972090000000037,73.82113000000004
+4280,"Sai Arpit,Nashik Road, Nashik",Ejaj Sayyad,Apartment,new,1.0,20.11,10.65,593.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4281,"Krishna Hightes,Professor Colony, Nashik",Ejaj Sayyad,Apartment,new,1.0,22.0,11.65,610.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4282,"Krishna Hightes,Professor Colony, Nashik",Ejaj Sayyad,Apartment,new,1.0,21.19,11.22,590.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4283,"Leash Residency,Matoshri Nagar, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,1.0,20.13,10.66,575.0,"Matoshri Nagar, Upnagar, Nashik, Maharashtra",19.97308000000004,73.82193000000007
+4284,"Leash Residency,Matoshri Nagar, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,1.0,20.06,10.62,573.0,"Matoshri Nagar, Upnagar, Nashik, Maharashtra",19.97308000000004,73.82193000000007
+4285,"Leash Residency,Matoshri Nagar, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,1.0,20.76,10.99,593.0,"Matoshri Nagar, Upnagar, Nashik, Maharashtra",19.97308000000004,73.82193000000007
+4286,"Vinayaka Park,Janata Raja Colony, Nashik",Ejaj Sayyad,Apartment,new,1.0,18.94,10.03,574.0,"Janata Raja Colony, Panchavati, Nashik, Maharashtra",20.02063000000004,73.78968000000003
+4287,"Leash Residency,Matoshri Nagar, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,2.0,27.27,14.44,779.0,"Matoshri Nagar, Upnagar, Nashik, Maharashtra",19.97308000000004,73.82193000000007
+4288,"Vinayaka Park,Janata Raja Colony, Nashik",Ejaj Sayyad,Apartment,new,2.0,33.59,17.79,1018.0,"Janata Raja Colony, Panchavati, Nashik, Maharashtra",20.02063000000004,73.78968000000003
+4289,"Leash Residency,Matoshri Nagar, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,1.0,14.6,7.73,417.0,"Matoshri Nagar, Upnagar, Nashik, Maharashtra",19.97308000000004,73.82193000000007
+4290,"Subak Regency,Vrindavan Nagar, Nashik",Ejaj Sayyad,Apartment,new,2.0,21.59,11.43,780.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4291,"Bardia Pearl Residency, Nashik Road, Nashik",Ejaj Sayyad,Apartment,new,1.0,18.25,9.66,612.0,Peavl Residency,19.99341000000004,73.80725000000007
+4292,"Bardia Pearl Residency, Nashik Road, Nashik",Ejaj Sayyad,Apartment,new,1.0,18.0,9.53,600.0,Peavl Residency,19.99341000000004,73.80725000000007
+4293,"Sai Plam,Ayodhya Nagari, Nashik",Ejaj Sayyad,Apartment,new,1.0,14.95,7.92,598.0,"Ayodhya Nagar, Upnagar, Nashik, Maharashtra",19.97475000000003,73.82099000000005
+4294,"Shubham Residency,Vrindavan Nagar, Nashik",Ejaj Sayyad,Apartment,new,1.0,19.0,10.06,619.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4295,"Sai Plam,Ayodhya Nagari, Nashik",Ejaj Sayyad,Apartment,new,1.0,14.88,7.88,595.0,"Ayodhya Nagar, Upnagar, Nashik, Maharashtra",19.97475000000003,73.82099000000005
+4296,"Sai Plam,Ayodhya Nagari, Nashik",Ejaj Sayyad,Apartment,new,1.0,14.88,7.88,590.0,"Ayodhya Nagar, Upnagar, Nashik, Maharashtra",19.97475000000003,73.82099000000005
+4297,"Sai Plam,Ayodhya Nagari, Nashik",Ejaj Sayyad,Apartment,new,1.0,14.75,7.81,590.0,"Ayodhya Nagar, Upnagar, Nashik, Maharashtra",19.97475000000003,73.82099000000005
+4298,"Sai Plam,Ayodhya Nagari, Nashik",Ejaj Sayyad,Apartment,new,1.0,14.88,7.88,595.0,"Ayodhya Nagar, Upnagar, Nashik, Maharashtra",19.97475000000003,73.82099000000005
+4299,"Shubham Residency,Vrindavan Nagar, Nashik",Ejaj Sayyad,Apartment,new,1.0,18.75,9.93,600.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4300,"Shubham Residency,Vrindavan Nagar, Nashik",Ejaj Sayyad,Apartment,new,1.0,18.79,9.95,600.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4301,"Shubham Residency,Vrindavan Nagar, Nashik",Ejaj Sayyad,Apartment,new,1.0,19.05,10.09,619.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4302,"Ashrayan Apartment,Hirawadi, Nashik",Ejaj Sayyad,Apartment,new,2.0,23.8,12.6,850.0,"Hirawadi, Panchavati, Nashik, Maharashtra",20.010980000000075,73.80851000000007
+4303,"Ashrayan Apartment B,Hirawadi, Nashik",Ejaj Sayyad,Apartment,new,1.0,17.36,9.19,620.0,"Hirawadi, Panchavati, Nashik, Maharashtra",20.010980000000075,73.80851000000007
+4304,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Mr Sanjay,Apartment,new,3.0,90.0,44.68,1550.0,"Anand Vihar Colony, Veer Savarkar Nagar, Nashik, Maharashtra",20.01290000000006,73.75045000000006
+4305,"Ashoknagar, Satpur,Nashik",Mr Sanjay,Apartment,new,3.0,77.0,38.23,1560.0,"Ashok Nagar, Satpur, Nashik, Maharashtra",19.98858000000007,73.71576000000005
+4306,"Panchavati, Nashik",NISHANT,Apartment,new,2.0,36.26,19.2,1000.0,"Panchavati, Nashik, Maharashtra",20.01678000000004,73.79665000000006
+4307,"College Road, Nashik",NISHANT,Apartment,new,2.0,81.81,40.62,1500.0,"College Road, Nashik, Maharashtra",20.007630000000063,73.76362000000006
+4308,"College Road, Nashik",NISHANT,Apartment,new,2.0,81.81,40.62,1500.0,"College Road, Nashik, Maharashtra",20.007630000000063,73.76362000000006
+4309,"Panchawati, Hirawadi,Nashik",NISHANT,Apartment,new,2.0,30.0,15.89,875.0,"Hirawadi, Panchavati, Nashik, Maharashtra",20.010980000000075,73.80851000000007
+4310,"Dawkhar Wadi, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,2.0,34.11,18.06,938.0,"Dawkhar Wadi, Devlali, Nashik, Maharashtra",19.960380000000043,73.82721000000004
+4311,"Dawkhar Wadi, Nashik Road,Nashik",Ejaj Sayyad,Apartment,new,1.0,22.31,11.81,625.0,"Dawkhar Wadi, Devlali, Nashik, Maharashtra",19.960380000000043,73.82721000000004
+4312,"Lakshmi Township,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,3.0,45.44,24.06,1150.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4313,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,36.55,19.35,925.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4314,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,34.97,18.52,885.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4315,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,34.37,18.2,870.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4316,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,3.0,45.54,24.11,1150.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4317,"Lakshmi Township,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,38.45,20.36,973.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4318,"Lakshmi Township,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,1.0,27.26,14.44,690.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4319,"Lakshmi Township,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,3.0,47.41,25.11,1200.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4320,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,2.0,34.97,18.52,885.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4321,"Laxmi Town Ship,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,3.0,47.41,25.11,1200.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4322,"Lakshmi Township,Suyog Colony, Satpur,Nashik",Ashish Purwar,Apartment,new,1.0,28.05,14.86,710.0,"Suyog Colony, Satpur, Nashik, Maharashtra",20.004200000000026,73.74582000000004
+4323,"Asha Bramha Greens, Trimbak, Nashik",Rupesh Shirole,Independent house,new,1.0,26.51,14.04,650.0,"Trimbak, Trimbakeshwar, Nashik, Maharashtra",19.933290000000056,73.53077000000008
+4324,"Samraat Dream Villas, Ganesh Baba Nagar, Nashik",Sumit Acharya,Independent house,new,3.0,87.0,43.19,1900.0,"Ganesh Baba Nagar, Wadala, Nashik, Maharashtra",19.981810000000053,73.80200000000008
+4325,"Viveka Nand Nagar, Anandwalli Gaon,Nashik",Umesh Shete,Independent house,new,3.0,125.0,62.06,2500.0,"Vivekanand Nagar, Anandvalli, Nashik, Maharashtra",20.010830000000055,73.74738000000008
+4326,"Asha Bramha Greens, Trimbak, Nashik",Rupesh Shirole,Independent house,new,1.0,30.0,15.89,650.0,"Trimbak, Trimbakeshwar, Nashik, Maharashtra",19.933290000000056,73.53077000000008
+4327,"Asha Bramha Greens, Trimbak, Nashik",Rupesh Shirole,Independent house,new,3.0,80.0,39.72,1500.0,"Trimbak, Trimbakeshwar, Nashik, Maharashtra",19.933290000000056,73.53077000000008
+4328,"Bramha Greens Farm House Project ,Trimbak, Nashik",Rupesh Shirole,Independent house,new,1.0,25.0,13.24,550.0,"Trimbak, Trimbakeshwar, Nashik, Maharashtra",19.933290000000056,73.53077000000008
+4329,"Asha Bramha Greens, Trimbak, Nashik",Rupesh Shirole,Independent house,new,1.0,30.0,15.89,650.0,"Trimbak, Trimbakeshwar, Nashik, Maharashtra",19.933290000000056,73.53077000000008
+4333,"Ganesh Baba Nagar, Nashik",Prathmesh Constructions,Independent house,new,3.0,48.84,25.86,975.0,"Ganesh Baba Nagar, Wadala, Nashik, Maharashtra",19.981810000000053,73.80200000000008
+4335,"Uttam Nagar, Nashik",Malpani Group,Independent house,new,3.0,54.15,28.68,975.0,"Uttam Nagar, Cidco, Nashik, Maharashtra",19.96724000000006,73.75504000000006
+4337,"Dwarka, Nashik",Dugad Developers,Independent house,new,3.0,65.0,34.42,975.0,"Dwarka, Nashik, Maharashtra",19.993070000000046,73.80571000000003
+4339,"Nashik Road, Nashik",Vaibhav Maid,Independent house,new,3.0,67.0,35.48,578.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4340,"Ojhar, Nashik",Sheetal Kumar,Independent house,new,5.0,56.0,29.66,2600.0,"Ojhar, Niphd, Nashik, Maharashtr",20.096910000000037,73.92601000000008
+4341,"Eklahare, Nashik",Uttam Chavan,Independent house,new,4.0,25.0,13.24,1400.0,"Eklahare, Nashik, Maharashtra",19.97711000000004,73.88704000000007
+4343,"Ghatkopar, Nashik",Kantilal H Pokar,Independent house,new,2.0,39.5,20.92,1250.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4344,"Vijay Nagar, Nashik",Pravin Patil,Independent house,new,4.0,31.0,16.42,850.0,"Vijay Nagar, Chehdi, Nashik, Maharashtra",19.93580000000003,73.85298000000006
+4345,"Pearl Park, Ambedkar Nagar, Chunchale,Nashik",SANTOSH KARANKAL,Independent house,new,2.0,38.5,20.39,1250.0,"Ambedkar Nagar, Chunchale, Nashik, Maharashtra",19.96401000000003,73.72648000000004
+4346,"Durga Nagar, Sneha Nagar,Nashik",Anjali Anjali,Independent house,new,3.0,75.0,39.72,1500.0,"Durga Nagar, Makhamalabad, Nashik, Maharashtra",20.03514000000007,73.79593000000006
+4347,"Prabhat Nagar, Nashik",Hardik Poriya,Independent house,new,2.0,44.0,23.3,1560.0,"Prabhat Nagar, Mhasrul, Nashik, Maharashtra",20.052320000000066,73.80252000000007
+4348,"Omkar Nagar, Nashik",Mangesh,Independent house,new,4.0,70.0,37.07,2000.0,"Omkar Nagar, Makhamalabad, Nashik, Maharashtra",20.046070000000043,73.79492000000005
+4349,"Srinivas Colony, Uttara Nagar,Nashik",Harshada Mandlik,Independent house,new,2.0,38.0,20.12,1200.0,"L B Nagar Road, Lingoji Guda, Hyderabad, Rangareddy, Telangana, 500059",17.353536617128512,78.53426704324445
+4350,"Omkar row house,Pathardi Gaon, Pathardi Phata,Nashik",Santosh Sanap,Independent house,new,2.0,43.0,22.77,1000.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4351,"Vraj vandana,Makhmalabad, Nashik",Nikhil Metaliya,Independent house,new,2.0,38.0,20.12,1142.0,"Makhmalabad, Makhamalabad, Nashik, Maharashtra",20.04723000000007,73.77545000000003
+4352,"Bunglow,Nashik Road, Nashik",Meghan,Independent house,new,6.0,250.0,1.24,4000.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4353,"House No 7,DGP Nagar, Nashik",Ashish,Independent house,new,3.0,51.0,27.01,1350.0,"DGP Nagar, Ambad, Nashik, Maharashtra",19.968270000000075,73.74230000000006
+4354,"Ghatkopar, Nashik",Kantilal H Pokar,Independent house,new,2.0,39.5,20.92,1250.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4355,"Samarth Nagar, Makhmalabad,Nashik",Gopal Dalvi,Independent house,new,2.0,31.5,16.68,1060.0,"Samarth Nagar, Makhamalabad, Nashik, Maharashtra",20.049050000000022,73.79696000000007
+4356,"GS Aarambh,Chandshi, Nashik",Saumitra Patil,Independent house,new,3.0,55.0,29.13,1350.0,"Chandshi, Nashik Sub-District, Nashik, Maharashtra",20.03875000000005,73.75025000000005
+4357,"Makhmalabad, Nashik",Gopal Dalvi,Independent house,new,2.0,31.0,16.42,1090.0,"Makhmalabad, Makhamalabad, Nashik, Maharashtra",20.04723000000007,73.77545000000003
+4358,"GS Aarambh,Chandshi, Nashik",Saumitra Patil,Independent house,new,3.0,55.0,29.13,1305.0,"Chandshi, Nashik Sub-District, Nashik, Maharashtra",20.03875000000005,73.75025000000005
+4359,"Pandav Nagari, Pathardi Phata,Nashik",Ganesh Gorhe,Independent house,new,3.0,40.0,21.18,1100.0,"Pandav Nagari, Indira Nagar, Nashik, Maharashtra",19.959310000000073,73.77976000000007
+4360,"Palase, Nashik",Prashant Deokar,Independent house,new,1.0,18.5,9.8,550.0,"Palase, Nashik Sub-District, Nashik, Maharashtra",19.89169000000004,73.88093000000003
+4361,"Shinde, Nashik",Sagar Bagul,Independent house,new,3.0,80.0,39.72,4355.0,"Shinde, Nashik Sub-District, Nashik, Maharashtra",19.917850000000044,73.90068000000008
+4362,"Shinde, Nashik",Sagar Bagul,Independent house,new,3.0,80.0,39.72,4435.0,"Shinde, Nashik Sub-District, Nashik, Maharashtra",19.917850000000044,73.90068000000008
+4363,"Makhmalabad, Nashik",PARESH PATEL,Independent house,new,3.0,55.0,29.13,1920.0,"Makhmalabad, Makhamalabad, Nashik, Maharashtra",20.04723000000007,73.77545000000003
+4364,"Nashik Road, Nashik",Pooja,Independent house,new,2.0,35.0,18.53,1050.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4365,"Ayodhya Nagar, Nashik Road,Nashik",Manisha Thakre,Independent house,new,4.0,120.0,59.58,1200.0,"Ayodhya Nagar, Upnagar, Nashik, Maharashtra",19.97475000000003,73.82099000000005
+4366,"Nashik Road, Nashik",SP KHARE.,Independent house,new,2.0,40.0,21.18,1350.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4367,"Sunflower Apartment, Nashik Road, Nashik",Arjun,Independent house,new,2.0,41.0,21.71,1025.0,Sunflower,19.96449000000007,73.77258000000006
+4368,"Row houserow house,Sinnar Taluka, Nashik",Novini Pawar,Independent house,new,2.0,25.0,13.24,1060.0,"Sinnar, Nashik, Maharashtra",19.843690000000038,73.99385000000007
+4369,"Laxmi Square,Ghatkopar, Nashik",Nitin,Independent house,new,3.0,42.0,22.24,1783.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4370,"Ghatkopar, Nashik",Kantilal H. Pokar,Independent house,new,2.0,39.5,20.92,1350.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4371,"Pearl Park, Ambedkar Nagar, Chunchale,Nashik",Abhishek Mishra,Independent house,new,2.0,35.0,18.53,1000.0,"Ambedkar Nagar, Chunchale, Nashik, Maharashtra",19.96401000000003,73.72648000000004
+4372,"Bhujbal Knowledge City, Adgaon,Nashik",Milind Pawar,Independent house,new,2.0,42.0,22.24,1400.0,"Bhujbal Knowledge City, Adgaon, Nashik, Maharashtra",20.042040000000043,73.85006000000004
+4373,"Nandur Village, Nashik",Anay S Halbe,Independent house,new,3.0,55.0,29.13,1500.0,"Nandur Village, Nandur, Nashik, Maharashtra",19.994530000000054,73.84379000000007
+4374,"Palase, Nashik",P,Independent house,new,1.0,21.0,11.12,550.0,"Palase, Nashik Sub-District, Nashik, Maharashtra",19.89169000000004,73.88093000000003
+4375,"Ekdant Nagar, Nashik",Deepak K,Independent house,new,3.0,98.0,48.65,2000.0,"Ekdant Chowk, Cidco, Nashik, Maharashtra, 422008",19.979170260649266,73.75068741267982
+4376,"Balaji row house number 10 near royal town building pandhari Nagar makhmalabad,Makhmalabad, Nashik",Mukund Jairam Shirsath,Independent house,new,2.0,45.0,23.83,1050.0,"Makhmalabad, Makhamalabad, Nashik, Maharashtra",20.04723000000007,73.77545000000003
+4377,"Cidco, Nashik",Sharad,Independent house,new,3.0,85.0,42.2,2100.0,"Cidco Nashik, Cidco, Nashik, Maharashtra",19.976870000000076,73.76695000000007
+4378,"Ashoknagar, Satpur,Nashik",Patil,Independent house,new,1.0,39.5,20.92,1500.0,"Ashok Nagar, Satpur, Nashik, Maharashtra",19.98858000000007,73.71576000000005
+4379,"Dattanagar, Dattanagar,Nashik",Randhir Satish,Independent house,new,2.0,45.0,23.83,1210.0,"Dattanagar, Kalwan, Nashik, Maharashtra",20.476200000000063,73.92358000000007
+4382,"Rowhous,Makhmalabad, Nashik",Ganesh Kothule,Independent house,new,2.0,35.0,18.53,423.0,"Makhmalabad, Makhamalabad, Nashik, Maharashtra",20.04723000000007,73.77545000000003
+4383,"Prabudha Nagar, Satpur,Nashik",Sharwaree,Independent house,new,2.0,23.0,12.18,750.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4384,"Nashik Road, Nashik",Sandip Kulkarni,Independent house,new,2.0,32.0,16.95,978.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4385,"3 shri athrava row houses vaishali nagar dasak jailroad,Nashik Road, Nashik",Sandip Kulkarni,Independent house,new,2.0,32.0,16.95,978.0,"Jail Road, Nashik Road, Nashik, Maharashtra, 422101",19.962212498975077,73.83917011965028
+4386,"Dhurav Nagar, Satpur,Nashik",Arun Nair,Independent house,new,5.0,129.0,64.04,3500.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4387,"Twin bunglow,Cidco, Nashik",Raju Tajanpure,Independent house,new,3.0,64.0,33.89,1620.0,Bungalow,19.982030000000066,73.76152000000008
+4388,"twin banglow,Cidco, Nashik",Raju Tajanpure,Independent house,new,3.0,65.0,34.42,1620.0,"Cidco Nashik, Cidco, Nashik, Maharashtra",19.976870000000076,73.76695000000007
+4389,"RTO Colony, Uttara Nagar,Nashik",Pravin Sanap,Independent house,new,2.0,37.0,19.59,1200.0,"Rto Colony, Sarnath, Varanasi, Uttar Pradesh",25.36176000000006,83.01741000000004
+4390,"Shree Yashashree Suryamala, Ekdant Nagar, Nashik",Swapnil S,Independent house,new,3.0,52.0,27.54,1400.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4391,"Saakar row house,Nandur Village, Nashik",Shrikant Mulik,Independent house,new,2.0,38.0,20.12,1050.0,"Nandur Village, Nandur, Nashik, Maharashtra",19.994530000000054,73.84379000000007
+4393,"VARAD BUNGALOW,Vrindavan Nagar, Nashik",Chinmay Gosavi,Independent house,new,3.0,65.0,34.42,1361.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4394,"Makhmalabad, Nashik",Jayendra Wagh,Independent house,new,2.0,45.0,23.83,1400.0,"Makhmalabad, Makhamalabad, Nashik, Maharashtra",20.04723000000007,73.77545000000003
+4395,"VARAD BUNGALOW ,Vrindavan Nagar, Nashik",Chinmay Gosavi,Independent house,new,3.0,65.0,34.42,1361.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4396,"Anirudha Row ouses,Ashwamegh Nagar, Makhmalabad,Nashik",Praful,Independent house,new,2.0,32.0,16.95,1153.0,"Ashwamegh Nagar, Makhamalabad, Nashik, Maharashtra",20.03523000000007,73.79084000000006
+4397,"Adgaon, Nashik",Deepak Shah,Independent house,new,4.0,70.0,37.07,2250.0,"Adgaon, Nashik, Maharashtra",20.036910000000034,73.84384000000006
+4398,"Adgaon, Nashik",Deepak Shah,Independent house,new,4.0,70.0,37.07,2250.0,"Adgaon, Nashik, Maharashtra",20.036910000000034,73.84384000000006
+4399,"Dhurav Nagar, Satpur,Nashik",Varsha Anil Bhalerao,Independent house,new,2.0,42.0,22.24,950.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4400,"Nishant Iken Phase 1, Sagar Village, Nashik",Bramha Deweel Sonawane,Independent house,new,3.0,135.0,67.02,2500.0,"Phate, Sinnar, Nashik, Maharashtra",19.848020000000076,73.94144000000006
+4401,"Sagar Village, Nashik",Devil Sonawane,Independent house,new,3.0,135.0,67.02,2500.0,"Agar, Malegaon Sub-District, Nashik, Maharashtra",20.54472000000004,74.39980000000008
+4402,"Gurukrupa building,Cidco, Nashik",Dr.Pravin Bachhao,Independent house,new,3.0,75.0,39.72,1873.0,Gurukrupa,19.98258000000004,73.75671000000006
+4403,"Gurukrupa building,Cidco, Nashik",Dr.Pravin Bachhao,Independent house,new,3.0,75.0,39.72,1873.0,Gurukrupa,19.98258000000004,73.75671000000006
+4404,"Krishna Stuti, Omkar Nagar, Nashik",Kalpesh Patil,Independent house,new,2.0,38.0,20.12,1100.0,"Omkar Nagar, Makhamalabad, Nashik, Maharashtra",20.046070000000043,73.79492000000005
+4405,"3Parth Niketan Row House,Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Vilas Pawar,Independent house,new,3.0,72.0,38.13,1850.0,"Gandhi Nagar Airport Area, Gandhi Nagar, Nashik, Maharashtra",19.946250000000077,73.81470000000007
+4406,"Nashik Road, Nashik",Pravin Wani,Independent house,new,1.0,25.0,13.24,836.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4407,"Wadala Gaon, Nashik",Shahin Pathan,Independent house,new,1.0,13.5,7.15,525.0,"Wadala, Nashik, Maharashtra",19.97693000000004,73.79817000000008
+4408,"Ashwin Nagar, Nashik",Adrian Dsouza,Independent house,new,3.0,295.0,1.46,2000.0,"Ashwin Nagar, Cidco, Nashik, Maharashtra",19.961150000000032,73.76057000000003
+4409,"Pokar Colony, Vaiduwadi,Nashik",Poonam Gehani,Independent house,new,3.0,35.0,18.53,1100.0,"Pokar Colony, Mhasrul, Nashik, Maharashtra",20.03457000000003,73.80527000000006
+4410,"MIDC, Satpur,Nashik",Saraswati Ventures,Independent house,new,1.0,20.0,10.59,975.0,"Satpur Midc, Satpur, Nashik, Maharashtra",19.99968000000007,73.72605000000004
+4411,"Ekdant Nagar, Nashik",Krishna,Independent house,new,3.0,52.0,27.54,1600.0,"Ekdant Chowk, Cidco, Nashik, Maharashtra, 422008",19.979170260649266,73.75068741267982
+4412,"Chandwad, Nashik",Vishal Dayama,Independent house,new,2.0,37.0,19.59,762.0,"Chandwad, Nashik, Maharashtra",20.325380000000052,74.23934000000008
+4413,"Shree Kashishwar Park,Nashik Road, Nashik",Karan Deshmukh,Independent house,new,2.0,23.0,12.18,970.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4414,"Kala Nagar, Indira Nagar,Nashik",Nilesh Bagul,Independent house,new,2.0,42.0,22.24,1050.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4415,"Row houses dhruva nagar,Dhurav Nagar, Satpur,Nashik",Imani Patel,Independent house,new,2.0,37.0,19.59,1375.0,"Dhruva Nagar, Dhruv Nagar, Nashik, Maharashtra",20.01553000000007,73.71710000000007
+4416,"GURUKRUPA bubuilding ,Lekha Nagar, Nashik",Sachin,Independent house,new,3.0,85.0,42.2,1620.0,"Lekha Nagar, Cidco, Nashik, Maharashtra",19.972000000000037,73.77169000000004
+4417,"Makhmalabad, Nashik",HITESH AHIRE,Independent house,new,2.0,38.0,20.12,1450.0,"Makhmalabad, Makhamalabad, Nashik, Maharashtra",20.04723000000007,73.77545000000003
+4418,"Deolali Gaon, Nashik",Standard Realtors,Independent house,new,3.0,122.0,60.67,975.0,"Deolali Gaon, Devlali, Nashik, Maharashtra",19.944270000000074,73.83229000000006
+4419,"Pokar Colony, Vaiduwadi,Nashik",Vikas,Independent house,new,2.0,45.0,23.83,1100.0,"Pokar Colony, Mhasrul, Nashik, Maharashtra",20.03457000000003,73.80527000000006
+4420,"Pokar Colony, Vaiduwadi,Nashik",Digambar Eknath Maid,Independent house,new,2.0,51.0,27.01,1500.0,"Pokar Colony, Mhasrul, Nashik, Maharashtra",20.03457000000003,73.80527000000006
+4421,"Bhujbal Knowledge City, Adgaon,Nashik",Amol Pandit Davange,Independent house,new,1.0,32.0,16.95,1800.0,"Bhujbal Knowledge City, Adgaon, Nashik, Maharashtra",20.042040000000043,73.85006000000004
+4422,"Milan park,Prabudha Nagar, Satpur,Nashik",Swapnil Nikhade,Independent house,new,1.0,25.0,13.24,1100.0,Milan Park,19.99445000000003,73.70453000000003
+4423,"Shree Vallabh Plot No 29,Prabhat Colony, Nashik",Ashish,Independent house,new,5.0,100.0,49.65,2500.0,"Prabhat Colony, Cidco, Nashik, Maharashtra",19.971810000000062,73.76890000000003
+4424,"Ashoknagar, Satpur,Nashik",Mayur Kedare,Independent house,new,4.0,22.0,11.65,840.0,"Ashok Nagar, Satpur, Nashik, Maharashtra",19.98858000000007,73.71576000000005
+4425,"Balram Nagar, Nashik",Pravin Ghatekar,Independent house,new,2.0,30.9,16.36,1100.0,"Balram Nagar, Panchavati, Nashik, Maharashtra",20.024500000000046,73.83583000000004
+4426,"Pathardi Gaon, Pathardi Phata,Nashik",Prabhakar Borse,Independent house,new,3.0,75.0,39.72,2400.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4427,"Pathardi Gaon, Pathardi Phata,Nashik",Prabhakar Borse,Independent house,new,3.0,78.0,38.72,1875.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4428,"Pathardi Gaon, Pathardi Phata,Nashik",Prabhakar Borse,Independent house,new,3.0,78.0,38.72,1875.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4429,"Sri Ram Nagar, Cidco,Nashik",Amol More,Independent house,new,7.0,42.0,22.24,2000.0,"Shree Ram Nagar, Panchavati, Nashik, Maharashtra",20.016830000000027,73.79323000000005
+4430,"Bhujbal Knowledge City, Adgaon,Nashik",Rakesh Viramgama,Independent house,new,2.0,35.1,18.59,1128.0,"Bhujbal Knowledge City, Adgaon, Nashik, Maharashtra",20.042040000000043,73.85006000000004
+4431,"Talware Imperial Meadows Phase 1, Balram Nagar, Nashik",Prashant Songire,Independent house,new,3.0,66.0,34.95,1800.0,"Balram Nagar, Panchavati, Nashik, Maharashtra",20.024500000000046,73.83583000000004
+4432,"Balram Nagar, Nashik",Samarth Bansole,Independent house,new,4.0,76.0,37.73,1200.0,"Balram Nagar, Panchavati, Nashik, Maharashtra",20.024500000000046,73.83583000000004
+4433,"Row house chandshi nashik,Chandshi, Nashik",Anil Sonawane,Independent house,new,2.0,50.0,26.48,1550.0,"Chandshi, Nashik Up-Jila, Nashik, Maharashtra",20.03875000000005,73.75025000000005
+4434,"NIRMAL SPANDAN,Vrindavan Nagar, Nashik",Ayush Sonawane,Independent house,new,2.0,41.0,21.71,1300.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4435,"NIRMAL SADAN,Vrindavan Nagar, Nashik",Ayush Sonawane,Independent house,new,4.0,55.0,29.13,1850.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4436,"Kala Nagar, Indira Nagar,Nashik",Mohan S Agrawal,Independent house,new,2.0,1.0,529.0,800.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4437,"Nashik Road, Nashik",ANIL K Ganatra,Independent house,new,1.0,18.0,9.53,620.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4438,"Ashoknagar, Satpur,Nashik",Mayur Kedare,Independent house,new,3.0,23.0,12.18,840.0,"Ashok Nagar, Satpur, Nashik, Maharashtra",19.98858000000007,73.71576000000005
+4439,"Hirawadi,Panchavati, Nashik",Rahul Krishna Ware,Independent house,new,3.0,80.0,39.72,1300.0,"Hirawadi, Panchavati, Nashik, Maharashtra",20.010980000000075,73.80851000000007
+4440,"CDO-MERI Colony, Nashik",Amol Pathade Bhartiya,Independent house,new,3.0,100.0,49.65,1600.0,"Meri Colony, Meri, Nashik, Maharashtra",20.026790000000062,73.80024000000003
+4441,"Hirawadi, Nashik",Rahul Krishna Ware,Independent house,new,3.0,80.0,39.72,1300.0,"Hirawadi, Panchavati, Nashik, Maharashtra",20.010980000000075,73.80851000000007
+4442,"CDO-MERI Colony, Nashik",Amol Pathade Bhartiya,Independent house,new,3.0,100.0,49.65,1500.0,"Meri Colony, Meri, Nashik, Maharashtra",20.026790000000062,73.80024000000003
+4443,"Pimpalgaon Baswant, Nashik",Dnyaneshwar Sudhakar Deore,Independent house,new,2.0,25.0,13.24,900.0,"Pimplagaon Baswant, Niphad, Nashik, Maharashtra",20.182990000000075,73.99257000000006
+4444,"Mhasrul Gaon, Nashik",Kailas Gosavi,Independent house,new,3.0,35.0,18.53,1400.0,"Mhasrul Gaon, Mhasrul, Nashik, Maharashtra",20.04813000000007,73.80687000000006
+4445,"Mhasrul Gaon, Nashik",Kailas Gosavi,Independent house,new,3.0,35.0,18.53,1400.0,"Mhasrul Gaon, Mhasrul, Nashik, Maharashtra",20.04813000000007,73.80687000000006
+4446,"Shikshak Colony,Balram Nagar, Nashik",Pravin Ghatekar,Independent house,new,2.0,32.0,16.95,645.0,"Shikshak Colony, Panchavati, Nashik, Maharashtra",20.031240000000025,73.83247000000006
+4447,"Row Bunglow,DGP Nagar, Nashik",Rohidas,Independent house,new,2.0,38.0,20.12,1200.0,"DGP Nagar, Ambad, Nashik, Maharashtra",19.968270000000075,73.74230000000006
+4448,"Ganpati Nagar, Anandwalli Gaon,Nashik",Atul Aher,Independent house,new,3.0,100.0,49.65,1700.0,"Mahatma Nagar Road, Anandvalli, Nashik, Maharashtra, 422013",20.00905333018756,73.75537977829924
+4449,"Pathardi Gaon, Pathardi Phata,Nashik",Samyak Nashik,Independent house,new,3.0,72.0,38.13,1770.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4450,"Sri Ram Nagar, Konark Nagar,Nashik",LP,Independent house,new,2.0,28.5,15.09,1050.0,"Konark Nagar-Shri Ram Nagar, Adgaon, Nashik, Maharashtra",20.02108000000004,73.84393000000006
+4451,"SAI ASHIRWAD ROW BUNGLOWS,Nashik Road, Nashik",VAIBHAV,Independent house,new,2.0,38.0,20.12,1118.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4452,"Pearl Park, Ambedkar Nagar, Chunchale,Nashik",Chandrakant,Independent house,new,2.0,43.0,22.77,1100.0,"Ambedkar Nagar, Chunchale, Nashik, Maharashtra",19.96401000000003,73.72648000000004
+4453,"DGP Nagar, Nashik",Gunvant Mahajan,Independent house,new,2.0,29.0,15.36,850.0,"DGP Nagar, Ambad, Nashik, Maharashtra",19.968270000000075,73.74230000000006
+4454,"Sai prasad row house,Saptashrungi Nagar, Kamatwade Gaon,Nashik",Shekhar,Independent house,new,2.0,49.0,25.95,1000.0,"Saptashrungi Nagar, Nashik, Maharashtra",19.974420000000066,73.83381000000003
+4455,"Konark Nagar, Nashik",LP,Independent house,new,2.0,43.0,22.77,1250.0,"Konark Nagar, Adgaon, Nashik, Maharashtra",20.019760000000076,73.84737000000007
+4456,"Sham sundar ro house,Pathardi Gaon, Pathardi Phata,Nashik",Dinesh Salve,Independent house,new,2.0,40.0,21.18,1250.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4458,"Chetana Nagar, Rane Nagar,Nashik",Rutwik Chumbhale,Independent house,new,3.0,55.0,29.13,1400.0,"Chetana Nagar, Indira Nagar, Nashik, Maharashtra",19.96311000000003,73.77113000000008
+4459,"Panchavati, Nashik",Lalit Deore,Independent house,new,2.0,50.0,26.48,795.0,"Panchavati, Nashik, Maharashtra",20.01678000000004,73.79665000000006
+4460,"Kishore Jai Gayatri Apartment, Dhurav Nagar, Satpur,Nashik",Ashok Wagh,Independent house,new,3.0,35.0,18.53,1040.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4461,"Panchavati, Nashik",Lalit Deore,Independent house,new,2.0,50.0,26.48,795.0,"Panchavati, Nashik, Maharashtra",20.01678000000004,73.79665000000006
+4462,"Sahjeevan Colony, Nashik",Kishor Sangle,Independent house,new,2.0,80.0,39.72,1065.0,"Sahajeevan Colony, College Road, Nashik, Maharashtra",20.001270000000034,73.76571000000007
+4463,"Panchavati, Nashik",Prashant Musale,Independent house,new,1.0,17.21,9.11,550.0,"Panchavati, Nashik, Maharashtra",20.01678000000004,73.79665000000006
+4464,"Adhav Nagar, Nashik Road,Nashik",Chintu Pawar CP,Independent house,new,3.0,60.0,31.77,1800.0,"Adhav Nagar, Dasak, Nashik, Maharashtra",19.978050000000053,73.83652000000006
+4465,"Ayodhya Nagari, Nashik",Dinesh Birari,Independent house,new,2.0,31.0,16.42,1050.0,"Ayodhya Nagar, Upnagar, Nashik, Maharashtra",19.97475000000003,73.82099000000005
+4466,"Vrajbhoomi housing society,Hirawadi, Nashik",Jayant,Independent house,new,3.0,52.0,27.54,1500.0,"Hirawadi, Panchavati, Nashik, Maharashtra",20.010980000000075,73.80851000000007
+4467,"Kala Nagar, Indira Nagar,Nashik",RUPESH DESHMUKH,Independent house,new,2.0,38.0,20.12,1000.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4468,"Kishor Nagar, Nashik",Shweta,Independent house,new,2.0,35.0,18.53,1250.0,Kishor Nagar,19.965990000000033,73.77292000000006
+4469,"Ganraj row bunglow,Hirawadi, Nashik",Jayesh Patal,Independent house,new,3.0,38.0,20.12,1409.0,"Hirawadi, Panchavati, Nashik, Maharashtra",20.010980000000075,73.80851000000007
+4470,"Sa ShruShrushti,Vadner Dumala, Nashik",Saantos Mule,Independent house,new,2.0,45.0,23.83,1350.0,"Vadner Dumala, Nashik, Maharashtra",19.937430000000063,73.81047000000007
+4471,"Sadguru Royal Residency Project, Adgaon, Nashik",Sneha Fatangle,Independent house,new,1.0,18.0,9.53,600.0,"Adgaon, Nashik, Maharashtra",20.036910000000034,73.84384000000006
+4472,"Kala Nagar, Indira Nagar,Nashik",Sandeep,Independent house,new,4.0,200.0,99.29,2500.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4473,"Amrutmay villas,Ramkrishna Nagar, Makhmalabad,Nashik",Anup Somvanshi,Independent house,new,2.0,34.0,18.0,1420.0,"Ram Krishna Nagar, Makhamalabad, Nashik, Maharashtra",20.044560000000047,73.78355000000005
+4474,"RTO Colony, Uttara Nagar,Nashik",Raj Bhalerao,Independent house,new,1.0,16.0,8.47,500.0,"Rto Colony, Sarnath, Varanasi, Uttar Pradesh",25.36176000000006,83.01741000000004
+4475,"Ojhar, Nashik",Karan Kumar,Independent house,new,5.0,65.0,34.42,2650.0,"Ojhar, Niphd, Nashik, Maharashtr",20.096910000000037,73.92601000000008
+4476,"Hatgad, Nashik",Rajubhai,Independent house,new,1.0,18.0,9.53,420.0,"Hatgad, Surgana, Nashik, Maharashtra",20.556580000000054,73.75654000000003
+4477,"Kartikey row houses,Dnyaneshwar Nagar, Pathardi Phata,Nashik",Swapnil Dhake,Independent house,new,2.0,33.0,17.48,910.0,"Dnyaneshwar Nagar, Pathardi Phata, Nashik, Maharashtra",19.953640000000064,73.76930000000004
+4478,"Dugad Atharva Pride, Matoshree Nagar, Nashik",Umang,Independent house,new,1.0,12.0,6.35,250.0,"Matoshree Nagar, Tidke Colony, Nashik, Maharashtra",19.988690000000076,73.77717000000007
+4479,"Kailash Nagar, Nashik",Vaishali Gokul Chitte,Independent house,new,3.0,77.0,38.23,1946.0,"Kailash Nagar, Panchavati, Nashik, Maharashtra",20.004390000000058,73.83142000000004
+4480,"Dattamali chs,Nashik Road, Nashik",Tarun Bhagat,Independent house,new,2.0,26.0,13.77,725.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4481,"Rajnada Banglow,Nashik Road, Nashik",Sanjay Bhosale,Independent house,new,2.0,60.0,31.77,900.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4482,"Makhmalabad, Nashik",Pramod Jadhav,Independent house,new,4.0,72.0,38.13,1200.0,"Makhmalabad, Makhamalabad, Nashik, Maharashtra",20.04723000000007,73.77545000000003
+4483,"Adhav Nagar, Nashik Road,Nashik",Nikhil Chaudhari,Independent house,new,4.0,95.0,47.16,1000.0,"Adhav Nagar, Dasak, Nashik, Maharashtra",19.978050000000053,73.83652000000006
+4484,"Ashwamegh Nagar, Makhmalabad,Nashik",Asha Sadashiv Vibhutey,Independent house,new,2.0,35.0,18.53,1100.0,"Ashwamegh Nagar, Makhamalabad, Nashik, Maharashtra",20.03523000000007,73.79084000000006
+4485,"GOUDHAM PHASE 2 near shivkrupsweet,Adgaon, Nashik",Prabodhan,Independent house,new,2.0,32.51,17.22,1134.0,"Adgaon, Nashik, Maharashtra",20.036910000000034,73.84384000000006
+4486,"Palase, Nashik",Dhananjay,Independent house,new,3.0,60.0,31.77,1900.0,"Palase, Nashik Sub-District, Nashik, Maharashtra",19.89169000000004,73.88093000000003
+4487,"Ashoknagar, Satpur,Nashik",Jagdish Walunj,Independent house,new,2.0,70.0,37.07,1000.0,"Ashok Nagar, Satpur, Nashik, Maharashtra",19.98858000000007,73.71576000000005
+4488,"Adgaon, Nashik",Shankar,Independent house,new,3.0,56.0,29.66,1450.0,"Adgaon, Nashik, Maharashtra",20.036910000000034,73.84384000000006
+4489,"Bhujbal Knowledge City, Adgaon,Nashik",Shankar,Independent house,new,1.0,57.0,30.18,1450.0,"Bhujbal Knowledge City, Adgaon, Nashik, Maharashtra",20.042040000000043,73.85006000000004
+4490,"Hatgad, Nashik",Rajubhai,Independent house,new,1.0,18.0,9.53,400.0,"Hatgad, Surgana, Nashik, Maharashtra",20.556580000000054,73.75654000000003
+4491,"Satpur, Nashik",Yogesh Chauhan,Independent house,new,2.0,35.0,18.53,800.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4492,"Trimbak, Nashik",Rahul Jain,Independent house,new,1.0,25.0,13.24,450.0,"Trimbak, Trimbakeshwar, Nashik, Maharashtra",19.933290000000056,73.53077000000008
+4493,"Shramik Nagar, Manik Nagar,Nashik",Krishnamurti,Independent house,new,3.0,90.0,44.68,1500.0,"Shramik Nagar, Satpur, Nashik, Maharashtra",19.995840000000044,73.70402000000007
+4494,"Vrindavan Nagar, Nashik",Ravindra Ahire,Independent house,new,1.0,21.0,11.12,850.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4495,"Pathardi Gaon, Pathardi Phata,Nashik",Mukund Khule,Independent house,new,2.0,36.0,19.06,1200.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4496,"Balram Nagar, Nashik",Aashirvad Builders,Independent house,new,2.0,45.0,23.83,1450.0,"Balram Nagar, Panchavati, Nashik, Maharashtra",20.024500000000046,73.83583000000004
+4497,"Ekta Ekta Greenville, Buddha Vihar, Pathardi Phata,Nashik",Kunal Madhani,Independent house,new,3.0,99.0,49.15,2500.0,"Buddha Vihar, Pathardi Phata, Nashik, Maharashtra",19.945340000000044,73.74791000000005
+4498,"Shree bunglow near ,Pathardi Gaon, Pathardi Phata,Nashik",Ravindra Gaikar,Independent house,new,3.0,65.0,34.42,1844.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4499,"Suman row house,Pandav Nagari, Pathardi Phata,Nashik",Ravindra Gaikar,Independent house,new,3.0,45.0,23.83,1462.0,"Pandav Nagari, Indira Nagar, Nashik, Maharashtra",19.959310000000073,73.77976000000007
+4500,"Vighnaharta row house,Damodar Nagar, Pathardi Phata,Nashik",Ravindra Gaikar,Independent house,new,2.0,32.0,16.95,1179.0,"Damodar Nagar, Pathardi Phata, Nashik, Maharashtra",19.947490000000073,73.76139000000006
+4501,"C S Shivganga Duplex Row House, Pimpalgaon Bahula, Nashik",Ravindra Gaikar,Independent house,new,3.0,45.0,23.83,1176.0,"Pimpalgaon Bahula, Nashik, Maharashtra",19.979460000000074,73.70883000000003
+4502,"2BHK Bungalowa For Sale,Adgaon, Nashik",Ayush Sonawane,Independent house,new,2.0,41.0,21.71,1300.0,"Adgaon, Nashik, Maharashtra",20.036910000000034,73.84384000000006
+4503,"Nashik Road, Nashik",Rohit Shinde,Independent house,new,2.0,50.0,26.48,1800.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4504,"Shri Ganga Heights,Kalpataru Nagar, Nashik",Rajesh Yadav,Independent house,new,3.0,79.5,39.47,1893.0,"Kalpataru Nagar, Wadala, Nashik, Maharashtra",19.978110000000072,73.79962000000006
+4505,"Kala Nagar, Indira Nagar,Nashik",Prabhakar,Independent house,new,2.0,41.0,21.71,1250.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4506,"Swami Samarth Nagar, Nashik Road,Nashik",Dattatray Bhamre,Independent house,new,2.0,35.0,18.53,1000.0,"Swami Samarth Nagar, Mankar Mala, Nashik, Maharashtra",19.955390000000023,73.85953000000006
+4507,"Laxman Nagar, Nashik Road,Nashik",PRASHANT GAIKWAD,Independent house,new,6.0,85.0,42.2,1450.0,"Laxman Nagar, Panchavati, Nashik, Maharashtra",20.018250000000023,73.79397000000006
+4508,"lilavati hspital,Makhmalabad, Nashik",Devidas Sangale,Independent house,new,3.0,44.0,23.3,1500.0,Lilavati Hospital,20.037310000000048,73.78209000000004
+4509,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Poonam Gehani,Independent house,new,2.0,40.0,21.18,1100.0,"Gandhi Nagar Airport Area, Gandhi Nagar, Nashik, Maharashtra",19.946250000000077,73.81470000000007
+4510,"Uttam Nagar, Nashik",Govind,Independent house,new,3.0,55.0,29.13,1100.0,"Uttam Nagar, Cidco, Nashik, Maharashtra",19.96724000000006,73.75504000000006
+4511,"Nashik Road, Nashik",Sunny,Independent house,new,3.0,48.0,25.42,1600.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4512,"Archit View Apartment,Nashik Road, Nashik",Pavan Vishwakarma,Independent house,new,4.0,40.0,21.18,1530.0,Archit,20.01183000000003,73.76775000000004
+4513,"Balram Nagar, Nashik",Manoj,Independent house,new,3.0,58.0,30.71,1356.0,"Balram Nagar, Panchavati, Nashik, Maharashtra",20.024500000000046,73.83583000000004
+4514,"Dattanagar, Dattanagar,Nashik",Rushikesh Dhanwai,Independent house,new,3.0,50.0,26.48,1400.0,"Dattanagar, Kalwan, Nashik, Maharashtra",20.476200000000063,73.92358000000007
+4515,"Medage Nagar, Nashik",Nikhil Sonaje,Independent house,new,1.0,18.51,9.8,500.0,"Medage Nagar, Chunchale, Nashik, Maharashtra",19.974060000000065,73.72218000000004
+4516,"Rushiraj Retreat,College Road, Nashik",Girish,Independent house,new,4.0,230.0,1.14,3240.0,Rushiraj Retreat,20.006650000000036,73.76295000000005
+4517,"Wasan Nagar, Pathardi Phata,Nashik",Emmanuel John,Independent house,new,2.0,35.0,18.53,972.0,"Wasan Nagar, Pathardi Phata, Nashik, Maharashtra",19.95691000000005,73.76233000000008
+4518,"Jai Bhavani road,Gandhi Nagar Airport Area, Nashik Road,Nashik","Astvinayak Real Estate,",Independent house,new,2.0,45.0,23.83,1000.0,"Jai Bhavani Road, Gandhi Nagar, Nashik, Maharashtra, 422006",19.94610590705218,73.82680240059231
+4519,"Torna nagar,Cidco, Nashik",DIVYA PROPERTY,Independent house,new,10.0,251.0,1.25,6000.0,"Torna Nagar, Cidco, Nashik, Maharashtra",19.97327000000007,73.76051000000007
+4520,"Nashik Road, Nashik",Poonam Choudhary,Independent house,new,2.0,35.0,18.53,836.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4521,"Professor Colony, Nashik",Prashant Waghmare,Independent house,new,3.0,57.0,30.18,1500.0,"Professors Colony Road, Panchavati, Nashik, Maharashtra, 422003",20.017266909043546,73.7850882303015
+4522,"Nashik Road, Nashik",Ejaj Sayyad,Independent house,new,2.0,27.51,14.57,915.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4523,"Bhujbal Knowledge City, Adgaon,Nashik",Atul Dode,Independent house,new,2.0,30.0,15.89,850.0,"Bhujbal Knowledge City, Adgaon, Nashik, Maharashtra",20.042040000000043,73.85006000000004
+4524,"Gopal sankul Row Bungalow,Nashik Road, Nashik",Aliza Properties,Independent house,new,2.0,40.0,21.18,1250.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4525,"Upenda nager opp symbiosis College,Upendra Nagar Colony, Nashik",Atul Dode,Independent house,new,2.0,42.0,22.24,1200.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4526,"Konark Nagar, Nashik",Vasant Ramdas Jadhav,Independent house,new,2.0,69.99,37.06,1150.0,"Konark Nagar, Adgaon, Nashik, Maharashtra",20.019760000000076,73.84737000000007
+4527,"Makhmalabad, Nashik",Khan Abdul Aziz,Independent house,new,4.0,35.0,18.53,1222.0,"Makhmalabad, Makhamalabad, Nashik, Maharashtra",20.04723000000007,73.77545000000003
+4528,"ganjay Row bungalow Tarvalanagar Ganjaya Row Bungalow Nashik siwar ,Tarwala Nagar, Nashik",Mayur Kotadiya,Independent house,new,2.0,34.51,18.28,1220.0,"Nashik, Maharashtra",19.995030000000042,73.79647000000006
+4529,"Bhagur Rural, Nashik",Sandeep Singh Gill,Independent house,new,2.0,18.5,9.8,650.0,"Bhagur Rural, Nashik Sub-District, Nashik, Maharashtra",19.864930000000072,73.83701000000008
+4530,"Small house,Cidco, Nashik",Jagdale Janvhi,Independent house,new,2.0,30.0,15.89,2020.0,"Cidco Nashik, Cidco, Nashik, Maharashtra",19.976870000000076,73.76695000000007
+4531,"Nashik Road, Nashik",Ketan Adgaonkar,Independent house,new,2.0,25.0,13.24,950.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4532,"Makhmalabad, Nashik",Shruti Shelar,Independent house,new,2.0,45.0,23.83,422.0,"Makhmalabad, Makhamalabad, Nashik, Maharashtra",20.04723000000007,73.77545000000003
+4533,"Garden view Row bunglow,Amrutdham, Nashik",Suresh,Independent house,new,3.0,45.0,23.83,1284.0,"Amrutdham, Panchavati, Nashik, Maharashtra",20.015390000000025,73.81763000000007
+4535,"Srinivas Colony, Uttara Nagar,Nashik",Rajendra Kadam,Independent house,new,4.0,108.0,53.62,2500.0,"L B Nagar Road, Lingoji Guda, Hyderabad, Rangareddy, Telangana, 500059",17.353536617128512,78.53426704324445
+4536,"Sai Laxmi,Gayakhe Colony, Nashik Road,Nashik",Nimesh Bhatt,Independent house,new,4.0,178.0,88.37,3200.0,"Nashik Road, Vadner Dumala, Nashik, Maharashtra, 422401",19.93053220096707,73.8117340346891
+4537,"Kala Nagar, Indira Nagar,Nashik",Hitenbhole,Independent house,new,3.0,65.0,34.42,1700.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4538,"Gulmohar Vihar, Satpur,Nashik",Supratik Datta,Independent house,new,5.0,255.0,1.27,4200.0,"Gulmohar Vihar, Satpur, Nashik, Maharashtra",20.00461000000007,73.74299000000008
+4539,"Pranav Heights, Sri Ram Nagar, Konark Nagar,Nashik",Prabodhan Rudrake,Independent house,new,2.0,35.0,18.53,1100.0,"Konark Nagar-Shri Ram Nagar, Adgaon, Nashik, Maharashtra",20.02108000000004,73.84393000000006
+4540,"Damodar Nagar, Pathardi Phata,Nashik",Akshay Kulkarni,Independent house,new,1.0,18.0,9.53,600.0,"Damodar Nagar, Pathardi Phata, Nashik, Maharashtra",19.947490000000073,73.76139000000006
+4541,"guGOKULDHM PHASE 1,Vrindavan Nagar, Nashik",Prabodhan Rudrake,Independent house,new,2.0,35.0,18.53,1150.0,"Vrindavan Nagar, Cidco, Nashik, Maharashtra",19.972620000000063,73.74383000000006
+4542,"Sriram nager,Panchavati, Nashik",Prabodhan Rudrake,Independent house,new,2.0,40.21,21.29,1150.0,"Shree Ram Nagar, Panchavati, Nashik, Maharashtra",20.016830000000027,73.79323000000005
+4543,"Deepak kardak ,Kalpataru Nagar, Nashik",Deepak Kardak,Independent house,new,2.0,47.0,24.89,1340.0,"Kalpataru Nagar, Wadala, Nashik, Maharashtra",19.978110000000072,73.79962000000006
+4544,"sainagar row houses,Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Mahesh Pawar,Independent house,new,2.0,25.0,13.24,750.0,"Gandhi Nagar Airport Area, Gandhi Nagar, Nashik, Maharashtra",19.946250000000077,73.81470000000007
+4545,"Sadguru Nagar RowHouse ,Sadguru Nagar, Nashik",Karanjadhav,Independent house,new,2.0,59.0,31.24,1430.0,"Sadguru Nagar, Satpur, Nashik, Maharashtra",20.006620000000055,73.73270000000008
+4546,"Kishor Nagar, Nashik",Yogesh Patil,Independent house,new,3.0,55.0,29.13,1650.0,Kishor Nagar,19.965990000000033,73.77292000000006
+4547,"Prabhat Colony, Nashik",Ashish Tamboli,Independent house,new,5.0,120.0,59.58,3000.0,"Prabhat Colony, Cidco, Nashik, Maharashtra",19.971810000000062,73.76890000000003
+4548,"Rambhumi Vatika,Buddha Vihar, Pathardi Phata,Nashik",Saurabh Pagar,Independent house,new,1.0,17.34,9.18,821.0,"Buddha Vihar, Pathardi Phata, Nashik, Maharashtra",19.945340000000044,73.74791000000005
+4549,"Shivaji Nagar, Satpur,Nashik",Nitin Bansod,Independent house,new,2.0,50.0,26.48,667.0,"Shivaji Nagar, Satpur, Nashik, Maharashtra",20.00326000000007,73.70924000000008
+4550,"Cidco, Nashik",Digvijay,Independent house,new,3.0,30.0,15.89,1100.0,"Cidco Nashik, Cidco, Nashik, Maharashtra",19.976870000000076,73.76695000000007
+4551,"Kalptru nagar ashoka marg,Kalpataru Nagar, Nashik",Deepak Kardak,Independent house,new,2.0,47.0,24.89,1340.0,"Ashoka Marg, Wadala, Nashik, Maharashtra, 422006",19.980487763147977,73.79995282286923
+4552,"Vishnushanti banglo ,Shivaji Nagar, Satpur,Nashik",Kiran Kasve,Independent house,new,3.0,31.0,16.42,1680.0,"Shivaji Nagar, Satpur, Nashik, Maharashtra",20.00326000000007,73.70924000000008
+4553,"Patil Nagar, Nashik",Prashant Ghag,Independent house,new,10.0,125.0,62.06,2500.0,"Patil Nagar, Cidco, Nashik, Maharashtra",19.98222000000004,73.75819000000007
+4554,"Sadguru Nagar, Nashik",Shamsu Hudda,Independent house,new,3.0,60.0,31.77,1500.0,"Sadguru Nagar, Satpur, Nashik, Maharashtra",20.006620000000055,73.73270000000008
+4555,"D'souza Colony, Nashik",Anil,Independent house,new,1.0,41.0,21.71,600.0,"Dsouza Colony, College Road, Nashik, Maharashtra",20.00864000000007,73.75788000000006
+4556,"project,Pathardi Gaon, Pathardi Phata,Nashik",Rohit,Independent house,new,3.0,40.0,21.18,1200.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4557,"Panchavati, Nashik",PK KUMAR,Independent house,new,4.0,120.0,59.58,2800.0,"Panchavati, Nashik, Maharashtra",20.01678000000004,73.79665000000006
+4558,"Uttam Nagar, Nashik",Swapnil,Independent house,new,4.0,41.0,21.71,1200.0,"Uttam Nagar, Cidco, Nashik, Maharashtra",19.96724000000006,73.75504000000006
+4559,"Ganesh row bunglow,Pathardi Phata, Nashik",Yogesh Patil,Independent house,new,2.0,39.0,20.65,1175.0,"Pathardi Phata, Nashik, Maharashtra",19.951530000000048,73.76944000000003
+4560,"Uttam Nagar, Nashik",Sandesh Sonar,Independent house,new,1.0,18.5,9.8,650.0,"Uttam Nagar, Cidco, Nashik, Maharashtra",19.96724000000006,73.75504000000006
+4561,"Pathardi Gaon, Pathardi Phata,Nashik",Yogesh Patil,Independent house,new,2.0,46.0,24.36,1350.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4562,"She gajanan Row Hoses,Ayodhya Nagari, Nashik",Dilip Gosavi,Independent house,new,3.0,48.0,25.42,1500.0,"Ayodhya Nagar, Upnagar, Nashik, Maharashtra",19.97475000000003,73.82099000000005
+4563,"Nashik Road, Nashik",Shubham Gaikwad,Independent house,new,2.0,15.0,7.94,1000.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4564,"MHB Colony, Satpur,Nashik",Ravi Wanave,Independent house,new,4.0,33.0,17.48,1200.0,"M H B Colony, Satpur, Nashik, Maharashtra",19.990480000000048,73.72596000000004
+4565,"MHB Colony, Satpur,Nashik",Ravi Wanave,Independent house,new,4.0,33.0,17.48,1200.0,"M H B Colony, Satpur, Nashik, Maharashtra",19.990480000000048,73.72596000000004
+4566,"Mahatma Nagar, Parijat Nagar,Nashik",S T Khandway,Independent house,new,2.0,40.0,21.18,962.0,"Mahatmanagar, Parijat Nagar, Nashik, Maharashtra",20.000380000000064,73.75442000000004
+4567,"Aryana ,Kalpataru Nagar, Nashik",Deepak Kardak,Independent house,new,2.0,47.0,24.89,1340.0,"Kalpataru Nagar, Wadala, Nashik, Maharashtra",19.978110000000072,73.79962000000006
+4568,"Pathardi Gaon, Pathardi Phata,Nashik",Pawar Mayu,Independent house,new,3.0,56.0,29.66,1300.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4569,"Pathardi Gaon, Pathardi Phata,Nashik",Pawar Mayu,Independent house,new,3.0,56.0,29.66,1350.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4570,"Someshwar Colony, Satpur,Nashik",Vikas Kale,Independent house,new,3.0,55.0,29.13,1965.0,"Someshwar Colony, Satpur, Nashik, Maharashtra",20.005660000000034,73.72920000000005
+4571,"Matoshree Nagar, Nashik",Sandeep Thakur,Independent house,new,3.0,151.0,74.97,1980.0,"Matoshree Nagar, Tidke Colony, Nashik, Maharashtra",19.988690000000076,73.77717000000007
+4572,"Jagtap Nagar, Nashik",Sandeep Thakur,Independent house,new,4.0,110.0,54.61,1900.0,"Jagtap Nagar Road, Untwadi, Nashik, Maharashtra, 422008",19.98638908772189,73.76066659003772
+4574,"Karmaa Galaxy, Dwarka, Nashik",Sharda,Independent house,new,4.0,75.0,39.72,2398.0,Karmaa Galaxy,19.997300000000052,73.81223000000006
+4575,"Trinity Row Bungalows,Dwarka, Nashik",Abizer Vapiwala,Independent house,new,3.0,68.0,36.01,2050.0,"Dwarka, Nashik, Maharashtra",19.993070000000046,73.80571000000003
+4576,"Kala Nagar, Indira Nagar,Nashik",Tejas Ahire,Independent house,new,4.0,95.0,47.16,2300.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4577,"Jai Bhavani road,Adke Nagar, Nashik Road,Nashik",Mr. Rahul Burse,Independent house,new,3.0,58.0,30.71,1650.0,"Jai Bhavani Road, Devlali, Nashik, Maharashtra, 422401",19.954299880414343,73.82467582005795
+4578,"Jai Bhavani road,Gandhi Nagar Airport Area, Nashik Road,Nashik",Mr. Rahul Burse,Independent house,new,2.0,50.0,26.48,1125.0,"Jai Bhavani Road, Gandhi Nagar, Nashik, Maharashtra, 422006",19.94610590705218,73.82680240059231
+4579,"Kala Nagar, Indira Nagar,Nashik",Tejas Ahire,Independent house,new,2.0,35.0,18.53,1200.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4580,"Kala Nagar, Indira Nagar,Nashik",Tejas Ahire,Independent house,new,3.0,75.0,39.72,1089.0,"Kala Nagar, Indira Nagar, Nashik, Maharashtra",19.967580000000055,73.78290000000004
+4581,"Damodar Nagar, Pathardi Phata,Nashik",Yogesh Patil,Independent house,new,2.0,39.0,20.65,1200.0,"Damodar Nagar, Pathardi Phata, Nashik, Maharashtra",19.947490000000073,73.76139000000006
+4582,"Damodar Nagar, Pathardi Phata,Nashik",Yogesh Patil,Independent house,new,2.0,42.0,22.24,1270.0,"Damodar Nagar, Pathardi Phata, Nashik, Maharashtra",19.947490000000073,73.76139000000006
+4583,"Gangapur, Nashik",Sandeep Bhakare,Independent house,new,1.0,21.0,11.12,565.0,"Gangapur, Nashik, Maharashtra",20.030860000000075,73.71665000000007
+4584,"Gangapur, Nashik",Sandeep Bhakare,Independent house,new,2.0,36.0,19.06,860.0,"Gangapur, Nashik, Maharashtra",20.030860000000075,73.71665000000007
+4585,"Madhuban Colony, Nashik",Sandeep Bhakare,Independent house,new,2.0,55.0,29.13,900.0,"Madhuban Colony, Panchavati, Nashik, Maharashtra",20.016550000000052,73.78933000000006
+4586,"Lavate Nager, Parijat Nagar,Nashik",Sandeep Bhakare,Independent house,new,1.0,30.0,15.89,750.0,"Parijat Nagar, Nashik, Maharashtra",19.99619000000007,73.76349000000005
+4587,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",Sandeep Bhakare,Independent house,new,2.0,40.0,21.18,980.0,"Astavinayak Colony, Veer Savarkar Nagar, Nashik, Maharashtra",20.015070000000037,73.75341000000003
+4588,"Gangapur, Nashik",Sandeep Bhakare,Independent house,new,2.0,55.0,29.13,1500.0,"Gangapur, Nashik, Maharashtra",20.030860000000075,73.71665000000007
+4589,"Pandit Colony, Nashik",Sandeep Bhakare,Independent house,new,2.0,55.0,29.13,1000.0,"Pandit Colony, Sharanpur, Nashik, Maharashtra",20.00302000000005,73.77727000000004
+4590,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",Sandeep Bhakare,Independent house,new,3.0,85.0,42.2,1500.0,"Astavinayak Colony, Veer Savarkar Nagar, Nashik, Maharashtra",20.015070000000037,73.75341000000003
+4591,"Gangapur, Nashik",Sandeep Bhakare,Independent house,new,3.0,75.0,39.72,1200.0,"Gangapur, Nashik, Maharashtra",20.030860000000075,73.71665000000007
+4592,"Satpur, Nashik",Prafulla,Independent house,new,2.0,40.0,21.18,1000.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4593,"Gangapur, Nashik",SUNIL KALE,Independent house,new,2.0,4.0,2.12,1500.0,"Gangapur, Nashik, Maharashtra",20.030860000000075,73.71665000000007
+4594,"Konark Nagar, Nashik",BHAVESH GURAV,Independent house,new,2.0,5.85,3.1,1400.0,"Konark Nagar, Adgaon, Nashik, Maharashtra",20.019760000000076,73.84737000000007
+4595,"Pathardi Gaon, Pathardi Phata,Nashik",Sunil Pandharinath Wani,Independent house,new,2.0,50.0,26.48,1228.0,"Pathardi Gaon, Pathardi Phata, Nashik, Maharashtra",19.94312000000002,73.77364000000006
+4596,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Kiran,Independent house,new,4.0,200.0,99.29,1700.0,"Anand Vihar Colony, Veer Savarkar Nagar, Nashik, Maharashtra",20.01290000000006,73.75045000000006
+4597,"Dhurav Nagar, Satpur,Nashik",Kiran,Independent house,new,2.0,35.0,18.53,1300.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4598,"Dhurav Nagar, Satpur,Nashik",Kiran,Independent house,new,2.0,45.0,23.83,1500.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4599,"Shanker Nagar, Veer Sawarkar Nagar,Nashik",Kiran,Independent house,new,3.0,200.0,99.29,1500.0,"Shankar Nagar, Veer Savarkar Nagar, Nashik, Maharashtra",20.01800000000003,73.75111000000004
+4600,"Jagtap Nagar, Nashik",Kiran,Independent house,new,3.0,140.0,69.5,1700.0,"Jagtap Nagar Road, Untwadi, Nashik, Maharashtra, 422008",19.98638908772189,73.76066659003772
+4601,"Ashoknagar, Satpur,Nashik",Kiran,Independent house,new,3.0,90.0,44.68,1700.0,"Ashok Nagar, Satpur, Nashik, Maharashtra",19.98858000000007,73.71576000000005
+4602,"Grand Vista,Vasantdadanagar, Adgaon,Nashik",Real One,Independent house,new,2.0,75.0,39.72,1000.0,"Vasantdada Nagar, Adgaon, Nashik, Maharashtra",20.031780000000026,73.85510000000005
+4603,"Dhurav Nagar, Satpur,Nashik",Kiran,Independent house,new,2.0,40.0,21.18,1500.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4604,"Dhurav Nagar, Satpur,Nashik",Kiran,Independent house,new,2.0,38.0,20.12,1500.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4605,"Dhurav Nagar, Satpur,Nashik",Kiran,Independent house,new,3.0,53.0,28.07,1800.0,"Satpur, Nashik, Maharashtra",19.999750000000063,73.73383000000007
+4606,"Amrutdham, Nashik",Suresh Patel,Independent house,new,3.0,55.0,29.13,1350.0,"Amrutdham, Panchavati, Nashik, Maharashtra",20.015390000000025,73.81763000000007
+4607,"Someshwar Colony, Satpur,Nashik",Vikas Kale,Independent house,new,3.0,50.0,26.48,1900.0,"Someshwar Colony, Satpur, Nashik, Maharashtra",20.005660000000034,73.72920000000005
+4608,"Sinnar Taluka, Nashik",Bhushan,Independent house,new,2.0,23.0,12.18,1250.0,"Sinnar, Nashik, Maharashtra",19.843690000000038,73.99385000000007
+4609,"Nashik Road, Nashik",Aniruddha Nawtake,Independent house,new,4.0,56.0,29.66,1450.0,"Nashik Road, Nashik, Maharashtra",19.955310000000054,73.84089000000006
+4610,"Chetana Nagar, Rane Nagar,Nashik",Hemant Chaudhari,Independent house,new,3.0,51.0,27.01,1450.0,"Chetana Nagar, Indira Nagar, Nashik, Maharashtra",19.96311000000003,73.77113000000008
+4611,"Police society,Balram Nagar, Nashik",Borse,Independent house,new,3.0,33.0,17.48,1150.0,"Balram Nagar, Panchavati, Nashik, Maharashtra",20.024500000000046,73.83583000000004
+4612,"Jai Bhavani road,Adke Nagar, Nashik Road,Nashik",Mr. Rahul Burse,Independent house,new,3.0,58.0,30.71,1650.0,"Jai Bhavani Road, Devlali, Nashik, Maharashtra, 422401",19.954299880414343,73.82467582005795
+4613,"Chanakya Nagar, Khutwad Nagar,Nashik",Shruti Katyare,Independent house,new,1.0,35.0,18.53,1000.0,"Khutwad Nagar-Chanakya Nagar, Cidco, Nashik, Maharashtra",19.982530000000054,73.74734000000007

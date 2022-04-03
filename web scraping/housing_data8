@@ -1,0 +1,422 @@
+,address,owners,housetype,house_condition,price,BHK,total_sqft
+0,"Asha Bramha Greens, Trimbak, Nashik",Rupesh Shirole,Independent_house,new,26.51,1,650
+1,"Samraat Dream Villas, Ganesh Baba Nagar, Nashik",Sumit Acharya,Independent_house,new,87.0,3,1900
+2,"Viveka Nand Nagar, Anandwalli Gaon,Nashik",Umesh Shete,Independent_house,new,125.0,3,2500
+3,"Asha Bramha Greens, Trimbak, Nashik",Rupesh Shirole,Independent_house,new,30.0,1,650
+4,"Asha Bramha Greens, Trimbak, Nashik",Rupesh Shirole,Independent_house,new,80.0,3,1500
+5,"Bramha Greens Farm House Project ,Trimbak, Nashik",Rupesh Shirole,Independent_house,new,25.0,1,550
+6,"Asha Bramha Greens, Trimbak, Nashik",Rupesh Shirole,Independent_house,new,30.0,1,650
+7,"Adke Nagar, Nashik Road,Nashik",Nirmal Develoepers,Independent_house,new,15.93,"1, 2, 3",NA
+8,"Koroli, Nashik",E & G Global Estate Limited,Independent_house,new,42.7,"2, 4",NA
+9,"Asha Nagar, Nashik",Kanaklaxmi Developers,Independent_house,new,18.9,"1, 2",NA
+10,"Ganesh Baba Nagar, Nashik",Prathmesh Constructions,Independent_house,new,48.84,3,NA
+11,"Asha Nagar, Nashik",Talware Builders,Independent_house,new,24.92,"2, 3",NA
+12,"Uttam Nagar, Nashik",Malpani Group,Independent_house,new,54.15,3,NA
+13,"Chandshi, Nashik",Suyash Group,Independent_house,new,265.0,"4, 4.5",NA
+14,"Dwarka, Nashik",Dugad Developers,Independent_house,new,65,3,NA
+15,"Buddha Vihar, Pathardi Phata,Nashik",Sumanchandra,Independent_house,new,27.84,"2, 3",NA
+16,"Nashik Road, Nashik",Vaibhav Maid,Independent_house,new,67.0,3,578
+17,"Ojhar, Nashik",Sheetal Kumar,Independent_house,new,56.0,5,2600
+18,"Eklahare, Nashik",Uttam Chavan,Independent_house,new,25.0,4,1400
+19,"Ojhar, Nashik",Anand Shinde,Independent_house,new,13.0,,1000
+20,"Ghatkopar, Nashik",Kantilal H Pokar,Independent_house,new,39.5,2,1250
+21,"Vijay Nagar, Nashik",Pravin Patil,Independent_house,new,31.0,4,850
+22,"Pearl Park, Ambedkar Nagar, Chunchale,Nashik",SANTOSH KARANKAL,Independent_house,new,38.5,2,1250
+23,"Durga Nagar, Sneha Nagar,Nashik",Anjali Anjali,Independent_house,new,75.0,3,1500
+24,"Prabhat Nagar, Nashik",Hardik Poriya,Independent_house,new,44.0,2,1560
+25,"Omkar Nagar, Nashik",Mangesh,Independent_house,new,70.0,4,2000
+26,"Srinivas Colony, Uttara Nagar,Nashik",Harshada Mandlik,Independent_house,new,38.0,2,1200
+27,"Omkar row house,Pathardi Gaon, Pathardi Phata,Nashik",Santosh Sanap,Independent_house,new,43.0,2,1000
+28,"Vraj vandana,Makhmalabad, Nashik",Nikhil Metaliya,Independent_house,new,38.0,2,1142
+29,"Bunglow,Nashik Road, Nashik",Meghan,Independent_house,new,250.0,6,4000
+30,"House No 7,DGP Nagar, Nashik",Ashish,Independent_house,new,51.0,3,1350
+31,"Ghatkopar, Nashik",Kantilal H Pokar,Independent_house,new,39.5,2,1250
+32,"Samarth Nagar, Makhmalabad,Nashik",Gopal Dalvi,Independent_house,new,31.5,2,1060
+33,"GS Aarambh,Chandshi, Nashik",Saumitra Patil,Independent_house,new,55.0,3,1350
+34,"Makhmalabad, Nashik",Gopal Dalvi,Independent_house,new,31.0,2,1090
+35,"GS Aarambh,Chandshi, Nashik",Saumitra Patil,Independent_house,new,55.0,3,1305
+36,"Pandav Nagari, Pathardi Phata,Nashik",Ganesh Gorhe,Independent_house,new,40.0,3,1100
+37,"Palase, Nashik",Prashant Deokar,Independent_house,new,18.5,1,550
+38,"Shinde, Nashik",Sagar Bagul,Independent_house,new,80.0,3,4355
+39,"Shinde, Nashik",Sagar Bagul,Independent_house,new,80.0,3,4435
+40,"Makhmalabad, Nashik",PARESH PATEL,Independent_house,new,55.0,3,1920
+41,"Nashik Road, Nashik",Pooja,Independent_house,new,35.0,2,1050
+42,"Ayodhya Nagar, Nashik Road,Nashik",Manisha Thakre,Independent_house,new,120.0,4,1200
+43,"Nashik Road, Nashik",SP KHARE.,Independent_house,new,40.0,2,1350
+44,"Sunflower Apartment, Nashik Road, Nashik",Arjun,Independent_house,new,41.0,2,1025
+45,"Row houserow house,Sinnar Taluka, Nashik",Novini Pawar,Independent_house,new,25.0,2,1060
+46,"Laxmi Square,Ghatkopar, Nashik",Nitin,Independent_house,new,42.0,3,1783
+47,"Ghatkopar, Nashik",Kantilal H. Pokar,Independent_house,new,39.5,2,1350
+48,"Pearl Park, Ambedkar Nagar, Chunchale,Nashik",Abhishek Mishra,Independent_house,new,35.0,2,1000
+49,"Bhujbal Knowledge City, Adgaon,Nashik",Milind Pawar,Independent_house,new,42.0,2,1400
+50,"Nandur Village, Nashik",Anay S Halbe,Independent_house,new,55.0,3,1500
+51,"Palase, Nashik",P,Independent_house,new,21.0,1,550
+52,"Ekdant Nagar, Nashik",Deepak K,Independent_house,new,98.0,3,2000
+53,"Balaji row house number 10 near royal town building pandhari Nagar makhmalabad,Makhmalabad, Nashik",Mukund Jairam Shirsath,Independent_house,new,45.0,2,1050
+54,"Cidco, Nashik",Sharad,Independent_house,new,85.0,3,2100
+55,"Ashoknagar, Satpur,Nashik",Patil,Independent_house,new,39.5,1,1500
+56,"Dattanagar, Dattanagar,Nashik",Randhir Satish,Independent_house,new,45.0,2,1210
+57,"Viveka Nand Nagar, Anandwalli Gaon,Nashik",Amit Puri,Independent_house,new,330.0,,218
+58,"Nadan apartment,Shramik Nagar, Manik Nagar,Nashik",Harshal Sagar,Independent_house,new,15.5,,445
+59,"Rowhous,Makhmalabad, Nashik",Ganesh Kothule,Independent_house,new,35.0,2,423
+60,"Prabudha Nagar, Satpur,Nashik",Sharwaree,Independent_house,new,23.0,2,750
+61,"Nashik Road, Nashik",Sandip Kulkarni,Independent_house,new,32.0,2,978
+62,"3 shri athrava row houses vaishali nagar dasak jailroad,Nashik Road, Nashik",Sandip Kulkarni,Independent_house,new,32.0,2,978
+63,"Dhurav Nagar, Satpur,Nashik",Arun Nair,Independent_house,new,129.0,5,3500
+64,"Twin bunglow,Cidco, Nashik",Raju Tajanpure,Independent_house,new,64.0,3,1620
+65,"twin banglow,Cidco, Nashik",Raju Tajanpure,Independent_house,new,65.0,3,1620
+66,"RTO Colony, Uttara Nagar,Nashik",Pravin Sanap,Independent_house,new,37.0,2,1200
+67,"Shree Yashashree Suryamala, Ekdant Nagar, Nashik",Swapnil S,Independent_house,new,52.0,3,1400
+68,"Saakar row house,Nandur Village, Nashik",Shrikant Mulik,Independent_house,new,38.0,2,1050
+69,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",,Independent_house,new,100.0,3,2700
+70,"VARAD BUNGALOW,Vrindavan Nagar, Nashik",Chinmay Gosavi,Independent_house,new,65.0,3,1361
+71,"Makhmalabad, Nashik",Jayendra Wagh,Independent_house,new,45.0,2,1400
+72,"VARAD BUNGALOW ,Vrindavan Nagar, Nashik",Chinmay Gosavi,Independent_house,new,65.0,3,1361
+73,"Anirudha Row ouses,Ashwamegh Nagar, Makhmalabad,Nashik",Praful,Independent_house,new,32.0,2,1153
+74,"Adgaon, Nashik",Deepak Shah,Independent_house,new,70.0,4,2250
+75,"Adgaon, Nashik",Deepak Shah,Independent_house,new,70.0,4,2250
+76,"Dhurav Nagar, Satpur,Nashik",Varsha Anil Bhalerao,Independent_house,new,42.0,2,950
+77,"Nishant Iken Phase 1, Sagar Village, Nashik",Bramha Deweel Sonawane,Independent_house,new,135.0,3,2500
+78,"Sagar Village, Nashik",Devil Sonawane,Independent_house,new,135.0,3,2500
+79,"Gurukrupa building,Cidco, Nashik",Dr.Pravin Bachhao,Independent_house,new,75.0,3,1873
+80,"Gurukrupa building,Cidco, Nashik",Dr.Pravin Bachhao,Independent_house,new,75.0,3,1873
+81,"Krishna Stuti, Omkar Nagar, Nashik",Kalpesh Patil,Independent_house,new,38.0,2,1100
+82,"3Parth Niketan Row House,Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Vilas Pawar,Independent_house,new,72.0,3,1850
+83,"Nashik Road, Nashik",Pravin Wani,Independent_house,new,25.0,1,836
+84,"Wadala Gaon, Nashik",Shahin Pathan,Independent_house,new,13.5,1,525
+85,"Ashwin Nagar, Nashik",Adrian Dsouza,Independent_house,new,295.0,3,2000
+86,"Pokar Colony, Vaiduwadi,Nashik",Poonam Gehani,Independent_house,new,35.0,3,1100
+87,"MIDC, Satpur,Nashik",Saraswati Ventures,Independent_house,new,20.0,1,NA
+88,"Ekdant Nagar, Nashik",Krishna,Independent_house,new,52.0,3,1600
+89,"Chandwad, Nashik",Vishal Dayama,Independent_house,new,37.0,2,762
+90,"Shree Kashishwar Park,Nashik Road, Nashik",Karan Deshmukh,Independent_house,new,23.0,2,970
+91,"Kala Nagar, Indira Nagar,Nashik",Nilesh Bagul,Independent_house,new,42.0,2,1050
+92,"Row houses dhruva nagar,Dhurav Nagar, Satpur,Nashik",Imani Patel,Independent_house,new,37.0,2,1375
+93,"GURUKRUPA bubuilding ,Lekha Nagar, Nashik",Sachin,Independent_house,new,85.0,3,1620
+94,"Makhmalabad, Nashik",HITESH AHIRE,Independent_house,new,38.0,2,1450
+95,"Deolali Gaon, Nashik",Standard Realtors,Independent_house,new,122.0,3,NA
+96,"Pokar Colony, Vaiduwadi,Nashik",Vikas,Independent_house,new,45.0,2,1100
+97,"Pokar Colony, Vaiduwadi,Nashik",Digambar Eknath Maid,Independent_house,new,51.0,2,1500
+98,"Bhujbal Knowledge City, Adgaon,Nashik",Amol Pandit Davange,Independent_house,new,32.0,1,1800
+99,"Milan park,Prabudha Nagar, Satpur,Nashik",Swapnil Nikhade,Independent_house,new,25.0,1,1100
+100,"Shree Vallabh Plot No 29,Prabhat Colony, Nashik",Ashish,Independent_house,new,100.0,5,2500
+101,"Ashoknagar, Satpur,Nashik",Mayur Kedare,Independent_house,new,22.0,4,840
+102,"Balram Nagar, Nashik",Pravin Ghatekar,Independent_house,new,30.9,2,1100
+103,"Pathardi Gaon, Pathardi Phata,Nashik",Prabhakar Borse,Independent_house,new,75.0,3,2400
+104,"Pathardi Gaon, Pathardi Phata,Nashik",Prabhakar Borse,Independent_house,new,78.0,3,1875
+105,"Pathardi Gaon, Pathardi Phata,Nashik",Prabhakar Borse,Independent_house,new,78.0,3,1875
+106,"Sri Ram Nagar, Cidco,Nashik",Amol More,Independent_house,new,42.0,7,2000
+107,"Bhujbal Knowledge City, Adgaon,Nashik",Rakesh Viramgama,Independent_house,new,35.1,2,1128
+108,"Talware Imperial Meadows Phase 1, Balram Nagar, Nashik",Prashant Songire,Independent_house,new,66.0,3,1800
+109,"Balram Nagar, Nashik",Samarth Bansole,Independent_house,new,76.0,4,1200
+110,"Row house chandshi nashik,Chandshi, Nashik",Anil Sonawane,Independent_house,new,50.0,2,1550
+111,"NIRMAL SPANDAN,Vrindavan Nagar, Nashik",Ayush Sonawane,Independent_house,new,41.0,2,1300
+112,"NIRMAL SADAN,Vrindavan Nagar, Nashik",Ayush Sonawane,Independent_house,new,55.0,4,1850
+113,"Kala Nagar, Indira Nagar,Nashik",Mohan S Agrawal,Independent_house,new,1.0,2,800
+114,"Nashik Road, Nashik",ANIL K Ganatra,Independent_house,new,18.0,1,620
+115,"Ashoknagar, Satpur,Nashik",Mayur Kedare,Independent_house,new,23.0,3,840
+116,"Hirawadi,Panchavati, Nashik",Rahul Krishna Ware,Independent_house,new,80.0,3,1300
+117,"CDO-MERI Colony, Nashik",Amol Pathade Bhartiya,Independent_house,new,100.0,3,1600
+118,"Hirawadi, Nashik",Rahul Krishna Ware,Independent_house,new,80.0,3,1300
+119,"CDO-MERI Colony, Nashik",Amol Pathade Bhartiya,Independent_house,new,100.0,3,1500
+120,"Pimpalgaon Baswant, Nashik",Dnyaneshwar Sudhakar Deore,Independent_house,new,25.0,2,900
+121,"Mhasrul Gaon, Nashik",Kailas Gosavi,Independent_house,new,35.0,3,1400
+122,"Mhasrul Gaon, Nashik",Kailas Gosavi,Independent_house,new,35.0,3,1400
+123,"Shikshak Colony,Balram Nagar, Nashik",Pravin Ghatekar,Independent_house,new,32.0,2,645
+124,"Row Bunglow,DGP Nagar, Nashik",Rohidas,Independent_house,new,38.0,2,1200
+125,"Ganpati Nagar, Anandwalli Gaon,Nashik",Atul Aher,Independent_house,new,100.0,3,1700
+126,"Pathardi Gaon, Pathardi Phata,Nashik",Samyak Nashik,Independent_house,new,72.0,3,1770
+127,"Sri Ram Nagar, Konark Nagar,Nashik",LP,Independent_house,new,28.5,2,1050
+128,"SAI ASHIRWAD ROW BUNGLOWS,Nashik Road, Nashik",VAIBHAV,Independent_house,new,38.0,2,1118
+129,"Pearl Park, Ambedkar Nagar, Chunchale,Nashik",Chandrakant,Independent_house,new,43.0,2,1100
+130,"DGP Nagar, Nashik",Gunvant Mahajan,Independent_house,new,29.0,2,850
+131,"Sai prasad row house,Saptashrungi Nagar, Kamatwade Gaon,Nashik",Shekhar,Independent_house,new,49.0,2,1000
+132,"Konark Nagar, Nashik",LP,Independent_house,new,43.0,2,1250
+133,"Sham sundar ro house,Pathardi Gaon, Pathardi Phata,Nashik",Dinesh Salve,Independent_house,new,40.0,2,1250
+134,"Wadala Gaon, Nashik",Tanveer Mansuri,Independent_house,new,8.0,,360
+135,"Chetana Nagar, Rane Nagar,Nashik",Rutwik Chumbhale,Independent_house,new,55.0,3,1400
+136,"Panchavati, Nashik",Lalit Deore,Independent_house,new,50.0,2,795
+137,"Kishore Jai Gayatri Apartment, Dhurav Nagar, Satpur,Nashik",Ashok Wagh,Independent_house,new,35.0,3,1040
+138,"Panchavati, Nashik",Lalit Deore,Independent_house,new,50.0,2,795
+139,"Sahjeevan Colony, Nashik",Kishor Sangle,Independent_house,new,80.0,2,1065
+140,"Panchavati, Nashik",Prashant Musale,Independent_house,new,17.21,1,550
+141,"Adhav Nagar, Nashik Road,Nashik",Chintu Pawar CP,Independent_house,new,60.0,3,1800
+142,"Ayodhya Nagari, Nashik",Dinesh Birari,Independent_house,new,31.0,2,1050
+143,"Vrajbhoomi housing society,Hirawadi, Nashik",Jayant,Independent_house,new,52.0,3,1500
+144,"Kala Nagar, Indira Nagar,Nashik",RUPESH DESHMUKH,Independent_house,new,38.0,2,1000
+145,"Kishor Nagar, Nashik",Shweta,Independent_house,new,35.0,2,1250
+146,"Ganraj row bunglow,Hirawadi, Nashik",Jayesh Patal,Independent_house,new,38.0,3,1409
+147,"Sa ShruShrushti,Vadner Dumala, Nashik",Saantos Mule,Independent_house,new,45.0,2,1350
+148,"Sadguru Royal Residency Project, Adgaon, Nashik",Sneha Fatangle,Independent_house,new,18.0,1,600
+149,"Kala Nagar, Indira Nagar,Nashik",Sandeep,Independent_house,new,200.0,4,2500
+150,"Amrutmay villas,Ramkrishna Nagar, Makhmalabad,Nashik",Anup Somvanshi,Independent_house,new,34.0,2,1420
+151,"RTO Colony, Uttara Nagar,Nashik",Raj Bhalerao,Independent_house,new,16.0,1,500
+152,"Ojhar, Nashik",Karan Kumar,Independent_house,new,65.0,5,2650
+153,"Hatgad, Nashik",Rajubhai,Independent_house,new,18.0,1,420
+154,"Kartikey row houses,Dnyaneshwar Nagar, Pathardi Phata,Nashik",Swapnil Dhake,Independent_house,new,33.0,2,910
+155,"Dugad Atharva Pride, Matoshree Nagar, Nashik",Umang,Independent_house,new,12.0,1,250
+156,"Kailash Nagar, Nashik",Vaishali Gokul Chitte,Independent_house,new,77.0,3,1946
+157,"Dattamali chs,Nashik Road, Nashik",Tarun Bhagat,Independent_house,new,26.0,2,725
+158,"Rajnada Banglow,Nashik Road, Nashik",Sanjay Bhosale,Independent_house,new,60.0,2,900
+159,"Makhmalabad, Nashik",Pramod Jadhav,Independent_house,new,72.0,4,1200
+160,"Adhav Nagar, Nashik Road,Nashik",Nikhil Chaudhari,Independent_house,new,95.0,4,1000
+161,"Ashwamegh Nagar, Makhmalabad,Nashik",Asha Sadashiv Vibhutey,Independent_house,new,35.0,2,1100
+162,"GOUDHAM PHASE 2 near shivkrupsweet,Adgaon, Nashik",Prabodhan,Independent_house,new,32.51,2,1134
+163,"Palase, Nashik",Dhananjay,Independent_house,new,60.0,3,1900
+164,"Ashoknagar, Satpur,Nashik",Jagdish Walunj,Independent_house,new,70.0,2,1000
+165,"Adgaon, Nashik",Shankar,Independent_house,new,56.0,3,1450
+166,"Bhujbal Knowledge City, Adgaon,Nashik",Shankar,Independent_house,new,57.0,1,1450
+167,"Hatgad, Nashik",Rajubhai,Independent_house,new,18.0,1,400
+168,"Satpur, Nashik",Yogesh Chauhan,Independent_house,new,35.0,2,800
+169,"Trimbak, Nashik",Rahul Jain,Independent_house,new,25.0,1,450
+170,"Shramik Nagar, Manik Nagar,Nashik",Krishnamurti,Independent_house,new,90.0,3,1500
+171,"Vrindavan Nagar, Nashik",Ravindra Ahire,Independent_house,new,21.0,1,850
+172,"Pathardi Gaon, Pathardi Phata,Nashik",Mukund Khule,Independent_house,new,36.0,2,1200
+173,"Balram Nagar, Nashik",Aashirvad Builders,Independent_house,new,45.0,2,1450
+174,"Ekta Ekta Greenville, Buddha Vihar, Pathardi Phata,Nashik",Kunal Madhani,Independent_house,new,99.0,3,2500
+175,"Shree bunglow near ,Pathardi Gaon, Pathardi Phata,Nashik",Ravindra Gaikar,Independent_house,new,65.0,3,1844
+176,"Suman row house,Pandav Nagari, Pathardi Phata,Nashik",Ravindra Gaikar,Independent_house,new,45.0,3,1462
+177,"Vighnaharta row house,Damodar Nagar, Pathardi Phata,Nashik",Ravindra Gaikar,Independent_house,new,32.0,2,1179
+178,"C S Shivganga Duplex Row House, Pimpalgaon Bahula, Nashik",Ravindra Gaikar,Independent_house,new,45.0,3,1176
+179,"2BHK Bungalowa For Sale,Adgaon, Nashik",Ayush Sonawane,Independent_house,new,41.0,2,1300
+180,"Nashik Road, Nashik",Rohit Shinde,Independent_house,new,50.0,2,1800
+181,"Shri Ganga Heights,Kalpataru Nagar, Nashik",Rajesh Yadav,Independent_house,new,79.5,3,1893
+182,"Kala Nagar, Indira Nagar,Nashik",Prabhakar,Independent_house,new,41.0,2,1250
+183,"Swami Samarth Nagar, Nashik Road,Nashik",Dattatray Bhamre,Independent_house,new,35.0,2,1000
+184,"Laxman Nagar, Nashik Road,Nashik",PRASHANT GAIKWAD,Independent_house,new,85.0,6,1450
+185,"lilavati hspital,Makhmalabad, Nashik",Devidas Sangale,Independent_house,new,44.0,3,1500
+186,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Poonam Gehani,Independent_house,new,40.0,2,1100
+187,"Uttam Nagar, Nashik",Govind,Independent_house,new,55.0,3,1100
+188,"Nashik Road, Nashik",Sunny,Independent_house,new,48.0,3,1600
+189,"Archit View Apartment,Nashik Road, Nashik",Pavan Vishwakarma,Independent_house,new,40.0,4,1530
+190,"Balram Nagar, Nashik",Manoj,Independent_house,new,58.0,3,1356
+191,"Dattanagar, Dattanagar,Nashik",Rushikesh Dhanwai,Independent_house,new,50.0,3,1400
+192,"Medage Nagar, Nashik",Nikhil Sonaje,Independent_house,new,18.51,1,500
+193,"Rushiraj Retreat,College Road, Nashik",Girish,Independent_house,new,230.0,4,3240
+194,"Wasan Nagar, Pathardi Phata,Nashik",Emmanuel John,Independent_house,new,35.0,2,972
+195,"Jai Bhavani road,Gandhi Nagar Airport Area, Nashik Road,Nashik","Astvinayak Real Estate,",Independent_house,new,45.0,2,1000
+196,"Torna nagar,Cidco, Nashik",DIVYA PROPERTY,Independent_house,new,251.0,10,6000
+197,"Nashik Road, Nashik",Poonam Choudhary,Independent_house,new,35.0,2,836
+198,"Professor Colony, Nashik",Prashant Waghmare,Independent_house,new,57.0,3,1500
+199,"Nashik Road, Nashik",Ejaj Sayyad,Independent_house,new,27.51,2,915
+200,"Bhujbal Knowledge City, Adgaon,Nashik",Atul Dode,Independent_house,new,30.0,2,850
+201,"Gopal sankul Row Bungalow,Nashik Road, Nashik",Aliza Properties,Independent_house,new,40.0,2,1250
+202,"Upenda nager opp symbiosis College,Upendra Nagar Colony, Nashik",Atul Dode,Independent_house,new,42.0,2,1200
+203,"Konark Nagar, Nashik",Vasant Ramdas Jadhav,Independent_house,new,69.99,2,1150
+204,"Makhmalabad, Nashik",Khan Abdul Aziz,Independent_house,new,35.0,4,1222
+205,"ganjay Row bungalow Tarvalanagar Ganjaya Row Bungalow Nashik siwar ,Tarwala Nagar, Nashik",Mayur Kotadiya,Independent_house,new,34.51,2,1220
+206,"Bhagur Rural, Nashik",Sandeep Singh Gill,Independent_house,new,18.5,2,650
+207,"Small house,Cidco, Nashik",Jagdale Janvhi,Independent_house,new,30.0,2,2020
+208,"Nashik Road, Nashik",Ketan Adgaonkar,Independent_house,new,25.0,2,950
+209,"Makhmalabad, Nashik",Shruti Shelar,Independent_house,new,45.0,2,422
+210,"Garden view Row bunglow,Amrutdham, Nashik",Suresh,Independent_house,new,45.0,3,1284
+211,"Ambedkar Nagar, Chunchale,Nashik",Pravin Shinde,Independent_house,new,19.0,,550
+212,"Srinivas Colony, Uttara Nagar,Nashik",Rajendra Kadam,Independent_house,new,108.0,4,2500
+213,"Sai Laxmi,Gayakhe Colony, Nashik Road,Nashik",Nimesh Bhatt,Independent_house,new,178.0,4,3200
+214,"Kala Nagar, Indira Nagar,Nashik",Hitenbhole,Independent_house,new,65.0,3,1700
+215,"Gulmohar Vihar, Satpur,Nashik",Supratik Datta,Independent_house,new,255.0,5,4200
+216,"Pranav Heights, Sri Ram Nagar, Konark Nagar,Nashik",Prabodhan Rudrake,Independent_house,new,35.0,2,1100
+217,"Damodar Nagar, Pathardi Phata,Nashik",Akshay Kulkarni,Independent_house,new,18.0,1,600
+218,"guGOKULDHM PHASE 1,Vrindavan Nagar, Nashik",Prabodhan Rudrake,Independent_house,new,35.0,2,1150
+219,"Sriram nager,Panchavati, Nashik",Prabodhan Rudrake,Independent_house,new,40.21,2,1150
+220,"Deepak kardak ,Kalpataru Nagar, Nashik",Deepak Kardak,Independent_house,new,47.0,2,1340
+221,"sainagar row houses,Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Mahesh Pawar,Independent_house,new,25.0,2,750
+222,"Sadguru Nagar RowHouse ,Sadguru Nagar, Nashik",Karanjadhav,Independent_house,new,59.0,2,1430
+223,"Kishor Nagar, Nashik",Yogesh Patil,Independent_house,new,55.0,3,1650
+224,"Prabhat Colony, Nashik",Ashish Tamboli,Independent_house,new,120.0,5,3000
+225,"Rambhumi Vatika,Buddha Vihar, Pathardi Phata,Nashik",Saurabh Pagar,Independent_house,new,17.34,1,821
+226,"Shivaji Nagar, Satpur,Nashik",Nitin Bansod,Independent_house,new,50.0,2,667
+227,"Cidco, Nashik",Digvijay,Independent_house,new,30.0,3,1100
+228,"Kalptru nagar ashoka marg,Kalpataru Nagar, Nashik",Deepak Kardak,Independent_house,new,47.0,2,1340
+229,"Vishnushanti banglo ,Shivaji Nagar, Satpur,Nashik",Kiran Kasve,Independent_house,new,31.0,3,1680
+230,"Patil Nagar, Nashik",Prashant Ghag,Independent_house,new,125.0,10,2500
+231,"Sadguru Nagar, Nashik",Shamsu Hudda,Independent_house,new,60.0,3,1500
+232,"D'souza Colony, Nashik",Anil,Independent_house,new,41.0,1,600
+233,"project,Pathardi Gaon, Pathardi Phata,Nashik",Rohit,Independent_house,new,40.0,3,1200
+234,"Panchavati, Nashik",PK KUMAR,Independent_house,new,120.0,4,2800
+235,"Uttam Nagar, Nashik",Swapnil,Independent_house,new,41.0,4,1200
+236,"Ganesh row bunglow,Pathardi Phata, Nashik",Yogesh Patil,Independent_house,new,39.0,2,1175
+237,"Uttam Nagar, Nashik",Sandesh Sonar,Independent_house,new,18.5,1,650
+238,"Pathardi Gaon, Pathardi Phata,Nashik",Yogesh Patil,Independent_house,new,46.0,2,1350
+239,"She gajanan Row Hoses,Ayodhya Nagari, Nashik",Dilip Gosavi,Independent_house,new,48.0,3,1500
+240,"Nashik Road, Nashik",Shubham Gaikwad,Independent_house,new,15.0,2,1000
+241,"MHB Colony, Satpur,Nashik",Ravi Wanave,Independent_house,new,33.0,4,1200
+242,"MHB Colony, Satpur,Nashik",Ravi Wanave,Independent_house,new,33.0,4,1200
+243,"Mahatma Nagar, Parijat Nagar,Nashik",S T Khandway,Independent_house,new,40.0,2,962
+244,"Aryana ,Kalpataru Nagar, Nashik",Deepak Kardak,Independent_house,new,47.0,2,1340
+245,"Pathardi Gaon, Pathardi Phata,Nashik",Pawar Mayu,Independent_house,new,56.0,3,1300
+246,"Pathardi Gaon, Pathardi Phata,Nashik",Pawar Mayu,Independent_house,new,56.0,3,1350
+247,"Someshwar Colony, Satpur,Nashik",Vikas Kale,Independent_house,new,55.0,3,1965
+248,"Matoshree Nagar, Nashik",Sandeep Thakur,Independent_house,new,151.0,3,1980
+249,"Jagtap Nagar, Nashik",Sandeep Thakur,Independent_house,new,110.0,4,1900
+250,"Patil Nagar, Nashik",Gaurav,Independent_house,new,24.0,,400
+251,"Karmaa Galaxy, Dwarka, Nashik",Sharda,Independent_house,new,75.0,4,2398
+252,"Trinity Row Bungalows,Dwarka, Nashik",Abizer Vapiwala,Independent_house,new,68.0,3,2050
+253,"Kala Nagar, Indira Nagar,Nashik",Tejas Ahire,Independent_house,new,95.0,4,2300
+254,"Jai Bhavani road,Adke Nagar, Nashik Road,Nashik",Mr. Rahul Burse,Independent_house,new,58.0,3,1650
+255,"Jai Bhavani road,Gandhi Nagar Airport Area, Nashik Road,Nashik",Mr. Rahul Burse,Independent_house,new,50.0,2,1125
+256,"Kala Nagar, Indira Nagar,Nashik",Tejas Ahire,Independent_house,new,35.0,2,1200
+257,"Kala Nagar, Indira Nagar,Nashik",Tejas Ahire,Independent_house,new,75.0,3,1089
+258,"Damodar Nagar, Pathardi Phata,Nashik",Yogesh Patil,Independent_house,new,39.0,2,1200
+259,"Damodar Nagar, Pathardi Phata,Nashik",Yogesh Patil,Independent_house,new,42.0,2,1270
+260,"Gangapur, Nashik",Sandeep Bhakare,Independent_house,new,21.0,1,565
+261,"Gangapur, Nashik",Sandeep Bhakare,Independent_house,new,36.0,2,860
+262,"Madhuban Colony, Nashik",Sandeep Bhakare,Independent_house,new,55.0,2,900
+263,"Lavate Nager, Parijat Nagar,Nashik",Sandeep Bhakare,Independent_house,new,30.0,1,750
+264,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",Sandeep Bhakare,Independent_house,new,40.0,2,980
+265,"Gangapur, Nashik",Sandeep Bhakare,Independent_house,new,55.0,2,1500
+266,"Pandit Colony, Nashik",Sandeep Bhakare,Independent_house,new,55.0,2,1000
+267,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",Sandeep Bhakare,Independent_house,new,85.0,3,1500
+268,"Gangapur, Nashik",Sandeep Bhakare,Independent_house,new,75.0,3,1200
+269,"Satpur, Nashik",Prafulla,Independent_house,new,40.0,2,1000
+270,"Gangapur, Nashik",SUNIL KALE,Independent_house,new,4.0,2,1500
+271,"Konark Nagar, Nashik",BHAVESH GURAV,Independent_house,new,5.85,2,1400
+272,"Pathardi Gaon, Pathardi Phata,Nashik",Sunil Pandharinath Wani,Independent_house,new,50.0,2,1228
+273,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Kiran,Independent_house,new,200.0,4,1700
+274,"Dhurav Nagar, Satpur,Nashik",Kiran,Independent_house,new,35.0,2,1300
+275,"Dhurav Nagar, Satpur,Nashik",Kiran,Independent_house,new,45.0,2,1500
+276,"Shanker Nagar, Veer Sawarkar Nagar,Nashik",Kiran,Independent_house,new,200.0,3,1500
+277,"Jagtap Nagar, Nashik",Kiran,Independent_house,new,140.0,3,1700
+278,"Ashoknagar, Satpur,Nashik",Kiran,Independent_house,new,90.0,3,1700
+279,"Grand Vista,Vasantdadanagar, Adgaon,Nashik",Real One,Independent_house,new,75.0,2,1000
+280,"Dhurav Nagar, Satpur,Nashik",Kiran,Independent_house,new,40.0,2,1500
+281,"Dhurav Nagar, Satpur,Nashik",Kiran,Independent_house,new,38.0,2,1500
+282,"Dhurav Nagar, Satpur,Nashik",Kiran,Independent_house,new,53.0,3,1800
+283,"Amrutdham, Nashik",Suresh Patel,Independent_house,new,55.0,3,1350
+284,"Someshwar Colony, Satpur,Nashik",Vikas Kale,Independent_house,new,50.0,3,1900
+285,"Sinnar Taluka, Nashik",Bhushan,Independent_house,new,23.0,2,1250
+286,"Nashik Road, Nashik",Aniruddha Nawtake,Independent_house,new,56.0,4,1450
+287,"Chetana Nagar, Rane Nagar,Nashik",Hemant Chaudhari,Independent_house,new,51.0,3,1450
+288,"Police society,Balram Nagar, Nashik",Borse,Independent_house,new,33.0,3,1150
+289,"Jai Bhavani road,Adke Nagar, Nashik Road,Nashik",Mr. Rahul Burse,Independent_house,new,58.0,3,1650
+290,"Chanakya Nagar, Khutwad Nagar,Nashik",Shruti Katyare,Independent_house,new,35.0,1,1000
+291,"Makhmalabad, Nashik",Suryakant Natha Patil,Independent_house,new,34.0,2,1000
+292,"Pathardi Gaon, Pathardi Phata,Nashik",Vivek Chillore,Independent_house,new,60.0,3,1975
+293,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",Dj Monty Vig,Independent_house,new,175.0,3,2800
+294,"Akshat row banglow,Vrindavan Nagar, Nashik",Bhawani Dubey,Independent_house,new,52.0,4,1800
+295,"Laxmi Nandan Coop Housing Society Ltd, Nashik Road, Nashik",Chandrakant Patil,Independent_house,new,28.5,2,850
+296,"Ghatkopar, Nashik",Nilesh,Independent_house,new,16.5,2,640
+297,"Chehadi,Nashik Road, Nashik",Nilesh,Independent_house,new,16.5,2,640
+298,"Prabudha Nagar, Satpur,Nashik",Rajesh Singh,Independent_house,new,19.0,,550
+299,"Kala Nagar, Indira Nagar,Nashik",Ganesh Sonavane,Independent_house,new,75.0,5,3600
+300,"Shanker Nagar, Veer Sawarkar Nagar,Nashik",Kiran,Independent_house,new,60.0,3,1350
+301,"Bhujbal Knowledge City, Adgaon,Nashik",Nikhil Mate,Independent_house,new,36.0,2,1300
+302,"Anand Colony, Nashik",Nikhil Mate,Independent_house,new,225.0,4,3285
+303,"Mahatma Nagar, Parijat Nagar,Nashik",Hemant Risbud,Independent_house,new,65.0,3,1400
+304,"Nashik Road, Nashik",Nikhil Mate,Independent_house,new,45.0,2,1150
+305,"Grand Vista,Vrindavan Nagar, Nashik",Real One,Independent_house,new,75.0,2,990
+306,"Sinnar Taluka, Nashik",Milind Patil,Independent_house,new,65.0,3,1750
+307,"Amrutdham, Nashik",Ankit Patil,Independent_house,new,27.0,1,610
+308,"Sinnar Taluka, Nashik",Somnath Sandhe,Independent_house,new,15.0,1,750
+309,"Avsar 19,Adgaon, Nashik",Suresh Patel,Independent_house,new,23.0,2,1000
+310,"Omkar Nagar, Nashik",Mahesh Rajput,Independent_house,new,38.0,,700
+311,"Balram Nagar, Nashik",Pravin,Independent_house,new,29.9,2,1150
+312,"Wadala Gaon, Nashik",Deepak Kalwit,Independent_house,new,325.0,4,3500
+313,"Patil Colony, Canada Corner,Nashik",Deepak Kalwit,Independent_house,new,157.0,3,2235
+314,"Serene Meadows, Anandwalli Gaon,Nashik",Deepak Kalwit,Independent_house,new,575.0,4,675
+315,"Diamond,Pawar Wadi, Nashik",Kalpesh Rajput,Independent_house,new,1.0,2,1250
+316,"Chandshi, Nashik",Sandeep Jadhav,Independent_house,new,50.0,2,1550
+317,"Chandshi, Nashik",Sandeep Jadhav,Independent_house,new,50.0,2,1550
+318,"Ashoknagar, Satpur,Nashik",Row House,Independent_house,new,30.0,3,1300
+319,"Nashik Road, Nashik",Abhishek Bidawat,Independent_house,new,116.0,3,2200
+320,"Samraat Tropicano,Gangapur, Nashik",Abhishek Bidawat,Independent_house,new,116.0,3,2200
+321,"Nashik Road, Nashik",Jeetendra Rajput,Independent_house,new,65.0,4,1350
+322,"Nashik Road, Nashik",Abhishek Bidawat,Independent_house,new,135.0,4,3000
+323,"Konark Nagar, Nashik",Pravin,Independent_house,new,48.0,3,1710
+324,"Hanuman Nagar, Nashik",Vineet Sakhare,Independent_house,new,260.0,4,5000
+325,"Vrindavan Nagar, Nashik",Vineet Sakhare,Independent_house,new,57.0,3,1800
+326,"Balram Nagar, Nashik",Sajish Gangurde,Independent_house,new,45.0,4,1450
+327,"Satpur, Nashik",Prem Badgujar,Independent_house,new,31.0,3,1550
+328,"Damodar Nagar, Pathardi Phata,Nashik",Laxxman M,Independent_house,new,35.0,2,1323
+329,"Sharda Vihar, Nashik",Laxxman M,Independent_house,new,34.9,2,1330
+330,"Nashik Road, Nashik",Govind Kalke,Independent_house,new,55.6,4,1050
+331,"Ganadhish row house,Ojhar, Nashik",Suresh Patel,Independent_house,new,22.0,2,1000
+332,"Jachak nagar,Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Mr. Rahul Burse,Independent_house,new,80.0,3,1700
+333,"Aaditya Place,Nashik Road, Nashik",Prakash,Independent_house,new,45.0,2,1350
+334,"Nashik Road, Nashik",Jay Kapile,Independent_house,new,75.0,4,1750
+335,"Kalpataru Nagar, Nashik",A N Mahajan,Independent_house,new,48.0,2,1450
+336,"Kalpataru Nagar, Nashik",A N Mahajan,Independent_house,new,48.0,1,1450
+337,"Laxmi Square ,Rajwada Nagar, Nashik Road,Nashik",Chetan Shejwal,Independent_house,new,45.0,4,2448
+338,"Laxmi Square ,Nashik Road, Nashik",Chetan Shejwal,Independent_house,new,42.0,4,1750
+339,"Laxmi Square Nashik road,Nashik Road, Nashik",Chetan Shejwal,Independent_house,new,45.0,4,2350
+340,"Laxmi Square ,Anand Nagar, Nashik Road,Nashik",Chetan Shejwal,Independent_house,new,45.0,4,2350
+341,"Laxmi vihar ,Nashik Road, Nashik",Chetan Shejwal,Independent_house,new,35.0,2,1455
+342,"Laxmi Square ,Rajwada Nagar, Nashik Road,Nashik",Chetan Shejwal,Independent_house,new,45.0,4,2350
+343,"Laxmi Vihar 2BHK Luxurious Rowbanglow ,Nashik Road, Nashik",Chetan Shejwal,Independent_house,new,35.0,2,1460
+344,"Peninsula Ashok Astoria Villas, Gangapur, Nashik",Nikhil Thakre,Independent_house,new,100.0,3,2050
+345,"Laxmi vihar Anand Nashik ,Nashik Road, Nashik",Chetan Shejwal,Independent_house,new,35.0,2,1450
+346,"Anant Anant Laxmi Apartment B, Om Nagar, Nashik",,Independent_house,new,20.0,1,645
+347,"Bhujbal Knowledge City, Adgaon,Nashik",Chetan Shejwal,Independent_house,new,38.0,2,1800
+348,"Nashik Road, Nashik",Chetan Shejwal,Independent_house,new,55.0,2,1800
+349,"Nashik Road, Nashik",Chetan Shejwal,Independent_house,new,17.5,1,1043
+350,"Bhujbal Knowledge City, Adgaon,Nashik",Chetan Shejwal,Independent_house,new,38.0,2,1400
+351,"Bhujbal Knowledge City, Adgaon,Nashik",Chetan Shejwal,Independent_house,new,45.0,2,1900
+352,"Bhujbal Knowledge City, Adgaon,Nashik",Chetan Shejwal,Independent_house,new,38.0,2,1400
+353,"Nashik Road, Nashik",Chetan Shejwal,Independent_house,new,18.0,2,1286
+354,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Abhijeet Patil,Independent_house,new,99.0,3,1500
+355,"Gangapur, Nashik",Shri Devlopers And Consultant,Independent_house,new,400.0,1,1800
+356,"Makhmalabad, Nashik",Kiran,Independent_house,new,65.0,3,1800
+357,"Makhmalabad, Nashik",Kiran,Independent_house,new,55.0,2,1500
+358,"Ekta Ekta Greenville, Buddha Vihar, Pathardi Phata,Nashik",Rakesh,Independent_house,new,125.0,4,3100
+359,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Dnyaneshwar Dhamne,Independent_house,new,50.0,3,1430
+360,"Samraat Dream Villas, Ganesh Baba Nagar, Nashik",Rakesh,Independent_house,new,110.0,3,1900
+361,"Indira Nagar, Nashik",Rakesh,Independent_house,new,46.0,2,1400
+362,"rk rowhouses,Pathardi Gaon, Pathardi Phata,Nashik",Rakesh,Independent_house,new,35.0,2,1100
+363,"Cidco, Nashik",Sahebrao Bhujbal,Independent_house,new,43.0,2,1400
+364,"Bhujbal Knowledge City, Adgaon,Nashik",Prabodhan Rudrake,Independent_house,new,35.0,2,1000
+365,"Bhujbal Knowledge City, Adgaon,Nashik",Prabodhan Rudrake,Independent_house,new,35.0,2,1000
+366,"Kala Nagar, Indira Nagar,Nashik",Chetan Kishor Kale,Independent_house,new,48.0,2,1100
+367,"PANCHAT PRIDE,Panchavati, Nashik",Prabodhan Rudrake,Independent_house,new,55.21,3,1271
+368,"shree kansara mata rohouse,Prabhat Nagar, Nashik",Prabodhan Rudrake,Independent_house,new,38.0,3,1358
+369,"smarth nager nashik,Prabhat Nagar, Nashik",Prabodhan Rudrake,Independent_house,new,55.21,3,1625
+370,"shree Vallah house,Vrindavan Nagar, Nashik",Prabodhan Rudrake,Independent_house,new,65.0,3,2000
+371,"Gayakhe Colony, Nashik Road,Nashik",Ejaj Sayyad,Independent_house,new,85.0,3,1700
+372,"Konark Nagar, Nashik",Chetan Kishor Kale,Independent_house,new,175.0,4,3000
+373,"Kala Nagar, Indira Nagar,Nashik",Chetan Kishor Kale,Independent_house,new,65.0,3,1750
+374,"Sainath agency,Pathardi Gaon, Pathardi Phata,Nashik",NISHA,Independent_house,new,23.0,1,1000
+375,"Chandshi, Nashik",Kiran,Independent_house,new,51.0,2,1550
+376,"Indira Nagar, Nashik",Shrikant Shinde,Independent_house,new,53.0,2,1600
+377,"Chetana Nagar, Rane Nagar,Nashik",NISHANT,Independent_house,new,94.5,3,2700
+378,"Arupam happy homes,Ojhar, Nashik",Bhuptani Ventures Pvt Ltd,Independent_house,new,32.0,2,1620
+379,"Sindhu ro bungalow,Chandshi, Nashik",Sandeep Jadhav,Independent_house,new,52.0,2,1550
+380,"Indira Nagar, Nashik",Shrikant Shinde,Independent_house,new,50.0,2,1450
+381,"Kishor Nagar, Nashik",NISHANT,Independent_house,new,68.4,3,1900
+382,"Kala Nagar, Indira Nagar,Nashik",Uday Pimple,Independent_house,new,65.0,3,2000
+383,"Ghatkopar, Nashik",Pramod Murkewar,Independent_house,new,14.85,1,635
+384,"Dwarka, Nashik",MUFADDAL KANCHWALA,Independent_house,new,100.0,3,2500
+385,"Swami Samarth Nagar, Nashik Road,Nashik",Sajish Gangurde,Independent_house,new,40.0,2,1400
+386,"Gandhi Nagar Airport Area, Nashik Road,Nashik",Mr. Rahul Burse,Independent_house,new,42.0,2,1350
+387,"Nashik Road, Nashik",Rajkumar,Independent_house,new,60.0,4,1550
+388,"Chandshi, Nashik",Kiran,Independent_house,new,51.0,2,1550
+389,"Vinayak Row Houses ,Ojhar, Nashik",U Singh,Independent_house,new,27.0,2,1300
+390,"Adhav Nagar, Nashik Road,Nashik",Ejaj Sayyad,Independent_house,new,65.0,4,1300
+391,"Raviwar Karanja, Panchavati,Nashik",NISHANT,Independent_house,new,172.0,3,861
+392,"Raviwar Karanja, Panchavati,Nashik",NISHANT,Independent_house,new,172.0,3,860
+393,"Chetana Nagar, Rane Nagar,Nashik",NISHANT,Independent_house,new,47.25,2,1350
+394,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Thakkers Developers,Independent_house,new,59.43,3,NA
+395,"Damodar Nagar, Pathardi Phata,Nashik",Rakholiya Construction,Independent_house,new,27.5,3,NA
+396,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Independent_house,new,Price on Request,"1.5, 2, 3, 4",NA
+397,"Ramkrishna Nagar, Makhmalabad,Nashik",Vishwas Construction,Independent_house,new,Price on Request,2,NA
+398,"Medage Nagar, Nashik",Ashoka Realty,Independent_house,new,Price on Request,1,NA
+399,"Ambedkar Nagar, Chunchale,Nashik",Sarode Builders And Land Developers,Independent_house,new,Price on Request,1,NA
+400,"Buddha Vihar, Pathardi Phata,Nashik",Ekta World,Independent_house,new,126.0,4,NA
+401,"Adgaon, Nashik",Aditi Developers,Independent_house,new,20.38,2,NA
+402,"Deolali Gaon, Nashik",Shah Builders & land Developers,Independent_house,new,22.0,"1, 2",NA
+403,"Mhasrul Gaon, Nashik",Pravinbhai Hasmukhbhai Vaghela,Independent_house,new,Price on Request,2,NA
+404,"MIDC Ambad, Nashik",Shree Constructions Nashik,Independent_house,new,Price on Request,1,NA
+405,"Mhasrul Gaon, Nashik",Shree Build Crafts,Independent_house,new,39.98,"2, 4",NA
+406,"Panchwati, MIDC Ambad,Nashik",Jayantibhai Chhaganbhai Metaliya,Independent_house,new,Price on Request,"2, 3",NA
+407,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Independent_house,new,Price on Request,4,NA
+408,"Buddha Vihar, Pathardi Phata,Nashik",Ekta World,Independent_house,new,117.0,"3, 4",NA
+409,"Sagar Village, Nashik",Pranav Buildtech,Independent_house,new,Price on Request,"2, 3",NA
+410,"Balram Nagar, Nashik",Talware Builders,Independent_house,new,33.78,3,NA
+411,"Makhmalabad, Nashik",R R Construction,Independent_house,new,Price on Request,"2, 3",NA
+412,"Buddha Vihar, Pathardi Phata,Nashik",Maitreya Realtors & Constructions,Independent_house,new,44.4,2,NA
+413,"Amrutdham, Nashik",Samraat Group,Independent_house,new,5606.0,"2, 3",NA
+414,"Asha Nagar, Nashik",Kanaklaxmi Developers,Independent_house,new,Price on Request,2,NA
+415,"Ghatkopar, Nashik",Shree Buildcon & Associates,Independent_house,new,Price on Request,2,NA
+416,"MIDC Ambad, Nashik",Jay Developers,Independent_house,new,Price on Request,2.5,NA
+417,"Ganesh Baba Nagar, Nashik",Samraat Group,Independent_house,new,Price on Request,3,NA
+418,"Ojhar, Nashik",Dales Estate,Independent_house,new,Price on Request,"2, 3",NA
+419,"Sagar Village, Nashik",Ashok Vanara Land Developers,Independent_house,new,33.04,2,NA
+420,", Nashik",Green Spaces Realtors,Independent_house,new,75.0,2,NA

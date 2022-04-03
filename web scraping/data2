@@ -1,0 +1,1431 @@
+,address,owners,housetype,house_condition,price,BHK,per_month_emi
+0,"Navnath Nagar, Nashik",Bhavik Group,Apartment,old,20.07,1,10.63
+1,"CDO-MERI Colony, Nashik",AK Builders And Developers,Apartment,old,Price on Request,1,NA
+2,"Shivshakti Nagar, Nashik",Shree Radhe Construction,Apartment,old,41.04,3,21.73
+3,"Vijay Nagar, Nashik",Shree Krushna Builders And Developers,Apartment,old,19.22,1,10.18
+4,"Sinnar Taluka, Nashik",Samarth Buildcon,Apartment,old,Price on Request,1,NA
+5,"Dwarka, Nashik",Om Sai Buildcon,Apartment,old,30.76,2,16.29
+6,"Jalapur, Nashik",Shilpa Estate,Apartment,old,Price on Request,1,NA
+7,"Sinnar Taluka, Nashik",Ashoka Realty,Apartment,old,Price on Request,2,NA
+8,"Deepali Nagar, Nashik",Roongta Group,Apartment,old,19.94,1,10.56
+9,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anmol Nayantara,Apartment,old,Price on Request,3,NA
+10,"Vihitgaon, Nashik",Samnani Group,Apartment,old,24.0,1,12.71
+11,"RTO Colony, Uttara Nagar,Nashik",Shivshakti Buildcon,Apartment,old,14.05,1,7.44
+12,"Dwarka, Nashik",Om Sai Buildcon,Apartment,old,50.0,2,26.48
+13,"Lasalgaon, Nashik",Prithviraj Bramhecha,Apartment,old,Price on Request,2,NA
+14,"Janata Raja Colony, Nashik",Prabhat Developers Nashik,Apartment,old,21.42,2,11.34
+15,"Nashik Road, Nashik",Shri Sadaguru Shivram Constructions,Apartment,old,8.46,1,4.48
+16,"Wadala Gaon, Nashik",Vimal Builtech,Apartment,old,19.44,1,10.29
+17,"Ramkrishna Nagar, Makhmalabad,Nashik",R D Buildwell,Apartment,old,9.62,1,5.10
+18,"Pawar Wadi, Nashik",Shilp Darshan CHS,Apartment,old,Price on Request,1,NA
+19,"Matoshree Nagar, Nashik",Tridel Homes,Apartment,old,40.19,2,21.28
+20,"Vihitgaon, Nashik",Jay Developers,Apartment,old,15.39,1,8.15
+21,"Shanti Nagar, Lekha Nagar,Nashik",Yogesh Wadnere And Kishor Wadnere,Apartment,old,Price on Request,1,NA
+22,"Panchavati, Nashik",Century Builders & Developers,Apartment,old,Price on Request,2,NA
+23,"Bridge Nagar, Nashik",Om Developers Nashik,Apartment,old,12.59,1,6.67
+24,"Asha Nagar, Nashik",Nerkar Properties,Apartment,old,Price on Request,1,NA
+25,"Vasantdadanagar, Adgaon,Nashik",Govind Madhwai and Associate,Apartment,old,23.52,2,12.46
+26,"Shramik Nagar, Nashik",Ashok Buildwell,Apartment,old,12.19,1,6.46
+27,"Ghatkopar, Nashik",Suprabhat Constructions,Apartment,old,106.0,3,52.75
+28,"Kailash Nagar, Nashik",Krishnadeep Builders And Developers,Apartment,old,12.41,1,6.57
+29,"Bhagyodaya Colony, Nashik",Ojas Developers,Apartment,old,Price on Request,2,NA
+30,"Professor Colony, Nashik",Mayuresh Constructions,Apartment,old,Price on Request,1,NA
+31,"Sinnar Taluka, Nashik",Ashoka Realty,Apartment,old,Price on Request,2,NA
+32,"Mhasrul Gaon, Nashik",Jagdish Petha Patel,Apartment,old,Price on Request,2,NA
+33,"DGP Nagar, Nashik",Sanjay M Bhavsar Builders And Developers,Apartment,old,Price on Request,1,NA
+34,"Atharv Colony, Veer Sawarkar Nagar,Nashik",Patil Shah Housing Corporation,Apartment,old,126.0,3,62.44
+35,"Sinnar Taluka, Nashik",Shree Buildcon & Associates,Apartment,old,9.07,1,4.80
+36,"Deolali Gaon, Nashik",Renuka Developers,Apartment,old,27.39,2,14.51
+37,"Ayodhya Nagari, Nashik",Jay Developers,Apartment,old,18.76,1,9.93
+38,"Kalachowki, Nashik",Yogeshwar Buildcon,Apartment,old,17.09,1,9.05
+39,"Kathda, Nashik",Nirman Group,Apartment,old,14.61,1,7.74
+40,"Dattanagar, Dattanagar,Nashik",Ojas Build Tech,Apartment,old,Price on Request,1,NA
+41,"Bhagur Rural, Nashik",Harak Patil Realtors,Apartment,old,9.55,1,5.06
+42,"Bhor Town Ship, Nashik",Shree Prakash Developers,Apartment,old,17.92,1,9.49
+43,"Shreerang Nagar, Nashik",Nerkar Properties,Apartment,old,17.05,1,9.03
+44,"Vaibhav Colony, Rajiv Nagar,Nashik",Roongta Group,Apartment,old,23.17,1,12.27
+45,"Makhmalabad, Nashik",Subhadra Estates,Apartment,old,Price on Request,1,NA
+46,"Ganesh Baba Nagar, Nashik",Karmaa Realty,Apartment,old,31.22,2,16.53
+47,"Asha Nagar, Nashik",Rajashree Developers,Apartment,old,17.47,1,9.25
+48,"Gangapur, Nashik",Arnav Buildcon,Apartment,old,15.1,2,8.00
+49,"Prashant Nagar, Pathardi Phata,Nashik",City Next Developers,Apartment,old,14.28,1,7.56
+50,"DGP Nagar, Nashik",Deep Construction,Apartment,old,Price on Request,2,NA
+51,"Ganpati Nagar, Anandwalli Gaon,Nashik",Shree Tirumala Buildcon,Apartment,old,8.96,1,4.74
+52,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",Bora Hospitality,Apartment,old,18.83,1,9.97
+53,"D. K. Nagar, Nashik",Tirupati Developers,Apartment,old,36.48,1,19.32
+54,"Makhmalabad, Nashik",Roongta Group,Apartment,old,16.49,1,8.73
+55,"Sagar Village, Nashik",R T Enterprises,Apartment,old,Price on Request,1,NA
+56,"Ambad Village, Nashik",Bhanuj Developers,Apartment,old,Price on Request,2,NA
+57,"Sri Ram Nagar, Konark Nagar,Nashik",Pranav Buildtech,Apartment,old,17.2,2,9.11
+58,"Balawant Nagar, Anandwalli Gaon,Nashik",Pacific Builder,Apartment,old,3124.0,2,16.55
+59,"Vasantdadanagar, Adgaon,Nashik",Matoshri Buildcon,Apartment,old,16.48,1,8.73
+60,"CDO-MERI Colony, Nashik",Sundram Construction,Apartment,old,18.23,1,9.65
+61,"Chandshi, Nashik",Shrinathji Developers,Apartment,old,14.93,1,7.91
+62,"Mogal Nagar, Nashik",Bodke Buildcon,Apartment,old,8.37,1,4.43
+63,"Tagore Nagar, Nashik",Ashish Developers,Apartment,old,Price on Request,1,NA
+64,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,35.0,1,18.53
+65,"Matoshree Nagar, Nashik",Dreamshelter Developers LLP,Apartment,old,13.2,1,6.99
+66,"Dwarka, Nashik",Prayas Construction,Apartment,old,Price on Request,1,NA
+67,"Ambedkar Nagar, Chunchale,Nashik",N A Constructions Builder And Contractor,Apartment,old,11.7,1,6.20
+68,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,Price on Request,2,NA
+69,"Mahalaxmi Nagar, Nashik",Fortune Buildcon,Apartment,old,Price on Request,2,NA
+70,"Ayodhya Nagari, Nashik",OM Construction And Infrastructures,Apartment,old,14.97,1,7.93
+71,"Panchwati, MIDC Ambad,Nashik",Innovative Ventures,Apartment,old,18.07,1,9.57
+72,"Wasan Nagar, Pathardi Phata,Nashik",Madhur Homes,Apartment,old,Price on Request,1 RK Apartment,NA
+73,"Prabhat Nagar, Nashik",Prayag Developer,Apartment,old,Price on Request,1,NA
+74,"Satpur, Nashik",Kunal Construction Builders And Developers,Apartment,old,Price on Request,1,NA
+75,"Kala Nagar, Indira Nagar,Nashik",R K Construction Nashik,Apartment,old,Price on Request,2,NA
+76,"Srinivas Colony, Uttara Nagar,Nashik",Om Shreenand Co Op Housing Society Ltd,Apartment,old,Price on Request,2,NA
+77,"Panchavati, Nashik",Sant Krupa Construction Builder And Developer,Apartment,old,Price on Request,2,NA
+78,"Gayakhe Colony, Nashik Road,Nashik",Mahek Developer,Apartment,old,Price on Request,1,NA
+79,"Damodar Nagar, Pathardi Phata,Nashik",Shree Shubhlaxmi Developers,Apartment,old,Price on Request,1,NA
+80,"Gulshan Colony, Nashik",K M Constructions,Apartment,old,Price on Request,1,NA
+81,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Ganore Builders And Developers,Apartment,old,Price on Request,1,NA
+82,"Wadala Gaon, Nashik",Atharva Sai Builders And Developers,Apartment,old,Price on Request,2,NA
+83,"Mhasrul Gaon, Nashik",Pankaj C Patil Builders And Developers,Apartment,old,Price on Request,1,NA
+84,"Prabudha Nagar, Satpur,Nashik",Sairaj Associates,Apartment,old,Price on Request,2,NA
+85,"Balawant Nagar, Anandwalli Gaon,Nashik",Reya Constructions,Apartment,old,Price on Request,1,NA
+86,"Deolali Gaon, Nashik",K K Construction Nashik,Apartment,old,Price on Request,2,NA
+87,"Sadguru Nagar, Nashik",Mahalaxmi Homes,Apartment,old,Price on Request,2,NA
+88,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",A C Jain Builders & Developers,Apartment,old,Price on Request,1,NA
+89,"Kalpataru Nagar, Nashik",SWAMI CONSTRUCTIONS,Apartment,old,Price on Request,2,NA
+90,"Nashik Road, Nashik",Archi Builders And Developers,Apartment,old,Price on Request,1,NA
+91,"Shanti Nagar, Lekha Nagar,Nashik",Shivam Builders And Developers,Apartment,old,Price on Request,1,NA
+92,"Ojhar, Nashik",Khan Constructions,Apartment,old,Price on Request,1,NA
+93,"Sadguru Nagar, Nashik",Sahajanand Builders And Developers,Apartment,old,Price on Request,1,NA
+94,"Chandshi, Nashik",Dharmistaben Arvindbhai Rakholiya,Apartment,old,Price on Request,1,NA
+95,"Mhasrul Gaon, Nashik",Om Sai Builders And Developers,Apartment,old,Price on Request,1,NA
+96,"Prashant Nagar, Pathardi Phata,Nashik",Corner Stone Construction,Apartment,old,Price on Request,1,NA
+97,"Deolali Gaon, Nashik",ARKK Builders And Developers,Apartment,old,Price on Request,2,NA
+98,"Panchavati, Nashik",Devshree Developers,Apartment,old,Price on Request,1,NA
+99,"Durganagar, Nashik",Palaj Buildcon,Apartment,old,Price on Request,1,NA
+100,"Manik Nagar, Nashik",Rushiraj Builders,Apartment,old,Price on Request,3,NA
+101,"Gurudatta Nagar, Nashik Road,Nashik",Gajanan Realtors,Apartment,old,Price on Request,1,NA
+102,"Mahalaxmi Nagar, Nashik",OM Vighnharta Construction,Apartment,old,Price on Request,1,NA
+103,"Koknipura, Nashik",Rushiraj Realtors,Apartment,old,Price on Request,1,NA
+104,"Pintoo Colony, Nashik Road,Nashik",Shree Ashtavinayak Infrastructure Nashik,Apartment,old,Price on Request,1,NA
+105,"Shramik Nagar, Nashik",Prashant Patil,Apartment,old,Price on Request,1,NA
+106,"Srinivas Colony, Uttara Nagar,Nashik",Samnani Group,Apartment,old,Price on Request,2,NA
+107,"Janak Nagari, Nashik",Kanak Developers,Apartment,old,Price on Request,2,NA
+108,"Pintoo Colony, Nashik Road,Nashik",Varsha Constructions,Apartment,old,Price on Request,1,NA
+109,"Nashik Road, Nashik",Swami Narayan Heights CO OP HSG SOC Maryadit,Apartment,old,Price on Request,1,NA
+110,"Jagtap Nagar, Nashik",Samruddhi Developers Nashik,Apartment,old,Price on Request,2,NA
+111,"Jagtap Nagar, Nashik",Mahalaxmi Buildcon Nashik,Apartment,old,Price on Request,2,NA
+112,"Balawant Nagar, Anandwalli Gaon,Nashik",Vaishnav Constructions,Apartment,old,Price on Request,3,NA
+113,"Ashoknagar, Satpur,Nashik",Vivek Construction,Apartment,old,Price on Request,1,NA
+114,"Janak Nagari, Nashik",Alkaben Pravinbhai Vaghela,Apartment,old,Price on Request,2,NA
+115,"Balawant Nagar, Anandwalli Gaon,Nashik",Mahesh Hiralal Panjwani Huf,Apartment,old,Price on Request,1,NA
+116,"Janak Nagari, Nashik",Shree Vyanktesh Construction,Apartment,old,Price on Request,1,NA
+117,"Ambedkar Nagar, Chunchale,Nashik",Kaivalya Shamsunder Jagtap,Apartment,old,Price on Request,1,NA
+118,"Nashik Road, Nashik",Shree Annpurna Realcons Pvt Ltd,Apartment,old,Price on Request,1,NA
+119,"Sinnar Taluka, Nashik",Rahul Balasaheb Targe,Apartment,old,Price on Request,1,NA
+120,"Nashik Road, Nashik",M K Realities,Apartment,old,Price on Request,1,NA
+121,"Ambedkar Nagar, Chunchale,Nashik",Gaurav Developers,Apartment,old,Price on Request,1,NA
+122,"Shri Ram Nagar, Nashik",Pritam Purshottam Patel,Apartment,old,Price on Request,1,NA
+123,"State Bank Colony, Indira Nagar,Nashik",Shree Tirumala Buildcon,Apartment,old,Price on Request,1,NA
+124,"Parijat Nagar, Nashik",Jayashree Vinod Patkar,Apartment,old,Price on Request,1,NA
+125,"Tirumla Nagar, Wadala Gaon,Nashik",Shree Gajanan Developers,Apartment,old,Price on Request,3,NA
+126,"Ambedkar Nagar, Chunchale,Nashik",Sarode Builders And Land Developers,Apartment,old,Price on Request,1,NA
+127,"Sharda Vihar, Nashik",Mangalam Developers,Apartment,old,Price on Request,1,NA
+128,"Ojhar, Nashik",Siddhi Developers,Apartment,old,Price on Request,2,NA
+129,"Nandur Village, Nashik",H M Builders,Apartment,old,Price on Request,1,NA
+130,"Adgaon, Nashik",Kabir Estates,Apartment,old,Price on Request,1,NA
+131,"Indira Nagar, Nashik",Prathamesh Vivek Gangurde,Apartment,old,Price on Request,2,NA
+132,"Ojhar, Nashik",Amar Infrastructures,Apartment,old,Price on Request,1,NA
+133,"Dhurav Nagar, Satpur,Nashik",Sai Samarth Construction,Apartment,old,Price on Request,1,NA
+134,"Vijaynagar Colony, Nashik",S S Constructions,Apartment,old,Price on Request,2,NA
+135,"Wadala Gaon, Nashik",Ind Developers,Apartment,old,Price on Request,1,NA
+136,"Panchavati, Nashik",Suman Leela Associate,Apartment,old,Price on Request,1,NA
+137,"Vaiduwadi, Mhasrul Gaon,Nashik",Shree Ekdanta Associates,Apartment,old,Price on Request,3,NA
+138,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Omkar Buildcon,Apartment,old,Price on Request,1,NA
+139,"Pandav Nagari, Pathardi Phata,Nashik",Yogeshwar Realty,Apartment,old,Price on Request,2,NA
+140,"Deolali Gaon, Nashik",ASK Buildcon,Apartment,old,Price on Request,1,NA
+141,"Wasan Nagar, Pathardi Phata,Nashik",Apex Buildcon Nashik,Apartment,old,Price on Request,1,NA
+142,"Nashik Road, Nashik",Sainath Builders And Developers,Apartment,old,Price on Request,1,NA
+143,"Makhmalabad, Nashik",Shivshakti Buildcon,Apartment,old,Price on Request,1,NA
+144,"Nashik Road, Nashik",Buniyad Constructions,Apartment,old,Price on Request,1,NA
+145,"Chandshi, Nashik",Soham Enterprises Nashik,Apartment,old,Price on Request,3,NA
+146,"Ashoknagar, Satpur,Nashik",Sairaj Builders And Developers,Apartment,old,Price on Request,1,NA
+147,"Upendra Nagar Colony, Nashik",Yogeshwar Realty,Apartment,old,Price on Request,1,NA
+148,"Deolali Gaon, Nashik",Saibaba Realtors,Apartment,old,Price on Request,1,NA
+149,"Panchavati, Nashik",Rudra Developers,Apartment,old,Price on Request,1,NA
+150,"Prashant Nagar, Pathardi Phata,Nashik",S K Buildcon,Apartment,old,Price on Request,1,NA
+151,"Sinnar Taluka, Nashik",Sai Builders And Developers,Apartment,old,Price on Request,2,NA
+152,"MIDC, Satpur,Nashik",Span Constructions,Apartment,old,Price on Request,3,NA
+153,"Sadguru Nagar, Nashik",Sunil Bhausing Pawar,Apartment,old,Price on Request,2,NA
+154,"Panchavati, Nashik",Hariom Infrastructure,Apartment,old,Price on Request,3,NA
+155,"Wadala Gaon, Nashik",Rakasheth Mali Builders LLP,Apartment,old,Price on Request,3,NA
+156,"Dwarka, Nashik",Pravin Balasaheb Kedar,Apartment,old,Price on Request,1,NA
+157,"Chandshi, Nashik",Kishorkumar Vashrambhai Viramgama Builders And Contractors,Apartment,old,Price on Request,1,NA
+158,"Jalapur, Nashik",Omkar Buildcon,Apartment,old,Price on Request,1,NA
+159,"Mhasrul Gaon, Nashik",Shekhar Ramdas Amale,Apartment,old,Price on Request,1,NA
+160,"Bajrang Nagar, Nashik",Suvarna Sanjay Sayankar,Apartment,old,Price on Request,1,NA
+161,"Panchavati, Nashik",Pawar Developers,Apartment,old,Price on Request,2,NA
+162,"Vasantdadanagar, Adgaon,Nashik",Maahi Developers,Apartment,old,Price on Request,2,NA
+163,"Sadguru Nagar, Nashik",Anita Pralhad Keskar,Apartment,old,Price on Request,1,NA
+164,"Indira Nagar, Nashik",Shree Developers Nashik,Apartment,old,Price on Request,1,NA
+165,"Prabhat Colony, Nashik",Kamal Wamanrao Jejurkar,Apartment,old,Price on Request,1,NA
+166,"Govind Nagar, Nashik",Roongta Group,Apartment,old,Price on Request,2,NA
+167,"Pimpalgaon Bahula, Nashik",Om Sai Builder And Developers,Apartment,old,Price on Request,1,NA
+168,"Serene Meadows, Anandwalli Gaon,Nashik",Shrinathji Developers,Apartment,old,Price on Request,4,NA
+169,"Panchavati, Nashik",Tukaram Tanaji Wagh,Apartment,old,Price on Request,1,NA
+170,"Mhasrul Gaon, Nashik",New Jay Ambe Associates,Apartment,old,Price on Request,2,NA
+171,"Sadguru Nagar, Nashik",Ambika Buildcon,Apartment,old,Price on Request,3,NA
+172,"Balawant Nagar, Anandwalli Gaon,Nashik",Amit Enterprises,Apartment,old,Price on Request,2,NA
+173,"Gaikwad Nagar, Nashik",Krishna Pooja Buildcon,Apartment,old,Price on Request,4,NA
+174,"Ganpati Nagar, Anandwalli Gaon,Nashik",Revati Builders And Developers,Apartment,old,Price on Request,1,NA
+175,"Bhujbal Knowledge City, Adgaon,Nashik",Roopsanyog Co Op Housing Society Ltd Nashik,Apartment,old,Price on Request,2,NA
+176,"Vaibhav Colony, Rajiv Nagar,Nashik",Bhavin Hemantkumar Bharatia,Apartment,old,Price on Request,1,NA
+177,"Gurudatta Nagar, Nashik Road,Nashik",Sunil Popatrao Adhav,Apartment,old,Price on Request,1,NA
+178,"Ramkrishna Nagar, Makhmalabad,Nashik",Prakash Trambak Jagpat,Apartment,old,Price on Request,2,NA
+179,"Chetana Nagar, Rane Nagar,Nashik",Prashant Construction,Apartment,old,Price on Request,2,NA
+180,"Pimpalgaon Bahula, Nashik",Niwas Developers Nashik,Apartment,old,Price on Request,1,NA
+181,"MIDC, Satpur,Nashik",Shiv Shambhu Developers,Apartment,old,Price on Request,2,NA
+182,"Janak Nagari, Nashik",Rajashree Properties,Apartment,old,Price on Request,2,NA
+183,"Professor Colony, Nashik",Apurva Builders And Developers,Apartment,old,Price on Request,2,NA
+184,"Sadguru Nagar, Nashik",Bhishmachary Jagataro Patil,Apartment,old,Price on Request,3,NA
+185,"Hirawadi, Nashik",Zenith Enterprises Nashik,Apartment,old,Price on Request,1,NA
+186,"Kala Nagar, Indira Nagar,Nashik",Shree Sai Samarth Builder And Developer,Apartment,old,Price on Request,2,NA
+187,"Ramkrishna Nagar, Makhmalabad,Nashik",Shreeraj Developers,Apartment,old,Price on Request,1,NA
+188,"Adgaon,",Sunny Developers,Apartment,old,Price on Request,1,NA
+189,"Bhujbal Knowledge City, Adgaon,Nashik",Govind Madhwai and Associate,Apartment,old,Price on Request,1,NA
+190,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Mahavir Builders And Developers Pvt Ltd,Apartment,old,Price on Request,1,NA
+191,"Kala Nagar, Indira Nagar,Nashik",Vimal Builtech,Apartment,old,Price on Request,1,NA
+192,"Vaiduwadi, Nashik",Krishna Developers Kala Nagar,Apartment,old,Price on Request,2,NA
+193,"Damodar Nagar, Pathardi Phata,Nashik",Shree Riddhi Siddhi Developers,Apartment,old,Price on Request,1,NA
+194,"Nashik Road, Nashik",S J Constructions,Apartment,old,Price on Request,1,NA
+195,"Balawant Nagar, Anandwalli Gaon,Nashik",Gajanan Developers Nashik,Apartment,old,Price on Request,1,NA
+196,"Pimpalgaon Bahula, Nashik",Chintamani Enterprises,Apartment,old,Price on Request,1,NA
+197,"Ambedkar Nagar, Chunchale,Nashik",N A Constructions Builder And Contractor,Apartment,old,Price on Request,1,NA
+198,"MIDC Ambad, Nashik",Ambadas Sitaram Korade,Apartment,old,Price on Request,1,NA
+199,"Indira Nagar, Nashik",Anand Group Builders And Developers,Apartment,old,Price on Request,1 RK Apartment,NA
+200,"Jalapur, Nashik",ABH Developers,Apartment,old,Price on Request,2,NA
+201,"Amrutdham, Nashik",Vsan Developers,Apartment,old,Price on Request,3,NA
+202,"Gayakhe Colony, Nashik Road,Nashik",A C Jain Builders & Developers,Apartment,old,Price on Request,2,NA
+203,"Wasan Nagar, Pathardi Phata,Nashik",Shree Construction,Apartment,old,Price on Request,1,NA
+204,"Hirawadi, Nashik",Ahirrao Buildcon,Apartment,old,Price on Request,1,NA
+205,"Deolali Gaon, Nashik",ARKK Builders And Developers,Apartment,old,Price on Request,1,NA
+206,"Damodar Nagar, Pathardi Phata,Nashik",Deepak Pandurang Matale,Apartment,old,Price on Request,1,NA
+207,"Pathardi Gaon, Pathardi Phata,Nashik",Madhubhai B Kothiya,Apartment,old,Price on Request,2,NA
+208,"MIDC, Satpur,Nashik",Ganesh Tukaram Bolkar Builders And Developers,Apartment,old,Price on Request,1,NA
+209,"Makhmalabad, Nashik",Mauli Builders And Developers,Apartment,old,Price on Request,1,NA
+210,"Dwarka, Nashik",Swami Buildcon,Apartment,old,Price on Request,1,NA
+211,"Pandav Nagari, Pathardi Phata,Nashik",Atreya Developers Nashik,Apartment,old,Price on Request,1,NA
+212,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Kalash Developers Associates,Apartment,old,Price on Request,3,NA
+213,"MIDC, Satpur,Nashik",Soni And Sons Builder And Developer,Apartment,old,Price on Request,1,NA
+214,"Prabhat Colony, Nashik",Swami Narayan Heights CO OP HSG SOC Maryadit,Apartment,old,Price on Request,1,NA
+215,"Samarth Nagar, Makhmalabad,Nashik",Om Builders And Develpers,Apartment,old,Price on Request,1,NA
+216,"Sadguru Nagar, Nashik",Shreeyog Builders,Apartment,old,Price on Request,2,NA
+217,"Wadala Gaon, Nashik",Kapse Developers,Apartment,old,Price on Request,1,NA
+218,"Nashik Road, Nashik",Shree Hari Park Co-op Hsg Soc,Apartment,old,Price on Request,1,NA
+219,"Samta Nagar, Nashik",Arihant Realty,Apartment,old,Price on Request,1,NA
+220,"Kishor Nagar, Nashik",Aakar Builders And Developers,Apartment,old,Price on Request,3,NA
+221,"Panchavati, Nashik",Nitin Haribhau Dhatrak,Apartment,old,Price on Request,1,NA
+222,"Patil Nagar, Nashik",Sonaje Developers,Apartment,old,Price on Request,1 RK Apartment,NA
+223,"Tirumla Nagar, Wadala Gaon,Nashik",Samnani Group,Apartment,old,Price on Request,2,NA
+224,"Mhasrul Gaon, Nashik",Ganesh Chintaman Chavan,Apartment,old,Price on Request,2,NA
+225,"Vihitgaon, Nashik",Palde Construction,Apartment,old,Price on Request,1,NA
+226,"College Road, Nashik",Samruddhi Realty,Apartment,old,Price on Request,1,NA
+227,"Makhmalabad, Nashik",Suman Leela Associate,Apartment,old,Price on Request,1,NA
+228,"Hirawadi, Nashik",Vinayak Construction Builder And Developers,Apartment,old,Price on Request,1 RK Apartment,NA
+229,"Amrutdham, Nashik",Rajesh Namdeo Sangle,Apartment,old,Price on Request,1,NA
+230,"MIDC, Satpur,Nashik",Vivek Construction,Apartment,old,Price on Request,1,NA
+231,"Wadala Gaon, Nashik",Riddheesh Developers,Apartment,old,Price on Request,1,NA
+232,"Mhasrul Gaon, Nashik",Tulsi Developers,Apartment,old,Price on Request,1 RK Apartment,NA
+233,"Panchwati, MIDC Ambad,Nashik",Lalit Sanjay Agrawal,Apartment,old,Price on Request,1,NA
+234,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Rishikesh Realty,Apartment,old,Price on Request,1,NA
+235,"Nashik Road, Nashik",Swastik Estates,Apartment,old,Price on Request,1,NA
+236,"Dwarka, Nashik",Pooja Construction,Apartment,old,Price on Request,1 RK Apartment,NA
+237,"Nashik Road, Nashik",Saakar Infra,Apartment,old,Price on Request,1,NA
+238,"Ganesh Nagar, Satpur,Nashik",Prabhat Developers Nashik,Apartment,old,Price on Request,2,NA
+239,"Indira Nagar, Nashik",Alai Builders And Developers,Apartment,old,Price on Request,1,NA
+240,"Janata Raja Colony, Nashik",Dhatrak Construwell,Apartment,old,Price on Request,1,NA
+241,"Damodar Nagar, Pathardi Phata,Nashik",Hemant Enterprises,Apartment,old,Price on Request,1,NA
+242,"Janak Nagari, Nashik",Shree Shubhlaxmi Developers Nashik,Apartment,old,Price on Request,1,NA
+243,"Nandur Village, Nashik",Shaan Developers,Apartment,old,Price on Request,1,NA
+244,"Jejurkar Wadi, Sharanpur,Nashik",Perfect Buildcon,Apartment,old,Price on Request,4,NA
+245,"Panchak, Nashik",Makani Infra,Apartment,old,Price on Request,1,NA
+246,"Sagar Village, Nashik",Kanaklaxmi Developers,Apartment,old,Price on Request,2,NA
+247,"Mhasrul Gaon, Nashik",DA Associates,Apartment,old,Price on Request,2,NA
+248,"Prabhat Nagar, Nashik",Hariom Infrastructure,Apartment,old,Price on Request,3,NA
+249,"Vaishnavi Park, Nashik",Dusane Developers,Apartment,old,Price on Request,1,NA
+250,"Ayodhya Nagari, Nashik",Laxmi Associates Nashik,Apartment,old,Price on Request,1,NA
+251,"Nashik Road, Nashik",Sahyadri Construction,Apartment,old,Price on Request,1,NA
+252,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Om Developers Nashik,Apartment,old,Price on Request,1,NA
+253,"Mhasrul Gaon, Nashik",Siddhivinayak Developers,Apartment,old,Price on Request,1,NA
+254,"Siddhtek Nagar, Nashik",Om Shree Construction,Apartment,old,Price on Request,1,NA
+255,"Konark Nagar, Nashik",H K Infrastructure,Apartment,old,Price on Request,2,NA
+256,"Panchavati, Nashik",Rahul Popatrao Kakulte,Apartment,old,Price on Request,2,NA
+257,"Dwarka, Nashik",Shri Vrindavan Builders And Developers Llp,Apartment,old,Price on Request,1,NA
+258,"Nashik Road, Nashik",Aavira Vastu,Apartment,old,Price on Request,2,NA
+259,"Prabhat Colony, Nashik",Roongta Group,Apartment,old,Price on Request,1,NA
+260,"Wasan Nagar, Pathardi Phata,Nashik",Krushna Builders And Developers,Apartment,old,Price on Request,1,NA
+261,"Someshwar Colony, Satpur,Nashik",Tulsi Developers,Apartment,old,Price on Request,1,NA
+262,"Janak Nagari, Nashik",Roongta Group,Apartment,old,Price on Request,1,NA
+263,"Prashant Nagar, Pathardi Phata,Nashik",Pragati Developers,Apartment,old,Price on Request,1,NA
+264,"Tarwala Nagar, Nashik",Shivmangal Developers,Apartment,old,Price on Request,1,NA
+265,"Buddha Vihar, Pathardi Phata,Nashik",Sanskar Developers,Apartment,old,Price on Request,1,NA
+266,"Janak Nagari, Nashik",B-Orbit,Apartment,old,Price on Request,2,NA
+267,"Nashik Road, Nashik",Vinay Maganlal Karnavat,Apartment,old,Price on Request,1,NA
+268,"Ambad Village, Nashik",Ashvinbhai Bavanjibhai Bokarvadiya,Apartment,old,Price on Request,2,NA
+269,"Mahatma Nagar, Parijat Nagar,Nashik",Amit Jitu Khemani,Apartment,old,Price on Request,1,NA
+270,"Ganpati Nagar, Anandwalli Gaon,Nashik",Sai Prasad Builders And Developers,Apartment,old,Price on Request,1,NA
+271,"Siddhtek Nagar, Nashik",Shubhangi Balwant Patil,Apartment,old,Price on Request,1,NA
+272,"Shri Ram Nagar, Nashik",Shakil Shaikh,Apartment,old,Price on Request,1,NA
+273,"Medage Nagar, Nashik",Ashoka Infraways Limited,Apartment,old,Price on Request,1 RK Apartment,NA
+274,"Pandav Nagari, Pathardi Phata,Nashik",Deepak Builders And Developers,Apartment,old,Price on Request,2,NA
+275,"Ganpati Nagar, Anandwalli Gaon,Nashik",Siddhi Construction Old Gangapur Naka,Apartment,old,Price on Request,2,NA
+276,"Sinnar Taluka, Nashik",Rahul Balasaheb Targe,Apartment,old,Price on Request,1,NA
+277,"Samarth Nagar, Makhmalabad,Nashik",Popat Trimbak Shinde,Apartment,old,Price on Request,1,NA
+278,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Sarthak Constructions,Apartment,old,Price on Request,1,NA
+279,"Ganpati Nagar, Anandwalli Gaon,Nashik",P G Pawar Estate,Apartment,old,Price on Request,3,NA
+280,"Deolali Gaon, Nashik",Shree Siddhivinayak Builders & Developers,Apartment,old,Price on Request,1,NA
+281,"Mhasrul Gaon, Nashik",Shiv Developers,Apartment,old,Price on Request,2,NA
+282,"Siemens Colony, Rane Nagar,Nashik",Vinayak Premises Pvt Ltd,Apartment,old,Price on Request,2,NA
+283,"Kalpataru Nagar, Nashik",Gaus Buildcon And Developers,Apartment,old,Price on Request,1,NA
+284,"Vinchur, Nashik",Vighanharta Developers And Builders,Apartment,old,Price on Request,1,NA
+285,"Janak Nagari, Nashik",Anil Hiraman Rikame,Apartment,old,Price on Request,2,NA
+286,"Wasan Nagar, Pathardi Phata,Nashik",Gaus Buildcon And Developers,Apartment,old,Price on Request,3,NA
+287,"Shanti Nagar, Lekha Nagar,Nashik",Aakash Buildcon Builders And Developers,Apartment,old,Price on Request,2,NA
+288,"Panchavati, Nashik",Sai Sakshi Developers,Apartment,old,Price on Request,1,NA
+289,"Shivaji Nagar, Satpur,Nashik",Rajendra Builders And Developers,Apartment,old,Price on Request,1,NA
+290,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Deepak Pandurang Matale,Apartment,old,Price on Request,2,NA
+291,"Wasan Nagar, Pathardi Phata,Nashik",Vinayaka Builders,Apartment,old,Price on Request,1,NA
+292,"Kalpataru Nagar, Nashik",Nasim Bano Jabbar Khan Tamboli,Apartment,old,Price on Request,1,NA
+293,"Sinnar Taluka, Nashik",Kalpataru Enterprises,Apartment,old,Price on Request,1,NA
+294,"Panchavati, Nashik",Samruddhi Buildcon nasik pune,Apartment,old,Price on Request,2,NA
+295,"Murari Nagar, Nashik",Sanjay Madhavrao Bhavsar,Apartment,old,Price on Request,1,NA
+296,"Janak Nagari, Nashik",JND Homess Llp,Apartment,old,Price on Request,1,NA
+297,"Wadala Gaon, Nashik",Shyam Buildcon Nashik,Apartment,old,Price on Request,2,NA
+298,"Wasan Nagar, Pathardi Phata,Nashik",Pushpa Raghuvir Deoghare,Apartment,old,Price on Request,1,NA
+299,"Chandshi, Nashik",Rushiraj Realtors,Apartment,old,Price on Request,1,NA
+300,"Sai Nath Nagar, Nashik",Mehrein Builders And Developers,Apartment,old,Price on Request,1,NA
+301,"Balawant Nagar, Anandwalli Gaon,Nashik",Aakar Buildcon,Apartment,old,Price on Request,3,NA
+302,"Sadguru Nagar, Nashik",Shree Venkatesh Developers,Apartment,old,Price on Request,3,NA
+303,"Gangapur, Nashik",Sanjay K Sayankar Builders And Developers,Apartment,old,Price on Request,1,NA
+304,"Adhav Nagar, Nashik Road,Nashik",Radhika Construction,Apartment,old,Price on Request,3,NA
+305,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Gurukrupa Infra,Apartment,old,Price on Request,1,NA
+306,"Kamod Nagar, Indira Nagar,Nashik",Isha Construction,Apartment,old,Price on Request,2,NA
+307,"Vijaynagar Colony, Nashik",Imperial Realty,Apartment,old,Price on Request,3,NA
+308,"Buddha Vihar, Pathardi Phata,Nashik",Prakash Ambadas Dagale,Apartment,old,Price on Request,2,NA
+309,"Mhasrul Gaon, Nashik",Prayag Developer,Apartment,old,19.9,1,10.54
+310,"Mhasrul Gaon, Nashik",Paras Builders And Developers,Apartment,old,11.17,1,5.91
+311,"Jagtap Nagar, Nashik",Bholehar Constructions,Apartment,old,Price on Request,1,NA
+312,"Dwarka, Nashik",Aakar Buildcon,Apartment,old,23.5,1,12.44
+313,"Deolali Gaon, Nashik",A C Jain Builders & Developers,Apartment,old,Price on Request,2,NA
+314,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,35.0,1,18.53
+315,"Adhav Nagar, Nashik Road,Nashik",Yogeshwar Properties,Apartment,old,15.37,1,8.14
+316,"Vijaynagar Colony, Nashik",G K Infra,Apartment,old,12.28,1,6.50
+317,"Khutwad Nagar, Nashik",Ashok Dhondiram Matale Builders And Developers,Apartment,old,29.35,2,15.54
+318,"Shalimar, Nashik",Vasturang Infrastructure Pvt. Ltd.,Apartment,old,Price on Request,1,NA
+319,"Deepali Nagar, Nashik",S M Enterprises,Apartment,old,22.07,2,11.69
+320,"Chandshi, Nashik",Chhayaben Maheshbhai Rakholiya,Apartment,old,16.12,1,8.54
+321,"Chandshi, Nashik",Gautam Enterprises,Apartment,old,16.75,1,8.87
+322,"Wasan Nagar, Pathardi Phata,Nashik",Gaurav Construction,Apartment,old,11.99,1,6.35
+323,"Kailash Nagar, Nashik",Jay Developers,Apartment,old,28.9,2,15.30
+324,"Kailash Nagar, Nashik",Jay Developers,Apartment,old,Price on Request,2,NA
+325,"Canada Corner, Nashik",Marvel Properties,Apartment,old,57.54,2,30.47
+326,"Makhmalabad, Nashik",Shree Buildcons,Apartment,old,Price on Request,1,NA
+327,"Deepali Nagar, Nashik",Dhatrak Construwell,Apartment,old,23.79,2,12.60
+328,"Kamod Nagar, Indira Nagar,Nashik",Amma Builders And Developers,Apartment,old,9.74,1,5.16
+329,"Ambedkar Nagar, Chunchale,Nashik",New Sairam Construction,Apartment,old,17.71,1,9.38
+330,"Makhmalabad, Nashik",Suchita Pramod Patkar,Apartment,old,13.67,1,7.24
+331,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,Price on Request,4,NA
+332,"Ganpati Nagar, Anandwalli Gaon,Nashik",Revati Group,Apartment,old,34.32,2,18.17
+333,"Siddhivinayak Colony, Nashik",Paranjape Schemes Construction Ltd.,Apartment,old,25.21,1,13.35
+334,"Ghatkopar, Nashik",Shree Buildcon & Associates,Apartment,old,14.58,1,7.72
+335,"Rajwada Nagar, Deolali Gaon,Nashik",Subhadra Estates,Apartment,old,12.46,1,6.60
+336,"Chandshi, Nashik",Maheshbhai Bavchandbhai Rakholiya,Apartment,old,Price on Request,2,NA
+337,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,125.0,4,62.26
+338,"Hirawadi, Nashik",Naresh Gurbaxrai Sewlani,Apartment,old,Price on Request,1,NA
+339,"Rehnuma Nagar, Nashik",Raza Builders,Apartment,old,Price on Request,2,NA
+340,"Dwarka, Nashik",M L Developers,Apartment,old,34.67,2,18.36
+341,"MIDC Ambad, Nashik",Shree Yashashree Group,Apartment,old,18.3,1,9.69
+342,"Chetana Nagar, Rane Nagar,Nashik",Krishnai Estates,Apartment,old,19.77,1,10.47
+343,"Mhasrul Gaon, Nashik",Chinchore Associate,Apartment,old,11.83,1,6.27
+344,"Wadala Gaon, Nashik",Gaus Buildcon And Developers,Apartment,old,Price on Request,1,NA
+345,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,29.68,1,15.72
+346,"Ashwamegh Nagar, Makhmalabad,Nashik",Tulsi Construction,Apartment,old,Price on Request,4,NA
+347,"Panchwati, MIDC Ambad,Nashik",Varsha Developers,Apartment,old,9.39,1,4.97
+348,"Vaiduwadi, Nashik",Kunal Builders And Developers,Apartment,old,19.58,2,10.37
+349,"Ganesh Baba Nagar, Nashik",Karmaa Realty,Apartment,old,29.63,2,15.69
+350,"Wasan Nagar, Pathardi Phata,Nashik",Chaitanyaraj Buildtech,Apartment,old,Price on Request,1,NA
+351,"Vasantdadanagar, Adgaon,Nashik",Gare Brothers,Apartment,old,1.6,1,844
+352,"Dwarka, Nashik",City Next Developers,Apartment,old,21.39,1,11.33
+353,"Shivaji Nagar, Satpur,Nashik",S P Construction,Apartment,old,Price on Request,1,NA
+354,"Nashik Road, Nashik",Avi Construction,Apartment,old,12.78,1,6.77
+355,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Suprabhat Constructions,Apartment,old,52.88,3,28.00
+356,"Dwarka, Nashik",Sanklecha Constructions,Apartment,old,28.09,2,14.87
+357,"Kalpataru Nagar, Nashik",Adarssh Buildcon,Apartment,old,15.74,1,8.33
+358,"Pimpalgaon Bahula, Nashik",J P Construction,Apartment,old,16.0,1,8.47
+359,"Makhmalabad, Nashik",Hitesh Mansukhbhai Virpara Builders And Developers,Apartment,old,7.43,1,3.93
+360,"Datey Nagar, Veer Sawarkar Nagar,Nashik",Jhala Infratech,Apartment,old,11.64,4,6.16
+361,"Mhasrul Gaon, Nashik",Shree Padmavati Developers,Apartment,old,21.0,1,11.12
+362,"Serene Meadows, Anandwalli Gaon,Nashik",Jay Developers,Apartment,old,30.87,1,16.35
+363,"Samta Nagar, Nashik",Jai Padmavati Builders,Apartment,old,13.65,1,7.23
+364,"Sharda Vihar, Nashik",Shree Shyam Builders,Apartment,old,29.77,2,15.77
+365,"Sinnar Taluka, Nashik",Vedant Buildcon,Apartment,old,Price on Request,1,NA
+366,"Wasan Nagar, Pathardi Phata,Nashik",Aaradhana Developers,Apartment,old,Price on Request,2,NA
+367,"Ramkrishna Nagar, Makhmalabad,Nashik",Atharva Developers,Apartment,old,15.21,1,8.05
+368,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,120.0,4,59.64
+369,"Panchavati, Nashik",Anil Sharad Kullkarni,Apartment,old,Price on Request,2,NA
+370,"Hirawadi, Nashik",Samraat Group,Apartment,old,25.81,2,13.67
+371,"Nandur Village, Nashik",Mahalaxmi Dham,Apartment,old,Price on Request,1,NA
+372,"Adhav Nagar, Nashik Road,Nashik",Ashoka Realty,Apartment,old,Price on Request,2,NA
+373,"Renuka Nagar, Nashik",Shreeji Realty Nashik,Apartment,old,39.21,2,20.77
+374,"Chetana Nagar, Rane Nagar,Nashik",Radheraman Construction,Apartment,old,15.2,1,8.05
+375,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Kamdhenu CHSL Nashik,Apartment,old,20.45,1,10.83
+376,"Gangapur, Nashik",Anand Constructions,Apartment,old,Price on Request,1,NA
+377,"D. K. Nagar, Nashik",Oswal Developers,Apartment,old,Price on Request,1,NA
+378,"Panchavati, Nashik",Allwin Infrastructure,Apartment,old,11.87,1,6.29
+379,"Panchavati, Nashik",S.R. Construction,Apartment,old,16.46,1,8.72
+380,"Damodar Nagar, Pathardi Phata,Nashik",Sahajanand Builders And Developers,Apartment,old,Price on Request,1,NA
+381,"Kalpataru Nagar, Nashik",Shaikh Parvin Gamir And Shaikh Hajrabe Gamir,Apartment,old,18.69,1,9.90
+382,"Siddhtek Nagar, Nashik",Shree Swami Samrth Builders,Apartment,old,Price on Request,2,NA
+383,"Adgaon, Nashik",Allwin Developers,Apartment,old,19.82,2,10.50
+384,"Wasan Nagar, Pathardi Phata,Nashik",Viraj Buildcon,Apartment,old,13.12,1,6.95
+385,"Pathardi Gaon, Pathardi Phata,Nashik",Shree Sai Builders And Developers Nashik,Apartment,old,13.2,1,6.99
+386,"Ganpati Nagar, Anandwalli Gaon,Nashik",Krissh Infra,Apartment,old,11.91,1,6.31
+387,"Matoshree Nagar, Nashik",Rajeshwar Builders,Apartment,old,Price on Request,1,NA
+388,"Dhurav Nagar, Satpur,Nashik",Samraat Group,Apartment,old,25.0,2,13.24
+389,"Pathardi Gaon, Pathardi Phata,Nashik",Monika Constructions,Apartment,old,Price on Request,1,NA
+390,"Adke Nagar, Nashik Road,Nashik",Arav Construction,Apartment,old,Price on Request,1,NA
+391,"D'souza Colony, Nashik",Mahalaxmi Buildcon Nashik,Apartment,old,Price on Request,1,NA
+392,"Makhmalabad, Nashik",Ojas Buildcon,Apartment,old,Price on Request,2,NA
+393,"Koknipura, Nashik",Atul Batukbhai Adroja And Rina Atulbhai Adroja,Apartment,old,Price on Request,1,NA
+394,"Kalpataru Nagar, Nashik",Recon Constructions,Apartment,old,Price on Request,1,NA
+395,"Samarth Nagar, Makhmalabad,Nashik",Sejal Buildcon,Apartment,old,16.81,1,8.90
+396,"Uttam Nagar, Nashik",Gajsiddhi Developers,Apartment,old,Price on Request,1,NA
+397,"Chetana Nagar, Rane Nagar,Nashik",Chaitra Builders,Apartment,old,19.66,1,10.41
+398,"Ganpati Nagar, Anandwalli Gaon,Nashik",Renuka Developers,Apartment,old,213.0,4,1.06
+399,"Nandur Village, Nashik",Ekya Designs,Apartment,old,10.02,1,5.31
+400,"Ambedkar Nagar, Chunchale,Nashik",Sarode Builders And Land Developers,Apartment,old,Price on Request,1,NA
+401,"Tirumla Nagar, Wadala Gaon,Nashik",Gaus Buildcon And Developers,Apartment,old,Price on Request,1,NA
+402,"Kamatwade Gaon, Nashik",New Sadguru Builders And Developers,Apartment,old,Price on Request,1,NA
+403,"Jejurkar Wadi, Sharanpur,Nashik",Viraj Estates,Apartment,old,Price on Request,3,NA
+404,"Deolali Gaon, Nashik",Bhika Nivrutti Godse,Apartment,old,26.06,2,13.80
+405,"Lamkhade Mala, Nashik",Chandubhai Laxmanbhai Patel,Apartment,old,Price on Request,1,NA
+406,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Utkarsh Builders And Developers,Apartment,old,43.01,2,22.78
+407,"Gangapur, Nashik",Pratik Balasaheb Sable,Apartment,old,Price on Request,1,NA
+408,"Sinnar Taluka, Nashik",Sai Builders And Developers,Apartment,old,Price on Request,2,NA
+409,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Ruddhi Buildcon,Apartment,old,19.1,2,10.11
+410,"Rajiv Nagar, Nashik",Roongta Group,Apartment,old,Price on Request,1,NA
+411,"Ashwamegh Nagar, Makhmalabad,Nashik",Jay Developers,Apartment,old,10.49,1,5.56
+412,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,48.24,2,25.54
+413,"Koknipura, Nashik",SSV Realty,Apartment,old,16.5,1,8.74
+414,"College Road, Nashik",Kranti Buildcon,Apartment,old,18.5,1,9.80
+415,"MIDC, Satpur,Nashik",Hruturaj Builders And Developers,Apartment,old,Price on Request,1,NA
+416,"Kamod Nagar, Indira Nagar,Nashik",Alai Builders And Developers,Apartment,old,23.47,1,12.43
+417,"Panchavati, Nashik",Rudra Builders And Developers,Apartment,old,16.84,1,8.92
+418,"Balawant Nagar, Anandwalli Gaon,Nashik",Tirupati Balaji Buildcon,Apartment,old,18.68,1,9.89
+419,"Nashik Road, Nashik",H M Builders,Apartment,old,9.47,1,5.02
+420,"Balawant Nagar, Anandwalli Gaon,Nashik",Siddhi Construction,Apartment,old,18.36,1,9.72
+421,"Mhasrul Gaon, Nashik",Dhanait Ahire Associates,Apartment,old,27.74,2,14.69
+422,"Deolali Gaon, Nashik",Karda Constructions,Apartment,old,26.82,2,14.20
+423,"Jai Hind Colony, Mahajan Nagar,Nashik",Indrakumar Ramchandra Shende,Apartment,old,12.11,1,6.41
+424,"Buddha Vihar, Pathardi Phata,Nashik",Sunil Bhaybhang And Associates,Apartment,old,Price on Request,1,NA
+425,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Yogeshwar Realty,Apartment,old,17.37,1,9.20
+426,"Dwarka, Nashik",Shreeji Realty Nashik,Apartment,old,41.69,2,22.08
+427,"Lavate Nager, Parijat Nagar,Nashik",Shreeji Realty Nashik,Apartment,old,35.48,2,18.79
+428,"Nandur Village, Nashik",Venus Constructions,Apartment,old,Price on Request,1,NA
+429,"Ambedkar Nagar, Chunchale,Nashik",Kalpana Vijay Tatiya,Apartment,old,10.06,1,5.32
+430,"Prashant Nagar, Pathardi Phata,Nashik",Yogeshwar Realty,Apartment,old,15.37,1,8.14
+431,"Jejurkar Wadi, Sharanpur,Nashik",Pancharatna Builcon Pvt. Ltd.,Apartment,old,24.08,1,12.75
+432,"Dhurav Nagar, Satpur,Nashik",Shriniwas Construction,Apartment,old,14.49,1,7.67
+433,"Dwarka, Nashik",Ravi Mahajan Builders & Developers,Apartment,old,Price on Request,2,NA
+434,"Nashik Road, Nashik",Icchamani Developers,Apartment,old,20.32,1,10.76
+435,"Ghatkopar, Nashik",Kimnbhai V Patel,Apartment,old,15.22,1,8.06
+436,"Ghatkopar, Nashik",S V Thombare And Associates,Apartment,old,15.26,1,8.08
+437,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Unity Buildtech,Apartment,old,20.99,1,11.12
+438,"Gurudatta Nagar, Nashik Road,Nashik",Mahalaxmi Dham,Apartment,old,Price on Request,1,NA
+439,"College Road, Nashik",Hiray And Jagtap Associates,Apartment,old,Price on Request,1,NA
+440,"Lasalgaon, Nashik",Anil Gulabchand Sabadra,Apartment,old,13.16,1,6.97
+441,"Lasalgaon, Nashik",Sadanand Buildtech,Apartment,old,Price on Request,1,NA
+442,"Makhmalabad, Nashik",Aditya Construction Nashik,Apartment,old,Price on Request,1,NA
+443,"Janak Nagari, Nashik",Icon Construction,Apartment,old,21.02,1,11.13
+444,"Ashwamegh Nagar, Makhmalabad,Nashik",New Jay Ambe Associates,Apartment,old,Price on Request,1,NA
+445,"Chetana Nagar, Rane Nagar,Nashik",Shree Gurudatta Constructions,Apartment,old,Price on Request,1,NA
+446,"Chetana Nagar, Rane Nagar,Nashik",Mahesh P Kathiriya,Apartment,old,24.61,1,13.03
+447,"Hirawadi, Nashik",Samraat Group,Apartment,old,35,2,18.53
+448,"Indira Nagar, Nashik",Nitin Amrutkar And Associates,Apartment,old,46.55,3,24.65
+449,"Deepali Nagar, Nashik",Roongta Group,Apartment,old,34.28,3,18.15
+450,"Dwarka, Nashik",Karda Constructions,Apartment,old,Price on Request,1,NA
+451,"Kalpataru Nagar, Nashik",A C Jain Builders & Developers,Apartment,old,38.54,2,20.41
+452,"Amrutdham, Nashik",Dhruvatara,Apartment,old,16.04,2,8.49
+453,"Dhurav Nagar, Satpur,Nashik",Anant Buildcon,Apartment,old,14.84,1,7.86
+454,"Chetana Nagar, Rane Nagar,Nashik",Devkinandan Buildcon,Apartment,old,Price on Request,2,NA
+455,"Wadala Gaon, Nashik",Kalim Niazoddin Shaikh And Others,Apartment,old,Price on Request,1,NA
+456,"Gangapur, Nashik",Swapnil Subhash Sakala And Yadnik Ravindra Patil,Apartment,old,9.96,1,5.28
+457,"Deolali Gaon, Nashik",Sai Construction,Apartment,old,5.61,1,2.97
+458,"Sai Nath Nagar, Nashik",Mrs Maya Vijay Gujrathi,Apartment,old,60.0,3,31.77
+459,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anmol Nayantara,Apartment,old,Price on Request,3,NA
+460,"Matoshree Nagar, Nashik",Aakar Buildcon,Apartment,old,54.29,2,28.75
+461,"Sinnar Taluka, Nashik",Angira Infra Developer,Apartment,old,14.46,1,7.66
+462,"Hirawadi, Nashik",Deal Construction,Apartment,old,16.94,1,8.97
+463,"Panchavati, Nashik",Pranav Vasant Pawar,Apartment,old,12.13,1,6.42
+464,"Srinivas Colony, Uttara Nagar,Nashik",Vinit Constructions,Apartment,old,Price on Request,1,NA
+465,"Swami Samarth Nagar, Nashik Road,Nashik",Swastik Estates,Apartment,old,Price on Request,1,NA
+466,"Jalapur, Nashik",Prakash Laxman Jagtap,Apartment,old,Price on Request,1,NA
+467,"Mohan Nagar, Nashik",Kanaklaxmi Developers,Apartment,old,19.5,1,10.33
+468,"Rambhoomi, Veer Sawarkar Nagar,Nashik",Jhala Infratech,Apartment,old,9.7,2,5.14
+469,"Wadala Gaon, Nashik",Gajanan Sparsh Co-Op Housing Society Ltd,Apartment,old,Price on Request,1,NA
+470,"Wadala Gaon, Nashik",Shreenathji Developers,Apartment,old,Price on Request,1,NA
+471,"Palase, Nashik",Ashtvinayak Construction,Apartment,old,9.1,1,4.82
+472,"Pathardi Gaon, Pathardi Phata,Nashik",Madhubhai B Kothiya,Apartment,old,16.66,1,8.82
+473,"Makhmalabad, Nashik",Aniruddha Builders Developers And Contractor,Apartment,old,Price on Request,1,NA
+474,"Ambedkar Nagar, Chunchale,Nashik",Five Star Enterprises,Apartment,old,Price on Request,1,NA
+475,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,308.0,4,1.53
+476,"Deolali Gaon, Nashik",Karda Constructions,Apartment,old,21,1,11.12
+477,"Panchwati, MIDC Ambad,Nashik",Sanjay M Bhavsar Builders And Developers,Apartment,old,22.0,1,11.65
+478,"Pimpalgaon Baswant, Nashik",Sumangal Developers,Apartment,old,Price on Request,1,NA
+479,"Someshwar Colony, Satpur,Nashik",Shyamlaji Developers,Apartment,old,12.0,1,6.35
+480,"Wadala Gaon, Nashik",J A Khatik And A H Malik,Apartment,old,Price on Request,1,NA
+481,"Siddhivinayak Colony, Nashik",Lambodar Hights Co Op Hsg Soc Ltd,Apartment,old,Price on Request,1,NA
+482,"Belatgavhan, Nashik",Shree Mahavir Realtor,Apartment,old,Price on Request,1,NA
+483,"Makhmalabad, Nashik",VSV Builder And Developer,Apartment,old,Price on Request,1,NA
+484,"Gulshan Colony, Nashik",S P Builders,Apartment,old,Price on Request,1,NA
+485,"Siddhtek Nagar, Nashik",Padma Buildcon,Apartment,old,Price on Request,1,NA
+486,"Ashwin Nagar, Nashik",Ashokbhai Batukbhai Adroja Huf,Apartment,old,Price on Request,1,NA
+487,"Sant Kabir Nagar, Veer Sawarkar Nagar,Nashik",Sagar Constructions,Apartment,old,Price on Request,2,NA
+488,"Bhagur Rural, Nashik",Shah Builders & land Developers,Apartment,old,Price on Request,1,NA
+489,"Ambad Village, Nashik",Gorakshanath Developers Pvt Ltd,Apartment,old,Price on Request,1,NA
+490,"Samarth Nagar, Makhmalabad,Nashik",Keystone Developers,Apartment,old,Price on Request,2,NA
+491,"Gangapur, Nashik",Kunal Construction Builders And Developers,Apartment,old,Price on Request,1,NA
+492,"Pimpalgaon Bahula, Nashik",Gopal Construwell,Apartment,old,Price on Request,1,NA
+493,"Renuka Nagar, Nashik",Aroma Realty,Apartment,old,19.0,1,10.06
+494,"Adgaon, Nashik",Muktaben Purushottam Narodia Builders And Contactor,Apartment,old,Price on Request,1,NA
+495,"Janak Nagari, Nashik",Gokul Infrastructure,Apartment,old,Price on Request,1,NA
+496,"Patrakar Colony, Parijat Nagar,Nashik",DG Group And Shree Balaji Developers,Apartment,old,Price on Request,1,NA
+497,"DGP Nagar, Nashik",Subhash Patil And Company,Apartment,old,Price on Request,1,NA
+498,"Rehnuma Nagar, Nashik",Creative Constructions,Apartment,old,Price on Request,2,NA
+499,"Rosa Colony, Nashik Road,Nashik",Ananda Buildcon,Apartment,old,Price on Request,4,NA
+500,"Makhmalabad, Nashik",Omkar Residency,Apartment,old,Price on Request,1,NA
+501,"Pimpalgaon Bahula, Nashik",Yogisai Construction,Apartment,old,Price on Request,1,NA
+502,"Pimpalgaon Bahula, Nashik",Nandan Devlopers,Apartment,old,Price on Request,1,NA
+503,"Professor Colony, Nashik",Jadhav Builders Nashik,Apartment,old,Price on Request,2,NA
+504,"Wasan Nagar, Pathardi Phata,Nashik",Sahyadri Buildcon Nashik,Apartment,old,Price on Request,1,NA
+505,"Makhmalabad, Nashik",Shree Sagar Associates,Apartment,old,Price on Request,1,NA
+506,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Rashmi Narendra Jadhav Builders And Developers,Apartment,old,Price on Request,1 RK Apartment,NA
+507,"Takle Nagar, Krishna Nagar,Nashik",Shreeved Builders And Developers,Apartment,old,20.28,1,10.74
+508,"Panchavati, Nashik",Shri Sai Buildcon Nashik,Apartment,old,Price on Request,1,NA
+509,"Murari Nagar, Nashik",SM Buildcon,Apartment,old,Price on Request,1,NA
+510,"Indira Nagar, Nashik",Laxmi Construction And Developer,Apartment,old,Price on Request,1,NA
+511,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Karda Infrastructure,Apartment,old,Price on Request,2,NA
+512,"Prashant Nagar, Pathardi Phata,Nashik",Vikas Gemini,Apartment,old,Price on Request,1,NA
+513,"Chandshi, Nashik",Sushant Gangurde,Apartment,old,26.22,2,13.88
+514,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,29.68,1,15.72
+515,"Viveka Nand Nagar, Anandwalli Gaon,Nashik",Hardik Developers,Apartment,old,34.65,3,18.35
+516,"Shinde, Nashik",Rajee Infrastructure,Apartment,old,13.92,1,7.37
+517,"Ghadge Nagar, Makhmalabad,Nashik",Hasmukhbhai Jerambhai Suhagiya Construction And Developers,Apartment,old,17.27,1,9.14
+518,"Vasantdadanagar, Adgaon,Nashik",Matoshri Buildcon,Apartment,old,Price on Request,1,NA
+519,"Panchavati, Nashik",Maruti Constructions,Apartment,old,17.05,1,9.03
+520,"Serene Meadows, Anandwalli Gaon,Nashik",Shri Balajee Buiders And Developers,Apartment,old,Price on Request,2,NA
+521,"Makhmalabad, Nashik",Maa Buildwell,Apartment,old,Price on Request,2,NA
+522,"Nandur Village, Nashik",Shyam Buildcon Nashik,Apartment,old,Price on Request,1,NA
+523,"Nandur Village, Nashik",Elite Constructions Nashik,Apartment,old,Price on Request,2,NA
+524,"Ashwamegh Nagar, Makhmalabad,Nashik",Om Builders And Developers,Apartment,old,Price on Request,1,NA
+525,"Vasantdadanagar, Adgaon,Nashik",Prathamesh Vivek Gangurde,Apartment,old,Price on Request,2,NA
+526,"Shivaji Nagar, Satpur,Nashik",Bhagyalaxmi Builders And Developers,Apartment,old,Price on Request,1,NA
+527,"Sadguru Nagar, Nashik",Dilip Veljibhai Patel,Apartment,old,Price on Request,1,NA
+528,"Adgaon, Nashik",Sadguru Associates,Apartment,old,Price on Request,1,NA
+529,"Balawant Nagar, Anandwalli Gaon,Nashik",Shinde And Shinde Builders And Contractors,Apartment,old,Price on Request,2,NA
+530,"Nashik Road, Nashik",Pavan Construction,Apartment,old,Price on Request,1,NA
+531,"Govind Nagar, Nashik",Rajeshbhai Gordhanbhai Makwana,Apartment,old,Price on Request,2,NA
+532,"Gurudatta Nagar, Nashik Road,Nashik",Gayatri Developers,Apartment,old,Price on Request,1,NA
+533,"Kamod Nagar, Indira Nagar,Nashik",Nilam Chandrakant Tejale,Apartment,old,37.79,2,20.01
+534,"Pokar Colony, Vaiduwadi,Nashik",Divyesh Pramod Kothari,Apartment,old,Price on Request,1,NA
+535,"Deolali Gaon, Nashik",Karda Constructions,Apartment,old,Price on Request,1,NA
+536,"Adhav Nagar, Nashik Road,Nashik",Sai Home Builders,Apartment,old,Price on Request,1,NA
+537,"Tirumla Nagar, Wadala Gaon,Nashik",Unity Associates,Apartment,old,Price on Request,1,NA
+538,"Serene Meadows, Anandwalli Gaon,Nashik",Dhatrak group,Apartment,old,6580.0,3,34.84
+539,"Gangapur, Nashik",Vira Enterprises,Apartment,old,11.82,1,6.26
+540,"Damodar Nagar, Pathardi Phata,Nashik",New Akshara Construction,Apartment,old,Price on Request,1,NA
+541,"Prashant Nagar, Pathardi Phata,Nashik",Ozone Buildcon,Apartment,old,26,2,13.77
+542,"Pimpalgaon Baswant, Nashik",Sandeep Kantilal Kochar,Apartment,old,Price on Request,1 RK Apartment,NA
+543,"Murari Nagar, Nashik",Shree Yashashree Construction,Apartment,old,53.26,2,28.20
+544,"Makhmalabad, Nashik",Surya Builders,Apartment,old,18.0,1,9.53
+545,"Ayodhya Nagari, Nashik",Reputed Builder,Apartment,old,Price on Request,2,NA
+546,"Gurudatta Nagar, Nashik Road,Nashik",K D Construction,Apartment,old,Price on Request,1,NA
+547,"Janata Raja Colony, Nashik",Bhamare Builders,Apartment,old,16.05,1,8.50
+548,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Abhishek Builder,Apartment,old,10.47,1,5.54
+549,"Hirawadi, Nashik",Samraat Group,Apartment,old,25.81,2,13.67
+550,"Vaiduwadi, Mhasrul Gaon,Nashik",Vashudev Developers,Apartment,old,14.93,1,7.91
+551,"Janak Nagari, Nashik",Jaap Builders,Apartment,old,Price on Request,1,NA
+552,"Ashwamegh Nagar, Makhmalabad,Nashik",Maa Buildwell,Apartment,old,11.93,1,6.32
+553,"Pathardi Gaon, Pathardi Phata,Nashik",Shree Samarth Builders And Developers,Apartment,old,19.39,2,10.27
+554,"Pandavnagri, Mogal Nagar,Nashik",Maheshwar Enterprises,Apartment,old,Price on Request,2,NA
+555,"Gangapur, Nashik",Partract Estate And Investment,Apartment,old,58.6,2,31.03
+556,"Deepali Nagar, Nashik",Shreeji Group,Apartment,old,35,2,18.53
+557,"Medage Nagar, Nashik",Sai Veer Construction,Apartment,old,Price on Request,1,NA
+558,"Indira Nagar, Nashik",Shreeji Realty Nashik,Apartment,old,Price on Request,1,NA
+559,"Pandav Nagari, Pathardi Phata,Nashik",Talware Builders,Apartment,old,18.84,1,9.98
+560,"Sinnar Taluka, Nashik",Ashoka Realty,Apartment,old,12.81,1,6.78
+561,"Modkeshwar Nagar, Nashik",Shree Madhav Buildcon,Apartment,old,20.46,1,10.83
+562,"Bhujbal Knowledge City, Adgaon,Nashik",Siddhivinayak Buildcon,Apartment,old,20.33,1,10.77
+563,"Upendra Nagar Colony, Nashik",Soumya Buildcon,Apartment,old,Price on Request,1,NA
+564,"Pandav Nagari, Pathardi Phata,Nashik",Amit Enterprises Housing LTD,Apartment,old,29.4,2,15.57
+565,"Medage Nagar, Nashik",Gaurav Construction Builders And Developers,Apartment,old,8.49,1,4.50
+566,"Serene Meadows, Anandwalli Gaon,Nashik",Archit Group,Apartment,old,32.15,2,17.02
+567,"Balawant Nagar, Anandwalli Gaon,Nashik",Greenwood Builder Pvt Ltd,Apartment,old,77.41,3,38.43
+568,"Balawant Nagar, Anandwalli Gaon,Nashik",Ganesh Enterprises,Apartment,old,Price on Request,2,NA
+569,"Shalimar, Nashik",Vasturang Infrastructure Pvt. Ltd.,Apartment,old,18.0,1,9.53
+570,"Adhav Nagar, Nashik Road,Nashik",Sainath Enterprises Nashik,Apartment,old,15.34,1,8.12
+571,"Nandur Village, Nashik",Shree Hari Vithal CHS,Apartment,old,Price on Request,2,NA
+572,"Laxman Nagar, Nashik Road,Nashik",Vaastu Vaibhav Constructions,Apartment,old,15.98,1,8.46
+573,"Prashant Nagar, Pathardi Phata,Nashik",Malpani Estates,Apartment,old,42.24,2,22.37
+574,"Adhav Nagar, Nashik Road,Nashik",Prabhavi Constructions,Apartment,old,28.68,3,15.19
+575,"Hanuman Nagar, Nashik",Bhagya Developer,Apartment,old,36.94,1,19.56
+576,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",City Next Developers,Apartment,old,19.59,1,10.37
+577,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Chetan Dilip Patkar,Apartment,old,Price on Request,1,NA
+578,"Pimpalgaon Bahula, Nashik",Manisha Pratap Hyalij And Umesh Bhalchandra Shende,Apartment,old,12.33,1,6.53
+579,"Kalpataru Nagar, Nashik",Ashoka Realty,Apartment,old,71,3,37.60
+580,"Pathardi Gaon, Pathardi Phata,Nashik",Balaji Developers,Apartment,old,Price on Request,1,NA
+581,"Laxman Nagar, Nashik Road,Nashik",M K Realities,Apartment,old,Price on Request,1,NA
+582,"Nandur Village, Nashik",Yug Builders,Apartment,old,12.23,1,6.48
+583,"Adhav Nagar, Nashik Road,Nashik",Prabhavi Constructions,Apartment,old,29.47,2,15.61
+584,"Nashik Road, Nashik",Deepak Builders And Developers,Apartment,old,5678.0,2,30.07
+585,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anmol Nayantara,Apartment,old,7050.0,3,37.34
+586,"Damodar Nagar, Pathardi Phata,Nashik",Shree Builders and Contractors,Apartment,old,Price on Request,1,NA
+587,"Gangapur, Nashik",Shree Venkatesh Developers,Apartment,old,Price on Request,1,NA
+588,"Balawant Nagar, Anandwalli Gaon,Nashik",Shivpraj Builder And Developer,Apartment,old,14.11,1,7.47
+589,"Deolali Gaon, Nashik",Abhay C Jain Builders And Developers,Apartment,old,37.87,2,20.05
+590,"Vrindavan Nagar, Nashik",Sanket Buildtech,Apartment,old,15.12,1,8.01
+591,"Manik Nagar, Nashik",Maitri Builders And Developers,Apartment,old,Price on Request,2,NA
+592,"Makhmalabad, Nashik",Vastulaxmi Builders And Contractors,Apartment,old,21.91,1,11.60
+593,"Panchavati, Nashik",H M Builders,Apartment,old,10.79,1,5.71
+594,"Serene Meadows, Anandwalli Gaon,Nashik",B Orbit Ventures,Apartment,old,Price on Request,3,NA
+595,"Gangapur, Nashik",Mahadev Construction,Apartment,old,11.58,1,6.13
+596,"Deolali Gaon, Nashik",ND Developers,Apartment,old,22.0,1,11.65
+597,"Ganpati Nagar, Anandwalli Gaon,Nashik",Karda Constructions,Apartment,old,5306.0,2,28.10
+598,"Makhmalabad, Nashik",Kalubhai Keshubhai Chawada,Apartment,old,10.34,1,5.48
+599,"Amrutdham, Nashik",Kabir Construction,Apartment,old,Price on Request,2,NA
+600,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Soham Constructions,Apartment,old,20.59,2,10.91
+601,"Nashik Road, Nashik",Landmark infra,Apartment,old,9.41,1,4.98
+602,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anmol Nayantara,Apartment,old,9668.0,3,48.00
+603,"Jejurkar Wadi, Sharanpur,Nashik",Pancharatna Builcon Pvt. Ltd.,Apartment,old,23.19,1,12.28
+604,"Wasan Nagar, Pathardi Phata,Nashik",Shree Sai Associates,Apartment,old,Price on Request,1,NA
+605,"Makhmalabad, Nashik",Ambika Projects,Apartment,old,26.07,2,13.81
+606,"Murari Nagar, Nashik",Trimurti Developer,Apartment,old,Price on Request,1,NA
+607,"Sant Kabir Nagar, Veer Sawarkar Nagar,Nashik",Ms Amber Estate,Apartment,old,59.91,3,31.72
+608,"Nashik Road, Nashik",Mahajan Buildcon,Apartment,old,21.85,1,11.57
+609,"Sadguru Nagar, Nashik",R V Construction,Apartment,old,Price on Request,1,NA
+610,"Sadguru Nagar, Satpur,Nashik",Crown Builders And Developers,Apartment,old,25.52,1,13.51
+611,"Ashwamegh Nagar, Makhmalabad,Nashik",Girish Ramchandra Satpute,Apartment,old,25,2,13.24
+612,"Anand Nagar, Nashik Road,Nashik",Ravindra Ambadas Maind,Apartment,old,Price on Request,1,NA
+613,"Vaiduwadi, Nashik",Icon Infrastructures,Apartment,old,18.88,1,10.00
+614,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Samraat Group,Apartment,old,Price on Request,2,NA
+615,"Nashik Road, Nashik",Palde Construction,Apartment,old,24.73,2,13.10
+616,"Siddhtek Nagar, Nashik",Vishal Shivaji Matale,Apartment,old,Price on Request,1,NA
+617,"Deolali Gaon, Nashik",ARKK Builders And Developers,Apartment,old,Price on Request,1,NA
+618,"Raviwar Karanja, Panchavati,Nashik",Dyneshwar Keshavrao Bhosale,Apartment,old,Price on Request,1 RK Apartment,NA
+619,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Sairaj Builders & Developers,Apartment,old,61.56,3,32.60
+620,"Ganpati Nagar, Anandwalli Gaon,Nashik",Shrinathji Developers,Apartment,old,Price on Request,2,NA
+621,"Pandav Nagari, Pathardi Phata,Nashik",Sanklecha Constructions,Apartment,old,Price on Request,4,NA
+622,"Mhasrul Gaon, Nashik",Devshree Developers,Apartment,old,11.25,1,5.96
+623,"Dwarka, Nashik",Om Builders And Developers,Apartment,old,33.04,2,17.49
+624,"Deolali Gaon, Nashik",Nest Developers,Apartment,old,26.33,1,13.94
+625,"Gangapur, Nashik",Shri Sanderi Group,Apartment,old,13.54,1,7.17
+626,"Balawant Nagar, Anandwalli Gaon,Nashik",Anubhooti Infrastructures Pvt Ltd,Apartment,old,1395.0,1,7.39
+627,"Adhav Nagar, Nashik Road,Nashik",V R V Construction,Apartment,old,Price on Request,1,NA
+628,"Panchavati, Nashik",Maitra Buildtech,Apartment,old,28.35,2,15.01
+629,"Pandav Nagari, Pathardi Phata,Nashik",Shantai Developers,Apartment,old,11.71,1,6.20
+630,"Makhmalabad, Nashik",Abhay C Jain Builders And Developers,Apartment,old,13.71,1,7.26
+631,"Sadguru Nagar, Nashik",Sara Infrastructure,Apartment,old,Price on Request,2,NA
+632,"Murari Nagar, Nashik",Sunil Bhausing Pawar,Apartment,old,Price on Request,1,NA
+633,"Amrutdham, Nashik",Dhruvatara,Apartment,old,30.0,2,15.89
+634,"Deolali Gaon, Nashik",ND Developers,Apartment,old,50.0,2,26.48
+635,"Sharda Vihar, Nashik",Hashmukh K Jogani Bhagvandas Builder And Developers,Apartment,old,34.85,2,18.45
+636,"Pathardi Gaon, Pathardi Phata,Nashik",Rajiv Developers,Apartment,old,29.0,2,15.36
+637,"Makhmalabad, Nashik",L M Enterprises,Apartment,old,10.23,1,5.42
+638,"Kamgar Nagar, Satpur,Nashik",Arun Pundlik Nikam,Apartment,old,22.4,2,11.86
+639,"Samarth Nagar, Makhmalabad,Nashik",Laxmi Associates Nashik,Apartment,old,18.19,1,9.63
+640,"Damodar Nagar, Pathardi Phata,Nashik",KiranKumar Damodar Gite,Apartment,old,Price on Request,2,NA
+641,"Kalpataru Nagar, Nashik",Gaus Buildcon And Developers,Apartment,old,16.8,1,8.90
+642,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anmol Nayantara,Apartment,old,7028.0,3,37.22
+643,"Ekdant Nagar, Nashik",Shree Gajanan Builders And Realtors,Apartment,old,Price on Request,1,NA
+644,"Damodar Nagar, Pathardi Phata,Nashik",Renuka Heights Co Op Housing Society Ltd,Apartment,old,Price on Request,1,NA
+645,"Nashik Road, Nashik",M K Realities,Apartment,old,Price on Request,1,NA
+646,"Damodar Nagar, Pathardi Phata,Nashik",Sai Kripa Buildcon,Apartment,old,39.0,3,20.66
+647,"Janak Nagari, Nashik",Vijan Realty Private Limited,Apartment,old,26.94,2,14.26
+648,"Janak Nagari, Nashik",J K Associates,Apartment,old,26.0,1,13.77
+649,"Vrindavan Nagar, Nashik",Sanket Buildtech,Apartment,old,15.02,1,7.95
+650,"Damodar Nagar, Pathardi Phata,Nashik",Nisarg Enterprises,Apartment,old,14.19,1,7.51
+651,"Makhmalabad, Nashik",Prashant Prabhakar Gurule,Apartment,old,Price on Request,1,NA
+652,"Nashik Road, Nashik",S S Constructions,Apartment,old,17.27,2,9.15
+653,"Kamod Nagar, Indira Nagar,Nashik",Amit Jadhav and Associates,Apartment,old,Price on Request,2,NA
+654,"Panchwati, MIDC Ambad,Nashik",Geeta Developers,Apartment,old,13.28,1,7.03
+655,"Wasan Nagar, Pathardi Phata,Nashik",Sanskar Developers,Apartment,old,Price on Request,1,NA
+656,"Sinnar Taluka, Nashik",Savali Infrastructure,Apartment,old,Price on Request,1,NA
+657,"Buddha Vihar, Pathardi Phata,Nashik",Ekta World,Apartment,old,49.02,3,25.96
+658,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Shree Sai Associate,Apartment,old,17.29,1,9.15
+659,"Panchavati, Nashik",S.R. Construction,Apartment,old,41.15,3,21.79
+660,"Ganpati Nagar, Anandwalli Gaon,Nashik",Laxminarayan Developer,Apartment,old,17.62,2,9.33
+661,"Buddha Vihar, Pathardi Phata,Nashik",Nirmiti Builders And Developers,Apartment,old,21.26,1,11.26
+662,"Vaiduwadi, Mhasrul Gaon,Nashik",Satish Manohar Deshpande,Apartment,old,27.5,2,14.56
+663,"Hirawadi, Nashik",Shyam Corporation,Apartment,old,31.18,2,16.51
+664,"Bhujbal Knowledge City, Adgaon,Nashik",Sanket Buildtech,Apartment,old,16.55,1,8.77
+665,"Sharda Nagar, Veer Sawarkar Nagar,Nashik",Shri Vinayaka Buildcon,Apartment,old,65,3,34.42
+666,"Kamod Nagar, Indira Nagar,Nashik",Karmayogi Builders And Developers,Apartment,old,17.52,1,9.28
+667,"Shramik Nagar, Nashik",Nirmiti Lifestyle,Apartment,old,12.13,1,6.42
+668,"Balawant Nagar, Anandwalli Gaon,Nashik",Ratan Civil Associates,Apartment,old,7474.0,3,39.58
+669,"Matoshri Nagar, Nashik Road,Nashik",Balaji Buildcon,Apartment,old,20.92,2,11.08
+670,"Srinivas Colony, Uttara Nagar,Nashik",Ajinkya Pride Co operative Housing Society,Apartment,old,Price on Request,2,NA
+671,"Prabhat Nagar, Nashik",New Pushkaraj Construction,Apartment,old,Price on Request,1,NA
+672,"College Road, Nashik",Shilp Buildcon,Apartment,old,Price on Request,2,NA
+673,"Panchavati, Nashik",Leela Builders And Developers,Apartment,old,Price on Request,1,NA
+674,"Raviwar Karanja, Panchavati,Nashik",Dyneshwar Keshavrao Bhosale,Apartment,old,Price on Request,1 RK Apartment,NA
+675,"Buddha Vihar, Pathardi Phata,Nashik",Ekta World,Apartment,old,49,3,25.95
+676,"Deolali Gaon, Nashik",Shree Ekadanta Builders And Developers,Apartment,old,35.0,2,18.53
+677,"Vasantdadanagar, Adgaon,Nashik",Sparsh Buildcon,Apartment,old,Price on Request,1,NA
+678,"Pandav Nagari, Pathardi Phata,Nashik",Sanklecha Constructions,Apartment,old,57.35,3,30.37
+679,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anmol Nayantara,Apartment,old,73.35,3,38.84
+680,"Ashoknagar, Satpur,Nashik",Kalyan Toll Infrastructure,Apartment,old,13.45,1,7.12
+681,"Mhasrul Gaon, Nashik",Kishorkumar Vashrambhai Viramgama Builders And Contractors,Apartment,old,18,1,9.53
+682,"Sri Ram Nagar, Konark Nagar,Nashik",United Buildcon,Apartment,old,Price on Request,2,NA
+683,"Pathardi Gaon, Pathardi Phata,Nashik",Shubham Developers,Apartment,old,Price on Request,1,NA
+684,"College Road, Nashik",Prathamesh Buildwell,Apartment,old,Price on Request,3,NA
+685,"Pandav Nagari, Pathardi Phata,Nashik",Om Sai Builders,Apartment,old,37.29,2,19.75
+686,"Makhmalabad, Nashik",Akshar Enterprises,Apartment,old,Price on Request,1,NA
+687,"Janak Nagari, Nashik",Sukruti Constructions,Apartment,old,142.0,3,70.39
+688,"Dhurav Nagar, Satpur,Nashik",Kishor Karbhari Malode,Apartment,old,19.0,1,10.06
+689,"Shreerang Nagar, Nashik",Shirsat And Dahivelkar Malpure Associates,Apartment,old,Price on Request,2,NA
+690,"Pandav Nagari, Pathardi Phata,Nashik",Sanklecha Constructions,Apartment,old,Price on Request,4,NA
+691,"Ghadge Nagar, Makhmalabad,Nashik",Ajay M Bachhav And Vijay S Ahire And Pravin P Bachhav,Apartment,old,Price on Request,2,NA
+692,"Panchak, Nashik",Krishna Developers Anand Nagar,Apartment,old,15.64,2,8.28
+693,"Pramod Nagar, Nashik",D G Group,Apartment,old,Price on Request,2,NA
+694,"Dhurav Nagar, Satpur,Nashik",Sanghi Builders And Developers,Apartment,old,9.2,1,4.87
+695,"Pandav Nagari, Pathardi Phata,Nashik",Sanklecha Constructions,Apartment,old,48.28,2,25.56
+696,"Ambika Nagar, Nashik",Laxmi Buildcon,Apartment,old,51.0,2,27.01
+697,"Dhurav Nagar, Satpur,Nashik",Kishor Karbhari Malode,Apartment,old,11.05,1,5.85
+698,"Pandav Nagari, Pathardi Phata,Nashik",Sanklecha Constructions,Apartment,old,48.28,2,25.57
+699,"Parijat Nagar, Nashik",Brahmecha Estate,Apartment,old,150.0,3,74.47
+700,"Fulenagar, Nashik",Nirmiti Buildtech,Apartment,old,21.14,2,11.19
+701,"Jejurkar Wadi, Sharanpur,Nashik",Shri Radhamadan Gopal Construction And Developers,Apartment,old,Price on Request,1,NA
+702,"Parijat Nagar, Nashik",M And M,Apartment,old,Price on Request,2,NA
+703,"Wadala Gaon, Nashik",Bharat Vithalbhai Ajugia,Apartment,old,Price on Request,2,NA
+704,"Vaishnavi Park, Nashik",Pratap Marketing,Apartment,old,30.48,1,16.14
+705,"Prabhat Colony, Nashik",Urja Builders And Developers,Apartment,old,Price on Request,2,NA
+706,"Ganpati Nagar, Anandwalli Gaon,Nashik",Samruddhi Developers Nashik,Apartment,old,Price on Request,2,NA
+707,"Dhurav Nagar, Satpur,Nashik",Samarth Developers Nashik,Apartment,old,32,2,16.95
+708,"Wadala Gaon, Nashik",Shivpraj Builder And Developer,Apartment,old,19.97,1,10.57
+709,"Ashwamegh Nagar, Makhmalabad,Nashik",Sagar Constructions Nashik,Apartment,old,Price on Request,1,NA
+710,"Wadala Gaon, Nashik",Saakar Group,Apartment,old,Price on Request,2,NA
+711,"Buddha Vihar, Pathardi Phata,Nashik",Shivalaya Builders And Developers,Apartment,old,Price on Request,1,NA
+712,"Balawant Nagar, Anandwalli Gaon,Nashik",Grandeure Realtors,Apartment,old,105.0,4,52.13
+713,"Makhmalabad, Nashik",Nilam Jagdish Vaghela,Apartment,old,Price on Request,1,NA
+714,"Pandav Nagari, Pathardi Phata,Nashik",Om Sai Developers,Apartment,old,Price on Request,1,NA
+715,"Pimpalgaon Bahula, Nashik",Ashok Buildwell,Apartment,old,Price on Request,1,NA
+716,"Adhav Nagar, Nashik Road,Nashik",Kamal Buildcon,Apartment,old,16.06,1,8.50
+717,"Vasantdadanagar, Adgaon,Nashik",Govind Madhwai and Associate,Apartment,old,33.28,2,17.62
+718,"Makhmalabad, Nashik",Dhawal Construction,Apartment,old,Price on Request,1,NA
+719,"Dwarka, Nashik",Aakar Enterprises,Apartment,old,Price on Request,3,NA
+720,"Makhmalabad, Nashik",S B Constructions,Apartment,old,Price on Request,2,NA
+721,"Ganpati Nagar, Anandwalli Gaon,Nashik",Dhruv Developers,Apartment,old,Price on Request,3,NA
+722,"Makhmalabad, Nashik",Ocean Properties,Apartment,old,Price on Request,2,NA
+723,"Wadala Gaon, Nashik",Wagh And Company,Apartment,old,Price on Request,2,NA
+724,"Shanti Nagar, Lekha Nagar,Nashik",Akshay Infrastructure,Apartment,old,Price on Request,2,NA
+725,"Makhmalabad, Nashik",Bhamre Builders,Apartment,old,Price on Request,1,NA
+726,"Pathardi Gaon, Pathardi Phata,Nashik",Crown Makers Builders And Developers,Apartment,old,Price on Request,1,NA
+727,"Makhmalabad, Nashik",S M Constructions,Apartment,old,19.95,1,10.56
+728,"Koroli, Nashik",E & G Global Estate Limited,Apartment,old,Price on Request,Studio Studio Apartment,NA
+729,"Shramik Nagar, Nashik",Siddhivinayak Developers,Apartment,old,Price on Request,1,NA
+730,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Shri Hari Vaikuntha CHS,Apartment,old,Price on Request,2,NA
+731,"Palase, Nashik",Krupasindhu Enterprises,Apartment,old,Price on Request,1,NA
+732,"Panchwati, MIDC Ambad,Nashik",Sandeep Ramdas Shinde,Apartment,old,Price on Request,1,NA
+733,"Vasantdadanagar, Adgaon,Nashik",Pekhale Patil Construction,Apartment,old,Price on Request,1,NA
+734,"Vasantdadanagar, Adgaon,Nashik",Darsh Buildcon,Apartment,old,Price on Request,1,NA
+735,"Vasantdadanagar, Adgaon,Nashik",Govind Madhwai and Associate,Apartment,old,Price on Request,1,NA
+736,"Janak Nagari, Nashik",Vande Developers,Apartment,old,Price on Request,1,NA
+737,"Sagar Village, Nashik",Pranav Buildtech,Apartment,old,Price on Request,1,NA
+738,"Pandavnagri, Mogal Nagar,Nashik",Rachana Construction,Apartment,old,Price on Request,1,NA
+739,"Vasantdadanagar, Adgaon,Nashik",Pushpak Projects Builders and Developers,Apartment,old,Price on Request,1,NA
+740,"Makhmalabad, Nashik",SHREE KRISHNA BUILDERS,Apartment,old,Price on Request,1,NA
+741,"Madsangavi, Nashik",Nachiket Gopalrao Patil Builders,Apartment,old,Price on Request,1,NA
+742,"Makhmalabad, Nashik",Suraj Construction,Apartment,old,Price on Request,1,NA
+743,"Wadala Gaon, Nashik",Ismail Bashir Shaikh,Apartment,old,9.87,1,5.23
+744,"Dhurav Nagar, Satpur,Nashik",Yash Constructions,Apartment,old,Price on Request,1,NA
+745,"Chetana Nagar, Rane Nagar,Nashik",Shreeji Group,Apartment,old,26.5,1,14.03
+746,"Deolali Gaon, Nashik",Karda Constructions,Apartment,old,21.11,1,11.18
+747,"Shalimar, Nashik",Vasturang Infrastructure Pvt. Ltd.,Apartment,old,Price on Request,1,NA
+748,"Asha Nagar, Nashik",Rajashree Developers,Apartment,old,17.47,1,9.25
+749,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,Price on Request,1,NA
+750,"Pandav Nagari, Pathardi Phata,Nashik",Amit Enterprises Housing LTD,Apartment,old,29.39,2,15.56
+751,"Nirmal Nagar, Bandra East,Mumbai",Sunshine Realspaces LLP,Apartment,old,Price on Request,1,NA
+752,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Samraat Group,Apartment,old,Price on Request,2,NA
+753,"Buddha Vihar, Pathardi Phata,Nashik",Ekta World,Apartment,old,49,3,25.95
+754,"Patil Colony, College Road,Nashik",SR Constructions,Apartment,old,Price on Request,1,NA
+755,"Prabhat Colony, Nashik",Pal Developers,Apartment,old,13.01,1,6.89
+756,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Matale Buildcon,Apartment,old,19.32,1,10.23
+757,"Madsangavi, Nashik",Nachiket Gopalrao Patil Builders,Apartment,old,Price on Request,1,NA
+758,"Swaminarayan Nagar, Nashik",United Builders,Apartment,old,Price on Request,1,NA
+759,"Vaiduwadi, Mhasrul Gaon,Nashik",Hari Om Group,Apartment,old,35.3,3,18.69
+760,"Medage Nagar, Nashik",Jadhav Builders Nashik,Apartment,old,Price on Request,1,NA
+761,"Viveka Nand Nagar, Anandwalli Gaon,Nashik",Nirman Group,Apartment,old,33.25,1,17.61
+762,"Ashwamegh Nagar, Makhmalabad,Nashik",Atharvashree Buildmat Private Limited,Apartment,old,13.26,1,7.02
+763,"Prashant Nagar, Pathardi Phata,Nashik",Om Construction,Apartment,old,Price on Request,1,NA
+764,"Kamod Nagar, Indira Nagar,Nashik",Govinda Constructions,Apartment,old,Price on Request,1,NA
+765,"Vaishnavi Park, Nashik",Om Developers Nashik M Corp,Apartment,old,Price on Request,2,NA
+766,"Shanti Nagar, Lekha Nagar,Nashik",Tirupati Developers Prashant Nagar,Apartment,old,Price on Request,1,NA
+767,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Sahyog Vastu Udyog,Apartment,old,Price on Request,1,NA
+768,"Wasan Nagar, Pathardi Phata,Nashik",Aayushi Construction Developer And Builder,Apartment,old,Price on Request,3,NA
+769,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Sai Ganraj Developers Nashik,Apartment,old,Price on Request,1,NA
+770,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Tirupati Developers Prashant Nagar,Apartment,old,Price on Request,1,NA
+771,"Pimpalgaon Bahula, Nashik",Kanhaiya Infratech,Apartment,old,Price on Request,1,NA
+772,"Pimpalgaon Bahula, Nashik",Shree Parshwa Developer,Apartment,old,Price on Request,1,NA
+773,"Renuka Nagar, Nashik",Suhail Umar Shaikh,Apartment,old,Price on Request,1,NA
+774,"Sneha Nagar, Nashik",Nirmala Narayan Shelar,Apartment,old,Price on Request,1,NA
+775,"Wasan Nagar, Pathardi Phata,Nashik",Archit Group,Apartment,old,Price on Request,1,NA
+776,"Nashik Road, Nashik",Siddhivinayak Constructions,Apartment,old,Price on Request,1,NA
+777,"Govind Nagar, Nashik",Avenue Casa,Apartment,old,Price on Request,2,NA
+778,"General Vaidya Nagar, Nashik",Shreya Construction Nashik,Apartment,old,Price on Request,2,NA
+779,"Sinnar Taluka, Nashik",Atharva Builders And Developers Nashik,Apartment,old,Price on Request,1,NA
+780,"Viveka Nand Nagar, Anandwalli Gaon,Nashik",Omkar Buildcon Jalalpur,Apartment,old,Price on Request,1,NA
+781,"Indira Nagar, Nashik",H K Properties Nashik,Apartment,old,Price on Request,1,NA
+782,"Deolali Gaon, Nashik",Kapse Developers,Apartment,old,Price on Request,1,NA
+783,"Ojhar, Nashik",Kalpataru Buildcon,Apartment,old,Price on Request,2,NA
+784,"Shalimar, Nashik",Shyam Buildcon Nashik,Apartment,old,Price on Request,1,NA
+785,"Rehnuma Nagar, Nashik",Riddhi infrastructure,Apartment,old,Price on Request,1,NA
+786,"Laxman Nagar, Nashik Road,Nashik",Prabhavi Constructions,Apartment,old,Price on Request,1,NA
+787,"MIDC Ambad, Nashik",VSK Construction,Apartment,old,Price on Request,1,NA
+788,"Kamod Nagar, Indira Nagar,Nashik",JK Infrastructures,Apartment,old,Price on Request,1,NA
+789,"Damodar Nagar, Pathardi Phata,Nashik",Saptashrungi Developers,Apartment,old,Price on Request,1,NA
+790,"Adgaon, Nashik",Ashapura Infra,Apartment,old,Price on Request,1,NA
+791,"Wadala Gaon, Nashik",Unique Builders Nashik,Apartment,old,Price on Request,1,NA
+792,"Vrindavan Nagar, Nashik",SP Builders,Apartment,old,Price on Request,1,NA
+793,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Shiv Enterprises,Apartment,old,Price on Request,1,NA
+794,"Vrindavan Nagar, Nashik",Siddhivinayak Buildtech,Apartment,old,Price on Request,1,NA
+795,"Ramkrishna Nagar, Makhmalabad,Nashik",Shivpooja Buildcon,Apartment,old,Price on Request,1,NA
+796,"Hirawadi, Nashik",Om Developers Kamatwada,Apartment,old,Price on Request,1,NA
+797,"Wadala Gaon, Nashik",Khot Builder,Apartment,old,Price on Request,2,NA
+798,"Ramkrishna Nagar, Makhmalabad,Nashik",P K Developers,Apartment,old,Price on Request,1,NA
+799,"Ashwamegh Nagar, Makhmalabad,Nashik",Ashok Chunilal Samsukha,Apartment,old,Price on Request,2,NA
+800,"Deolali Gaon, Nashik",ARKK Builders And Developers,Apartment,old,Price on Request,2,NA
+801,"Jagtap Nagar, Nashik",RSM Infra,Apartment,old,Price on Request,1,NA
+802,"Sagar Village, Nashik",Adarsh Builders And Developers,Apartment,old,Price on Request,1,NA
+803,"Ganpati Nagar, Anandwalli Gaon,Nashik",JSM Enterprises,Apartment,old,Price on Request,3,NA
+804,"Serene Meadows, Anandwalli Gaon,Nashik",JSM Enterprises,Apartment,old,Price on Request,3,NA
+805,"Dwarka, Nashik",Roger Rajkumar Mundada,Apartment,old,Price on Request,3,NA
+806,"Arcit Vihar Wing B, Shreerang Nagar,Nashik",Green Woods Combine,Apartment,old,Price on Request,3,NA
+807,"Wadala Gaon, Nashik",Tamboli Buildtech,Apartment,old,15.47,1,8.19
+808,"Wasan Nagar, Pathardi Phata,Nashik",Govinda Constructions,Apartment,old,16.03,1,8.49
+809,"Buddha Vihar, Pathardi Phata,Nashik",Navnirman Infrastructure,Apartment,old,Price on Request,1,NA
+810,"Chandshi, Nashik",Arvindbhai Bavchandbhai Rakholiya,Apartment,old,39.95,3,21.15
+811,"Nashik Road, Nashik",Shivam P Patel Builders And Developers,Apartment,old,Price on Request,3,NA
+812,"Ojhar, Nashik",Samarth Group Nashik,Apartment,old,Price on Request,1,NA
+813,"General Vaidya Nagar, Nashik",Venus Construction,Apartment,old,Price on Request,1,NA
+814,"Dwarka, Nashik",Venus Constructions,Apartment,old,Price on Request,1,NA
+815,"Wadala Gaon, Nashik",Skylark Mansions Pvt. Ltd,Apartment,old,Price on Request,1,NA
+816,"Dwarka, Nashik",Reputed Builder,Apartment,old,Price on Request,3,NA
+817,"Chandshi, Nashik",Shree Patil Associates,Apartment,old,Price on Request,2,NA
+818,"Pathardi Gaon, Pathardi Phata,Nashik",Reputed Builder,Apartment,old,19.99,1,10.59
+819,"Kamod Nagar, Indira Nagar,Nashik",Pacific Builder,Apartment,old,Price on Request,2,NA
+820,"Nashik Road, Nashik",Deepak Builders And Developers,Apartment,old,Price on Request,3,NA
+821,"Serene Meadows, Anandwalli Gaon,Nashik",Sheth Buildcon,Apartment,old,Price on Request,2,NA
+822,"Bhagur Rural, Nashik",Yogesh Ramdas Popatkar,Apartment,old,Price on Request,1,NA
+823,"Prashant Nagar, Pathardi Phata,Nashik",Sanket Maheshbhai Kathiriya,Apartment,old,Price on Request,1,NA
+824,"Adhav Nagar, Nashik Road,Nashik",Shree Om Buildcon,Apartment,old,Price on Request,1,NA
+825,"Prashant Nagar, Pathardi Phata,Nashik",Shrinivas Buildwell,Apartment,old,Price on Request,2,NA
+826,"Balawant Nagar, Anandwalli Gaon,Nashik",Zion Worldwide,Apartment,old,55.11,2,29.18
+827,"Kala Nagar, Indira Nagar,Nashik",Shree Om Buildcon,Apartment,old,24.62,1,13.04
+828,"Dhurav Nagar, Satpur,Nashik",J V Associates Nashik,Apartment,old,22.06,2,11.68
+829,"Kala Nagar, Indira Nagar,Nashik",Royal Developer,Apartment,old,Price on Request,2,NA
+830,"Dhurav Nagar, Satpur,Nashik",Akshar Buildwell,Apartment,old,Price on Request,1,NA
+831,"Dwarka, Nashik",Sanklecha Constructions,Apartment,old,28.09,2,14.87
+832,"Deolali Gaon, Nashik",Ajit Damji Pokar HUF,Apartment,old,19.97,1,10.58
+833,"Damodar Nagar, Pathardi Phata,Nashik",Laxman Eknath Gomase,Apartment,old,Price on Request,1,NA
+834,"Sadguru Nagar, Nashik",Tirupati Developers Prashant Nagar,Apartment,old,15.37,1,8.14
+835,"Ghatkopar, Nashik",Hitesh Mansukhbhai Virpara Builders And Developers,Apartment,old,Price on Request,1,NA
+836,"Panchwati, MIDC Ambad,Nashik",Parishram Residency CHSL,Apartment,old,Price on Request,1,NA
+837,"Prabhat Nagar, Nashik",Riddhi Siddhi Enterprises,Apartment,old,Price on Request,2,NA
+838,"Janak Nagari, Nashik",Pal Developers,Apartment,old,12.53,1,6.63
+839,"Amrutdham, Nashik",Bharatbhai Karsanbhai Adroja Contractors And Developers,Apartment,old,Price on Request,1,NA
+840,"Jai Hind Colony, Mahajan Nagar,Nashik",Shradha Hights CHSL,Apartment,old,Price on Request,2,NA
+841,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Manishaben Hiteshbhai Narodiya,Apartment,old,Price on Request,1,NA
+842,"Balawant Nagar, Anandwalli Gaon,Nashik",Roongta Group,Apartment,old,Price on Request,2,NA
+843,"Wasan Nagar, Pathardi Phata,Nashik",Shree Sai Buildcon,Apartment,old,Price on Request,1,NA
+844,"Ghadge Nagar, Makhmalabad,Nashik",Shubh Developers Nashik,Apartment,old,Price on Request,1,NA
+845,"Panchavati, Nashik",Kanhaiyya Builders,Apartment,old,Price on Request,2,NA
+846,"Nashik Road, Nashik",Rushikesh Builders And Developers,Apartment,old,45.96,2,24.34
+847,"Suyog Colony, Satpur,Nashik",Laxmi Enterprises,Apartment,old,31.99,1,16.94
+848,"Ayodhya Nagari, Nashik",Shree Harikrushna Developers,Apartment,old,Price on Request,1,NA
+849,"Holaram Colony, Sharanpur,Nashik",Century Real Estate Holdings,Apartment,old,Price on Request,3,NA
+850,"Bhujbal Knowledge City, Adgaon,Nashik",Roongta Group,Apartment,old,Price on Request,2,NA
+851,"Pathardi Gaon, Pathardi Phata,Nashik",Shree Enterprises Nashik,Apartment,old,Price on Request,1,NA
+852,"Wasan Nagar, Pathardi Phata,Nashik",Laxmi Consructions,Apartment,old,Price on Request,1,NA
+853,"Jagtap Nagar, Nashik",Prakashkumar Chhaganbhai Patel,Apartment,old,2.75,2,1.46
+854,"Makhmalabad, Nashik",Maa Buildwell,Apartment,old,12.79,1,6.77
+855,"Wasan Nagar, Pathardi Phata,Nashik",Govinda Constructions,Apartment,old,Price on Request,2,NA
+856,"Wasan Nagar, Pathardi Phata,Nashik",Shree Ballaleshwar Developers,Apartment,old,Price on Request,1,NA
+857,"Mahatma Nagar, Parijat Nagar,Nashik",Yog Builders And Developers,Apartment,old,19.76,1,10.46
+858,"Belatgavhan, Nashik",ARKK Builders And Developers,Apartment,old,Price on Request,1,NA
+859,"Tirumla Nagar, Wadala Gaon,Nashik",Ashoka Realty,Apartment,old,9.11,1 RK Apartment,4.82
+860,"Gangapur, Nashik",Seva Developers,Apartment,old,Price on Request,1,NA
+861,"Panchavati, Nashik",Om Sai Buildcon Sharanpur,Apartment,old,Price on Request,1,NA
+862,"Bhor Town Ship, Nashik",Shree Prakash Developers,Apartment,old,Price on Request,1,NA
+863,"Siddhivinayak Colony, Nashik",Paranjape Schemes Construction Ltd.,Apartment,old,25.21,1,13.35
+864,"Wasan Nagar, Pathardi Phata,Nashik",Krushna Builders And Developers,Apartment,old,Price on Request,1,NA
+865,"Nashik Road, Nashik",Swastik Estates,Apartment,old,Price on Request,1,NA
+866,"Wadala Gaon, Nashik",Khot Builder,Apartment,old,Price on Request,2,NA
+867,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Omkar Buildcon,Apartment,old,Price on Request,1,NA
+868,"Jalapur, Nashik",Vistacore Ventures,Apartment,old,Price on Request,3,NA
+869,"Prashant Nagar, Pathardi Phata,Nashik",Malpani Gruh Nirman,Apartment,old,Price on Request,2,NA
+870,"Raviwar Karanja, Panchavati,Nashik",Shree Sakshi Enterprises,Apartment,old,Price on Request,1,NA
+871,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Pooja Construction,Apartment,old,Price on Request,2,NA
+872,"Ganpati Nagar, Anandwalli Gaon,Nashik",Roongta Group,Apartment,old,Price on Request,2,NA
+873,"General Vaidya Nagar, Nashik",Real Land Developers And Builder,Apartment,old,Price on Request,1,NA
+874,"Serene Meadows, Anandwalli Gaon,Nashik",Vistacore Ventures,Apartment,old,Price on Request,3,NA
+875,"Bhor Town Ship, Nashik",Shree Prakash Developers,Apartment,old,Price on Request,2,NA
+876,"Ambedkar Nagar, Chunchale,Nashik",Sarode Builders And Land Developers,Apartment,old,Price on Request,1,NA
+0,"Navnath Nagar, Nashik",Bhavik Group,Apartment,old,37.32,2,10.63
+1,"CDO-MERI Colony, Nashik",AK Builders And Developers,Apartment,old,Price on Request,2,NA
+3,"Vijay Nagar, Nashik",Shree Krushna Builders And Developers,Apartment,old,26.83,2,10.18
+4,"Sinnar Taluka, Nashik",Samarth Buildcon,Apartment,old,Price on Request,2,NA
+6,"Jalapur, Nashik",Shilpa Estate,Apartment,old,Price on Request,2,NA
+8,"Deepali Nagar, Nashik",Roongta Group,Apartment,old,32.6,2,10.56
+9,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anmol Nayantara,Apartment,old,Price on Request,4,NA
+10,"Vihitgaon, Nashik",Samnani Group,Apartment,old,42.0,2,12.71
+11,"RTO Colony, Uttara Nagar,Nashik",Shivshakti Buildcon,Apartment,old,21.8,2,7.44
+14,"Janata Raja Colony, Nashik",Prabhat Developers Nashik,Apartment,old,38.5,3,11.34
+15,"Nashik Road, Nashik",Shri Sadaguru Shivram Constructions,Apartment,old,15.76,1,4.48
+16,"Wadala Gaon, Nashik",Vimal Builtech,Apartment,old,28.36,2,10.29
+17,"Ramkrishna Nagar, Makhmalabad,Nashik",R D Buildwell,Apartment,old,21.97,2,5.10
+18,"Pawar Wadi, Nashik",Shilp Darshan CHS,Apartment,old,Price on Request,2,NA
+19,"Matoshree Nagar, Nashik",Tridel Homes,Apartment,old,45.97,3,21.28
+20,"Vihitgaon, Nashik",Jay Developers,Apartment,old,21.67,2,8.15
+21,"Shanti Nagar, Lekha Nagar,Nashik",Yogesh Wadnere And Kishor Wadnere,Apartment,old,Price on Request,2,NA
+23,"Bridge Nagar, Nashik",Om Developers Nashik,Apartment,old,15.09,2,6.67
+24,"Asha Nagar, Nashik",Nerkar Properties,Apartment,old,Price on Request,2,NA
+28,"Kailash Nagar, Nashik",Krishnadeep Builders And Developers,Apartment,old,15.61,2,6.57
+30,"Professor Colony, Nashik",Mayuresh Constructions,Apartment,old,Price on Request,2,NA
+32,"Mhasrul Gaon, Nashik",Jagdish Petha Patel,Apartment,old,Price on Request,3,NA
+33,"DGP Nagar, Nashik",Sanjay M Bhavsar Builders And Developers,Apartment,old,Price on Request,2,NA
+34,"Atharv Colony, Veer Sawarkar Nagar,Nashik",Patil Shah Housing Corporation,Apartment,old,153.0,4,62.44
+35,"Sinnar Taluka, Nashik",Shree Buildcon & Associates,Apartment,old,14.08,2,4.80
+37,"Ayodhya Nagari, Nashik",Jay Developers,Apartment,old,25.38,2,9.93
+38,"Kalachowki, Nashik",Yogeshwar Buildcon,Apartment,old,21.34,2,9.05
+39,"Kathda, Nashik",Nirman Group,Apartment,old,37.94,2,7.74
+41,"Bhagur Rural, Nashik",Harak Patil Realtors,Apartment,old,15.09,1,5.06
+42,"Bhor Town Ship, Nashik",Shree Prakash Developers,Apartment,old,50.27,2,9.49
+43,"Shreerang Nagar, Nashik",Nerkar Properties,Apartment,old,28.62,2,9.03
+44,"Vaibhav Colony, Rajiv Nagar,Nashik",Roongta Group,Apartment,old,28.95,2,12.27
+45,"Makhmalabad, Nashik",Subhadra Estates,Apartment,old,Price on Request,1,NA
+47,"Asha Nagar, Nashik",Rajashree Developers,Apartment,old,24.22,2,9.25
+49,"Prashant Nagar, Pathardi Phata,Nashik",City Next Developers,Apartment,old,29.3,2,7.56
+51,"Ganpati Nagar, Anandwalli Gaon,Nashik",Shree Tirumala Buildcon,Apartment,old,48.76,1,4.74
+52,"Ashtavinayak Colony, Veer Sawarkar Nagar,Nashik",Bora Hospitality,Apartment,old,27.59,2,9.97
+53,"D. K. Nagar, Nashik",Tirupati Developers,Apartment,old,75.81,2,19.32
+54,"Makhmalabad, Nashik",Roongta Group,Apartment,old,18.66,2,8.73
+57,"Sri Ram Nagar, Konark Nagar,Nashik",Pranav Buildtech,Apartment,old,44.7,3,9.11
+58,"Balawant Nagar, Anandwalli Gaon,Nashik",Pacific Builder,Apartment,old,105.0,3,16.55
+59,"Vasantdadanagar, Adgaon,Nashik",Matoshri Buildcon,Apartment,old,23.26,2,8.73
+60,"CDO-MERI Colony, Nashik",Sundram Construction,Apartment,old,26.33,2,9.65
+61,"Chandshi, Nashik",Shrinathji Developers,Apartment,old,24.77,2,7.91
+62,"Mogal Nagar, Nashik",Bodke Buildcon,Apartment,old,43.81,1,4.43
+63,"Tagore Nagar, Nashik",Ashish Developers,Apartment,old,Price on Request,2,NA
+66,"Dwarka, Nashik",Prayas Construction,Apartment,old,Price on Request,2,NA
+68,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,Price on Request,3,NA
+70,"Ayodhya Nagari, Nashik",OM Construction And Infrastructures,Apartment,old,41.21,2,7.93
+72,"Wasan Nagar, Pathardi Phata,Nashik",Madhur Homes,Apartment,old,Price on Request,1 RK Apartment,NA
+73,"Prabhat Nagar, Nashik",Prayag Developer,Apartment,old,Price on Request,2,NA
+74,"Satpur, Nashik",Kunal Construction Builders And Developers,Apartment,old,Price on Request,2,NA
+77,"Panchavati, Nashik",Sant Krupa Construction Builder And Developer,Apartment,old,Price on Request,3,NA
+78,"Gayakhe Colony, Nashik Road,Nashik",Mahek Developer,Apartment,old,Price on Request,2,NA
+80,"Gulshan Colony, Nashik",K M Constructions,Apartment,old,Price on Request,1,NA
+81,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Ganore Builders And Developers,Apartment,old,Price on Request,2,NA
+82,"Wadala Gaon, Nashik",Atharva Sai Builders And Developers,Apartment,old,Price on Request,3,NA
+85,"Balawant Nagar, Anandwalli Gaon,Nashik",Reya Constructions,Apartment,old,Price on Request,3,NA
+89,"Kalpataru Nagar, Nashik",SWAMI CONSTRUCTIONS,Apartment,old,Price on Request,3,NA
+91,"Shanti Nagar, Lekha Nagar,Nashik",Shivam Builders And Developers,Apartment,old,Price on Request,2,NA
+92,"Ojhar, Nashik",Khan Constructions,Apartment,old,Price on Request,2,NA
+93,"Sadguru Nagar, Nashik",Sahajanand Builders And Developers,Apartment,old,Price on Request,2,NA
+95,"Mhasrul Gaon, Nashik",Om Sai Builders And Developers,Apartment,old,Price on Request,2,NA
+98,"Panchavati, Nashik",Devshree Developers,Apartment,old,Price on Request,2,NA
+99,"Durganagar, Nashik",Palaj Buildcon,Apartment,old,Price on Request,2,NA
+100,"Manik Nagar, Nashik",Rushiraj Builders,Apartment,old,Price on Request,4,NA
+103,"Koknipura, Nashik",Rushiraj Realtors,Apartment,old,Price on Request,2,NA
+104,"Pintoo Colony, Nashik Road,Nashik",Shree Ashtavinayak Infrastructure Nashik,Apartment,old,Price on Request,2,NA
+105,"Shramik Nagar, Nashik",Prashant Patil,Apartment,old,Price on Request,1,NA
+106,"Srinivas Colony, Uttara Nagar,Nashik",Samnani Group,Apartment,old,Price on Request,3,NA
+107,"Janak Nagari, Nashik",Kanak Developers,Apartment,old,Price on Request,3,NA
+108,"Pintoo Colony, Nashik Road,Nashik",Varsha Constructions,Apartment,old,Price on Request,2,NA
+109,"Nashik Road, Nashik",Swami Narayan Heights CO OP HSG SOC Maryadit,Apartment,old,Price on Request,2,NA
+110,"Jagtap Nagar, Nashik",Samruddhi Developers Nashik,Apartment,old,Price on Request,3,NA
+113,"Ashoknagar, Satpur,Nashik",Vivek Construction,Apartment,old,Price on Request,1,NA
+118,"Nashik Road, Nashik",Shree Annpurna Realcons Pvt Ltd,Apartment,old,Price on Request,2,NA
+120,"Nashik Road, Nashik",M K Realities,Apartment,old,Price on Request,1,NA
+121,"Ambedkar Nagar, Chunchale,Nashik",Gaurav Developers,Apartment,old,Price on Request,1,NA
+123,"State Bank Colony, Indira Nagar,Nashik",Shree Tirumala Buildcon,Apartment,old,Price on Request,1,NA
+124,"Parijat Nagar, Nashik",Jayashree Vinod Patkar,Apartment,old,Price on Request,1,NA
+126,"Ambedkar Nagar, Chunchale,Nashik",Sarode Builders And Land Developers,Apartment,old,Price on Request,1,NA
+127,"Sharda Vihar, Nashik",Mangalam Developers,Apartment,old,Price on Request,1,NA
+129,"Nandur Village, Nashik",H M Builders,Apartment,old,Price on Request,2,NA
+130,"Adgaon, Nashik",Kabir Estates,Apartment,old,Price on Request,2,NA
+131,"Indira Nagar, Nashik",Prathamesh Vivek Gangurde,Apartment,old,Price on Request,3,NA
+134,"Vijaynagar Colony, Nashik",S S Constructions,Apartment,old,Price on Request,3,NA
+135,"Wadala Gaon, Nashik",Ind Developers,Apartment,old,Price on Request,2,NA
+136,"Panchavati, Nashik",Suman Leela Associate,Apartment,old,Price on Request,2,NA
+143,"Makhmalabad, Nashik",Shivshakti Buildcon,Apartment,old,Price on Request,2,NA
+144,"Nashik Road, Nashik",Buniyad Constructions,Apartment,old,Price on Request,2,NA
+146,"Ashoknagar, Satpur,Nashik",Sairaj Builders And Developers,Apartment,old,Price on Request,1,NA
+147,"Upendra Nagar Colony, Nashik",Yogeshwar Realty,Apartment,old,Price on Request,2,NA
+148,"Deolali Gaon, Nashik",Saibaba Realtors,Apartment,old,Price on Request,2,NA
+149,"Panchavati, Nashik",Rudra Developers,Apartment,old,Price on Request,2,NA
+153,"Sadguru Nagar, Nashik",Sunil Bhausing Pawar,Apartment,old,Price on Request,3,NA
+156,"Dwarka, Nashik",Pravin Balasaheb Kedar,Apartment,old,Price on Request,2,NA
+157,"Chandshi, Nashik",Kishorkumar Vashrambhai Viramgama Builders And Contractors,Apartment,old,Price on Request,2,NA
+158,"Jalapur, Nashik",Omkar Buildcon,Apartment,old,Price on Request,1,NA
+159,"Mhasrul Gaon, Nashik",Shekhar Ramdas Amale,Apartment,old,Price on Request,2,NA
+160,"Bajrang Nagar, Nashik",Suvarna Sanjay Sayankar,Apartment,old,Price on Request,2,NA
+161,"Panchavati, Nashik",Pawar Developers,Apartment,old,Price on Request,3,NA
+162,"Vasantdadanagar, Adgaon,Nashik",Maahi Developers,Apartment,old,Price on Request,3,NA
+163,"Sadguru Nagar, Nashik",Anita Pralhad Keskar,Apartment,old,Price on Request,2,NA
+164,"Indira Nagar, Nashik",Shree Developers Nashik,Apartment,old,Price on Request,2,NA
+165,"Prabhat Colony, Nashik",Kamal Wamanrao Jejurkar,Apartment,old,Price on Request,3,NA
+166,"Govind Nagar, Nashik",Roongta Group,Apartment,old,Price on Request,3,NA
+170,"Mhasrul Gaon, Nashik",New Jay Ambe Associates,Apartment,old,Price on Request,3,NA
+176,"Vaibhav Colony, Rajiv Nagar,Nashik",Bhavin Hemantkumar Bharatia,Apartment,old,Price on Request,2,NA
+177,"Gurudatta Nagar, Nashik Road,Nashik",Sunil Popatrao Adhav,Apartment,old,Price on Request,2,NA
+180,"Pimpalgaon Bahula, Nashik",Niwas Developers Nashik,Apartment,old,Price on Request,1,NA
+183,"Professor Colony, Nashik",Apurva Builders And Developers,Apartment,old,Price on Request,3,NA
+185,"Hirawadi, Nashik",Zenith Enterprises Nashik,Apartment,old,Price on Request,2,NA
+188,"Adgaon,",Sunny Developers,Apartment,old,Price on Request,2,NA
+189,"Bhujbal Knowledge City, Adgaon,Nashik",Govind Madhwai and Associate,Apartment,old,Price on Request,1,NA
+191,"Kala Nagar, Indira Nagar,Nashik",Vimal Builtech,Apartment,old,Price on Request,2,NA
+192,"Vaiduwadi, Nashik",Krishna Developers Kala Nagar,Apartment,old,Price on Request,3,NA
+193,"Damodar Nagar, Pathardi Phata,Nashik",Shree Riddhi Siddhi Developers,Apartment,old,Price on Request,1,NA
+194,"Nashik Road, Nashik",S J Constructions,Apartment,old,Price on Request,1,NA
+195,"Balawant Nagar, Anandwalli Gaon,Nashik",Gajanan Developers Nashik,Apartment,old,Price on Request,2,NA
+196,"Pimpalgaon Bahula, Nashik",Chintamani Enterprises,Apartment,old,Price on Request,1,NA
+197,"Ambedkar Nagar, Chunchale,Nashik",N A Constructions Builder And Contractor,Apartment,old,Price on Request,1,NA
+198,"MIDC Ambad, Nashik",Ambadas Sitaram Korade,Apartment,old,Price on Request,2,NA
+199,"Indira Nagar, Nashik",Anand Group Builders And Developers,Apartment,old,Price on Request,1 RK Apartment,NA
+200,"Jalapur, Nashik",ABH Developers,Apartment,old,Price on Request,3,NA
+204,"Hirawadi, Nashik",Ahirrao Buildcon,Apartment,old,Price on Request,1,NA
+205,"Deolali Gaon, Nashik",ARKK Builders And Developers,Apartment,old,Price on Request,2,NA
+206,"Damodar Nagar, Pathardi Phata,Nashik",Deepak Pandurang Matale,Apartment,old,Price on Request,2,NA
+208,"MIDC, Satpur,Nashik",Ganesh Tukaram Bolkar Builders And Developers,Apartment,old,Price on Request,2,NA
+209,"Makhmalabad, Nashik",Mauli Builders And Developers,Apartment,old,Price on Request,2,NA
+210,"Dwarka, Nashik",Swami Buildcon,Apartment,old,Price on Request,2,NA
+211,"Pandav Nagari, Pathardi Phata,Nashik",Atreya Developers Nashik,Apartment,old,Price on Request,2,NA
+213,"MIDC, Satpur,Nashik",Soni And Sons Builder And Developer,Apartment,old,Price on Request,2,NA
+214,"Prabhat Colony, Nashik",Swami Narayan Heights CO OP HSG SOC Maryadit,Apartment,old,Price on Request,1,NA
+215,"Samarth Nagar, Makhmalabad,Nashik",Om Builders And Develpers,Apartment,old,Price on Request,2,NA
+216,"Sadguru Nagar, Nashik",Shreeyog Builders,Apartment,old,Price on Request,3,NA
+217,"Wadala Gaon, Nashik",Kapse Developers,Apartment,old,Price on Request,2,NA
+218,"Nashik Road, Nashik",Shree Hari Park Co-op Hsg Soc,Apartment,old,Price on Request,2,NA
+219,"Samta Nagar, Nashik",Arihant Realty,Apartment,old,Price on Request,2,NA
+221,"Panchavati, Nashik",Nitin Haribhau Dhatrak,Apartment,old,Price on Request,3,NA
+222,"Patil Nagar, Nashik",Sonaje Developers,Apartment,old,Price on Request,1 RK Apartment,NA
+223,"Tirumla Nagar, Wadala Gaon,Nashik",Samnani Group,Apartment,old,Price on Request,3,NA
+225,"Vihitgaon, Nashik",Palde Construction,Apartment,old,Price on Request,2,NA
+226,"College Road, Nashik",Samruddhi Realty,Apartment,old,Price on Request,3,NA
+227,"Makhmalabad, Nashik",Suman Leela Associate,Apartment,old,Price on Request,2,NA
+228,"Hirawadi, Nashik",Vinayak Construction Builder And Developers,Apartment,old,Price on Request,1 RK Apartment,NA
+229,"Amrutdham, Nashik",Rajesh Namdeo Sangle,Apartment,old,Price on Request,1,NA
+231,"Wadala Gaon, Nashik",Riddheesh Developers,Apartment,old,Price on Request,3,NA
+232,"Mhasrul Gaon, Nashik",Tulsi Developers,Apartment,old,Price on Request,1 RK Apartment,NA
+234,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Rishikesh Realty,Apartment,old,Price on Request,2,NA
+235,"Nashik Road, Nashik",Swastik Estates,Apartment,old,Price on Request,2,NA
+236,"Dwarka, Nashik",Pooja Construction,Apartment,old,Price on Request,1 RK Apartment,NA
+237,"Nashik Road, Nashik",Saakar Infra,Apartment,old,Price on Request,2,NA
+238,"Ganesh Nagar, Satpur,Nashik",Prabhat Developers Nashik,Apartment,old,Price on Request,3,NA
+239,"Indira Nagar, Nashik",Alai Builders And Developers,Apartment,old,Price on Request,2,NA
+240,"Janata Raja Colony, Nashik",Dhatrak Construwell,Apartment,old,Price on Request,2,NA
+241,"Damodar Nagar, Pathardi Phata,Nashik",Hemant Enterprises,Apartment,old,Price on Request,2,NA
+249,"Vaishnavi Park, Nashik",Dusane Developers,Apartment,old,Price on Request,2,NA
+250,"Ayodhya Nagari, Nashik",Laxmi Associates Nashik,Apartment,old,Price on Request,2,NA
+251,"Nashik Road, Nashik",Sahyadri Construction,Apartment,old,Price on Request,2,NA
+252,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Om Developers Nashik,Apartment,old,Price on Request,2,NA
+253,"Mhasrul Gaon, Nashik",Siddhivinayak Developers,Apartment,old,Price on Request,3,NA
+257,"Dwarka, Nashik",Shri Vrindavan Builders And Developers Llp,Apartment,old,Price on Request,2,NA
+260,"Wasan Nagar, Pathardi Phata,Nashik",Krushna Builders And Developers,Apartment,old,Price on Request,1,NA
+264,"Tarwala Nagar, Nashik",Shivmangal Developers,Apartment,old,Price on Request,2,NA
+265,"Buddha Vihar, Pathardi Phata,Nashik",Sanskar Developers,Apartment,old,Price on Request,2,NA
+266,"Janak Nagari, Nashik",B-Orbit,Apartment,old,Price on Request,4,NA
+267,"Nashik Road, Nashik",Vinay Maganlal Karnavat,Apartment,old,Price on Request,2,NA
+270,"Ganpati Nagar, Anandwalli Gaon,Nashik",Sai Prasad Builders And Developers,Apartment,old,Price on Request,2,NA
+271,"Siddhtek Nagar, Nashik",Shubhangi Balwant Patil,Apartment,old,Price on Request,2,NA
+272,"Shri Ram Nagar, Nashik",Shakil Shaikh,Apartment,old,Price on Request,2,NA
+273,"Medage Nagar, Nashik",Ashoka Infraways Limited,Apartment,old,Price on Request,1 RK Apartment,NA
+274,"Pandav Nagari, Pathardi Phata,Nashik",Deepak Builders And Developers,Apartment,old,Price on Request,3,NA
+275,"Ganpati Nagar, Anandwalli Gaon,Nashik",Siddhi Construction Old Gangapur Naka,Apartment,old,Price on Request,3,NA
+276,"Sinnar Taluka, Nashik",Rahul Balasaheb Targe,Apartment,old,Price on Request,2,NA
+278,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Sarthak Constructions,Apartment,old,Price on Request,2,NA
+280,"Deolali Gaon, Nashik",Shree Siddhivinayak Builders & Developers,Apartment,old,Price on Request,2,NA
+281,"Mhasrul Gaon, Nashik",Shiv Developers,Apartment,old,Price on Request,3,NA
+282,"Siemens Colony, Rane Nagar,Nashik",Vinayak Premises Pvt Ltd,Apartment,old,Price on Request,3,NA
+284,"Vinchur, Nashik",Vighanharta Developers And Builders,Apartment,old,Price on Request,2,NA
+285,"Janak Nagari, Nashik",Anil Hiraman Rikame,Apartment,old,Price on Request,3,NA
+287,"Shanti Nagar, Lekha Nagar,Nashik",Aakash Buildcon Builders And Developers,Apartment,old,Price on Request,3,NA
+288,"Panchavati, Nashik",Sai Sakshi Developers,Apartment,old,Price on Request,2,NA
+289,"Shivaji Nagar, Satpur,Nashik",Rajendra Builders And Developers,Apartment,old,Price on Request,1,NA
+291,"Wasan Nagar, Pathardi Phata,Nashik",Vinayaka Builders,Apartment,old,Price on Request,2,NA
+292,"Kalpataru Nagar, Nashik",Nasim Bano Jabbar Khan Tamboli,Apartment,old,Price on Request,2,NA
+294,"Panchavati, Nashik",Samruddhi Buildcon nasik pune,Apartment,old,Price on Request,3,NA
+295,"Murari Nagar, Nashik",Sanjay Madhavrao Bhavsar,Apartment,old,Price on Request,2,NA
+296,"Janak Nagari, Nashik",JND Homess Llp,Apartment,old,Price on Request,2,NA
+297,"Wadala Gaon, Nashik",Shyam Buildcon Nashik,Apartment,old,Price on Request,3,NA
+299,"Chandshi, Nashik",Rushiraj Realtors,Apartment,old,Price on Request,2,NA
+300,"Sai Nath Nagar, Nashik",Mehrein Builders And Developers,Apartment,old,Price on Request,2,NA
+303,"Gangapur, Nashik",Sanjay K Sayankar Builders And Developers,Apartment,old,Price on Request,2,NA
+305,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Gurukrupa Infra,Apartment,old,Price on Request,2,NA
+306,"Kamod Nagar, Indira Nagar,Nashik",Isha Construction,Apartment,old,Price on Request,3,NA
+309,"Mhasrul Gaon, Nashik",Prayag Developer,Apartment,old,28.08,2,10.54
+310,"Mhasrul Gaon, Nashik",Paras Builders And Developers,Apartment,old,12.95,1,5.91
+311,"Jagtap Nagar, Nashik",Bholehar Constructions,Apartment,old,Price on Request,2,NA
+312,"Dwarka, Nashik",Aakar Buildcon,Apartment,old,46.99,2,12.44
+315,"Adhav Nagar, Nashik Road,Nashik",Yogeshwar Properties,Apartment,old,20.55,2,8.14
+316,"Vijaynagar Colony, Nashik",G K Infra,Apartment,old,34.95,1,6.50
+317,"Khutwad Nagar, Nashik",Ashok Dhondiram Matale Builders And Developers,Apartment,old,38.45,3,15.54
+319,"Deepali Nagar, Nashik",S M Enterprises,Apartment,old,33.07,3,11.69
+322,"Wasan Nagar, Pathardi Phata,Nashik",Gaurav Construction,Apartment,old,19.0,2,6.35
+323,"Kailash Nagar, Nashik",Jay Developers,Apartment,old,38.58,3,15.30
+325,"Canada Corner, Nashik",Marvel Properties,Apartment,old,80.95,3,30.47
+328,"Kamod Nagar, Indira Nagar,Nashik",Amma Builders And Developers,Apartment,old,15.53,1,5.16
+329,"Ambedkar Nagar, Chunchale,Nashik",New Sairam Construction,Apartment,old,27.48,2,9.38
+330,"Makhmalabad, Nashik",Suchita Pramod Patkar,Apartment,old,17.55,2,7.24
+332,"Ganpati Nagar, Anandwalli Gaon,Nashik",Revati Group,Apartment,old,58.35,3,18.17
+333,"Siddhivinayak Colony, Nashik",Paranjape Schemes Construction Ltd.,Apartment,old,45.73,2,13.35
+334,"Ghatkopar, Nashik",Shree Buildcon & Associates,Apartment,old,32.65,1,7.72
+335,"Rajwada Nagar, Deolali Gaon,Nashik",Subhadra Estates,Apartment,old,22.01,2,6.60
+336,"Chandshi, Nashik",Maheshbhai Bavchandbhai Rakholiya,Apartment,old,Price on Request,3,NA
+340,"Dwarka, Nashik",M L Developers,Apartment,old,54.27,2,18.36
+341,"MIDC Ambad, Nashik",Shree Yashashree Group,Apartment,old,25.5,2,9.69
+342,"Chetana Nagar, Rane Nagar,Nashik",Krishnai Estates,Apartment,old,36.98,2,10.47
+343,"Mhasrul Gaon, Nashik",Chinchore Associate,Apartment,old,16.03,2,6.27
+344,"Wadala Gaon, Nashik",Gaus Buildcon And Developers,Apartment,old,Price on Request,2,NA
+347,"Panchwati, MIDC Ambad,Nashik",Varsha Developers,Apartment,old,11.09,2,4.97
+350,"Wasan Nagar, Pathardi Phata,Nashik",Chaitanyaraj Buildtech,Apartment,old,Price on Request,2,NA
+351,"Vasantdadanagar, Adgaon,Nashik",Gare Brothers,Apartment,old,2.0,2,844
+352,"Dwarka, Nashik",City Next Developers,Apartment,old,35.52,2,11.33
+353,"Shivaji Nagar, Satpur,Nashik",S P Construction,Apartment,old,Price on Request,1,NA
+354,"Nashik Road, Nashik",Avi Construction,Apartment,old,16.19,2,6.77
+356,"Dwarka, Nashik",Sanklecha Constructions,Apartment,old,47.99,3,14.87
+357,"Kalpataru Nagar, Nashik",Adarssh Buildcon,Apartment,old,45.31,3,8.33
+359,"Makhmalabad, Nashik",Hitesh Mansukhbhai Virpara Builders And Developers,Apartment,old,11.03,1,3.93
+361,"Mhasrul Gaon, Nashik",Shree Padmavati Developers,Apartment,old,30.14,2,11.12
+362,"Serene Meadows, Anandwalli Gaon,Nashik",Jay Developers,Apartment,old,41.65,2,16.35
+363,"Samta Nagar, Nashik",Jai Padmavati Builders,Apartment,old,34.49,2,7.23
+365,"Sinnar Taluka, Nashik",Vedant Buildcon,Apartment,old,Price on Request,2,NA
+367,"Ramkrishna Nagar, Makhmalabad,Nashik",Atharva Developers,Apartment,old,33.3,3,8.05
+370,"Hirawadi, Nashik",Samraat Group,Apartment,old,55.62,3,13.67
+371,"Nandur Village, Nashik",Mahalaxmi Dham,Apartment,old,Price on Request,2,NA
+372,"Adhav Nagar, Nashik Road,Nashik",Ashoka Realty,Apartment,old,Price on Request,3,NA
+373,"Renuka Nagar, Nashik",Shreeji Realty Nashik,Apartment,old,75.82,3,20.77
+374,"Chetana Nagar, Rane Nagar,Nashik",Radheraman Construction,Apartment,old,20.37,2,8.05
+375,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Kamdhenu CHSL Nashik,Apartment,old,30.53,2,10.83
+376,"Gangapur, Nashik",Anand Constructions,Apartment,old,Price on Request,2,NA
+378,"Panchavati, Nashik",Allwin Infrastructure,Apartment,old,16.17,2,6.29
+379,"Panchavati, Nashik",S.R. Construction,Apartment,old,23.82,2,8.72
+381,"Kalpataru Nagar, Nashik",Shaikh Parvin Gamir And Shaikh Hajrabe Gamir,Apartment,old,39.92,1,9.90
+382,"Siddhtek Nagar, Nashik",Shree Swami Samrth Builders,Apartment,old,Price on Request,3,NA
+385,"Pathardi Gaon, Pathardi Phata,Nashik",Shree Sai Builders And Developers Nashik,Apartment,old,21.03,2,6.99
+386,"Ganpati Nagar, Anandwalli Gaon,Nashik",Krissh Infra,Apartment,old,21.22,2,6.31
+387,"Matoshree Nagar, Nashik",Rajeshwar Builders,Apartment,old,Price on Request,2,NA
+388,"Dhurav Nagar, Satpur,Nashik",Samraat Group,Apartment,old,35.0,3,13.24
+389,"Pathardi Gaon, Pathardi Phata,Nashik",Monika Constructions,Apartment,old,Price on Request,2,NA
+390,"Adke Nagar, Nashik Road,Nashik",Arav Construction,Apartment,old,Price on Request,2,NA
+391,"D'souza Colony, Nashik",Mahalaxmi Buildcon Nashik,Apartment,old,Price on Request,2,NA
+393,"Koknipura, Nashik",Atul Batukbhai Adroja And Rina Atulbhai Adroja,Apartment,old,Price on Request,2,NA
+395,"Samarth Nagar, Makhmalabad,Nashik",Sejal Buildcon,Apartment,old,23.79,2,8.90
+396,"Uttam Nagar, Nashik",Gajsiddhi Developers,Apartment,old,Price on Request,1,NA
+397,"Chetana Nagar, Rane Nagar,Nashik",Chaitra Builders,Apartment,old,28.47,2,10.41
+399,"Nandur Village, Nashik",Ekya Designs,Apartment,old,17.89,2,5.31
+402,"Kamatwade Gaon, Nashik",New Sadguru Builders And Developers,Apartment,old,Price on Request,2,NA
+403,"Jejurkar Wadi, Sharanpur,Nashik",Viraj Estates,Apartment,old,Price on Request,4,NA
+405,"Lamkhade Mala, Nashik",Chandubhai Laxmanbhai Patel,Apartment,old,Price on Request,1,NA
+406,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Utkarsh Builders And Developers,Apartment,old,56.96,3,22.78
+410,"Rajiv Nagar, Nashik",Roongta Group,Apartment,old,Price on Request,2,NA
+411,"Ashwamegh Nagar, Makhmalabad,Nashik",Jay Developers,Apartment,old,18.36,2,5.56
+415,"MIDC, Satpur,Nashik",Hruturaj Builders And Developers,Apartment,old,Price on Request,1,NA
+416,"Kamod Nagar, Indira Nagar,Nashik",Alai Builders And Developers,Apartment,old,40.36,2,12.43
+417,"Panchavati, Nashik",Rudra Builders And Developers,Apartment,old,25.44,2,8.92
+418,"Balawant Nagar, Anandwalli Gaon,Nashik",Tirupati Balaji Buildcon,Apartment,old,33.76,2,9.89
+419,"Nashik Road, Nashik",H M Builders,Apartment,old,55.84,1,5.02
+420,"Balawant Nagar, Anandwalli Gaon,Nashik",Siddhi Construction,Apartment,old,60.46,1,9.72
+421,"Mhasrul Gaon, Nashik",Dhanait Ahire Associates,Apartment,old,36.66,3,14.69
+423,"Jai Hind Colony, Mahajan Nagar,Nashik",Indrakumar Ramchandra Shende,Apartment,old,14.8,1,6.41
+424,"Buddha Vihar, Pathardi Phata,Nashik",Sunil Bhaybhang And Associates,Apartment,old,Price on Request,8,NA
+425,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Yogeshwar Realty,Apartment,old,25.83,2,9.20
+426,"Dwarka, Nashik",Shreeji Realty Nashik,Apartment,old,52.21,3,22.08
+427,"Lavate Nager, Parijat Nagar,Nashik",Shreeji Realty Nashik,Apartment,old,59.92,3,18.79
+429,"Ambedkar Nagar, Chunchale,Nashik",Kalpana Vijay Tatiya,Apartment,old,13.77,2,5.32
+430,"Prashant Nagar, Pathardi Phata,Nashik",Yogeshwar Realty,Apartment,old,24.93,2,8.14
+431,"Jejurkar Wadi, Sharanpur,Nashik",Pancharatna Builcon Pvt. Ltd.,Apartment,old,59.45,2,12.75
+432,"Dhurav Nagar, Satpur,Nashik",Shriniwas Construction,Apartment,old,22.18,2,7.67
+435,"Ghatkopar, Nashik",Kimnbhai V Patel,Apartment,old,18.32,2,8.06
+436,"Ghatkopar, Nashik",S V Thombare And Associates,Apartment,old,27.0,2,8.08
+437,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Unity Buildtech,Apartment,old,39.72,2,11.12
+438,"Gurudatta Nagar, Nashik Road,Nashik",Mahalaxmi Dham,Apartment,old,Price on Request,2,NA
+439,"College Road, Nashik",Hiray And Jagtap Associates,Apartment,old,Price on Request,1,NA
+440,"Lasalgaon, Nashik",Anil Gulabchand Sabadra,Apartment,old,20.94,2,6.97
+443,"Janak Nagari, Nashik",Icon Construction,Apartment,old,22.2,2,11.13
+444,"Ashwamegh Nagar, Makhmalabad,Nashik",New Jay Ambe Associates,Apartment,old,Price on Request,2,NA
+445,"Chetana Nagar, Rane Nagar,Nashik",Shree Gurudatta Constructions,Apartment,old,Price on Request,2,NA
+446,"Chetana Nagar, Rane Nagar,Nashik",Mahesh P Kathiriya,Apartment,old,32.65,2,13.03
+450,"Dwarka, Nashik",Karda Constructions,Apartment,old,Price on Request,2,NA
+451,"Kalpataru Nagar, Nashik",A C Jain Builders & Developers,Apartment,old,54.54,3,20.41
+453,"Dhurav Nagar, Satpur,Nashik",Anant Buildcon,Apartment,old,21.77,2,7.86
+454,"Chetana Nagar, Rane Nagar,Nashik",Devkinandan Buildcon,Apartment,old,Price on Request,3,NA
+455,"Wadala Gaon, Nashik",Kalim Niazoddin Shaikh And Others,Apartment,old,Price on Request,1,NA
+457,"Deolali Gaon, Nashik",Sai Construction,Apartment,old,25.52,1,2.97
+459,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anmol Nayantara,Apartment,old,Price on Request,4,NA
+461,"Sinnar Taluka, Nashik",Angira Infra Developer,Apartment,old,33.82,1,7.66
+462,"Hirawadi, Nashik",Deal Construction,Apartment,old,23.29,1,8.97
+463,"Panchavati, Nashik",Pranav Vasant Pawar,Apartment,old,25.2,1,6.42
+464,"Srinivas Colony, Uttara Nagar,Nashik",Vinit Constructions,Apartment,old,Price on Request,2,NA
+465,"Swami Samarth Nagar, Nashik Road,Nashik",Swastik Estates,Apartment,old,Price on Request,2,NA
+467,"Mohan Nagar, Nashik",Kanaklaxmi Developers,Apartment,old,25.8,2,10.33
+468,"Rambhoomi, Veer Sawarkar Nagar,Nashik",Jhala Infratech,Apartment,old,89.27,3,5.14
+469,"Wadala Gaon, Nashik",Gajanan Sparsh Co-Op Housing Society Ltd,Apartment,old,Price on Request,1,NA
+470,"Wadala Gaon, Nashik",Shreenathji Developers,Apartment,old,Price on Request,3,NA
+471,"Palase, Nashik",Ashtvinayak Construction,Apartment,old,18.85,1,4.82
+472,"Pathardi Gaon, Pathardi Phata,Nashik",Madhubhai B Kothiya,Apartment,old,23.86,2,8.82
+473,"Makhmalabad, Nashik",Aniruddha Builders Developers And Contractor,Apartment,old,Price on Request,2,NA
+476,"Deolali Gaon, Nashik",Karda Constructions,Apartment,old,28,2,11.12
+477,"Panchwati, MIDC Ambad,Nashik",Sanjay M Bhavsar Builders And Developers,Apartment,old,34.34,2,11.65
+478,"Pimpalgaon Baswant, Nashik",Sumangal Developers,Apartment,old,Price on Request,2,NA
+479,"Someshwar Colony, Satpur,Nashik",Shyamlaji Developers,Apartment,old,23.27,2,6.35
+480,"Wadala Gaon, Nashik",J A Khatik And A H Malik,Apartment,old,Price on Request,1,NA
+481,"Siddhivinayak Colony, Nashik",Lambodar Hights Co Op Hsg Soc Ltd,Apartment,old,Price on Request,1,NA
+482,"Belatgavhan, Nashik",Shree Mahavir Realtor,Apartment,old,Price on Request,2,NA
+483,"Makhmalabad, Nashik",VSV Builder And Developer,Apartment,old,Price on Request,2,NA
+484,"Gulshan Colony, Nashik",S P Builders,Apartment,old,Price on Request,2,NA
+485,"Siddhtek Nagar, Nashik",Padma Buildcon,Apartment,old,Price on Request,2,NA
+486,"Ashwin Nagar, Nashik",Ashokbhai Batukbhai Adroja Huf,Apartment,old,Price on Request,1,NA
+488,"Bhagur Rural, Nashik",Shah Builders & land Developers,Apartment,old,Price on Request,2,NA
+489,"Ambad Village, Nashik",Gorakshanath Developers Pvt Ltd,Apartment,old,Price on Request,2,NA
+490,"Samarth Nagar, Makhmalabad,Nashik",Keystone Developers,Apartment,old,Price on Request,3,NA
+492,"Pimpalgaon Bahula, Nashik",Gopal Construwell,Apartment,old,Price on Request,1,NA
+494,"Adgaon, Nashik",Muktaben Purushottam Narodia Builders And Contactor,Apartment,old,Price on Request,2,NA
+496,"Patrakar Colony, Parijat Nagar,Nashik",DG Group And Shree Balaji Developers,Apartment,old,Price on Request,2,NA
+497,"DGP Nagar, Nashik",Subhash Patil And Company,Apartment,old,Price on Request,2,NA
+498,"Rehnuma Nagar, Nashik",Creative Constructions,Apartment,old,Price on Request,3,NA
+500,"Makhmalabad, Nashik",Omkar Residency,Apartment,old,Price on Request,2,NA
+501,"Pimpalgaon Bahula, Nashik",Yogisai Construction,Apartment,old,Price on Request,1,NA
+502,"Pimpalgaon Bahula, Nashik",Nandan Devlopers,Apartment,old,Price on Request,1,NA
+506,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Rashmi Narendra Jadhav Builders And Developers,Apartment,old,Price on Request,1 RK Apartment,NA
+507,"Takle Nagar, Krishna Nagar,Nashik",Shreeved Builders And Developers,Apartment,old,46.04,1,10.74
+508,"Panchavati, Nashik",Shri Sai Buildcon Nashik,Apartment,old,Price on Request,2,NA
+509,"Murari Nagar, Nashik",SM Buildcon,Apartment,old,Price on Request,1,NA
+510,"Indira Nagar, Nashik",Laxmi Construction And Developer,Apartment,old,Price on Request,2,NA
+511,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Karda Infrastructure,Apartment,old,Price on Request,3,NA
+512,"Prashant Nagar, Pathardi Phata,Nashik",Vikas Gemini,Apartment,old,Price on Request,2,NA
+517,"Ghadge Nagar, Makhmalabad,Nashik",Hasmukhbhai Jerambhai Suhagiya Construction And Developers,Apartment,old,23.66,2,9.14
+518,"Vasantdadanagar, Adgaon,Nashik",Matoshri Buildcon,Apartment,old,Price on Request,2,NA
+520,"Serene Meadows, Anandwalli Gaon,Nashik",Shri Balajee Buiders And Developers,Apartment,old,Price on Request,3,NA
+522,"Nandur Village, Nashik",Shyam Buildcon Nashik,Apartment,old,Price on Request,2,NA
+523,"Nandur Village, Nashik",Elite Constructions Nashik,Apartment,old,Price on Request,3,NA
+524,"Ashwamegh Nagar, Makhmalabad,Nashik",Om Builders And Developers,Apartment,old,Price on Request,2,NA
+526,"Shivaji Nagar, Satpur,Nashik",Bhagyalaxmi Builders And Developers,Apartment,old,Price on Request,2,NA
+528,"Adgaon, Nashik",Sadguru Associates,Apartment,old,Price on Request,2,NA
+529,"Balawant Nagar, Anandwalli Gaon,Nashik",Shinde And Shinde Builders And Contractors,Apartment,old,Price on Request,3,NA
+530,"Nashik Road, Nashik",Pavan Construction,Apartment,old,Price on Request,2,NA
+532,"Gurudatta Nagar, Nashik Road,Nashik",Gayatri Developers,Apartment,old,Price on Request,2,NA
+534,"Pokar Colony, Vaiduwadi,Nashik",Divyesh Pramod Kothari,Apartment,old,Price on Request,2,NA
+535,"Deolali Gaon, Nashik",Karda Constructions,Apartment,old,Price on Request,2,NA
+536,"Adhav Nagar, Nashik Road,Nashik",Sai Home Builders,Apartment,old,Price on Request,2,NA
+537,"Tirumla Nagar, Wadala Gaon,Nashik",Unity Associates,Apartment,old,Price on Request,2,NA
+538,"Serene Meadows, Anandwalli Gaon,Nashik",Dhatrak group,Apartment,old,137.0,5,34.84
+539,"Gangapur, Nashik",Vira Enterprises,Apartment,old,17.45,2,6.26
+540,"Damodar Nagar, Pathardi Phata,Nashik",New Akshara Construction,Apartment,old,Price on Request,2,NA
+542,"Pimpalgaon Baswant, Nashik",Sandeep Kantilal Kochar,Apartment,old,Price on Request,1 RK Apartment,NA
+543,"Murari Nagar, Nashik",Shree Yashashree Construction,Apartment,old,61.88,3,28.20
+544,"Makhmalabad, Nashik",Surya Builders,Apartment,old,20.61,2,9.53
+546,"Gurudatta Nagar, Nashik Road,Nashik",K D Construction,Apartment,old,Price on Request,1,NA
+549,"Hirawadi, Nashik",Samraat Group,Apartment,old,55.62,3,13.67
+550,"Vaiduwadi, Mhasrul Gaon,Nashik",Vashudev Developers,Apartment,old,23.48,2,7.91
+551,"Janak Nagari, Nashik",Jaap Builders,Apartment,old,Price on Request,2,NA
+552,"Ashwamegh Nagar, Makhmalabad,Nashik",Maa Buildwell,Apartment,old,14.52,2,6.32
+553,"Pathardi Gaon, Pathardi Phata,Nashik",Shree Samarth Builders And Developers,Apartment,old,25.23,3,10.27
+554,"Pandavnagri, Mogal Nagar,Nashik",Maheshwar Enterprises,Apartment,old,Price on Request,3,NA
+555,"Gangapur, Nashik",Partract Estate And Investment,Apartment,old,80.21,3,31.03
+556,"Deepali Nagar, Nashik",Shreeji Group,Apartment,old,76.3,3,18.53
+557,"Medage Nagar, Nashik",Sai Veer Construction,Apartment,old,Price on Request,1,NA
+558,"Indira Nagar, Nashik",Shreeji Realty Nashik,Apartment,old,Price on Request,2,NA
+559,"Pandav Nagari, Pathardi Phata,Nashik",Talware Builders,Apartment,old,27.73,2,9.98
+560,"Sinnar Taluka, Nashik",Ashoka Realty,Apartment,old,18.15,2,6.78
+561,"Modkeshwar Nagar, Nashik",Shree Madhav Buildcon,Apartment,old,27.36,2,10.83
+562,"Bhujbal Knowledge City, Adgaon,Nashik",Siddhivinayak Buildcon,Apartment,old,28.61,2,10.77
+563,"Upendra Nagar Colony, Nashik",Soumya Buildcon,Apartment,old,Price on Request,2,NA
+565,"Medage Nagar, Nashik",Gaurav Construction Builders And Developers,Apartment,old,11.94,1,4.50
+566,"Serene Meadows, Anandwalli Gaon,Nashik",Archit Group,Apartment,old,53.07,3,17.02
+568,"Balawant Nagar, Anandwalli Gaon,Nashik",Ganesh Enterprises,Apartment,old,Price on Request,3,NA
+570,"Adhav Nagar, Nashik Road,Nashik",Sainath Enterprises Nashik,Apartment,old,18.25,2,8.12
+572,"Laxman Nagar, Nashik Road,Nashik",Vaastu Vaibhav Constructions,Apartment,old,19.35,2,8.46
+573,"Prashant Nagar, Pathardi Phata,Nashik",Malpani Estates,Apartment,old,58.83,2,22.37
+575,"Hanuman Nagar, Nashik",Bhagya Developer,Apartment,old,53.7,2,19.56
+576,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",City Next Developers,Apartment,old,24.15,2,10.37
+577,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Chetan Dilip Patkar,Apartment,old,Price on Request,2,NA
+581,"Laxman Nagar, Nashik Road,Nashik",M K Realities,Apartment,old,Price on Request,2,NA
+582,"Nandur Village, Nashik",Yug Builders,Apartment,old,20.84,2,6.48
+584,"Nashik Road, Nashik",Deepak Builders And Developers,Apartment,old,115.0,3,30.07
+585,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anmol Nayantara,Apartment,old,181.0,4,37.34
+586,"Damodar Nagar, Pathardi Phata,Nashik",Shree Builders and Contractors,Apartment,old,Price on Request,2,NA
+587,"Gangapur, Nashik",Shree Venkatesh Developers,Apartment,old,Price on Request,2,NA
+590,"Vrindavan Nagar, Nashik",Sanket Buildtech,Apartment,old,25.24,2,8.01
+592,"Makhmalabad, Nashik",Vastulaxmi Builders And Contractors,Apartment,old,25.28,2,11.60
+593,"Panchavati, Nashik",H M Builders,Apartment,old,31.35,2,5.71
+595,"Gangapur, Nashik",Mahadev Construction,Apartment,old,17.88,2,6.13
+597,"Ganpati Nagar, Anandwalli Gaon,Nashik",Karda Constructions,Apartment,old,112.0,3,28.10
+598,"Makhmalabad, Nashik",Kalubhai Keshubhai Chawada,Apartment,old,14.48,2,5.48
+599,"Amrutdham, Nashik",Kabir Construction,Apartment,old,Price on Request,3,NA
+601,"Nashik Road, Nashik",Landmark infra,Apartment,old,18.09,1,4.98
+603,"Jejurkar Wadi, Sharanpur,Nashik",Pancharatna Builcon Pvt. Ltd.,Apartment,old,55.79,2,12.28
+604,"Wasan Nagar, Pathardi Phata,Nashik",Shree Sai Associates,Apartment,old,Price on Request,2,NA
+605,"Makhmalabad, Nashik",Ambika Projects,Apartment,old,44.45,3,13.81
+606,"Murari Nagar, Nashik",Trimurti Developer,Apartment,old,Price on Request,2,NA
+607,"Sant Kabir Nagar, Veer Sawarkar Nagar,Nashik",Ms Amber Estate,Apartment,old,81.08,4,31.72
+608,"Nashik Road, Nashik",Mahajan Buildcon,Apartment,old,27.68,2,11.57
+609,"Sadguru Nagar, Nashik",R V Construction,Apartment,old,Price on Request,2,NA
+610,"Sadguru Nagar, Satpur,Nashik",Crown Builders And Developers,Apartment,old,34.43,2,13.51
+614,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Samraat Group,Apartment,old,Price on Request,3,NA
+615,"Nashik Road, Nashik",Palde Construction,Apartment,old,30.86,3,13.10
+616,"Siddhtek Nagar, Nashik",Vishal Shivaji Matale,Apartment,old,Price on Request,2,NA
+617,"Deolali Gaon, Nashik",ARKK Builders And Developers,Apartment,old,Price on Request,2,NA
+618,"Raviwar Karanja, Panchavati,Nashik",Dyneshwar Keshavrao Bhosale,Apartment,old,Price on Request,1 RK Apartment,NA
+622,"Mhasrul Gaon, Nashik",Devshree Developers,Apartment,old,16.06,1,5.96
+624,"Deolali Gaon, Nashik",Nest Developers,Apartment,old,43.74,2,13.94
+625,"Gangapur, Nashik",Shri Sanderi Group,Apartment,old,21.26,2,7.17
+626,"Balawant Nagar, Anandwalli Gaon,Nashik",Anubhooti Infrastructures Pvt Ltd,Apartment,old,109.0,3,7.39
+627,"Adhav Nagar, Nashik Road,Nashik",V R V Construction,Apartment,old,Price on Request,2,NA
+628,"Panchavati, Nashik",Maitra Buildtech,Apartment,old,47.25,3,15.01
+629,"Pandav Nagari, Pathardi Phata,Nashik",Shantai Developers,Apartment,old,24.03,1,6.20
+630,"Makhmalabad, Nashik",Abhay C Jain Builders And Developers,Apartment,old,19.52,2,7.26
+632,"Murari Nagar, Nashik",Sunil Bhausing Pawar,Apartment,old,Price on Request,2,NA
+635,"Sharda Vihar, Nashik",Hashmukh K Jogani Bhagvandas Builder And Developers,Apartment,old,49.7,3,18.45
+638,"Kamgar Nagar, Satpur,Nashik",Arun Pundlik Nikam,Apartment,old,45.92,4,11.86
+639,"Samarth Nagar, Makhmalabad,Nashik",Laxmi Associates Nashik,Apartment,old,28.17,2,9.63
+642,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anmol Nayantara,Apartment,old,174.0,4,37.22
+643,"Ekdant Nagar, Nashik",Shree Gajanan Builders And Realtors,Apartment,old,Price on Request,1,NA
+644,"Damodar Nagar, Pathardi Phata,Nashik",Renuka Heights Co Op Housing Society Ltd,Apartment,old,Price on Request,2,NA
+645,"Nashik Road, Nashik",M K Realities,Apartment,old,Price on Request,1,NA
+648,"Janak Nagari, Nashik",J K Associates,Apartment,old,39.94,2,13.77
+649,"Vrindavan Nagar, Nashik",Sanket Buildtech,Apartment,old,20.26,2,7.95
+651,"Makhmalabad, Nashik",Prashant Prabhakar Gurule,Apartment,old,Price on Request,2,NA
+653,"Kamod Nagar, Indira Nagar,Nashik",Amit Jadhav and Associates,Apartment,old,Price on Request,3,NA
+654,"Panchwati, MIDC Ambad,Nashik",Geeta Developers,Apartment,old,17.51,2,7.03
+655,"Wasan Nagar, Pathardi Phata,Nashik",Sanskar Developers,Apartment,old,Price on Request,1,NA
+656,"Sinnar Taluka, Nashik",Savali Infrastructure,Apartment,old,Price on Request,2,NA
+658,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Shree Sai Associate,Apartment,old,31.81,2,9.15
+663,"Hirawadi, Nashik",Shyam Corporation,Apartment,old,35.45,3,16.51
+664,"Bhujbal Knowledge City, Adgaon,Nashik",Sanket Buildtech,Apartment,old,19.9,2,8.77
+667,"Shramik Nagar, Nashik",Nirmiti Lifestyle,Apartment,old,18.23,2,6.42
+670,"Srinivas Colony, Uttara Nagar,Nashik",Ajinkya Pride Co operative Housing Society,Apartment,old,Price on Request,3,NA
+671,"Prabhat Nagar, Nashik",New Pushkaraj Construction,Apartment,old,Price on Request,2,NA
+672,"College Road, Nashik",Shilp Buildcon,Apartment,old,Price on Request,3,NA
+674,"Raviwar Karanja, Panchavati,Nashik",Dyneshwar Keshavrao Bhosale,Apartment,old,Price on Request,1 RK Apartment,NA
+677,"Vasantdadanagar, Adgaon,Nashik",Sparsh Buildcon,Apartment,old,Price on Request,2,NA
+680,"Ashoknagar, Satpur,Nashik",Kalyan Toll Infrastructure,Apartment,old,30.88,2,7.12
+683,"Pathardi Gaon, Pathardi Phata,Nashik",Shubham Developers,Apartment,old,Price on Request,2,NA
+684,"College Road, Nashik",Prathamesh Buildwell,Apartment,old,Price on Request,4,NA
+685,"Pandav Nagari, Pathardi Phata,Nashik",Om Sai Builders,Apartment,old,49.53,3,19.75
+688,"Dhurav Nagar, Satpur,Nashik",Kishor Karbhari Malode,Apartment,old,30.0,1,10.06
+691,"Ghadge Nagar, Makhmalabad,Nashik",Ajay M Bachhav And Vijay S Ahire And Pravin P Bachhav,Apartment,old,Price on Request,3,NA
+693,"Pramod Nagar, Nashik",D G Group,Apartment,old,Price on Request,3,NA
+697,"Dhurav Nagar, Satpur,Nashik",Kishor Karbhari Malode,Apartment,old,25.73,1,5.85
+700,"Fulenagar, Nashik",Nirmiti Buildtech,Apartment,old,36.72,3,11.19
+701,"Jejurkar Wadi, Sharanpur,Nashik",Shri Radhamadan Gopal Construction And Developers,Apartment,old,Price on Request,2,NA
+702,"Parijat Nagar, Nashik",M And M,Apartment,old,Price on Request,4,NA
+703,"Wadala Gaon, Nashik",Bharat Vithalbhai Ajugia,Apartment,old,Price on Request,3,NA
+706,"Ganpati Nagar, Anandwalli Gaon,Nashik",Samruddhi Developers Nashik,Apartment,old,Price on Request,3,NA
+708,"Wadala Gaon, Nashik",Shivpraj Builder And Developer,Apartment,old,27.74,2,10.57
+711,"Buddha Vihar, Pathardi Phata,Nashik",Shivalaya Builders And Developers,Apartment,old,Price on Request,2,NA
+714,"Pandav Nagari, Pathardi Phata,Nashik",Om Sai Developers,Apartment,old,Price on Request,2,NA
+716,"Adhav Nagar, Nashik Road,Nashik",Kamal Buildcon,Apartment,old,22.35,2,8.50
+718,"Makhmalabad, Nashik",Dhawal Construction,Apartment,old,Price on Request,2,NA
+725,"Makhmalabad, Nashik",Bhamre Builders,Apartment,old,Price on Request,2,NA
+728,"Koroli, Nashik",E & G Global Estate Limited,Apartment,old,Price on Request,Studio Studio Apartment,NA
+731,"Palase, Nashik",Krupasindhu Enterprises,Apartment,old,Price on Request,1,NA
+732,"Panchwati, MIDC Ambad,Nashik",Sandeep Ramdas Shinde,Apartment,old,Price on Request,2,NA
+733,"Vasantdadanagar, Adgaon,Nashik",Pekhale Patil Construction,Apartment,old,Price on Request,2,NA
+734,"Vasantdadanagar, Adgaon,Nashik",Darsh Buildcon,Apartment,old,Price on Request,2,NA
+735,"Vasantdadanagar, Adgaon,Nashik",Govind Madhwai and Associate,Apartment,old,Price on Request,2,NA
+736,"Janak Nagari, Nashik",Vande Developers,Apartment,old,Price on Request,2,NA
+737,"Sagar Village, Nashik",Pranav Buildtech,Apartment,old,Price on Request,2,NA
+738,"Pandavnagri, Mogal Nagar,Nashik",Rachana Construction,Apartment,old,Price on Request,2,NA
+739,"Vasantdadanagar, Adgaon,Nashik",Pushpak Projects Builders and Developers,Apartment,old,Price on Request,2,NA
+743,"Wadala Gaon, Nashik",Ismail Bashir Shaikh,Apartment,old,16.34,2,5.23
+745,"Chetana Nagar, Rane Nagar,Nashik",Shreeji Group,Apartment,old,32.98,2,14.03
+746,"Deolali Gaon, Nashik",Karda Constructions,Apartment,old,31.83,2,11.18
+748,"Asha Nagar, Nashik",Rajashree Developers,Apartment,old,24.22,2,9.25
+749,"Chandshi, Nashik",Suyojit Infrastructure Pvt Ltd.,Apartment,old,Price on Request,5,NA
+751,"Nirmal Nagar, Bandra East,Mumbai",Sunshine Realspaces LLP,Apartment,old,Price on Request,2,NA
+752,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Samraat Group,Apartment,old,Price on Request,3,NA
+754,"Patil Colony, College Road,Nashik",SR Constructions,Apartment,old,Price on Request,1,NA
+755,"Prabhat Colony, Nashik",Pal Developers,Apartment,old,19.14,2,6.89
+756,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Matale Buildcon,Apartment,old,26.79,2,10.23
+757,"Madsangavi, Nashik",Nachiket Gopalrao Patil Builders,Apartment,old,Price on Request,1,NA
+760,"Medage Nagar, Nashik",Jadhav Builders Nashik,Apartment,old,Price on Request,1,NA
+761,"Viveka Nand Nagar, Anandwalli Gaon,Nashik",Nirman Group,Apartment,old,52.03,2,17.61
+762,"Ashwamegh Nagar, Makhmalabad,Nashik",Atharvashree Buildmat Private Limited,Apartment,old,19.31,2,7.02
+763,"Prashant Nagar, Pathardi Phata,Nashik",Om Construction,Apartment,old,Price on Request,2,NA
+765,"Vaishnavi Park, Nashik",Om Developers Nashik M Corp,Apartment,old,Price on Request,3,NA
+766,"Shanti Nagar, Lekha Nagar,Nashik",Tirupati Developers Prashant Nagar,Apartment,old,Price on Request,2,NA
+767,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Sahyog Vastu Udyog,Apartment,old,Price on Request,3,NA
+769,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Sai Ganraj Developers Nashik,Apartment,old,Price on Request,1,NA
+770,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Tirupati Developers Prashant Nagar,Apartment,old,Price on Request,2,NA
+771,"Pimpalgaon Bahula, Nashik",Kanhaiya Infratech,Apartment,old,Price on Request,1,NA
+773,"Renuka Nagar, Nashik",Suhail Umar Shaikh,Apartment,old,Price on Request,2,NA
+774,"Sneha Nagar, Nashik",Nirmala Narayan Shelar,Apartment,old,Price on Request,2,NA
+775,"Wasan Nagar, Pathardi Phata,Nashik",Archit Group,Apartment,old,Price on Request,2,NA
+776,"Nashik Road, Nashik",Siddhivinayak Constructions,Apartment,old,Price on Request,2,NA
+777,"Govind Nagar, Nashik",Avenue Casa,Apartment,old,Price on Request,3,NA
+779,"Sinnar Taluka, Nashik",Atharva Builders And Developers Nashik,Apartment,old,Price on Request,2,NA
+780,"Viveka Nand Nagar, Anandwalli Gaon,Nashik",Omkar Buildcon Jalalpur,Apartment,old,Price on Request,2,NA
+781,"Indira Nagar, Nashik",H K Properties Nashik,Apartment,old,Price on Request,2,NA
+782,"Deolali Gaon, Nashik",Kapse Developers,Apartment,old,Price on Request,2,NA
+784,"Shalimar, Nashik",Shyam Buildcon Nashik,Apartment,old,Price on Request,2,NA
+786,"Laxman Nagar, Nashik Road,Nashik",Prabhavi Constructions,Apartment,old,Price on Request,2,NA
+788,"Kamod Nagar, Indira Nagar,Nashik",JK Infrastructures,Apartment,old,Price on Request,2,NA
+789,"Damodar Nagar, Pathardi Phata,Nashik",Saptashrungi Developers,Apartment,old,Price on Request,2,NA
+790,"Adgaon, Nashik",Ashapura Infra,Apartment,old,Price on Request,2,NA
+791,"Wadala Gaon, Nashik",Unique Builders Nashik,Apartment,old,Price on Request,1,NA
+792,"Vrindavan Nagar, Nashik",SP Builders,Apartment,old,Price on Request,2,NA
+793,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Shiv Enterprises,Apartment,old,Price on Request,1,NA
+794,"Vrindavan Nagar, Nashik",Siddhivinayak Buildtech,Apartment,old,Price on Request,2,NA
+795,"Ramkrishna Nagar, Makhmalabad,Nashik",Shivpooja Buildcon,Apartment,old,Price on Request,2,NA
+801,"Jagtap Nagar, Nashik",RSM Infra,Apartment,old,Price on Request,2,NA
+802,"Sagar Village, Nashik",Adarsh Builders And Developers,Apartment,old,Price on Request,2,NA
+803,"Ganpati Nagar, Anandwalli Gaon,Nashik",JSM Enterprises,Apartment,old,Price on Request,4,NA
+804,"Serene Meadows, Anandwalli Gaon,Nashik",JSM Enterprises,Apartment,old,Price on Request,4,NA
+808,"Wasan Nagar, Pathardi Phata,Nashik",Govinda Constructions,Apartment,old,23.13,2,8.49
+812,"Ojhar, Nashik",Samarth Group Nashik,Apartment,old,Price on Request,2,NA
+813,"General Vaidya Nagar, Nashik",Venus Construction,Apartment,old,Price on Request,2,NA
+814,"Dwarka, Nashik",Venus Constructions,Apartment,old,Price on Request,2,NA
+815,"Wadala Gaon, Nashik",Skylark Mansions Pvt. Ltd,Apartment,old,Price on Request,2,NA
+818,"Pathardi Gaon, Pathardi Phata,Nashik",Reputed Builder,Apartment,old,30.44,2,10.59
+819,"Kamod Nagar, Indira Nagar,Nashik",Pacific Builder,Apartment,old,Price on Request,3,NA
+822,"Bhagur Rural, Nashik",Yogesh Ramdas Popatkar,Apartment,old,Price on Request,2,NA
+823,"Prashant Nagar, Pathardi Phata,Nashik",Sanket Maheshbhai Kathiriya,Apartment,old,Price on Request,2,NA
+824,"Adhav Nagar, Nashik Road,Nashik",Shree Om Buildcon,Apartment,old,Price on Request,2,NA
+826,"Balawant Nagar, Anandwalli Gaon,Nashik",Zion Worldwide,Apartment,old,67.21,3,29.18
+827,"Kala Nagar, Indira Nagar,Nashik",Shree Om Buildcon,Apartment,old,55.71,2,13.04
+830,"Dhurav Nagar, Satpur,Nashik",Akshar Buildwell,Apartment,old,Price on Request,2,NA
+831,"Dwarka, Nashik",Sanklecha Constructions,Apartment,old,47.99,3,14.87
+832,"Deolali Gaon, Nashik",Ajit Damji Pokar HUF,Apartment,old,30.48,1,10.58
+833,"Damodar Nagar, Pathardi Phata,Nashik",Laxman Eknath Gomase,Apartment,old,Price on Request,1,NA
+834,"Sadguru Nagar, Nashik",Tirupati Developers Prashant Nagar,Apartment,old,21.51,2,8.14
+835,"Ghatkopar, Nashik",Hitesh Mansukhbhai Virpara Builders And Developers,Apartment,old,Price on Request,1,NA
+838,"Janak Nagari, Nashik",Pal Developers,Apartment,old,18.43,2,6.63
+842,"Balawant Nagar, Anandwalli Gaon,Nashik",Roongta Group,Apartment,old,Price on Request,3,NA
+843,"Wasan Nagar, Pathardi Phata,Nashik",Shree Sai Buildcon,Apartment,old,Price on Request,2,NA
+846,"Nashik Road, Nashik",Rushikesh Builders And Developers,Apartment,old,70.27,3,24.34
+847,"Suyog Colony, Satpur,Nashik",Laxmi Enterprises,Apartment,old,56.04,1,16.94
+848,"Ayodhya Nagari, Nashik",Shree Harikrushna Developers,Apartment,old,Price on Request,2,NA
+850,"Bhujbal Knowledge City, Adgaon,Nashik",Roongta Group,Apartment,old,Price on Request,3,NA
+851,"Pathardi Gaon, Pathardi Phata,Nashik",Shree Enterprises Nashik,Apartment,old,Price on Request,3,NA
+852,"Wasan Nagar, Pathardi Phata,Nashik",Laxmi Consructions,Apartment,old,Price on Request,2,NA
+854,"Makhmalabad, Nashik",Maa Buildwell,Apartment,old,17.54,2,6.77
+856,"Wasan Nagar, Pathardi Phata,Nashik",Shree Ballaleshwar Developers,Apartment,old,Price on Request,2,NA
+857,"Mahatma Nagar, Parijat Nagar,Nashik",Yog Builders And Developers,Apartment,old,40.96,2,10.46
+859,"Tirumla Nagar, Wadala Gaon,Nashik",Ashoka Realty,Apartment,old,NA,1 RK Apartment,4.82
+860,"Gangapur, Nashik",Seva Developers,Apartment,old,Price on Request,2,NA
+861,"Panchavati, Nashik",Om Sai Buildcon Sharanpur,Apartment,old,Price on Request,2,NA
+862,"Bhor Town Ship, Nashik",Shree Prakash Developers,Apartment,old,Price on Request,2,NA
+863,"Siddhivinayak Colony, Nashik",Paranjape Schemes Construction Ltd.,Apartment,old,45.73,2,13.35
+864,"Wasan Nagar, Pathardi Phata,Nashik",Krushna Builders And Developers,Apartment,old,Price on Request,1,NA
+865,"Nashik Road, Nashik",Swastik Estates,Apartment,old,Price on Request,2,NA
+869,"Prashant Nagar, Pathardi Phata,Nashik",Malpani Gruh Nirman,Apartment,old,Price on Request,3,NA
+873,"General Vaidya Nagar, Nashik",Real Land Developers And Builder,Apartment,old,Price on Request,2,NA
+876,"Ambedkar Nagar, Chunchale,Nashik",Sarode Builders And Land Developers,Apartment,old,Price on Request,1,NA

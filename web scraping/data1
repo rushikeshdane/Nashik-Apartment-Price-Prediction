@@ -1,0 +1,1000 @@
+,address,owners,housetype,house_condition,BHK,price,per_month_emi,total_sqft
+0,"Sheetal Vihar, Bhagwant Nagar, Dr.Homi Bhabha Nagar,Nashik",Mahendra Kotwal,Apartment,old,3,75.0,39.72,1550
+1,"Samraat Dream Citi, Samta Nagar, Nashik",Jiten Dadarkar,Apartment,old,2,41.0,21.71,1000
+2,"Suryaprakash Apartment,Nashik Road, Nashik",Pankaj,Apartment,old,2,53.35,28.25,970
+3,"Adishvar Residency,Nashik Road, Nashik",Saurav,Apartment,old,2,55.0,29.13,1000
+4,"Nashik Road, Nashik",Vivek Pavanaskar,Apartment,old,2,27.0,14.30,853
+5,"Gurucharani,Nashik Road, Nashik",Darshan Muley,Apartment,old,2,42.0,22.24,1050
+6,"CDO-MERI Colony, Nashik",Prashant,Apartment,old,2,35.5,18.80,1035
+7,"Ram Sneh Apartment,Nashik Road, Nashik",Sweety Surana,Apartment,old,3,48.0,25.42,1375
+8,"gajanan pushp aptshiram nagar,Nashik Road, Nashik",Shriram Kulkarni,Apartment,old,2,32.0,16.95,850
+9,"B2 LAXMI RESIDENCY ,Nashik Road, Nashik",GAURAV Chaturvedi,Apartment,old,2,32.0,16.95,1020
+10,"krishnabaug apartment,Nashik Road, Nashik",Suvarna,Apartment,old,2,28.0,14.83,810
+11,"krishnabaug apartment,Nashik Road, Nashik",Suvarna,Apartment,old,2,28.0,14.83,810
+12,"Nashik Road, Nashik",Swati Rajeshwari,Apartment,old,3,48.0,25.42,1250
+13,"Nashik Road, Nashik",Priti Kadam,Apartment,old,2,35.0,18.53,1900
+14,"Nashik Road, Nashik",SHIVAJI BHABAD,Apartment,old,2,25.0,13.24,840
+15,"Shanti Prasad Cooperative Society, Nashik Road, Nashik",Pitambar C,Apartment,old,2,34.0,18.00,1100
+16,"Town Squire City Apartment,Nashik Road, Nashik",Yas Tatiya,Apartment,old,1,25.0,13.24,713
+17,"Panchawati, Hirawadi,Nashik",Komal Abhichandani,Apartment,old,2,40.0,21.18,950
+18,"Anand Nagar, Nashik Road,Nashik",Mahesh,Apartment,old,2,40.0,21.18,990
+19,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Laxman Kokane,Apartment,old,1,25.0,13.24,560
+20,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Prashant Deodhar,Apartment,old,2,42.0,22.24,1050
+21,"Deepak Panchdeep Renukamata Housing Society by Deepak Constructions, Gandhi Nagar Airport Area, Deolali Gaon,Nashik",D B CHAVAN,Apartment,old,1,23.04,12.20,720
+22,"Sai Samarth Sankul, Nashik Road, Nashik",Mohsin Kadri,Apartment,old,2,40.0,21.18,845
+23,"Jagtap Nagar, Nashik",Amol Pandey,Apartment,old,2,36.5,19.33,853
+24,"Khutwad Nagar, Nashik",Vinod Chhabu Shinde,Apartment,old,2,38.0,20.12,900
+25,"Gandharv Nagari, Nashik Road, Nashik",Swati,Apartment,old,3,55.0,29.13,1250
+26,"Chandravilas Housing Society Ingale Nagar Jail Road Nashik Road,Nashik Road, Nashik",Pradip Asarkar,Apartment,old,1,30.0,15.89,850
+27,"Nashik Road, Nashik",Pradip Asarkar,Apartment,old,1,30.0,15.89,850
+28,"Ayodhya Nagari, Nashik",Ravindra Arote,Apartment,old,2,36.0,19.06,850
+29,"Nashik Road, Nashik",Mansi Sanap,Apartment,old,2,31.0,16.42,1395
+30,"vitthal park apartment,Nashik Road, Nashik",Amol,Apartment,old,2,35.0,18.53,1100
+31,"Time Residency,Shivaji Nagar, Nashik",Pratiksha Datta,Apartment,old,2,38.0,20.12,1000
+32,"Rudraksh Apartment,Abhang Nagar, Om Nagar,Nashik",Rameshwar Magar,Apartment,old,1,17.95,9.51,610
+33,"Dattanagar, Dattanagar,Nashik",Sugandrajesh,Apartment,old,2,32.0,16.95,741
+34,"Shri Ram Nagar, Nashik",Ashok Kadam,Apartment,old,2,35.0,18.53,1100
+35,"Prabhat Colony, Nashik",Ash,Apartment,old,1,20.0,10.59,610
+36,"Neelkanth River View, Koknipura, Nashik",Harsh,Apartment,old,2,30.0,15.89,835
+37,"Asher Enclave,Nashik Road, Nashik",Samrat Paul,Apartment,old,2,32.0,16.95,1035
+38,"Nashik Road, Nashik",PRANTIK ROY,Apartment,old,3,55.0,29.13,1600
+39,"Mane complex,Nashik Road, Nashik",Jagdish Shankar Sonawane,Apartment,old,2,35.0,18.53,984
+40,"Matoshri Nagar, Nashik Road,Nashik",S K PAUL,Apartment,old,2,32.0,16.95,1035
+41,"Mane complex,Nashik Road, Nashik",Ganesh Anna Badgujar,Apartment,old,2,29.25,15.49,750
+42,"sukhsagar appament,Pintoo Colony, Nashik Road,Nashik",Dipankar Sarkar,Apartment,old,2,30.0,15.89,900
+43,"Nashik Road, Nashik",Prabhakar Vadnere,Apartment,old,2,28.0,14.83,775
+44,"Nashik Road, Nashik",Naveen Relan,Apartment,old,3,50.0,26.48,1200
+45,"Pawar Wadi, Nashik",Kunal,Apartment,old,2,25.0,13.24,750
+46,"Nashik Road, Nashik",Saheli Paul,Apartment,old,2,30.0,15.89,1050
+47,"Shree Chintamani Palace,Ayodhya Nagar, Nashik Road,Nashik",Videndu,Apartment,old,3,50.0,26.48,1500
+48,"Pawar Wadi, Nashik",NURMOHANMAD Yasin Attar,Apartment,old,2,25.0,13.24,700
+49,"Nashik Road, Nashik",Minakshee Gaikwad,Apartment,old,2,42.0,22.24,786
+50,"Nashik Road, Nashik",Jayendra नाईक,Apartment,old,2,26.0,13.77,733
+51,"Nashik Road, Nashik",Prabhakar Vadnere,Apartment,old,2,28.0,14.83,775
+52,"Tushar appartment,CDO-MERI Colony, Nashik",Kunal Patil,Apartment,old,2,35.0,18.53,960
+53,"RTO Colony, Uttara Nagar,Nashik",Ganesh Shinde,Apartment,old,2,42.0,22.24,1050
+54,"TIDKE NAGAR, Nashik",Amit Patil,Apartment,old,2,42.0,22.24,1050
+55,"Suyog Park,Datey Nagar, Veer Sawarkar Nagar,Nashik",Anil Pathak,Apartment,old,2,42.0,22.24,1085
+56,"sukdev appartment,Nashik Road, Nashik",Suresh Samant,Apartment,old,1,25.0,13.24,500
+57,"Rajashree app,Pawar Wadi, Nashik",Kavita,Apartment,old,2,23.0,12.18,850
+58,"Asha Nagar, Nashik",Harshal Kulthe,Apartment,old,1,16.0,8.47,615
+59,"Raviwar Karanja, Panchavati,Nashik",Samdeep Kothari,Apartment,old,2,48.0,25.42,800
+60,"Nashik Road, Nashik",Yogesh Jadhav,Apartment,old,1,26.0,13.77,756
+61,"Sreyash Plaza,Nashik Road, Nashik",Prashant Patl,Apartment,old,2,45.0,23.83,990
+62,"Rajashree Enclave by Rajashree Developers, Saptashrungi Nagar, Kamatwade Gaon,Nashik",VAIBHAV D,Apartment,old,2,35.0,18.53,912
+63,"No Available,Ambad Village, Nashik",Hemant,Apartment,old,2,28.0,14.83,850
+64,"Laxmi Shubh Apt,Nashik Road, Nashik",Rajiv,Apartment,old,1,23.5,12.44,735
+65,"Dnyaneshwari Appartment,Cidco, Nashik",Maxhuri Nagpure,Apartment,old,2,30.0,15.89,750
+66,"Hiren Court Apartment,Ganpati Nagar, Anandwalli Gaon,Nashik",Kiran Bagul,Apartment,old,2,29.5,15.62,800
+67,"Rajashri empire,Abhiyanta Nagar, Nashik",Mayuri,Apartment,old,2,38.0,20.12,912
+68,"Vascon Vista Phase 2, Kala Nagar, Indira Nagar,Nashik",Nitin,Apartment,old,3,54.0,28.60,1290
+69,"Attri Krupa Apartment,Prabudha Nagar, Satpur,Nashik",AKSHAY JANGID,Apartment,old,3,110.0,54.61,1290
+70,"shivalaya,Nashik Road, Nashik",Swapnil Mane,Apartment,old,2,28.5,15.09,850
+71,"cido building,Cidco, Nashik",SURAIYA MANSURI,Apartment,old,2,27.0,14.30,850
+72,"Shantivan Appatment, Police Staff Colony, Nashik",Mandar Gaidhani,Apartment,old,1,45.0,23.83,720
+73,"Mhasrul Gaon, Nashik",Plash Chavan,Apartment,old,2,21.0,11.12,650
+74,"Siddhi Vinyak Park ,Ganesh Baba Nagar, Nashik",Jyoti Gautam,Apartment,old,2,30.0,15.89,900
+75,"anand mangal apartment ,Gangapur, Nashik",Saneh,Apartment,old,4,150.0,74.47,2576
+76,"Shubham Park, Indraprastha Colony, Nashik",Yogesh Chavan,Apartment,old,2,25.0,13.24,860
+77,"Avdha apt,Satpur, Nashik",AVINASH PAWAR,Apartment,old,1 RK Apartment for sale in Satpur,15.0,7.94,500
+78,"Girija park appt ,Jagtap Nagar, Nashik",Rajendra Dagdu Shirode,Apartment,old,1,25.0,13.24,670
+79,"S.T. Colony, Nashik",Gupta,Apartment,old,2,100.0,49.65,2470
+80,"Jejurkar Wadi, Sharanpur,Nashik",PRASHANT BHARGAVE,Apartment,old,2,50.0,26.48,980
+81,"Prabhat pushp apartment adarsh nagar ramwadi,Vijaynagar Colony, Nashik",Deepali Ghaytad,Apartment,old,1,22.0,11.65,750
+82,"Rajpal Colony, Nashik",Dattatray Patkar,Apartment,old,1,16.0,8.47,600
+83,"Narayan Bapu Housing Society,Madsangavi, Nashik",Deepali Pradeep Chaudhari,Apartment,old,1,11.0,5.83,420
+84,"bhawani nakshtra nashik,Gangapur, Nashik",Uday Phadte,Apartment,old,2,42.0,22.24,950
+85,"Nashik Road, Nashik",Purshottam,Apartment,old,1,25.0,13.24,660
+86,"THAKKAR RETREAT,D'souza Colony, Nashik",AMAR GAUDSE,Apartment,old,1,28.0,14.83,650
+87,"Shri Ashish Apartment,Gayakhe Colony, Nashik Road,Nashik",Shashikant,Apartment,old,1,25.0,13.24,650
+88,"Hari Sanskruti, Ghatkopar, Nashik",Vijay Raju Bhole,Apartment,old,1,28.35,15.01,630
+89,"Shree Gajanan Park, Nashik Road, Nashik",YK Rao,Apartment,old,3,40.5,21.45,1190
+90,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Nilesh,Apartment,old,2,45.0,23.83,1040
+91,"Gurudatta Nagar, Nashik Road,Nashik",Vikrant Lokhande,Apartment,old,1,23.0,12.18,672
+92,"siddhi apartment flat no 20 6th floor jail road nashik near rajrajeshwari mangal karyalay,Nashik Road, Nashik",Pratima Shardul,Apartment,old,2,32.0,16.95,905
+93,"Archit Royale, Mahatma Nagar, Parijat Nagar,Nashik",Percy Asundaria,Apartment,old,2,83.0,41.21,955
+94,"Omsai apartment,RTO Colony, Uttara Nagar,Nashik",Sudhakar Maid,Apartment,old,2,35.0,18.53,895
+95,"Luvkush apartment,Apla Maharashtra Colony, Nashik",Vijay Juvekar,Apartment,old,2,36.5,19.33,800
+96,"Nashik Road, Nashik",Amol Borhade,Apartment,old,2,42.0,22.24,1060
+97,"Brahmachaitanya Society,Arcit Vihar Wing B, Shreerang Nagar,Nashik",Sanjeev Jagtap,Apartment,old,2,39.0,20.65,751
+98,"palm residency,Nashik Road, Nashik",Suman,Apartment,old,2,34.0,18.00,800
+99,"SHIV DARSHAN APARTMENT ,Vaiduwadi, Nashik",Capt Ramakrishnan,Apartment,old,1,25.0,13.24,700
+100,"Dream citi,Nashik Road, Nashik",K R Viswanathan,Apartment,old,2,38.0,20.12,911
+101,"DHRUV APPT CHEATNA NAGAR,Koknipura, Nashik",DHIRAJKUMAR DAYMA,Apartment,old,2,44.0,23.30,950
+102,"S.T. Colony, Nashik",Gupta,Apartment,old,1,40.0,21.18,690
+103,"Vrindavan Gardens, Shramik Nagar, Nashik",DILIP CHAVAN,Apartment,old,1,30.0,15.89,588
+104,"happy home colony,Gulshan Colony, Nashik",Mohaneesh Ujjene,Apartment,old,1,30.0,15.89,850
+105,"Ashapura Enclave, Damodar Nagar, Pathardi Phata,Nashik",Akash Agrawal,Apartment,old,2,35.0,18.53,947
+106,"Manik Nagar, Nashik",Kailas Shejwal,Apartment,old,2,48.0,25.42,765
+107,"HARIDARSHAN APARTMENT,Ojhar, Nashik",Rakeshkumar Yadav,Apartment,old,1,30.0,15.89,890
+108,"Rishikesh Apartment,Nashik Road, Nashik",Anup Krishnan,Apartment,old,2,34.0,18.00,950
+109,"Executive residency,Jetvan Nagar, Nashik Road,Nashik",Suraj,Apartment,old,2,38.0,20.12,1020
+110,"Tejas Apartment, Nashik Road, Nashik",Maruti Datir,Apartment,old,1,40.0,21.18,800
+111,"No Apartment,Balawant Nagar, Anandwalli Gaon,Nashik",Sad,Apartment,old,3,97.0,48.16,1770
+112,"Town Squire City Apartment,Nashik Road, Nashik",Yash Tatiya,Apartment,old,3,40.0,21.18,1100
+113,"Town Squire City Apartment,Nashik Road, Nashik",Yash Tatiya,Apartment,old,2,35.0,18.53,1000
+114,"Town Squire City Apartment,Nashik Road, Nashik",Yash Tatiya,Apartment,old,3,40.0,21.18,1100
+115,"Town Squire City Apartment,Nashik Road, Nashik",Yas Tatiya,Apartment,old,1,30.0,15.89,713
+116,"Goutam Park Society,Ayodhya Nagar, Nashik Road,Nashik",Vinay Kajale,Apartment,old,2,28.0,14.83,693
+117,"Goutam Park Society,Ayodhya Nagar, Nashik Road,Nashik",Vinay Kajale,Apartment,old,2,28.0,14.83,693
+118,"Ambedkar Nagar, Chunchale,Nashik",Jayshree,Apartment,old,2,30.0,15.89,412
+119,"Pokar Bhavan,CDO-MERI Colony, Nashik",Ashok Kulkarni,Apartment,old,1,24.0,12.71,685
+120,"Nimbus heights,Mahalakshmi Nagar, MIDC Ambad,Nashik",Gautami Barve,Apartment,old,2,34.0,18.00,862
+121,"Greenville,MIDC Ambad, Nashik",Smita,Apartment,old,3,40.0,21.18,1150
+122,"Ashok Vrundavan ,Rajpal Colony, Nashik",Anujha,Apartment,old,2,42.0,22.24,986
+123,"Adarsh complex,Kala Nagar, Indira Nagar,Nashik",Vedant Chaudhary,Apartment,old,1,50.0,26.48,1035
+124,"Mahalakshmi Nagar, MIDC Ambad,Nashik",Pawan Tiwari,Apartment,old,2,28.0,14.83,790
+125,"Om Residency, Prabudha Nagar, Satpur,Nashik",Arvind Sonje,Apartment,old,2,26.0,13.77,721
+126,"Vraj Vihar Apartment, Tirumla Nagar, Wadala Gaon,Nashik",Tushar Gunjal,Apartment,old,2,34.2,18.11,1060
+127,"roongta Imperia,Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Anil Patil,Apartment,old,3,90.0,44.68,1567
+128,"Sangeet Residency,Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Hemant,Apartment,old,1,36.0,19.06,825
+129,"Karda Constructions Hari Sanskruti Kharjjul Mala Nashik,Ghatkopar, Nashik",Prasad Kolambkar,Apartment,old,2,33.0,17.48,900
+130,"Anmol Apartments,Gulshan Colony, Nashik",Akaash Dudwani,Apartment,old,3,40.0,21.18,1200
+131,"Sai darshan,Shanker Nagar, Veer Sawarkar Nagar,Nashik",Samridh,Apartment,old,3,65.0,34.42,1250
+132,"Akshardham Apartment, Panchavati, Nashik",Swami Sonar,Apartment,old,2,32.0,16.95,1250
+133,"Chandradeep,Kishor Nagar, Nashik",Nikhil R Antapurkar,Apartment,old,1,21.0,11.12,680
+134,"Aradhana Apartment, Ashoknagar, Satpur,Nashik",Leena Pathak,Apartment,old,2,30.0,15.89,930
+135,"Swaminarayan Nagar, Nashik",Amol Korde,Apartment,old,2,31.99,16.94,895
+136,"Shambhuraj Heights,Mahajan Nagar, Nashik",Nilesh Toke,Apartment,old,2,46.5,24.62,1010
+137,"Patil Prestige, Trimbak, Nashik",Manish Aggarwal,Apartment,old,3,70.0,37.07,1800
+138,"Trimbak, Nashik",Vishal,Apartment,old,6,40.0,21.18,2000
+139,"Saptshrungi Indrayani Complex by Saptshrungi Assocaites, Gangapur, Nashik",Pushkar Bhat,Apartment,old,3 RK Apartment for sale in Gangapur,73.0,38.66,1205
+140,"Shree Shivram Prestige Pride D, Ghatkopar, Nashik",Sachin Arun Sanap,Apartment,old,1,22.0,11.65,670
+141,"Nachiketa Society,Kausalya Nagar, Ram Wadi,Nashik",Mihir Padaya,Apartment,old,1,21.0,11.12,600
+142,"Govinda Apartment,Panchavati, Nashik",Vishwajeet Dangale,Apartment,old,2,25.0,13.24,850
+143,"Sairatan ,Laxman Nagar, Nashik Road,Nashik",Dattu Ahirrao,Apartment,old,1,20.0,10.59,590
+144,"Aakar Building,Shanker Nagar, Veer Sawarkar Nagar,Nashik",Kavita Dagaonkar,Apartment,old,3,190.0,94.33,2200
+145,"Pratham Apartment Vidhate Nagar,RTO Colony, Uttara Nagar,Nashik",Vishal Kawale,Apartment,old,2,47.0,24.89,1250
+146,"Vinayak Residency, Janak Nagari, Nashik",Ashvin Patel,Apartment,old,2,35.0,18.53,901
+147,"Ruturang Park,Matoshree Nagar, Nashik",Sagar Sampat Sanap,Apartment,old,1,16.0,8.47,620
+148,"Manik Nagar, Nashik",Rucha Shaha,Apartment,old,3,93.0,46.17,1130
+149,"Saisiddhi Apartment, Cidco, Nashik",Santosh Ingle,Apartment,old,1,20.0,10.59,596
+150,"Swaraj Maomay,Sadguru Nagar, Nashik",Praveen Endait,Apartment,old,3,67.3,35.64,1550
+151,"Shree Swagat Apartment, Swami Samarth Nagar, Nashik Road,Nashik",JITENDRA POPATRAO VISAVE,Apartment,old,1,18.0,9.53,614
+152,"Shiv sunder Apt,Jagtap Nagar, Nashik",Jitendra Patil,Apartment,old,1,28.0,14.83,650
+153,"Vajravihar Aparatment,Chetana Nagar, Rane Nagar,Nashik",Dhiraj Ahire,Apartment,old,3,41.0,21.71,1000
+154,"Lambodar heights Murlidhar nagar,Prashant Nagar, Pathardi Phata,Nashik",Purushottam K Kulkarni,Apartment,old,2,31.6,16.73,800
+155,"Jagtap Nagar, Nashik",Trupti Chopade,Apartment,old,2,30.0,15.89,650
+156,"Shalimar, Nashik",Sujeet Daware,Apartment,old,1,24.0,12.71,769
+157,"Girija park,Jagtap Nagar, Nashik",Rajendra Dagdu Shirode,Apartment,old,1,25.0,13.24,670
+158,"Panchavati, Nashik",Nitin Deshpande,Apartment,old,1,20.38,10.79,685
+159,"Shree Sham Avenue,Balawant Nagar, Anandwalli Gaon,Nashik",Neeraj Sawaria,Apartment,old,3,70.0,37.07,1320
+160,"Sree Sham Avenue,Prabudha Nagar, Satpur,Nashik",Neeraj Sawaria,Apartment,old,3,70.0,37.07,1320
+161,"Girija Park Appt ,Jagtap Nagar, Nashik",Rajendra Dagdu Shirode,Apartment,old,1 RK Apartment for sale in Jagtap Nagar,25.0,13.24,670
+162,"Building ,Nashik Road, Nashik",Prashant,Apartment,old,1,18.0,9.53,700
+163,"Krupa, Makhmalabad, Nashik",Rajesh Malve,Apartment,old,2,45.0,23.83,1040
+164,"Loksahakar Nagar, Nashik",Rohit,Apartment,old,1,20.0,10.59,670
+165,"Patil Classic, Sadguru Nagar, Nashik",Mayur Borse,Apartment,old,2,50.0,26.48,1050
+166,"Mhasrul Gaon, Nashik",Sneha,Apartment,old,1,20.0,10.59,730
+167,"Upnagar bus stop,Ayodhya Nagar, Nashik Road,Nashik",Jyothi,Apartment,old,2,55.0,29.13,1135
+168,"shree residency,Dwarka, Nashik",Milind Kantilal Dhakad,Apartment,old,2,44.5,23.57,980
+169,"Ganesh Parvati Apartment,Deepali Nagar, Nashik",Nitin Thorat,Apartment,old,1 RK Apartment for sale in Deepali Nagar,12.5,6.62,400
+170,"Vishwanath Park,Atharv Colony, Veer Sawarkar Nagar,Nashik",Padmaja Dighe,Apartment,old,1,34.0,18.00,710
+171,"Goutham Residency, Damodar Nagar, Pathardi Phata,Nashik",Kunal,Apartment,old,2,37.0,19.59,700
+172,"Karma Galaxy,Dwarka, Nashik",Rajnish Kumar,Apartment,old,2.5,65.0,34.42,1300
+173,"Shrihar darshan Apartment,Shivshakti Nagar, Nashik",Gajanan Vispute,Apartment,old,2,28.0,14.83,825
+174,"Govinda apartment,CDO-MERI Colony, Nashik",Vishwajeet Dangale,Apartment,old,2,25.0,13.24,850
+175,"Divya coop Hsg Society,Shantipark, Nashik Road,Nashik",Nitin,Apartment,old,1,35.0,18.53,750
+176,"Gurukrupra,Kala Nagar, Indira Nagar,Nashik",Prashant Bhalerao,Apartment,old,1,30.0,15.89,660
+177,"gurukrupa Apartment,Kishor Nagar, Nashik",Prashant Bhalerao,Apartment,old,1,30.0,15.89,660
+178,"Dales Green Dale, Gandhi Nagar Airport Area, Nashik Road,Nashik",Sunil Dhadge,Apartment,old,2,25.0,13.24,800
+179,"Professor Colony, Nashik",Vivek Aher,Apartment,old,1 RK Apartment for sale in Professor Colony,12.5,6.62,400
+180,"Madhoor Mangal Avenue, Suyog Colony, Satpur,Nashik",Nilesh Kolte,Apartment,old,3,45.0,23.83,1270
+181,"Ayodhya Nagari, Nashik",Iqbal,Apartment,old,1,16.0,8.47,600
+182,"Hari Sanskruti, Ghatkopar, Nashik",Prasad Kolambkar,Apartment,old,2,33.0,17.48,823
+183,"Divya Shakti Apartment ,Mhasrul Gaon, Nashik",Prashant,Apartment,old,2,35.5,18.80,1035
+184,"Rishabh apartment,Kalpana Nagar, College Road,Nashik",Ashutosh,Apartment,old,2,52.0,27.54,750
+185,"Annapurna Heights, Vaiduwadi, Nashik",SANKALP ADHAV,Apartment,old,3,45.0,23.83,1400
+186,"Dreamflower CHS,RTO Colony, Uttara Nagar,Nashik",K. P. Vasudeva Rao,Apartment,old,3,85.0,42.20,1500
+187,"Vajravihar ,Chetana Nagar, Rane Nagar,Nashik",Suhas P Ahire,Apartment,old,3,41.0,21.71,1100
+188,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Vishal Tile,Apartment,old,2,31.0,16.42,780
+189,"Abhiyanta Nagar, Nashik",Bhushan,Apartment,old,2,30.0,15.89,1000
+190,"prshant,Makhmalabad, Nashik",Prashant,Apartment,old,2,26.0,13.77,862
+191,"Gayakhe Colony, Nashik Road,Nashik",Sameer Shaikh,Apartment,old,1,21.0,11.12,592
+192,"Nilesh Apartment,Mhasrul Gaon, Nashik",Sunil Suryawanshi,Apartment,old,2,26.15,13.85,975
+193,"Alaknanda Society, Dwarka, Nashik",TEJASWI,Apartment,old,2,45.0,23.83,968
+194,"Government,Kishor Nagar, Nashik",Mandar Lahare,Apartment,old,1,13.0,6.88,520
+195,"Sai ratna,Nashik Road, Nashik",Nilesh Nagare,Apartment,old,1 RK Apartment for sale in Nashik Road,16.0,8.47,650
+196,"Vasantdadanagar, Adgaon,Nashik",Nandkuma Raju,Apartment,old,1,20.0,10.59,560
+197,"Damodar Nagar, Pathardi Phata,Nashik",Chetan Deshpande,Apartment,old,1,20.0,10.59,600
+198,"Vascon Vista Phase 2, Kala Nagar, Indira Nagar,Nashik",Padma Maira,Apartment,old,3,70.0,37.07,1550
+199,"Wadala Gaon, Nashik",Chetan,Apartment,old,2,45.0,23.83,1150
+200,"Hari krishna Park,Panchavati, Nashik",Sagar Kale,Apartment,old,1,15.0,7.94,500
+201,"Rameshwar co op hsg society,Nashik Road, Nashik",Shamal,Apartment,old,1,18.0,9.53,650
+202,"College Road, Nashik",Santosh Sanap,Apartment,old,1,50.0,26.48,720
+203,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Abhilash Vispute,Apartment,old,1,38.0,20.12,600
+204,"Nashik Road, Nashik",Shamal,Apartment,old,1,20.0,10.59,750
+205,"Kalpataru Nagar, Nashik",Kasar,Apartment,old,2,45.0,23.83,600
+206,"Suniti society,Bhadrakali, Koknipura,Nashik",Harish Ashtekar,Apartment,old,2,40.0,21.18,1100
+207,"Nashik Road, Nashik",Nitin S Pagare,Apartment,old,1,18.0,9.53,640
+208,"Thakkers Richmond Heights, Damodar Nagar, Pathardi Phata,Nashik",Bhushan Patil,Apartment,old,1,26.0,13.77,602
+209,"Alaknanda Society, Dwarka, Nashik",TEJASWI,Apartment,old,2,45.0,23.83,960
+210,"Flora Heights,Hanuman Nagar, Nashik",Shamali Juikar,Apartment,old,2,50.0,26.48,900
+211,"Yogiraj apartment,Abhiyanta Nagar, Nashik",Bhushan,Apartment,old,2,30.0,15.89,900
+212,"Ambika Nagar, Nashik",RUTUJA KARAD,Apartment,old,1,25.0,13.24,750
+213,"Bishnoi Residency, Prashant Nagar, Pathardi Phata,Nashik",Deepak Kumar,Apartment,old,2,29.5,15.62,840
+214,"Maruti Park Apartment,Samta Nagar, Nashik",Mohit R Sood,Apartment,old,2,75.0,39.72,1500
+215,"Ganesh Signifia, Indira Nagar, Nashik",Dattatray Jadhav,Apartment,old,3,48.0,25.42,1171
+216,"Noman Apartment Azad nagar,Dwarka, Nashik",Abdulkadar Ansari,Apartment,old,1 RK Apartment for sale in Dwarka,9.5,5.03,300
+217,"Maruti Park Apartment,Samta Nagar, Nashik",Nitin Sud,Apartment,old,2,70.0,37.07,1650
+218,"Vighnaharta apprtment,Shalimar, Nashik",Mithila Paithankar,Apartment,old,2,35.0,18.53,640
+219,"Vighnaharta appartment,Shalimar, Nashik",Mithila Paithankar,Apartment,old,2,34.0,18.00,640
+220,"Sriniketan apt,Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Patil,Apartment,old,2,49.0,25.95,1000
+221,"Kamathwada ,Abhiyanta Nagar, Nashik",Paresh Vishnu Mahajan,Apartment,old,1,39.0,20.65,750
+222,"Tirumla Nagar, Wadala Gaon,Nashik",Gprs,Apartment,old,2,27.5,14.56,750
+223,"Ruddhi Enclave by Ruddhi Buildcon, Damodar Nagar, Pathardi Phata,Nashik",Vaibhav Bhalerao,Apartment,old,2,35.0,18.53,800
+224,"Ruddhi Enclave by Ruddhi Buildcon, Damodar Nagar, Pathardi Phata,Nashik",Vaibhav Bhalerao,Apartment,old,2,35.0,18.53,800
+225,"Damodar Nagar, Pathardi Phata,Nashik",Deepak Kumar,Apartment,old,2,31.0,16.42,840
+226,"Kala Nagar, Indira Nagar,Nashik",Monica,Apartment,old,2,40.0,21.18,1100
+227,"United Sneh, Sharanpur, Nashik",Prasad,Apartment,old,1,30.0,15.89,650
+228,"Prabhat Nagar, Nashik",Nikita Mhaispurkar,Apartment,old,2,55.0,29.13,1300
+229,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Subodh B Pathak,Apartment,old,1,22.0,11.65,650
+230,"Gaikwad Nagar, Nashik",Samrat Suryawanshi,Apartment,old,1,11.5,6.09,270
+231,"Panchavati, Nashik",Hrishi Kumawat.,Apartment,old,2,29.0,15.36,918
+232,"Kala Nagar, Indira Nagar,Nashik",Anthony,Apartment,old,2,45.0,23.83,853
+233,"Sinnar Taluka, Nashik",Sharda Salunke,Apartment,old,2,40.0,21.18,1000
+234,"HARI VIHAR CHS,Matoshree Nagar, Nashik",Samrat Suryawanshi,Apartment,old,1 RK Apartment for sale in Matoshree Nagar,11.0,5.83,270
+235,"Nayantara Presidency Phase 4 by Pancharatna Builcon Pvt. Ltd., Nashik Road, Nashik",Abhishek Jain,Apartment,old,2,55.0,29.13,950
+236,"Ganesha Valley, Bridge Nagar, Nashik",Sudhir Kumar Shrivastava,Apartment,old,3,75.0,39.72,1560
+237,"Rajiv Nagar, Nashik",Omkarkhairnar,Apartment,old,1,20.0,10.59,620
+238,"Gangapur, Nashik",Dharankar,Apartment,old,1,27.0,14.30,615
+239,"Liberty Glory,Shanker Nagar, Veer Sawarkar Nagar,Nashik",Swapnil Rastogi,Apartment,old,2,51.0,27.01,1100
+240,"Gopal Park,Pandit Colony, Nashik",Malu,Apartment,old,2,71.0,37.60,1135
+241,"Mhasoba Nagar, Modkeshwar Nagar,Nashik",Rohan Walzade,Apartment,old,1,26.0,13.77,700
+242,"Kalpataru Apartment, Kathemala Colony, Uttara Nagar,Nashik",Kunal P,Apartment,old,1 RK Apartment for sale in Uttara Nagar,21.0,11.12,950
+243,"YASHLAXMI NABHAGAN,Ganpati Nagar, Anandwalli Gaon,Nashik",NITIN UTTAM MOKAL,Apartment,old,2,45.0,23.83,1100
+244,"Mukund Apatment,General Vaidya Nagar, Nashik",Mukut,Apartment,old,2,35.0,18.53,1100
+245,"Prasad Park ,Ojhar, Nashik",Shiv Shanker Ray,Apartment,old,1 RK Apartment for sale in Ojhar,23.0,12.18,826
+246,"Haribagayuay society ,Mhasrul Gaon, Nashik",Jitendra D Jamale,Apartment,old,1,14.0,7.41,639
+247,"Jai balaji residency,Ashoknagar, Satpur,Nashik",Chetan Anantrao Patil,Apartment,old,1,17.81,9.43,545
+248,"Pritam apartment,Mhasoba Nagar, Modkeshwar Nagar,Nashik",Rohan Walzade,Apartment,old,1,25.0,13.24,700
+249,"Chetana Nagar, Rane Nagar,Nashik",Shraddha Ingole,Apartment,old,2,30.0,15.89,1150
+250,"YASHLAXMI NABHAGAN,Ganpati Nagar, Anandwalli Gaon,Nashik",NITIN UTTAM MOKAL,Apartment,old,3,52.0,27.54,1150
+251,"Shri Ram Nagar, Nashik",Sarvesh Thatte,Apartment,old,2,40.0,21.18,850
+252,"Sai Residency, Samarth Nagar, Makhmalabad,Nashik",Asha Valvi,Apartment,old,1,23.0,12.18,662
+253,"Samrat dream avenue,Nashik Road, Nashik",Vinay,Apartment,old,3,60.0,31.77,1314
+254,"YEASLAXMI NABHAGAN,Ganpati Nagar, Anandwalli Gaon,Nashik",NITIN UTTAM MOKAL,Apartment,old,2,45.0,23.83,1100
+255,"Kishor Nagar, Nashik",Rajeev Masawan,Apartment,old,2,27.0,14.30,855
+256,"Sai Residency, Samarth Nagar, Makhmalabad,Nashik",Asha Valvi,Apartment,old,1,22.0,11.65,662
+257,"Sai Residency, Samarth Nagar, Makhmalabad,Nashik",Asha Valvi,Apartment,old,2,30.0,15.89,907
+258,"Kalash appartment,Vrindavan Nagar, Nashik",Pushpak Khairnar,Apartment,old,2,26.0,13.77,850
+259,"Damodar Nagar, Pathardi Phata,Nashik",Devanshu Asher,Apartment,old,1,28.0,14.83,620
+260,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Krupa Vasani,Apartment,old,2,40.0,21.18,1050
+261,"Shri Janaki Apartment,Balawant Nagar, Anandwalli Gaon,Nashik",Venunath,Apartment,old,2,40.0,21.18,1050
+262,"Yash appartment Samarth nagar Mahatma nagar,Mahatma Nagar, Parijat Nagar,Nashik",Malay Warankar,Apartment,old,1,30.0,15.89,615
+263,"Karda Hari Anand Soc Makhmalabad,Makhmalabad, Nashik",Anand,Apartment,old,2,28.1,14.88,830
+264,"SAI KIRAN APPARTMENT JAIBHAVANI ROAD,Deolali Gaon, Nashik",Rajendra,Apartment,old,1,19.0,10.06,641
+265,"Prabudha Nagar, Satpur,Nashik",Manoj Pawar,Apartment,old,1,18.0,9.53,550
+266,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",AJAY THAKUR,Apartment,old,2,21.0,11.12,650
+267,"Damodar Nagar, Pathardi Phata,Nashik",Swati Bhadage,Apartment,old,2,35.0,18.53,1031
+268,"Kathemala Colony, Uttara Nagar,Nashik",Anil Lahane,Apartment,old,2,29.49,15.62,986
+269,"Madhoor Mangal Avenue Phase 1,Mahatma Nagar, Parijat Nagar,Nashik",Vishal Gangurde,Apartment,old,1,28.0,14.83,635
+270,"Darshil park satpur,MIDC, Satpur,Nashik",Nakul Dipak Shirsale,Apartment,old,1,16.0,8.47,650
+271,"Parksyde Homes Phase 4A, Hanuman Nagar, Nashik",Sandeep Chavan,Apartment,old,2,47.5,25.15,832
+272,"Oza consruction,Nashik Road, Nashik",Sonu Zankar,Apartment,old,2,24.0,12.71,730
+273,"Laxmi Darshan Apartment,Kishor Nagar, Nashik",Yogesh Wankhede,Apartment,old,1,12.75,6.75,430
+274,"Krishna Nagar, Nashik",Ajinkya Patil,Apartment,old,1 RK Apartment for sale in Krishna Nagar,15.0,7.94,440
+275,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Sunil Sethi,Apartment,old,1,16.0,8.47,650
+276,"Nashik Road, Nashik",Ashok Ambade,Apartment,old,2,51.0,27.01,1057
+277,"Damodar Nagar, Pathardi Phata,Nashik",Virender Kalia,Apartment,old,1,20.0,10.59,580
+278,"Prabudha Nagar, Satpur,Nashik",RAJKUMAR PARDESHI,Apartment,old,1,17.0,9.00,675
+279,"Vaiduwadi, Nashik",Rajendra Singh,Apartment,old,2,30.0,15.89,850
+280,"Professor Colony, Nashik",Smita Sangle,Apartment,old,2,38.0,20.12,875
+281,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Girish Mutha,Apartment,old,1,21.0,11.12,735
+282,"Pimpalgaon Baswant, Nashik",Girish Mutha,Apartment,old,1,17.0,9.00,475
+283,"KULSWAMINI APRT,Prabhat Colony, Nashik",AJINKYA RAHANE,Apartment,old,2,35.0,18.53,842
+284,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Rishi Rachh,Apartment,old,2,30.0,15.89,1000
+285,"Damodar Nagar, Pathardi Phata,Nashik",Leander Agnel,Apartment,old,2,47.0,24.89,1050
+286,"Gandhi Nagar Airport Area, Nashik Road,Nashik",Azim,Apartment,old,1 RK Apartment for sale in Nashik Road,13.25,7.02,500
+287,"Muktidham ,Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Azim,Apartment,old,1 RK Apartment for sale in Deolali Gaon,13.25,7.02,500
+288,"Shri Umiya Darshan Aparment,Takle Nagar, Krishna Nagar,Nashik",Vaibhav Choudhari,Apartment,old,1,22.0,11.65,624
+289,"Damodar Nagar, Pathardi Phata,Nashik",Mustaq,Apartment,old,3,48.0,25.42,1250
+290,"Sreeji Annex,Damodar Nagar, Pathardi Phata,Nashik",Gaurav,Apartment,old,2,35.5,18.80,2000
+291,"Wadala Gaon, Nashik",Deepak,Apartment,old,1,21.0,11.12,605
+292,"Professor Colony, Nashik",Sachin Kapoor,Apartment,old,3,72.0,38.13,1465
+293,"Nashik Road, Nashik",,Apartment,old,1,20.0,10.59,575
+294,"Nashik Road, Nashik",SP Dubey,Apartment,old,1,18.0,9.53,750
+295,"Damodar Nagar, Pathardi Phata,Nashik",Nikam,Apartment,old,1,22.51,11.92,630
+296,"Damodar Nagar, Pathardi Phata,Nashik",Anjan Sur,Apartment,old,3,40.0,21.18,1574
+297,"Anuj Housing Society ,Chetana Nagar, Rane Nagar,Nashik",Nityanand,Apartment,old,1,16.0,8.47,600
+298,"Damodar Nagar, Pathardi Phata,Nashik",Bhushan Aher,Apartment,old,2,26.0,13.77,835
+299,"Gangapur, Nashik",Swati Burhade,Apartment,old,1,15.0,7.94,500
+300,"Prabudha Nagar, Satpur,Nashik",Mahesh,Apartment,old,2,29.51,15.63,815
+301,"Shanti Prasad Cooperative Society, Nashik Road, Nashik",Pitambar C,Apartment,old,1,17.0,9.00,550
+302,"Shanti Prasad Cooperative Society, Nashik Road, Nashik",Pitambar C,Apartment,old,1,17.0,9.00,550
+303,"Makhmalabad, Nashik",Nilesh Pawar,Apartment,old,1,18.0,9.53,554
+304,"Vaiduwadi, Nashik",Vimal,Apartment,old,1,12.0,6.35,444
+305,"Panchavati, Nashik",Hitesh,Apartment,old,2,30.0,15.89,846
+306,"Kala Nagar, Indira Nagar,Nashik",Bipinchandra Jakate,Apartment,old,2,33.0,17.48,1010
+307,"Balawant Nagar, Anandwalli Gaon,Nashik",Pallavi,Apartment,old,3,80.0,39.72,1472
+308,"Damodar Nagar, Pathardi Phata,Nashik",Deepak Sachdev,Apartment,old,2,48.0,25.42,1480
+309,"Konark Nagar, Nashik",Swapnil Ghorpade,Apartment,old,1,22.0,11.65,780
+310,"VIGHNAHARTA APT,Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Gaurev,Apartment,old,2,34.99,18.53,1100
+311,"Samta Nagar, Nashik",Pankaj,Apartment,old,2,40.0,21.18,975
+312,"Krushna Apartment,Gayakhe Colony, Nashik Road,Nashik",Subhash Mhalas,Apartment,old,3,50.0,26.48,1084
+313,"Panchawati, Hirawadi,Nashik",Shailesh Mehta,Apartment,old,1,27.5,14.56,685
+314,"Yashodhan Apartment, Panchavati, Nashik",Sandeep Gaikwad,Apartment,old,1,21.0,11.12,575
+315,"Sai Anand Tower,Panchavati, Nashik",Kiran,Apartment,old,2,45.0,23.83,1050
+316,"Madhukumbh society,Amrutdham, Nashik",Chetan Apsunde,Apartment,old,1 RK Apartment for sale in Amrutdham,9.0,4.77,600
+317,"Rutuja apartment Behind om nagar,Nashik Road, Nashik",Anil Patil,Apartment,old,1 RK Apartment for sale in Nashik Road,16.5,8.74,635
+318,"Nashik Road, Nashik",Suhasini Deshmukh,Apartment,old,2,50.0,26.48,1400
+319,"Sai ganraj apt ,Dhurav Nagar, Satpur,Nashik",Amol Shewre,Apartment,old,1,14.0,7.41,650
+320,"Godavari chambers,Takle Nagar, Krishna Nagar,Nashik",Manoshi,Apartment,old,2,30.0,15.89,1000
+321,"Not Available,Panchavati, Nashik",Manoshi,Apartment,old,2,30.0,15.89,900
+322,"Parijat Nagar, Nashik",Sumant,Apartment,old,2,50.0,26.48,900
+323,"Sinnar Taluka, Nashik",Dr Rahul,Apartment,old,2,18.0,9.53,735
+324,"Vithhal park,Laxman Nagar, Nashik Road,Nashik",Jadhav,Apartment,old,2,35.0,18.53,1100
+325,"Madhuban Apartment, Balawant Nagar, Anandwalli Gaon,Nashik",Bhagyashree Shirke,Apartment,old,2,68.0,36.01,1585
+326,"Samta Nagar, Nashik",Yamini,Apartment,old,2,34.0,18.00,980
+327,"Panchavati, Nashik",Prabodhan,Apartment,old,2,38.51,20.39,886
+328,"Gulshan Colony, Nashik",Rajesh,Apartment,old,2,30.0,15.89,900
+329,"Hirawadi, Nashik",Venkatesh,Apartment,old,2,30.0,15.89,950
+330,"Lotus Residency ,Adgaon, Nashik",PREM KAVIRE,Apartment,old,2,36.0,19.06,1100
+331,"Parksyde Homes, Hanuman Nagar, Nashik",Viraj,Apartment,old,2,42.5,22.51,960
+332,"Sejal Glory,Panchavati, Nashik",Rakesh Suryawanshi,Apartment,old,2,36.0,19.06,600
+333,"Lavkush ,Vijaynagar Colony, Nashik",Omkar,Apartment,old,1,20.0,10.59,630
+334,"College Road, Nashik",Alka,Apartment,old,2,65.0,34.42,825
+335,"Shree Laxmi Narayan apprment,Kishor Nagar, Nashik",Sanjay Gunjal,Apartment,old,1,14.0,7.41,600
+336,"PARTH SOCIETY,Nashik Road, Nashik",Vivek Kakade,Apartment,old,1,20.0,10.59,585
+337,"Divesh Apartent,Srinivas Colony, Uttara Nagar,Nashik",Savli,Apartment,old,1,15.0,7.94,525
+338,"Godavari Heritage,Uttara Nagar, Nashik",Mangesh,Apartment,old,1 RK Apartment for sale in Uttara Nagar,6.5,3.44,215
+339,"Shramik Nagar, Nashik",Pagan Balasaheb Tuplondhe,Apartment,old,1,17.0,9.00,625
+340,"Nirman Ashiyana Apartment,Dwarka, Nashik",Niel Shinde,Apartment,old,1,25.0,13.24,550
+341,"Mankameshwar residency ,Panchawati, Hirawadi,Nashik",Chetan Wagh,Apartment,old,2,32.0,16.95,850
+342,"Datar Apartment,Raviwar Karanja, Panchavati,Nashik",Pratap Mungi,Apartment,old,1,30.0,15.89,550
+343,"Dhanlaxmi Apartment, Ganesh Baba Nagar, Nashik",Jitendra Dadlani,Apartment,old,2,25.0,13.24,725
+344,"Shanker Nagar, Veer Sawarkar Nagar,Nashik",Balu Arjun Gavali,Apartment,old,2,55.0,29.13,1200
+345,"Datar Apartment,Shalimar, Nashik",Pratap Mungi,Apartment,old,1,30.0,15.89,550
+346,"Ashoknagar, Satpur,Nashik",Harshad Kulkarni,Apartment,old,1,25.0,13.24,615
+347,"Satpur Colony,Prabudha Nagar, Satpur,Nashik",Atul Bapat,Apartment,old,2,25.0,13.24,755
+348,"Ganesh Signifia,Indira Nagar, Nashik",Bhagyesh Patil,Apartment,old,2,42.0,22.24,1039
+349,"Tirthraj Apartment,Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",MILIND,Apartment,old,3,135.0,67.02,2900
+350,"shriram shilpa B2,Panchavati, Nashik",Vinayak Rajguru,Apartment,old,1,20.0,10.59,575
+351,"chief prmoter shree nandana apt ro,Ashoknagar, Satpur,Nashik",Meghraj Kshirsagar,Apartment,old,1,18.0,9.53,480
+352,"Teerthraj Apartments,Renuka Nagar, Nashik",MILIND,Apartment,old,3,135.0,67.02,2900
+353,"Jejurkar Wadi, Sharanpur,Nashik",Sheetal,Apartment,old,2,73.0,38.66,1162
+354,"GajananNagar, Mahajan Nagar,Nashik",Lalit Pawar,Apartment,old,3,32.0,16.95,1050
+355,"Shanti Mangal Apartment,Kamod Nagar, Indira Nagar,Nashik",Sharad,Apartment,old,2,32.0,16.95,960
+356,"Gaurav Shanti,Uttam Nagar, Nashik",Rahul,Apartment,old,1,7.0,3.71,360
+357,"Kamal nagar bldg no 2nd flat no 2nd flat no 2nd flat no 6,Pandav Nagari, Pathardi Phata,Nashik",Ravi Vazirani,Apartment,old,1,17.5,9.27,510
+358,"Green peace apartment,DattaMandir, Nashik Road,Nashik",Ishwaran Shankaran Nair,Apartment,old,1,22.0,11.65,685
+359,"ashirwad park,Gangapur, Nashik",Harshal Bhamare,Apartment,old,2,35.0,18.53,750
+360,"Vrindavan Gardens,Shramik Nagar, Nashik",Yogesh Sawkar,Apartment,old,1,16.5,8.74,526
+361,"Shree darshan apartment,Indira Nagar, Nashik",Akshay Bhujbal,Apartment,old,1,20.0,10.59,701
+362,"Gangapur, Nashik",Vijay Sakhare,Apartment,old,2,60.0,31.77,980
+363,"Suprabhat Apartment, Jejurkar Wadi, Sharanpur,Nashik",Jitendra,Apartment,old,2,45.0,23.83,750
+364,"RTO Colony, Uttara Nagar,Nashik",Sachin Wadkar,Apartment,old,3,70.0,37.07,1445
+365,"Panchavati, Nashik",Sagar,Apartment,old,1,18.0,9.53,615
+366,"MIDC, Satpur,Nashik",Komal Ashtekar,Apartment,old,1,20.5,10.86,507
+367,"Sakharam 1,Vijaynagar Colony, Nashik",Akshay Mahajan,Apartment,old,1,18.0,9.53,522
+368,"Panchavati, Nashik",Deepak Chaphekar,Apartment,old,1,14.51,7.68,514
+369,"Ashirwad Park,Gangapur, Nashik",Harshal Bhamare,Apartment,old,1,36.0,19.06,800
+370,"Ninad Housings Society,Raviwar Karanja, Panchavati,Nashik",Rohit Junjarkar,Apartment,old,1,35.0,18.53,600
+371,"Ninad Housing Society,Raviwar Karanja, Panchavati,Nashik",Rohit Junjarkar,Apartment,old,1 RK Apartment for sale in Panchavati,35.0,18.53,600
+372,"Vishwanath apartment,Swami Samarth Nagar, Nashik Road,Nashik",Vijay Jagtap,Apartment,old,1,15.0,7.94,591
+373,"SwasSwastik,Pramod Nagar, Nashik",Sm,Apartment,old,2,47.0,24.89,950
+374,"Panchavati, Nashik",Avinash Thakur,Apartment,old,2,32.0,16.95,905
+375,"Vasant Vihar Apartment ,Balawant Nagar, Anandwalli Gaon,Nashik",Anay,Apartment,old,1 RK Apartment for sale in Anandwalli Gaon,14.0,7.41,335
+376,"Metadesign MBLU, Viveka Nand Nagar, Anandwalli Gaon,Nashik",Soni Pawar,Apartment,old,2,38.5,20.39,960
+377,"Krishna Nagar, Nashik",Milind Kapile,Apartment,old,1,25.0,13.24,625
+378,"Pooja park Apartment,Koknipura, Nashik",Rameshwari Rakshe,Apartment,old,1,18.0,9.53,700
+379,"Tushar appartment,Pokar Colony, Vaiduwadi,Nashik",Kunal Patil,Apartment,old,1,35.0,18.53,960
+380,"Tushar appartment ,Pokar Colony, Vaiduwadi,Nashik",Kunal Patil,Apartment,old,2,30.0,15.89,960
+381,"Ekdant Nagar, Nashik",PRASHANT KAVADE,Apartment,old,2,30.0,15.89,800
+382,"CIDCO, Ashwin Nagar, Nashik",MATIN SHAIKH,Apartment,old,2,22.0,11.65,900
+383,"Panchak, Nashik",Narendra Pagare,Apartment,old,1,14.0,7.41,550
+384,"Nakshatra Apartment, Vrindavan Nagar, Nashik",Prakash Fugat,Apartment,old,1,14.5,7.68,500
+385,"Rishikesh Plaza Apt,Indira Nagar, Nashik",Babulal Soude,Apartment,old,2,40.0,21.18,800
+386,"Madhushri Apartment ,D'souza Colony, Nashik",Megha,Apartment,old,2,67.0,35.48,1050
+387,"Amarjyot Apartment,Anand Nagar, Nashik Road,Nashik",Bhushan,Apartment,old,1,23.0,12.18,675
+388,"Bhagwant Nagar, Dr.Homi Bhabha Nagar,Nashik",Shripad,Apartment,old,1,27.0,14.30,840
+389,"Sanghvi Nakshatra,Vaiduwadi, Nashik",Rushikeshdalvi,Apartment,old,3,47.0,24.89,1255
+390,"Mahavir society rohininagar pethroad panchvati nashik 3,Panchavati, Nashik",Dipika Anil Waniya,Apartment,old,1,17.0,9.00,550
+391,"Vinit Society ,Nashik Road, Nashik",S K Sahani,Apartment,old,3,65.0,34.42,1200
+392,"Ganpati Nagar, Anandwalli Gaon,Nashik",Amol Palekar,Apartment,old,2,44.0,23.30,1000
+393,"nilkenth b,Talathi Colony, Nashik",Ramdash Gangurde,Apartment,old,1,14.0,7.41,490
+394,"Samta Nagar, Nashik",Hemant Fule,Apartment,old,3,55.0,29.13,1350
+395,"Le Regalia Phase I Bldg C And D,Bhor Town Ship, Nashik",Atul Bapat,Apartment,old,2,28.0,14.83,725
+396,"Ambad Village, Nashik",Vaibhav Prabhudesai,Apartment,old,1,17.0,9.00,630
+397,"Siemens Colony, Rane Nagar,Nashik",Neha Karad,Apartment,old,2,34.0,18.00,956
+398,"ARJUN GRUHAB NIRMAN SOCITY,Kala Nagar, Indira Nagar,Nashik",PALLAVI,Apartment,old,1 RK Apartment for sale in Indira Nagar,12.0,6.35,370
+399,"Mahajan Nagar, Nashik",Jitendra Patil,Apartment,old,2,24.0,12.71,860
+400,"Samrat chandragupta maurya Hsg Society,Konark Nagar, Nashik",Ganesh Bhalerao,Apartment,old,1 RK Apartment for sale in Konark Nagar,10.0,5.30,400
+401,"Nashik Road, Nashik",Sisir Ranjan Biswas,Apartment,old,2,30.0,15.89,925
+402,"Abhiyanta Nagar, Nashik",Ravi Maharesh,Apartment,old,2,25.0,13.24,827
+403,"Ashok Residency, Shramik Nagar, Nashik",Dilip Nagare,Apartment,old,1,20.0,10.59,670
+404,"Panchavati, Nashik",Neelam Ambotkar,Apartment,old,2,25.0,13.24,735
+405,"Saraf Bazar, Panchavati,Nashik",Akshay Sonawane,Apartment,old,1,22.0,11.65,837
+406,"Mankameshwar residency ,Panchawati, Hirawadi,Nashik",Chetan Wagh,Apartment,old,2,32.0,16.95,850
+407,"RTO Colony, Uttara Nagar,Nashik",Vishal Pawar,Apartment,old,3,55.0,29.13,1500
+408,"Tirupati Apartment, Dwarka, Nashik",Harsh Thakkar,Apartment,old,2,50.0,26.48,1212
+409,"green vally,Trimbak, Nashik",Yusuf Shahjahanpurwala,Apartment,old,2,32.0,16.95,960
+410,"Kausalya Nagar, Ram Wadi,Nashik",Sarika Vijay Patil,Apartment,old,2,27.0,14.30,725
+411,"Ashwin Nagar, Nashik",Chetan Bhosale,Apartment,old,1,9.5,5.03,350
+412,"Panchavati, Nashik",Ravindra Ahire,Apartment,old,2,43.0,22.77,950
+413,"Chetana Nagar, Rane Nagar,Nashik",Taranjyot Singh,Apartment,old,2,50.0,26.48,980
+414,"Durganagar, Nashik",Akshay Mahajan,Apartment,old,1,19.0,10.06,545
+415,"Adhav Nagar, Nashik Road,Nashik",Suresh Samant,Apartment,old,1,25.0,13.24,500
+416,"Parijat Nagar, Nashik",Vaisshali Babu,Apartment,old,1,160.0,79.43,530
+417,"Ravindra Shreeji Annex, Damodar Nagar, Pathardi Phata,Nashik",Amit Vaidya,Apartment,old,2,30.0,15.89,1183
+418,"Vaibhavlaxmi, Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Nitin Gokhale,Apartment,old,2,35.0,18.53,870
+419,"Goreram lane ,Raviwar Karanja, Panchavati,Nashik",Anjali Mulay,Apartment,old,1,21.0,11.12,684
+420,"Panchavati, Nashik",Lila,Apartment,old,1,19.0,10.06,607
+421,"Kala Nagar, Indira Nagar,Nashik",Revati Hemmady,Apartment,old,2,40.0,21.18,1000
+422,"College Road, Nashik",Dharmesh,Apartment,old,2,50.0,26.48,1100
+423,"New Jay Ambe Lotus Park, Kalpataru Nagar, Nashik",Swapnil Patil,Apartment,old,2,34.0,18.00,900
+424,"Kala Nagar, Indira Nagar,Nashik",Sudhir Pol,Apartment,old,2,45.0,23.83,1060
+425,"Damodar Nagar, Pathardi Phata,Nashik",Ravindraaher,Apartment,old,2,50.0,26.48,930
+426,"Hanuman Nagar, Nashik",DHANANJAY GAWALE,Apartment,old,2,23.0,12.18,725
+427,"Cidco, Nashik",Abhishek Rajendra Metkar,Apartment,old,1,22.0,11.65,750
+428,"Gangapur, Nashik",Vandana Rochiramani,Apartment,old,2,25.0,13.24,750
+429,"Nirman Vrindavan Gardens Phase 3, Shramik Nagar, Nashik",DILIP CHAVAN,Apartment,old,1,30.0,15.89,585
+430,"gangapur road,Manik Nagar, Nashik",Kailash,Apartment,old,2,70.0,37.07,1350
+431,"Govinda Radha Residency, Pathardi Gaon, Pathardi Phata,Nashik",Sachin,Apartment,old,1,13.0,6.88,700
+432,"Vitthal park gangapur road,Raviwar Karanja, Panchavati,Nashik",Gayatri,Apartment,old,1,25.0,13.24,620
+433,"Serene Meadows, Anandwalli Gaon,Nashik",Ajinkumar V V,Apartment,old,3,65.0,34.42,1297
+434,"New Pandit Colony, Nashik",PRASAD SHINDE,Apartment,old,2,70.0,37.07,1004
+435,"Canada Corner, Nashik",Mayur M Bhutada,Apartment,old,3,75.0,39.72,1650
+436,"Sai Purti,RTO Colony, Uttara Nagar,Nashik",Atul Gadekar,Apartment,old,1 RK Apartment for sale in Uttara Nagar,12.0,6.35,450
+437,"Prabudha Nagar, Satpur,Nashik",Shankar Godge,Apartment,old,1,16.0,8.47,541
+438,"Durga Nagar, Sneha Nagar,Nashik",DB Joshi,Apartment,old,1,18.0,9.53,606
+439,"Radhika Buildcon,Ashwin Nagar, Nashik",Raghuttam,Apartment,old,3,45.0,23.83,1295
+440,"Antariksha Apartment, Ramkrishna Nagar, Sanjeev Nagar,Nashik",Vipin Pillewan,Apartment,old,2,46.8,24.78,1050
+441,"Ahimanyu co operative HSG sociey,Pandav Nagari, Pathardi Phata,Nashik",Rupali J Dixit,Apartment,old,1 RK Apartment for sale in Pathardi Phata,10.0,5.30,425
+442,"Saptashrungi apartment krisha nagar,Krishna Nagar, Nashik",Milind Kapile,Apartment,old,1,18.0,9.53,630
+443,"Kala Nagar, Indira Nagar,Nashik",Rupali J Dixit,Apartment,old,1 RK Apartment for sale in Indira Nagar,10.0,5.30,425
+444,"Panchavati, Nashik",Anuja Pawar,Apartment,old,2,50.0,26.48,1900
+445,"Damodar Nagar, Pathardi Phata,Nashik",8983009414,Apartment,old,2,38.0,20.12,1080
+446,"arham classic,Damodar Nagar, Pathardi Phata,Nashik",Ashish Doshi,Apartment,old,2,30.0,15.89,1200
+447,"Hari Vishwa,Damodar Nagar, Pathardi Phata,Nashik",Swanand Navsarikar,Apartment,old,2,42.0,22.24,1160
+448,"Kishor Nagar, Nashik",ABC,Apartment,old,2,40.0,21.18,900
+449,"Mahajan Nagar, Nashik",Trisha Suryawanshi,Apartment,old,1,23.0,12.18,890
+450,"Mahajan Nagar, Nashik",HARSHAL PATIL,Apartment,old,2,38.0,20.12,872
+451,"Panchavati, Nashik",Shriraj,Apartment,old,1,25.0,13.24,660
+452,"Uttam Nagar, Nashik",Trisha Suryawanshi,Apartment,old,1,23.0,12.18,890
+453,"Ravi Amrapali Towers, Ganesh Baba Nagar, Nashik",Swapnil Patil,Apartment,old,2,36.5,19.33,900
+454,"Panchavati, Nashik",Hetal,Apartment,old,2,30.0,15.89,1000
+455,"Shri ganapati sankul,Raviwar Karanja, Panchavati,Nashik",Parmar,Apartment,old,2,32.0,16.95,850
+456,"Shri ganapati sankul,Raviwar Karanja, Panchavati,Nashik",Parmar,Apartment,old,2,32.0,16.95,850
+457,"Shivmudra Appartment No 4,Durga Nagar, Sneha Nagar,Nashik",Shrikant Patil,Apartment,old,1,20.0,10.59,635
+458,"Vasantdadanagar, Adgaon,Nashik",KIRTILAL SAKHALA,Apartment,old,3,45.0,23.83,1200
+459,"Shree Gajanan Park,Nashik Road, Nashik",SURESH AGARAWAL,Apartment,old,3,40.0,21.18,1190
+460,"Ganga Sagar Apartment,Sneha Nagar, Nashik",Mandakini Patel,Apartment,old,1,18.0,9.53,570
+461,"Konark Nagar, Nashik",Tanishq,Apartment,old,1,16.0,8.47,750
+462,"Orbit Residency,Balawant Nagar, Anandwalli Gaon,Nashik",Rajendra Patil,Apartment,old,3,45.0,23.83,1150
+463,"Damodar Nagar, Pathardi Phata,Nashik",Jitendra Bhadane,Apartment,old,2,31.0,16.42,1100
+464,"sai palace, Konark Nagar, Nashik",Tanishq,Apartment,old,1,16.0,8.47,750
+465,"Raviwar Karanja, Panchavati,Nashik",C B Kulkarni,Apartment,old,3,65.0,34.42,1450
+466,"Damodar Nagar, Pathardi Phata,Nashik",Prakash Tajane,Apartment,old,1,23.5,12.44,650
+467,"Kala Nagar, Indira Nagar,Nashik",Philipsppune,Apartment,old,2,35.0,18.53,850
+468,"Chinchore Sukrut Apartment, Mhasrul Gaon, Nashik",Chinchore Assoicates,Apartment,old,1,21.0,11.12,613
+469,"Ashoknagar, Satpur,Nashik",Ramesh Aggrwal,Apartment,old,2,32.0,16.95,890
+470,"Raviwar Karanja, Panchavati,Nashik",Gayatri,Apartment,old,1,25.0,13.24,620
+471,"Prashant Nagar, Pathardi Phata,Nashik",Vàrsha,Apartment,old,2,30.0,15.89,900
+472,"Ashwin Nagar, Nashik",Madhukar,Apartment,old,1,45.0,23.83,1050
+473,"Renuka Nagar, Nashik",Dr Mahesh Malu,Apartment,old,3,95.0,47.16,2400
+474,"Upavan,Panchavati, Nashik",Anand Pachhapurkar,Apartment,old,2,45.0,23.83,901
+475,"Lavkush apt,Panchavati, Nashik",Omkar,Apartment,old,1,19.0,10.06,660
+476,"DJ park,Jejurkar Wadi, Sharanpur,Nashik",Shamalata Shetty,Apartment,old,2,45.0,23.83,975
+477,"Kishor Nagar, Nashik",ABC,Apartment,old,2,35.0,18.53,900
+478,"Viveka Nand Nagar, Anandwalli Gaon,Nashik",Swati Patil,Apartment,old,2,58.0,30.71,1000
+479,"Shrilekha Appartment,Chetana Nagar, Rane Nagar,Nashik",Santosh Nagpure,Apartment,old,2,38.0,20.12,850
+480,"Sitaram Chambers Near State Bank,Panchavati, Nashik",KIRTILAL SAKHALA,Apartment,old,1,21.0,11.12,600
+481,"Vrindavan Nagar, Nashik",Sandeep Totaram Waje,Apartment,old,1,20.0,10.59,602
+482,"Damodar Nagar, Pathardi Phata,Nashik",Bharat Chaudhari,Apartment,old,2,26.0,13.77,1000
+483,"Panchavati, Nashik",Hrishikesh Anawade,Apartment,old,2,31.0,16.42,900
+484,"Vasant apartment ,Panchavati, Nashik",Ashish Ashish Bhalerao,Apartment,old,1,8.0,4.24,350
+485,"Nayantara society,Bhagwant Nagar, Dr.Homi Bhabha Nagar,Nashik",Ketan Bedse,Apartment,old,2,40.0,21.18,835
+486,"Damodar Nagar, Pathardi Phata,Nashik",Roshan,Apartment,old,1,13.0,6.88,625
+487,"Chetana Nagar, Rane Nagar,Nashik",Ronit Malegave,Apartment,old,1,10.0,5.30,400
+488,"Hanuman Nagar, Nashik",Rajiv,Apartment,old,1,23.0,12.18,735
+489,"Nashik Road, Nashik",SURESH AGARAWAL,Apartment,old,3,40.0,21.18,1190
+490,"Balawant Nagar, Anandwalli Gaon,Nashik",Kiran Sarkar,Apartment,old,2,48.0,25.42,1160
+491,"Patil Colony, Canada Corner,Nashik",Kartik Anand,Apartment,old,4,120.0,59.58,2200
+492,"Vitthal Park ,Shivaji Nagar, Nashik",Siddhant Sharma,Apartment,old,1,18.0,9.53,650
+493,"Atharva Apartment, Kalpataru Nagar, Nashik",Swapnil Patil,Apartment,old,2,42.0,22.24,1180
+494,"kund kund kahan CHS,Deolali Gaon, Nashik",Bhartiben Shah,Apartment,old,1,13.0,6.88,750
+495,"Dwarka, Nashik",Gauri Tani,Apartment,old,3,75.0,39.72,1800
+496,"Ojhar, Nashik",SANJAY PAWAR,Apartment,old,1,18.0,9.53,600
+497,"Vijaynagar Colony, Nashik",Chandrashekhar Jagtap,Apartment,old,1,17.0,9.00,420
+498,"Panchavati, Nashik",Bharat Patil,Apartment,old,1,30.0,15.89,900
+499,"Kala Nagar, Indira Nagar,Nashik",Rajendra Jadhav,Apartment,old,2,46.0,24.36,1050
+500,"Ganesh Baba Nagar, Nashik",Jitendra Dadlani,Apartment,old,2,24.0,12.71,750
+501,"Rajiv Nagar, Nashik",Ragini Chavan,Apartment,old,1,25.0,13.24,718
+502,"Kalpataru Nagar, Nashik",Rajesh,Apartment,old,2,30.0,15.89,920
+503,"College Road, Nashik",Kartik Anand,Apartment,old,4,110.0,54.61,1850
+504,"New Pandit Colony, Nashik",Anil Mehta,Apartment,old,2,62.0,32.83,1000
+505,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Yogesh Deore,Apartment,old,1,28.0,14.83,770
+506,"Sadguru Nagar, Nashik",Amrutkar,Apartment,old,1,25.0,13.24,725
+507,"Shree Prakash Residency by Shree Prakash Developers,Ganpati Nagar, Anandwalli Gaon,Nashik",Shirish Upadhye,Apartment,old,2,30.0,15.89,958
+508,"Shree Ganesh Residency ,Panchavati, Nashik",Vaibhav Shirpurkar,Apartment,old,2,35.0,18.53,850
+509,"Trijya Apartment,Balawant Nagar, Anandwalli Gaon,Nashik",Anand Waikar,Apartment,old,1,31.0,16.42,753
+510,"Satpur, Nashik",Sudhir Pande,Apartment,old,1,13.0,6.88,550
+511,"Panchavati, Nashik",Jksheth,Apartment,old,1,17.0,9.00,580
+512,"Satpur, Nashik",MANOJ JADHAV,Apartment,old,2,27.0,14.30,750
+513,"Shivneri Complex,Shalimar, Nashik",Sujeet Daware,Apartment,old,1,24.0,12.71,750
+514,"Spring valley Apts ,Srinivas Colony, Uttara Nagar,Nashik",Mcwann K.h,Apartment,old,2,28.0,14.83,812
+515,"Kishor Nagar, Nashik",Saajan Sanjay Thorat,Apartment,old,3,48.0,25.42,1200
+516,"Gayakhe Colony, Nashik Road,Nashik",Barun Roy,Apartment,old,2,50.0,26.48,1200
+517,"Nashik Road, Nashik",Rajesh Aher,Apartment,old,2,23.0,12.18,856
+518,"Kala Nagar, Indira Nagar,Nashik",Imran Khankhankhan,Apartment,old,2,48.0,25.42,900
+519,"Damodar Nagar, Pathardi Phata,Nashik",Sharad Mahajan,Apartment,old,1,20.0,10.59,600
+520,"Prabudha Nagar, Satpur,Nashik",Kamlesh,Apartment,old,1,70.0,37.07,626
+521,"Hari Om residency, Pandav Nagari, Pathardi Phata,Nashik",Ajit P,Apartment,old,1,24.5,12.97,700
+522,"Gangapur, Nashik",Kailash,Apartment,old,3,85.0,42.20,1200
+523,"Makhmalabad, Nashik",Rameshwar Magar,Apartment,old,1,19.0,10.06,615
+524,"Damodar Nagar, Pathardi Phata,Nashik",Sheru Bootwala,Apartment,old,3,60.35,31.96,1480
+525,"Nashik Road, Nashik",Rajesh Aher,Apartment,old,2,23.0,12.18,816
+526,"Nashik Road, Nashik",Sanjay,Apartment,old,1,16.0,8.47,640
+527,"Ayodhya Nagar, Nashik Road,Nashik",Shashidharan Pillai Thattayil,Apartment,old,2,20.0,10.59,856
+528,"Dwarka, Nashik",Vrushal Kulthe,Apartment,old,3,72.0,38.13,1642
+529,"Chopda Empire,Gangapur, Nashik",Sameer Manjarekar,Apartment,old,2,58.2,30.82,970
+530,"Samarth Apartment,Nashik Road, Nashik",Rahul S Shegudkar,Apartment,old,1,16.0,8.47,585
+531,"Gurudatta Nagar, Nashik Road,Nashik",R Adhikary,Apartment,old,1,15.0,7.94,534
+532,"Pandav Nagari, Pathardi Phata,Nashik",Abhishek,Apartment,old,1 RK Apartment for sale in Pathardi Phata,12.0,6.35,430
+533,"Nashik Road, Nashik",Sandeep Dhanawade,Apartment,old,1,15.0,7.94,535
+534,"Viveka Nand Nagar, Anandwalli Gaon,Nashik",Sonal Gandhi,Apartment,old,2,40.0,21.18,800
+535,"Makhmalabad, Nashik",Suyog Dhongade,Apartment,old,2,36.0,19.06,889
+536,"Damodar Nagar, Pathardi Phata,Nashik",Dattatray,Apartment,old,2,33.0,17.48,962
+537,"Madhu Villa Apartment,Rajpal Colony, Nashik",Jayeshk3382,Apartment,old,1,26.5,14.03,800
+538,"Pranav Garden,Vasantdadanagar, Adgaon,Nashik",RAJESH VARMA,Apartment,old,1,25.0,13.24,550
+539,"State Bank Colony, Indira Nagar,Nashik",Rahul Thakare,Apartment,old,1,22.75,12.05,815
+540,"Chetana Nagar, Rane Nagar,Nashik",Divesh Majithiya,Apartment,old,1,23.0,12.18,573
+541,"Kausalya Nagar, Ram Wadi,Nashik",Sarika Vijay Patil,Apartment,old,2,27.0,14.30,725
+542,"Damodar Nagar, Pathardi Phata,Nashik",Dnyaneshwar Sharmale,Apartment,old,1,21.0,11.12,667
+543,"Sanklecha Shrimant Chintamani,Nashik Road, Nashik",Swati,Apartment,old,3,62.0,32.83,1250
+544,"Nashik Road, Nashik",Mangesh,Apartment,old,3,30.0,15.89,1000
+545,"Nashik Road, Nashik",Mangesh,Apartment,old,3,30.0,15.89,1000
+546,"Gandhi Nagar Airport Area, Nashik Road,Nashik",Shweta Chakote,Apartment,old,2,20.0,10.59,660
+547,"Makhmalabad, Nashik",Hitesh Ahire,Apartment,old,2,37.0,19.59,1450
+548,"Satya Sakar,Samarth Nagar, Makhmalabad,Nashik",Rahul Patil,Apartment,old,2,23.0,12.18,725
+549,"Makhmalabad, Nashik",Prasad Karkare,Apartment,old,2,50.0,26.48,1435
+550,"Gayakhe Colony, Nashik Road,Nashik",Ashok Ambade,Apartment,old,2,51.0,27.01,1057
+551,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Vithoba Yashwant Wandre,Apartment,old,3,50.0,26.48,1190
+552,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",S Venkatachalam,Apartment,old,2,35.0,18.53,1040
+553,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Yogesh Dhikale,Apartment,old,2,35.0,18.53,900
+554,"Karda Hari Sanskruti Phase II, Ghatkopar, Nashik",Prasad Kolambkar,Apartment,old,2,36.0,19.06,1000
+555,"Urvashi Apartment, Nashik Road, Nashik",Riddhi Lakhwani,Apartment,old,1,17.0,9.00,478
+556,"Nashik Road, Nashik",Rajaram Mahale,Apartment,old,1,20.0,10.59,750
+557,"Mahalaxmi Dham CHSL Building A And B, Gurudatta Nagar, Nashik Road,Nashik",Vinayak Ahire,Apartment,old,1,21.0,11.12,700
+558,"Parksyde Residences,Pandav Nagari, Pathardi Phata,Nashik",Sharvari,Apartment,old,2,40.0,21.18,985
+559,"matoshree bunglow,Damodar Nagar, Pathardi Phata,Nashik",Kiran Aher,Apartment,old,2,55.0,29.13,614
+560,"Kausalya Nagar, Ram Wadi,Nashik",Manish,Apartment,old,3,50.0,26.48,1050
+561,"Navshya Elite,Ganpati Nagar, Anandwalli Gaon,Nashik",Agravat,Apartment,old,3,75.0,39.72,1571
+562,"Vista Phase 1,Indira Nagar, Nashik",Bhushan Joshi,Apartment,old,3,62.0,32.83,1545
+563,"Vrindavan Gardens,Shramik Nagar, Nashik",Soma Das,Apartment,old,1,17.0,9.00,526
+564,"Om sai Apartment,RTO Colony, Uttara Nagar,Nashik",Shyam,Apartment,old,2,38.0,20.12,840
+565,"Kishor Nagar, Nashik",Ankush,Apartment,old,3,50.0,26.48,1350
+566,"Ruhi Society,Vijaynagar Colony, Nashik",Shantanu Patil,Apartment,old,1,25.0,13.24,600
+567,"Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Sameer Manjarekar,Apartment,old,2,58.2,30.82,970
+568,"godavari heights suchintan developers,Kathemala Colony, Uttara Nagar,Nashik",Sushil Patil,Apartment,old,3,60.0,31.77,1350
+569,"Gajanan Darshan Co Op Hou Soc Pvt Ltd,Damodar Nagar, Pathardi Phata,Nashik",Ramchandra Jadhav,Apartment,old,1,30.0,15.89,685
+570,"Greenville Villa,Buddha Vihar, Pathardi Phata,Nashik",Milind,Apartment,old,2,30.0,15.89,865
+571,"Gokuldham Project 02,Hirawadi, Nashik",Ganesh Pawar,Apartment,old,Studio Apartment for sale in Hirawadi,49.0,25.95,850
+572,"Ayodhya Nagar, Nashik Road,Nashik",Sanjay Shah,Apartment,old,1,25.0,13.24,630
+573,"Ghatkopar, Nashik",Komal Mohendra,Apartment,old,1,20.0,10.59,607
+574,"Damodar Nagar, Pathardi Phata,Nashik",Pankaj Chhabiraj Vishwakarma,Apartment,old,2,40.0,21.18,970
+575,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Prasad Vasant Pathak,Apartment,old,1,22.0,11.65,622
+576,"Chetana Nagar, Rane Nagar,Nashik",Divya,Apartment,old,1,28.0,14.83,650
+577,"Mahashakti Society,Panchavati, Nashik",Mohini Thakkar,Apartment,old,1,25.0,13.24,600
+578,"Sinnar Taluka, Nashik",Sakit B Dusane,Apartment,old,2,30.0,15.89,950
+579,"Vasantdadanagar, Adgaon,Nashik",Sanjay Nikam,Apartment,old,2,38.0,20.12,950
+580,"Damodar Nagar, Pathardi Phata,Nashik",Ravindraaher,Apartment,old,2,50.0,26.48,930
+581,"Damodar Nagar, Pathardi Phata,Nashik",Ravindraaher,Apartment,old,2,36.0,19.06,930
+582,"Gangapur, Nashik",Chandramani Sonawane,Apartment,old,3,80.0,39.72,1825
+583,"Vasantdadanagar, Adgaon,Nashik",Maloy,Apartment,old,3,45.0,23.83,1275
+584,"Sanskruti Apartment indira nagar,Sharda Vihar, Nashik",Sameer Maradwar,Apartment,old,2,40.0,21.18,1350
+585,"Damodar Nagar, Pathardi Phata,Nashik",Vinayak Shimpi,Apartment,old,3,60.0,31.77,1500
+586,"Anmol Nayantara Gold,Damodar Nagar, Pathardi Phata,Nashik",Ashish,Apartment,old,3,61.0,32.30,1438
+587,"Nashik Road, Nashik",Sanjay Kumar Verma,Apartment,old,3,60.0,31.77,1689
+588,"Roongta Township Phase 1,Vaibhav Colony, Rajiv Nagar,Nashik",RANGNATH,Apartment,old,1,20.0,10.59,650
+589,"Shanker Nagar, Veer Sawarkar Nagar,Nashik",Suhas,Apartment,old,2,59.0,31.24,1200
+590,"Navjivan Society,Saptashrungi Nagar, Kamatwade Gaon,Nashik",Anupama Karpe,Apartment,old,2,27.0,14.30,750
+591,"yashtri Apartment,Damodar Nagar, Pathardi Phata,Nashik",Manmohan,Apartment,old,1,30.0,15.89,650
+592,"yashtri Apartment,Damodar Nagar, Pathardi Phata,Nashik",Manmohan,Apartment,old,1,30.0,15.89,650
+593,"Shiv Palace Apartment,Damodar Nagar, Pathardi Phata,Nashik",Manmohan,Apartment,old,2,55.0,29.13,1400
+594,"Konark Vihar Apartment , Nashik Road, Nashik",Sanjay,Apartment,old,1,16.0,8.47,640
+595,"Shri Ram Nagar, Nashik",Yogesh Tanpathak,Apartment,old,2,30.0,15.89,780
+596,"Kala Nagar, Indira Nagar,Nashik",Praveena M,Apartment,old,2,65.0,34.42,2100
+597,"Nashik Road, Nashik",Rajesh Aher,Apartment,old,2,23.0,12.18,880
+598,"Hari Vishwa Residency,Damodar Nagar, Pathardi Phata,Nashik",Amit Kumar,Apartment,old,3,60.0,31.77,1405
+599,"Chetana Nagar, Rane Nagar,Nashik",Taranjyot Singh,Apartment,old,2,50.0,26.48,980
+600,"Jalapur, Nashik",Prashant Pawar,Apartment,old,3,70.0,37.07,2100
+601,"Kala Nagar, Indira Nagar,Nashik",Anupam Tripathi,Apartment,old,3,55.0,29.13,1253
+602,"Sagar Sparsh Apartment,Panchavati, Nashik",Prasad,Apartment,old,1,18.5,9.80,600
+603,"Wadala Gaon, Nashik",Ankit,Apartment,old,2,40.0,21.18,1140
+604,"Damodar Nagar, Pathardi Phata,Nashik",KD Nikale,Apartment,old,2,43.0,22.77,853
+605,"Damodar Nagar, Pathardi Phata,Nashik",Manisha,Apartment,old,2,33.0,17.48,853
+606,"Sharda Vihar, Nashik",Triyash Realty,Apartment,old,2,35.0,18.53,850
+607,"Deepali Nagar, Nashik",Om,Apartment,old,1,25.0,13.24,550
+608,"Jaikumar Parksyde Homes Phase 1, Hanuman Nagar, Nashik",A K Sinha,Apartment,old,3,50.0,26.48,1140
+609,"Gandhi Nagar Airport Area, Deolali Gaon,Nashik",Lt RP Yadav,Apartment,old,1,36.0,19.06,700
+610,"Damodar Nagar, Pathardi Phata,Nashik",Rohan Kale,Apartment,old,1,27.0,14.30,567
+611,"Prabhat Nagar, Nashik",Shrikant,Apartment,old,1,18.0,9.53,455
+612,"Damodar Nagar, Pathardi Phata,Nashik",Rohan Kale,Apartment,old,1,27.0,14.30,567
+613,"Gulmohar Colony,Nashik Road, Nashik",Manoj Surana,Apartment,old,4,134.0,66.53,2671
+614,"Damodar Nagar, Pathardi Phata,Nashik",Rohan Kale,Apartment,old,1,27.0,14.30,567
+615,"Shivaji Nagar, Satpur,Nashik",Shubham Dhondage,Apartment,old,2,46.0,24.36,580
+616,"Matoshree Nagar, Nashik",Vicky,Apartment,old,1,24.0,12.71,560
+617,"Dnyaneshwar Nagar, Pathardi Phata,Nashik",Ganesh Borse,Apartment,old,1,21.0,11.12,635
+618,"8 Legends Residency, Pandav Nagari, Pathardi Phata,Nashik",AKASH PITAMBAR DESHMUKH,Apartment,old,3,48.0,25.42,1200
+619,"Ashoknagar, Satpur,Nashik",Shiwesh,Apartment,old,1,20.0,10.59,450
+620,"Gauttam residency ,Buddha Vihar, Pathardi Phata,Nashik",VINAYAK PATIL,Apartment,old,2,37.0,19.59,1200
+621,"Nashik Road, Nashik",Jadhav,Apartment,old,1 RK Apartment for sale in Nashik Road,15.0,7.94,430
+622,"Prestige garden apartment ,Pimpalgaon Bahula, Nashik",Yashodip Parkhe,Apartment,old,1,16.0,8.47,419
+623,"Janak Nagari, Nashik",Shashikant,Apartment,old,2,32.0,16.95,944
+624,"Ambad Village, Nashik",Dhanashree Nagpure,Apartment,old,1,20.0,10.59,500
+625,"Prashant Nagar, Pathardi Phata,Nashik",Vàrsha,Apartment,old,2,30.0,15.89,880
+626,"Sivsakshi appartment,Shramik Nagar, Nashik",Pagan Balasaheb Tuplondhe,Apartment,old,1,17.0,9.00,625
+627,"Matoshree Nagar, Nashik",AJAY Vijan,Apartment,old,3,100.0,49.65,1000
+628,"Sinnar Taluka, Nashik",Raj Uttam Singh,Apartment,old,3,65.0,34.42,1847
+629,"Hemvandan Apatment,Pandav Nagari, Pathardi Phata,Nashik",Ajay Maheshwari,Apartment,old,2,40.0,21.18,920
+630,"Renuka Nagar, Nashik",MANISH DESHPANDE,Apartment,old,2,33.0,17.48,1250
+631,"Damodar Nagar, Pathardi Phata,Nashik",Sheru Bootwala,Apartment,old,3,60.35,31.96,1480
+632,"Damodar Nagar, Pathardi Phata,Nashik",Sheru Bootwala,Apartment,old,3,60.35,31.96,1480
+633,"Damodar Nagar, Pathardi Phata,Nashik",Sheru Bootwala,Apartment,old,2,45.5,24.09,1087
+634,"Vijaynagar Colony, Nashik",Shantanu Patil,Apartment,old,1,25.0,13.24,600
+635,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Vikrant,Apartment,old,4,85.0,42.20,1750
+636,"Patil Colony, Canada Corner,Nashik",Shreyas,Apartment,old,3,78.0,38.72,1500
+637,"Heights, Nashik Road, Nashik",Jagdish Motwani,Apartment,old,2,40.0,21.18,1068
+638,"Trinity Park, Nashik Road, Nashik",Jitendra Jain,Apartment,old,2,25.0,13.24,850
+639,"Prabha anand sankul,Gayakhe Colony, Nashik Road,Nashik",Mangesh Bhalerao,Apartment,old,1,19.0,10.06,590
+640,"Damodar Nagar, Pathardi Phata,Nashik",Mandaldevashish,Apartment,old,1,18.0,9.53,645
+641,"Karda Hari Shrusthi,Indira Nagar, Nashik",Yash Bhatia,Apartment,old,2,48.0,25.42,1140
+642,"Indira Nagar, Nashik",Mohan Dhamdhere,Apartment,old,1 RK Apartment for sale in Indira Nagar,15.0,7.94,410
+643,"Sadashiv V Apartments,Sadguru Nagar, Nashik",Srikrishna Chervu,Apartment,old,3,58.0,30.71,1305
+644,"Panchavati, Nashik",Meena Sanjay Pagare,Apartment,old,1,20.0,10.59,573
+645,"Shanker Nagar, Veer Sawarkar Nagar,Nashik",Sumit Chopda,Apartment,old,2,43.0,22.77,955
+646,"Dhurav Nagar, Satpur,Nashik",Amol Shewre,Apartment,old,1,12.5,6.62,550
+647,"Ganesh Baba Nagar, Nashik",Yash Talwar,Apartment,old,2,48.0,25.42,1004
+648,"Rajiv Nagar, Nashik",Sagar,Apartment,old,2,37.0,19.59,950
+649,"Shee prakash residency,Balawant Nagar, Anandwalli Gaon,Nashik",Surekha Sanap,Apartment,old,2,40.0,21.18,870
+650,"Tower,Indira Nagar, Nashik",Virat,Apartment,old,3,50.0,26.48,1400
+651,"Pandit Colony, Nashik",Subhash,Apartment,old,1,40.0,21.18,465
+652,"Kala Nagar, Indira Nagar,Nashik",Mohan Limaye,Apartment,old,1,20.0,10.59,600
+653,"Mansi Apartment, Deolali Gaon, Nashik",Yogesg,Apartment,old,2,26.0,13.77,880
+654,"Shree hari apt,Panchak, Nashik",Datkhile Omkar Madhukar,Apartment,old,1,18.0,9.53,691
+655,"Vijaynagar Colony, Nashik",Anand Pachhapurkar,Apartment,old,2,46.0,24.36,900
+656,"Madhu Gaurav, Swami Samarth Nagar, Vrindavan Nagar,Konark Nagar, Nashik",Swapnil Patil,Apartment,old,1,10.5,5.56,440
+657,"Indira Nagar, Nashik",Ganpat Satpute,Apartment,old,1,17.0,9.00,550
+658,"Dwarka, Nashik",Priyadarshan Joshi,Apartment,old,2,45.0,23.83,1103
+659,"Konark Vihar ,Ojhar, Nashik",Sanjay,Apartment,old,1,16.5,8.74,650
+660,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Pramod Rane,Apartment,old,2,49.0,25.95,1068
+661,"DattaMandir, Nashik Road,Nashik",Raghuveer S Chopade,Apartment,old,1,16.0,8.47,600
+662,"CDO-MERI Colony, Nashik",Rahul,Apartment,old,1,18.0,9.53,698
+663,"Kala Nagar, Indira Nagar,Nashik",Sachin Patil,Apartment,old,3,55.0,29.13,1135
+664,"pankaj housing socity,Kala Nagar, Indira Nagar,Nashik",Ganpat Satpute,Apartment,old,1,17.0,9.00,550
+665,"Ghadge Nagar, Makhmalabad,Nashik",Sagar Thakare,Apartment,old,2,23.0,12.18,980
+666,"Megh Apartment,Dnyaneshwar Nagar, Pathardi Phata,Nashik",Dr Manish Akare,Apartment,old,3,60.0,31.77,1137
+667,"Balawant Nagar, Anandwalli Gaon,Nashik",Kirit Shah,Apartment,old,4,275.0,1.37 Lacs,3600
+668,"Metadesign MBLU, Viveka Nand Nagar, Anandwalli Gaon,Nashik",Soni Pawar,Apartment,old,2,38.5,20.39,960
+669,"Shrnivas appartment,Pathardi Phata, Nashik",Ankit Singh,Apartment,old,2,25.0,13.24,825
+670,"Dwarka, Nashik",Dipalee Dipali,Apartment,old,2,36.0,19.06,934
+671,"Sahil Park, Nashik Road, Nashik",Vivek Ambekar,Apartment,old,2,40.0,21.18,940
+672,"Apex Heights, Kalpataru Nagar, Nashik",Rohit Mahto,Apartment,old,3,100.0,49.65,2500
+673,"Adhav Nagar, Nashik Road,Nashik",Sharad R Kambli,Apartment,old,1,14.0,7.41,600
+674,"College Road, Nashik",Omkar Ketkar,Apartment,old,2,50.0,26.48,995
+675,"Shreeji Avenue, Damodar Nagar, Pathardi Phata,Nashik",Amit,Apartment,old,2,45.0,23.83,1900
+676,"Gandhi Nagar Airport Area, Nashik Road,Nashik",Harish Chakote,Apartment,old,1,17.0,9.00,650
+677,"Kishor Nagar, Nashik",Pankaj Malviya,Apartment,old,3,29.0,15.36,1155
+678,"Nashik Road, Nashik",Pramod Kadlag,Apartment,old,2,20.0,10.59,700
+679,"College Road, Nashik",Swati Vaidya,Apartment,old,1,47.0,24.89,950
+680,"Amrita socety lokmanay nagar,Nashik Road, Nashik",Manish,Apartment,old,1,14.0,7.41,405
+681,"Amreshwar Apartments,Nashik Road, Nashik",Livia Maria Pinto,Apartment,old,1,18.0,9.53,575
+682,"Akshar enclave,Pathardi Gaon, Pathardi Phata,Nashik",Kundan Mahajan,Apartment,old,2,24.0,12.71,810
+683,"Jay Developers ltd Vijay Darshan Makhmalabad Road PanchavatiNashik,Ghadge Nagar, Makhmalabad,Nashik",Girish,Apartment,old,2,25.0,13.24,1050
+684,"Rosa Colony, Nashik Road,Nashik",Rakesh Pagare,Apartment,old,1,20.0,10.59,554
+685,"Nashik Road, Nashik",Bhushan Thete,Apartment,old,1,19.0,10.06,550
+686,"Dream citi ,Nashik Road, Nashik",Gaurav Khohal,Apartment,old,2,36.0,19.06,945
+687,"shrimant Chintamani Gandharv Nagari,Nashik Road, Nashik",Swati,Apartment,old,3,62.0,32.83,1250
+688,"Atreya Apartment Nasikroad,Nashik Road, Nashik",Ravindra,Apartment,old,1,30.0,15.89,655
+689,"Atreya Apartments,Bridge Nagar, Nashik",Ravindra,Apartment,old,1,30.0,15.89,655
+690,"Abhang Nagar, Om Nagar,Nashik",Jyoti Sakhala,Apartment,old,3,45.0,23.83,1220
+691,"Parksyde Residences,Pandav Nagari, Pathardi Phata,Nashik",Sachin Patil,Apartment,old,3,55.0,29.13,1200
+692,"Karda Hari Vishwa, Buddha Vihar, Pathardi Phata,Nashik",Kiran Khurana,Apartment,old,2,39.5,20.92,1224
+693,"samraat dreamciti,RTO Colony, Uttara Nagar,Nashik",Rajesh,Apartment,old,3,45.0,23.83,1140
+694,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Raj Taskar,Apartment,old,3,67.0,35.48,1117
+695,"Ganraj apartment,Damodar Nagar, Pathardi Phata,Nashik",Suchita,Apartment,old,1,24.0,12.71,1120
+696,"Gokuldham Society,Hirawadi, Nashik",R B MAHAJAN,Apartment,old,2,42.0,22.24,850
+697,"Heights,Dwarka, Nashik",Pankaj,Apartment,old,2,38.0,20.12,975
+698,"Gokuldham Society,Hirawadi, Nashik",R B MAHAJAN,Apartment,old,2,43.0,22.77,850
+699,"Greenville Villa,Buddha Vihar, Pathardi Phata,Nashik",Dwivedi,Apartment,old,3,55.0,29.13,2000
+700,"Dwarka, Nashik",Meghna Jogdiya,Apartment,old,1,24.0,12.71,725
+701,"Jagtap Nagar, Nashik",Shekhar Joshi,Apartment,old,2,45.0,23.83,830
+702,"Shanker Nagar, Veer Sawarkar Nagar,Nashik",Rahul,Apartment,old,3,80.0,39.72,1800
+703,"Dwarka, Nashik",Pravin Narayan Bhavsar,Apartment,old,1,22.0,11.65,600
+704,"Vijaynagar Colony, Nashik",Nitin Deshpande,Apartment,old,1,18.75,9.93,700
+705,"Saimanorath society ,Durga Nagar, Sneha Nagar,Nashik",Ajinkya Thete,Apartment,old,1,9.5,5.03,400
+706,"Saimanorath society ,Ashwamegh Nagar, Makhmalabad,Nashik",Ajinkya Thete,Apartment,old,1 RK Apartment for sale in Makhmalabad,9.5,5.03,400
+707,"Manik Tower,Sharanpur, Nashik",Shreyas,Apartment,old,3,77.0,38.23,1500
+708,"Pramod Nagar, Nashik",Rima,Apartment,old,3,85.0,42.20,1800
+709,"Satpur, Nashik",Deepak Tamboli,Apartment,old,1,10.5,5.56,530
+710,"Balawant Nagar, Anandwalli Gaon,Nashik",Ajay Gupta,Apartment,old,3,80.0,39.72,1500
+711,"Shri Ram Nagar, Nashik",Khalique Sayyed,Apartment,old,3,56.5,29.92,1200
+712,"Damodar Nagar, Pathardi Phata,Nashik",Deepak Sachdev,Apartment,old,3,48.0,25.42,1480
+713,"Anand Apartment,Kala Nagar, Indira Nagar,Nashik",Amol Joshi,Apartment,old,1,18.0,9.53,605
+714,"Pramod Nagar, Nashik",Priya,Apartment,old,2,55.0,29.13,1260
+715,"DJ Park Society,Parijat Nagar, Nashik",Shamalata Shetty,Apartment,old,2,45.0,23.83,975
+716,"Pranav Garden,Vasantdadanagar, Adgaon,Nashik",RAJESH VARMA,Apartment,old,1,25.0,13.24,550
+717,"Amrutkumbh Apartment ,Damodar Nagar, Pathardi Phata,Nashik",Aneesha Bonde,Apartment,old,2,30.0,15.89,750
+718,"Unity Park,College Road, Nashik",Pravin,Apartment,old,2,60.0,31.77,1000
+719,"Ayodhya Nagar, Nashik Road,Nashik",Sanjay Jadhav,Apartment,old,1,19.5,10.33,650
+720,"Ayodhya Nagar, Nashik Road,Nashik",Sanjay Jadhav,Apartment,old,1,19.5,10.33,650
+721,"Ganesh Baba Nagar, Nashik",Mrs Khairnar,Apartment,old,3,55.0,29.13,1740
+722,"Karmaa Galaxy, Dwarka, Nashik",Gauri Tani,Apartment,old,3,75.0,39.72,1800
+723,"Vijaynagar Colony, Nashik",Ashutosh Sinha,Apartment,old,3,55.0,29.13,1140
+724,"Mank tower,Patil Colony, Canada Corner,Nashik",Shreyas Parakh,Apartment,old,3,78.0,38.72,1500
+725,"Damodar Nagar, Pathardi Phata,Nashik",Mayur Chatankar,Apartment,old,2,21.0,11.12,650
+726,"College Road, Nashik",Girish,Apartment,old,4,240.0,1.19 Lacs,3200
+727,"Ganesh Baba Nagar, Nashik",Yash Talwar,Apartment,old,2,48.0,25.42,1004
+728,"Chintan Apartment,Kala Nagar, Indira Nagar,Nashik",Jaysing,Apartment,old,2,38.0,20.12,855
+729,"Chetana Nagar, Rane Nagar,Nashik",Yash Talwar,Apartment,old,3,100.0,49.65,2350
+730,"Parksyde Residences,Kala Nagar, Indira Nagar,Nashik",Kiran Dixit,Apartment,old,3,55.0,29.13,1135
+731,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Anjali,Apartment,old,2,35.0,18.53,1290
+732,"Nashik Road, Nashik",Suresh Patil,Apartment,old,3,70.0,37.07,1400
+733,"Balram Nagar, Nashik",Mcwann K.h,Apartment,old,2,28.0,14.83,812
+734,"arjun sagar,Manik Nagar, Nashik",Kailash,Apartment,old,2,85.0,42.20,1150
+735,"Panchak, Nashik",Livia Maria Pinto,Apartment,old,1,18.0,9.53,575
+736,"Menlo Park,Balawant Nagar, Anandwalli Gaon,Nashik",Prasad Kshirsagar,Apartment,old,2,42.0,22.24,900
+737,"Shree Gajanan Park, Nashik Road, Nashik",Kirty Bhadani,Apartment,old,2,38.0,20.12,1000
+738,"Nashik Road, Nashik",Jadhav,Apartment,old,2,36.0,19.06,1200
+739,"Swananda apartment Indira nagar,Kala Nagar, Indira Nagar,Nashik",Rama Dhopade,Apartment,old,1,21.0,11.12,650
+740,"Nashik Road, Nashik",Meena Lomte,Apartment,old,3,55.0,29.13,1355
+741,"Deepali Nagar, Nashik",Kailas Gaidhani,Apartment,old,1,15.0,7.94,675
+742,"Vitthal Rukmini Apt,Panchavati, Nashik",Siddhesh Chaphekar,Apartment,old,1,16.0,8.47,630
+743,"Ashwin Nagar, Nashik",Ashwini,Apartment,old,1,25.0,13.24,500
+744,"Amol Park B,Professor Colony, Nashik",Sumit Bagul,Apartment,old,1,18.0,9.53,527
+745,"Pranav Apartment, Datey Nagar, Veer Sawarkar Nagar,Nashik",Yogesh,Apartment,old,2,42.0,22.24,950
+746,"Raviraj Riddhi Apartment ,Bhujbal Knowledge City, Adgaon,Nashik",KIRTILAL SAKHALA,Apartment,old,3,45.0,23.83,1200
+747,"Nuarya Apartment,Nashik Road, Nashik",Sujit,Apartment,old,2,18.0,9.53,804
+748,"Tapovan Vihar,Dwarka, Nashik",Jibby,Apartment,old,2,34.5,18.27,861
+749,"Nashik Road, Nashik",Sarika Sawant,Apartment,old,1,19.0,10.06,700
+750,"Sahil Park, Parijat Nagar, Nashik",Vivek Ambekar,Apartment,old,2,40.05,21.21,950
+751,"Not Abilable,Ashwin Nagar, Nashik",Saraf,Apartment,old,1,23.0,12.18,600
+752,"Sahyadri nagr,Cidco, Nashik",Arti Shyam Dhenak,Apartment,old,1,21.0,11.12,800
+753,"Nirmans Vrindavan Gardens,Satpur, Nashik",Mukund Deore,Apartment,old,2,25.0,13.24,763
+754,"Manas residancy,Kishor Nagar, Nashik",Nikita Sonar,Apartment,old,1,18.0,9.53,510
+755,"Narayan Park, Kamod Nagar, Indira Nagar,Nashik",Alpana Gupte,Apartment,old,2,35.0,18.53,1000
+756,"Vijaynagar Colony, Nashik",Abhijit Varade,Apartment,old,1 RK Apartment for sale in Vijaynagar Colony,18.0,9.53,550
+757,"Pooja park Apartment,Chetana Nagar, Rane Nagar,Nashik",Yogesh Vibhute,Apartment,old,1,18.0,9.53,700
+758,"Amarjyot Apartment,Anand Nagar, Nashik Road,Nashik",Bhushan,Apartment,old,1,20.0,10.59,580
+759,"Vighnaharta Apartment, Kala Nagar, Indira Nagar,Nashik",Jyotsna Lonkar,Apartment,old,2,35.0,18.53,960
+760,"Siddhivinayak Empire,Kala Nagar, Indira Nagar,Nashik",Abhijit Kulkarni,Apartment,old,1,30.0,15.89,765
+761,"Panchavati, Nashik",Aishwarya Borse,Apartment,old,2,25.0,13.24,950
+762,"Rajeshwari Apartment, Saptashrungi Nagar, Kamatwade Gaon,Nashik",Prashant Deore,Apartment,old,2,29.0,15.36,965
+763,"Dhanlaxmi, Ghatkopar, Nashik",Awani Kakkad,Apartment,old,2,3.0,1.59,1200
+764,"Mhasrul Gaon, Nashik",Nandkishor More,Apartment,old,1 RK Apartment for sale in Mhasrul Gaon,8.5,4.50,450
+765,"Rajeshwari Apartment, Saptashrungi Nagar, Kamatwade Gaon,Nashik",Prashant Deore,Apartment,old,2,30.0,15.89,955
+766,"Kala Nagar, Indira Nagar,Nashik",Sanjeev Pangarkar,Apartment,old,1,25.0,13.24,850
+767,"Sai Shrushti Apartment,Panchavati, Nashik",Deepak Thakar,Apartment,old,2,28.0,14.83,750
+768,"Vrindavan appt,Pramod Nagar, Nashik",Paurush Vatsa,Apartment,old,2,37.0,19.59,900
+769,"Patil Garden 3, Pethe Nagar, Indira Nagar,Nashik",Pramod Patil,Apartment,old,2,38.0,20.12,831
+770,"Roongta Imperia,Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Tushar,Apartment,old,3,66.0,34.95,1291
+771,"Shree Hari Park,Amrutdham, Nashik",Laxman,Apartment,old,2,28.0,14.83,945
+772,"Viraj park apartment,Shri Ram Nagar, Nashik",Ravindra Gudi,Apartment,old,1,20.0,10.59,660
+773,"Gananayak Apartment, Durganagar, Nashik",Vithal,Apartment,old,1,18.0,9.53,700
+774,"shubham heights,Kishor Nagar, Nashik",Abhisheak,Apartment,old,2,32.0,16.95,910
+775,"Blooming Dale,D'souza Colony, Nashik",George K,Apartment,old,1,30.0,15.89,550
+776,"shubham heights apartment,Kala Nagar, Indira Nagar,Nashik",Abhisheak,Apartment,old,2,32.0,16.95,910
+777,"Shivam Park, Jagtap Nagar, Nashik",Siddhesh Chandwade,Apartment,old,2,41.0,21.71,1050
+778,"Ravindra Shreeji Annex, Damodar Nagar, Pathardi Phata,Nashik",Trupti Menon,Apartment,old,2,26.0,13.77,972
+779,"Aashiyana Estate,Dwarka, Nashik",Shekhar Vinayak Lokare,Apartment,old,1,20.0,10.59,650
+780,"KASHMIRA APARTMENT,Cidco, Nashik",,Apartment,old,1,22.0,11.65,700
+781,"prabhu thirtha apartment,Khutwad Nagar, Nashik",Digamber Ghodekar,Apartment,old,2,32.0,16.95,1050
+782,"Panchavati, Nashik",Ashish Dixit,Apartment,old,1,32.0,16.95,780
+783,"Sai Kala Apartment,Kala Nagar, Indira Nagar,Nashik",Rakesh,Apartment,old,2,45.0,23.83,948
+784,"Blooming Dale,D'souza Colony, Nashik",George K,Apartment,old,1,30.0,15.89,550
+785,"Rajlaxmi Co operative Housing Society,Kala Nagar, Indira Nagar,Nashik",Dinesh Pawar,Apartment,old,1,25.0,13.24,609
+786,"Rajlaxmi Co operative Housing Society,Kishor Nagar, Nashik",Dinesh Pawar,Apartment,old,1,25.0,13.24,609
+787,"Koknipura, Nashik",Hemant Gurav,Apartment,old,1,13.5,7.15,571
+788,"Sai Samarth Sankul, Kalpataru Nagar, Nashik",Mohsin Kadri,Apartment,old,2,33.0,17.48,845
+789,"Pandav Nagari, Pathardi Phata,Nashik",Vithal,Apartment,old,1,20.0,10.59,700
+790,"Nashik Road, Nashik",Kapil Patil,Apartment,old,3,38.0,20.12,1500
+791,"Ojhar, Nashik",Sanjay Kulshrestha,Apartment,old,2,25.0,13.24,790
+792,"Laxman sty,Pandav Nagari, Pathardi Phata,Nashik",Mahendra,Apartment,old,2,20.0,10.59,850
+793,"Pooja apartment vinaynager busstop wadala road,Cidco, Nashik",Vijay,Apartment,old,1,21.0,11.12,645
+794,"Kala Nagar, Indira Nagar,Nashik",Kush Ji Srivastava,Apartment,old,2,30.0,15.89,900
+795,"Pooja apartment ,Kala Nagar, Indira Nagar,Nashik",Vijay,Apartment,old,1,21.0,11.12,645
+796,"Hari Om residency, Panchavati, Nashik",,Apartment,old,2,28.0,14.83,900
+797,"Parijat Nagar, Nashik",S T Khandway,Apartment,old,2,33.0,17.48,962
+798,"Panchshil Complex ,Panchavati, Nashik",Vishal Shirsath,Apartment,old,1 RK Apartment for sale in Panchavati,12.0,6.35,600
+799,"Shri darhan apartment,Kala Nagar, Indira Nagar,Nashik",Nandu Bhujbal,Apartment,old,1 RK Apartment for sale in Indira Nagar,20.0,10.59,670
+800,"Sai Santoshi Society,Nashik Road, Nashik",Gaurav Shetye,Apartment,old,1,18.5,9.80,650
+801,"Chetana Nagar, Rane Nagar,Nashik",Neha Brajesh Shrivastava,Apartment,old,2,25.0,13.24,800
+802,"Kamatwade Gaon, Nashik",Rutuja Kumbhakarna,Apartment,old,2,16.0,8.47,700
+803,"Dhanoday society,CDO-MERI Colony, Nashik",Yogesh,Apartment,old,2,20.0,10.59,930
+804,"Bethel Park,Gole Colony, Nashik",Desai,Apartment,old,1,20.0,10.59,500
+805,"RTO Colony, Uttara Nagar,Nashik",Siddhesh Swami,Apartment,old,2,27.0,14.30,950
+806,"bhaba nagar,Bhagwant Nagar, Dr.Homi Bhabha Nagar,Nashik",Siddhesh Swami,Apartment,old,2,32.0,16.95,1270
+807,"Uttam Nagar, Nashik",Nazeem Shaikh,Apartment,old,1,10.21,5.41,527
+808,"Dhanoday society,CDO-MERI Colony, Nashik",Yogesh,Apartment,old,2,20.0,10.59,980
+809,"Dwarka, Nashik",Vaibhav Navgire,Apartment,old,2,32.0,16.95,1100
+810,"vijay tower,Makhmalabad, Nashik",Shamsu Hudda,Apartment,old,1,25.0,13.24,725
+811,"Pandav Nagari, Pathardi Phata,Nashik",Rahul Chavan,Apartment,old,2,22.0,11.65,736
+812,"Damodar Nagar, Pathardi Phata,Nashik",Nikhil,Apartment,old,1,18.0,9.53,600
+813,"Shri darshan apartment,Kala Nagar, Indira Nagar,Nashik",Nandu Bhujbal,Apartment,old,1,20.0,10.59,670
+814,"Yashlaxmi Nabhangan,Anand Vihar Colony, Veer Sawarkar Nagar,Nashik",Harshad Bhamare,Apartment,old,3,52.0,27.54,1200
+815,"RTO Colony, Uttara Nagar,Nashik",Pranay,Apartment,old,2,37.0,19.59,980
+816,"RTO Colony, Uttara Nagar,Nashik",Pranay,Apartment,old,2,37.0,19.59,980
+817,"Shreeyog Shree Heights, Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Abhijeet,Apartment,old,3,64.0,33.89,1300
+818,"Kishor Nagar, Nashik",Harnam Bhatia,Apartment,old,1,20.0,10.59,569
+819,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Durgesh Waghmare,Apartment,old,2,28.0,14.83,870
+820,"Flat 12 mahashakti co op society ,Panchavati, Nashik",Yogesh Birari,Apartment,old,1,19.0,10.06,550
+821,"Chandramouli apptswaraj nagar,Damodar Nagar, Pathardi Phata,Nashik",Rathod,Apartment,old,1,13.0,6.88,625
+822,"Ashwin Nagar, Nashik",Saraf,Apartment,old,1,22.0,11.65,600
+823,"Deepali Nagar, Nashik",Sunil Nikam,Apartment,old,1,18.0,9.53,560
+824,"Sneh height apartment,Indira Nagar, Nashik",Pravin,Apartment,old,3,51.1,27.06,1275
+825,"Panchak, Nashik",Umes,Apartment,old,1,15.0,7.94,660
+826,"Panchak, Nashik",Umes,Apartment,old,1,15.0,7.94,660
+827,"Shree Prakash Residency,Ganpati Nagar, Anandwalli Gaon,Nashik",Asmita,Apartment,old,2,30.0,15.89,850
+828,"Kala Nagar, Indira Nagar,Nashik",Fayyaz Ahmed,Apartment,old,3,70.0,37.07,1535
+829,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Anil Jadhav,Apartment,old,2,24.0,12.71,764
+830,"Vitthal park apartment ,Nashik Road, Nashik",Jadhav,Apartment,old,2,35.0,18.53,1100
+831,"Pandit Colony, Nashik",Subhash,Apartment,old,1,40.0,21.18,465
+832,"Bhagwant Nagar, Dr.Homi Bhabha Nagar,Nashik",Girish,Apartment,old,2,38.0,20.12,1100
+833,"Balawant Nagar, Anandwalli Gaon,Nashik",Rashmi Dawda,Apartment,old,2,32.0,16.95,890
+834,"Chetana Nagar, Rane Nagar,Nashik",Sudhir Pundkar,Apartment,old,2,28.0,14.83,1000
+835,"Shreeji Vrunda,Indira Nagar, Nashik",Suyog Gokul Pawar,Apartment,old,2,34.0,18.00,946
+836,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Ankita,Apartment,old,2,30.0,15.89,1000
+837,"Kishnra appartment,Chetana Nagar, Rane Nagar,Nashik",Sangle M M,Apartment,old,1,18.0,9.53,635
+838,"SHREE ATI SOCIETY ,Kamod Nagar, Indira Nagar,Nashik",SWAPNIL BURKULE,Apartment,old,1 RK Apartment for sale in Indira Nagar,12.0,6.35,460
+839,"Atlantis, Amrutdham, Nashik",Music Pramod Zade NASHIK,Apartment,old,2,21.0,11.12,685
+840,"Anmol Valley 1,Lavate Nager, Parijat Nagar,Nashik",Shekhar Joshi,Apartment,old,2,45.0,23.83,853
+841,"Amrutdham, Nashik",Vipul Raut,Apartment,old,1 RK Apartment for sale in Amrutdham,11.0,5.83,560
+842,"Nashik Road, Nashik",Kaamini,Apartment,old,1,14.0,7.41,640
+843,"Shanmukh Sneh Dhara, Nashik Road, Nashik",Kaamini,Apartment,old,1,15.0,7.94,680
+844,"Pandav Nagari, Pathardi Phata,Nashik",Narendra,Apartment,old,1,26.0,13.77,750
+845,"Goreram complex,Raviwar Karanja, Panchavati,Nashik",Sidhuvinayak Vastu,Apartment,old,1,16.0,8.47,750
+846,"Ishwar Park,Kala Nagar, Indira Nagar,Nashik",Manoj Patil,Apartment,old,2,30.0,15.89,1100
+847,"Vihang Apartment, Panchavati, Nashik",Omkar,Apartment,old,1,18.0,9.53,640
+848,"RTO Colony, Uttara Nagar,Nashik",Deepa Vineet Singh,Apartment,old,1,21.0,11.12,600
+849,"Ashwin Nagar, Nashik",Mahesh,Apartment,old,1,21.0,11.12,700
+850,"Shree Shivleela, Indira Nagar, Nashik",Mayuri,Apartment,old,3,70.0,37.07,1500
+851,"Kamod Nagar, Indira Nagar,Nashik",SWAPNIL BURKULE,Apartment,old,1 RK Apartment for sale in Indira Nagar,12.0,6.35,460
+852,"Cidco, Nashik",Abhishek Metkat,Apartment,old,1,18.0,9.53,552
+853,"Indira Nagar, Nashik",Liju,Apartment,old,3,46.0,24.36,1260
+854,"Ashwin Nagar, Nashik",Narza Misra,Apartment,old,1 RK Apartment for sale in Ashwin Nagar,8.0,4.24,350
+855,"Golden Palm Apartment,Kala Nagar, Indira Nagar,Nashik",Hemant,Apartment,old,2,34.0,18.00,990
+856,"Rajiv Nagar, Nashik",Danish SHAIKH,Apartment,old,2,28.0,14.83,900
+857,"College Road, Nashik",Uday Rakibe,Apartment,old,1,35.0,18.53,550
+858,"Spring valley Apartment ,RTO Colony, Uttara Nagar,Nashik",Nishant Gaikwad,Apartment,old,2,24.5,12.97,840
+859,"Shivam Park Shraddha Vihar Indiranagar,Kala Nagar, Indira Nagar,Nashik",Tushar Jadhav,Apartment,old,3,57.0,30.18,1605
+860,"Kala Nagar, Indira Nagar,Nashik",Sneha Chaudhari,Apartment,old,1,19.0,10.06,562
+861,"Parksyde Homes,Panchavati, Nashik",Alisha Godse,Apartment,old,3,52.0,27.54,1820
+862,"Ganga Heights, Damodar Nagar, Pathardi Phata,Nashik",Tushar Shengar,Apartment,old,2,28.5,15.09,852
+863,"Shubham Apartment shanti nagar makhmalabad road Nashik,Ramkrishna Nagar, Makhmalabad,Nashik",Somnath Rambhau Thorat,Apartment,old,2,25.0,13.24,825
+864,"Appts,Nashik Road, Nashik",Ricky,Apartment,old,1,17.5,9.27,750
+865,"Dhanvi Residency, Murari Nagar, Nashik",Pradip Deore,Apartment,old,2,32.0,16.95,825
+866,"Kamod Nagar, Indira Nagar,Nashik",Nilesh Kautikrao Bhosale,Apartment,old,1,22.0,11.65,725
+867,"Prabhu tirtha ,Khutwad Nagar, Nashik",SHRIKANT WADNERE,Apartment,old,1,22.0,11.65,650
+868,"Landmark building,College Road, Nashik",Swati Vaidya,Apartment,old,1,47.0,24.89,950
+869,"Tulsi Puja Khole Mala nashik road ,Anand Nagar, Nashik Road,Nashik",Paritosh Ashok Lalwani,Apartment,old,3,31.0,16.42,1050
+870,"Damodar Nagar, Pathardi Phata,Nashik",Akshay Kulkarni,Apartment,old,1,22.0,11.65,750
+871,"home sweet home,College Road, Nashik",ACP Associates,Apartment,old,3,85.0,42.20,1400
+872,"Nashik Road, Nashik",Faissal,Apartment,old,2,35.0,18.53,1000
+873,"Ganesh Signifia,Indira Nagar, Nashik",Deepak,Apartment,old,1,24.0,12.71,690
+874,"Cidco, Nashik",Karan Gunjal,Apartment,old,1,17.0,9.00,550
+875,"Nashik Road, Nashik",Rhidas,Apartment,old,1 RK Apartment for sale in Nashik Road,12.0,6.35,400
+876,"Shreeyog Shree Kala, Pushpanjali, Rajiv Nagar,Nashik",Darshan Padol,Apartment,old,2,45.0,23.83,920
+877,"kanchwala park,Tagore Nagar, Nashik",Shabbir Salumbarwala,Apartment,old,1,18.0,9.53,713
+878,"Centrum Apartment, Deepali Nagar, Nashik",Juned Shaikh,Apartment,old,1,20.0,10.59,630
+879,"Cidco, Nashik",Yogesh Kulkarni,Apartment,old,1 RK Apartment for sale in Cidco,12.0,6.35,350
+880,"Damodar Nagar, Pathardi Phata,Nashik",Karanjadhav,Apartment,old,1,19.5,10.33,621
+881,"Gurudatta Nagar, Nashik Road,Nashik",Manoj,Apartment,old,1,15.0,7.94,625
+882,"Adhav Nagar, Nashik Road,Nashik",Shyam Dubey,Apartment,old,1,21.5,11.39,768
+883,"Nashik Road, Nashik",Sharad R Kambli,Apartment,old,1,14.0,7.41,572
+884,"Pushpanjali, Rajiv Nagar,Nashik",CA Amol Sant,Apartment,old,2,24.0,12.71,800
+885,"Balawant Nagar, Anandwalli Gaon,Nashik",Rashmi Dawda,Apartment,old,2,32.0,16.95,900
+886,"Rajey co operative Housing Society,CDO-MERI Colony, Nashik",Amaratya Likhar,Apartment,old,1,19.36,10.25,680
+887,"Rajiv Nagar, Nashik",Ajay Singh,Apartment,old,2,30.0,15.89,950
+888,"Chetana Nagar, Rane Nagar,Nashik",Ajay Chopade,Apartment,old,2,28.0,14.83,1154
+889,"Vasantdadanagar, Adgaon,Nashik",Ashish Gite,Apartment,old,1,15.0,7.94,438
+890,"Amruta society,Nashik Road, Nashik",Damini Nawale,Apartment,old,1,20.0,10.59,675
+891,"Nashik Road, Nashik",Damini Nawale,Apartment,old,1,20.0,10.59,675
+892,"Kala Nagar, Indira Nagar,Nashik",Aarti Kshirsagar,Apartment,old,1,25.0,13.24,690
+893,"Sahil Park, MIDC, Satpur,Nashik",Vivek Ambekar,Apartment,old,2,40.0,21.18,940
+894,"Saptashrungi Nagar, Kamatwade Gaon,Nashik",Ranjan Pradhan,Apartment,old,2,23.0,12.18,750
+895,"Super residency ,Dwarka, Nashik",Nita Dinde,Apartment,old,2,45.0,23.83,1300
+896,"Dwarka, Nashik",Nita Dinde,Apartment,old,2,45.0,23.83,1000
+897,"sarswati appartment,Mhasrul Gaon, Nashik",Mayur,Apartment,old,1,17.0,9.00,675
+898,"Sociey,RTO Colony, Uttara Nagar,Nashik",Santosh Kothmire,Apartment,old,5,87.0,43.19,1850
+899,"THE METROZONE,Kala Nagar, Indira Nagar,Nashik",METROZONE THEEM,Apartment,old,2,60.0,31.77,1471
+900,"THE METROZONE ,Pandav Nagari, Pathardi Phata,Nashik",METROZONE THEEM,Apartment,old,2,70.0,37.07,1471
+901,"Om Nagar, Nashik",Kirti Lal Sakhala,Apartment,old,3,48.0,25.42,1225
+902,"Shree lakhan,Bhujbal Knowledge City, Adgaon,Nashik",Nitin Dhatrak,Apartment,old,1 RK Apartment for sale in Adgaon,8.5,4.50,420
+903,"Nirmal Avenue ,Gangapur, Nashik",Parag Patil,Apartment,old,2,35.0,18.53,960
+904,"Rama apartment,Gulshan Colony, Nashik",Sudhir Bhadke,Apartment,old,1,22.0,11.65,835
+905,"Hari Om Housing Society,Kala Nagar, Indira Nagar,Nashik",Parag,Apartment,old,1,18.5,9.80,640
+906,"vinayak residency,Khutwad Nagar, Nashik",Ashvin Patel,Apartment,old,2,35.0,18.53,901
+907,"Gurudevdatta Apartment, TIDKE NAGAR, Nashik",RUPALI CHANDRATRE,Apartment,old,1,27.0,14.30,620
+908,"Gurukrupa ,Kala Nagar, Indira Nagar,Nashik",Atul Joshi,Apartment,old,2,30.0,15.89,845
+909,"Panchashil complex ,Panchavati, Nashik",Mayur Wagh,Apartment,old,1 RK Apartment for sale in Panchavati,8.5,4.50,385
+910,"Nirman Residency, Patil Colony, Canada Corner,Nashik",Mayur Baheti,Apartment,old,2,50.0,26.48,925
+911,"Patil Colony, Canada Corner,Nashik",Rajendra Sawant,Apartment,old,1,35.0,18.53,1350
+912,"Vinay nagar,Kala Nagar, Indira Nagar,Nashik",Aniruddha Kulkarni,Apartment,old,2,25.0,13.24,735
+913,"Shri Sarvesh Society,Ayodhya Nagar, Nashik Road,Nashik",Nikhil,Apartment,old,1,14.0,7.41,550
+914,"Mahalaxmi Enclave, Kala Nagar, Indira Nagar,Nashik",Aniket,Apartment,old,2,30.0,15.89,850
+915,"Shrivinyak appt Vinay Nagar Indira Nagar Nashik,Deepali Nagar, Nashik",Aniruddha Kulkarni,Apartment,old,2,25.0,13.24,730
+916,"Durga Nagar, Sneha Nagar,Nashik",Ashwini Joshi,Apartment,old,1,17.0,9.00,650
+917,"Paras park,Dwarka, Nashik",Bhavesh Nandurdikar,Apartment,old,2,37.0,19.59,930
+918,"Paras park,Dwarka, Nashik",Bhavesh Nandurdikar,Apartment,old,2,37.0,19.59,930
+919,"Indira Nagar, Nashik",Rahul Chaudhari,Apartment,old,2,18.0,9.53,700
+920,"Shreya Residency,Yogakshem LIC Colony, Rajiv Nagar,Nashik",Mithilesh Deshmukh,Apartment,old,1,18.0,9.53,875
+921,"Akshay Apartment ,Jai Hind Colony, Mahajan Nagar,Nashik",Inamdar,Apartment,old,2,22.0,11.65,815
+922,"Shree Villa, Mhasrul Gaon, Nashik",Akash Dhame,Apartment,old,1,12.0,6.35,550
+923,"promod,Shivaji Nagar, Nashik",Pramod Kankriya,Apartment,old,1,16.0,8.47,710
+924,"krishna arjun apartment,Kala Nagar, Indira Nagar,Nashik",Prakash Ahuja,Apartment,old,1,12.0,6.35,500
+925,"Nashik Road, Nashik",Narendra Kulthe,Apartment,old,1,14.0,7.41,700
+926,"CIDCO, Ashwin Nagar, Nashik",Megha Mishra,Apartment,old,2,17.0,9.00,850
+927,"Siddharth apt,Vijaynagar Colony, Nashik",Kalaben Sharma,Apartment,old,2,28.0,14.83,700
+928,"Indira Nagar, Nashik",Neha Brajesh Shrivastava,Apartment,old,2,27.0,14.30,750
+929,"HUSSAIN,Dwarka, Nashik",HUSSAIN TALWARI,Apartment,old,2,22.0,11.65,750
+930,"Sai Samartha Apartment,Cidco, Nashik",Abhishek Metkat,Apartment,old,1,22.0,11.65,750
+931,"Jejurkar Wadi, Sharanpur,Nashik",Rohan Gandhi,Apartment,old,1,35.0,18.53,650
+932,"Chetana Nagar, Rane Nagar,Nashik",Sachin Suresh Pofale,Apartment,old,2,32.0,16.95,660
+933,"Gangapur, Nashik",Prashant Surprise,Apartment,old,3,70.0,37.07,1350
+934,"Spring valley ,RTO Colony, Uttara Nagar,Nashik",Nishant Gaikwad,Apartment,old,2,24.5,12.97,840
+935,"Pooja park Apartment,Chetana Nagar, Rane Nagar,Nashik",Yogesh Vibhute,Apartment,old,1,19.0,10.06,700
+936,"Bankar Hights,Dwarka, Nashik",Ravi Ghate,Apartment,old,3,50.0,26.48,1250
+937,"Saptashrungi Apartment Krishna Nagar,Ganeshwadi, Krishna Nagar,Nashik",Manisha Kapile,Apartment,old,1,18.0,9.53,630
+938,"Pandit Colony, Nashik",Sahil Parashare,Apartment,old,1,42.0,22.24,790
+939,"Renuka Nagar, Nashik",Madhav,Apartment,old,1,24.0,12.71,560
+940,"Damodar Nagar, Pathardi Phata,Nashik",Girish K Hate,Apartment,old,2,21.0,11.12,900
+941,"Rama apartment,Dwarka, Nashik",Sudhir Bhadke,Apartment,old,1,22.0,11.65,835
+942,"Damodar Nagar, Pathardi Phata,Nashik",SANJAY WAGHMODE,Apartment,old,2,30.0,15.89,925
+943,"Mangalmurti Nagar,RTO Colony, Uttara Nagar,Nashik",Hirwe,Apartment,old,1,12.0,6.35,535
+944,"New Pandit Colony, Nashik",Varsha Javeri,Apartment,old,2,45.0,23.83,710
+945,"Thakker treasure D,New Pandit Colony, Nashik",Varsha Javeri,Apartment,old,2,45.0,23.83,710
+946,"Park side,Cidco, Nashik",Yogesh Godse,Apartment,old,3,55.0,29.13,1100
+947,"Komal Apartment, Govind Nagar, Nashik",Shantanu,Apartment,old,2,48.0,25.42,1095
+948,"Rajpal Complex,Panchavati, Nashik",Kalpesh Bhosale,Apartment,old,2,24.81,13.14,800
+949,"Shree Renuka Apartment, Sneha Nagar, Nashik",Nikita B,Apartment,old,2,26.0,13.77,765
+950,"Rajpal Complex,Panchavati, Nashik",Kalpesh Bhosale,Apartment,old,2,24.81,13.14,800
+951,"Aaryavarta, Siddhivinayak Colony, Nashik",Anup Vazare,Apartment,old,1,25.0,13.24,703
+952,"Gole Colony, Nashik",Add,Apartment,old,1,20.0,10.59,550
+953,"Damodar Nagar, Pathardi Phata,Nashik",Sandip,Apartment,old,2,20.0,10.59,1000
+954,"Shree Hari Tower,Holaram Colony, Sharanpur,Nashik",Arjun Gurule,Apartment,old,2,45.0,23.83,1150
+955,"Shivaji Nagar, Nashik",Sandip,Apartment,old,2,20.0,10.59,1000
+956,"Nashik Road, Nashik",Swapnil,Apartment,old,3,52.0,27.54,1250
+957,"Ayodhya Nagari, Nashik",Sagar Ramesh Jagtap,Apartment,old,1,12.5,6.62,585
+958,"Kala Nagar, Indira Nagar,Nashik",Sangita,Apartment,old,1,20.0,10.59,640
+959,"Chetana Nagar, Rane Nagar,Nashik",Jagdish Khambalwar,Apartment,old,2,20.0,10.59,630
+960,"Pramod Nagar, Nashik",Paurush Vatsa,Apartment,old,2,35.0,18.53,900
+961,"Ayodhya Nagari, Nashik",Sagar Ramesh Jagtap,Apartment,old,1,12.5,6.62,585
+962,"Niki Heights Upnagar,Kalpataru Nagar, Nashik",Tushar Patil,Apartment,old,2,36.0,19.06,1000
+963,"Nashik Road, Nashik",Sanjay,Apartment,old,1,16.0,8.47,640
+964,"Amrutdham, Nashik",Panditpankaj,Apartment,old,1,13.5,7.15,460
+965,"ROYAL PARK,Bhagwant Nagar, Dr.Homi Bhabha Nagar,Nashik",Siddhesh Swami,Apartment,old,2,33.0,17.48,1270
+966,"Gurupushpa Apartment ,Mahatma Nagar, Parijat Nagar,Nashik",Sachin Sahare,Apartment,old,3,70.0,37.07,1400
+967,"Gangapur, Nashik",Kunal,Apartment,old,3,69.0,36.54,1360
+968,"Makhmalabad, Nashik",Kunal,Apartment,old,4,51.0,27.01,1380
+969,"Balawant Nagar, Anandwalli Gaon,Nashik",Kavita Bhambwani,Apartment,old,3,65.0,34.42,1600
+970,"Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Dinesh Singh,Apartment,old,2,36.0,19.06,1075
+971,"Bhanu Residency by Reputed Builder, Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Pankaj Kothari,Apartment,old,2,47.0,24.89,1140
+972,"Nashik Road, Nashik",Shankar Meshram,Apartment,old,1,12.0,6.35,580
+973,"Bhanu Residency by Reputed Builder, Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Pankaj Kothari,Apartment,old,2,47.0,24.89,1140
+974,"Bhanu Residency by Reputed Builder, Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Pankaj Kothari,Apartment,old,2,47.0,24.89,1140
+975,"Rajiv Nagar, Nashik",Mokal Tatya,Apartment,old,1,30.0,15.89,850
+976,"Ganesh Signifia,Indira Nagar, Nashik",Aditi Purohit,Apartment,old,2,40.0,21.18,990
+977,"Chetana Nagar, Rane Nagar,Nashik",Yogesh Vibhute,Apartment,old,1,19.0,10.06,700
+978,"Sneha Dhara ,College Road, Nashik",Prashant Ahirrao,Apartment,old,1,13.0,6.88,528
+979,"State Bank Colony, Indira Nagar,Nashik",Rajesh Gawali,Apartment,old,2,31.0,16.42,1000
+980,"Amrutdham, Nashik",Pankaj Mishra,Apartment,old,1 RK Apartment for sale in Amrutdham,13.5,7.15,460
+981,"Cidco, Nashik",Ramesh,Apartment,old,2,20.0,10.59,1000
+982,"Shriniwas Apartment, Radha Vasudev Batavia Nagar, Govind Nagar,Nashik",Dinesh Singh,Apartment,old,2,48.0,25.42,1100
+983,"Vaibhav Pride, Kala Nagar, Indira Nagar,Nashik",Aniket Marathe,Apartment,old,2,45.0,23.83,1100
+984,"Siddhart Apartment, Panchavati, Nashik",Kalaben Sharma,Apartment,old,2,25.0,13.24,750
+985,"Indira Nagar, Nashik",Nitin,Apartment,old,1 RK Apartment for sale in Indira Nagar,12.0,6.35,375
+986,"Ashwamegh Nagar, Makhmalabad,Nashik",Pradeep Mahadu Abhang,Apartment,old,2,15.0,7.94,710
+987,"Makhmalabad, Nashik",Shubham Dattatray Shinde,Apartment,old,1,12.75,6.75,497
+988,"kanchwala park,Nashik Road, Nashik",Shabbir Salumbarwala,Apartment,old,1,18.0,9.53,750
+989,"Ganesh Signifia,Indira Nagar, Nashik",Nikhil,Apartment,old,2,35.38,18.74,976
+990,"jivan parth socity pinto colny ,Nashik Road, Nashik",Sagar Thombare,Apartment,old,1,22.5,11.92,690
+991,"Shivaji Nagar, Satpur,Nashik",Chetan Anil Chavan,Apartment,old,1,22.0,11.65,625
+992,"Kala Nagar, Indira Nagar,Nashik",Ashwin Raje,Apartment,old,3,48.0,25.42,1316
+993,"Rajiv Nagar, Nashik",Mohan,Apartment,old,2,28.0,14.83,950
+994,"Kala Nagar, Indira Nagar,Nashik",Prathamesh Kulkarni,Apartment,old,3,52.0,27.54,1434
+995,"Kala Nagar, Indira Nagar,Nashik",Prathamesh Kulkarni,Apartment,old,3,52.0,27.54,1434
+996,"Shivaji Nagar, Nashik",Shashikala Pagar,Apartment,old,1,15.0,7.94,580
+997,"Balawant Nagar, Anandwalli Gaon,Nashik",Mihir,Apartment,old,3,65.0,34.42,1700
+998,"Pride Ganesh Row Houses,Nashik Road, Nashik",RAJESH KHEDKAR,Apartment,old,3,49.0,25.95,1490
