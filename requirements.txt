@@ -82,7 +82,7 @@ pydeck==0.7.1
 Pygments==2.11.2
 Pympler==1.0.1
 pyparsing 
-pyproj==3.2.1
+pyproj
 pyrsistent==0.18.1
 pytest==5.4.3
 python-dateutil 
