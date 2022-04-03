@@ -2,7 +2,7 @@ import streamlit as st
 
 # Custom imports
 from multipage import MultiPage
-import prediction,EDA1, EDA2 , feature_engineering,feature_selection,model_building,About # import your pages here
+import prediction,EDA1, EDA2 , feature_engineering,feature_selection,About # import your pages here
 try:
 # Create an instance of the app
     app = MultiPage()
