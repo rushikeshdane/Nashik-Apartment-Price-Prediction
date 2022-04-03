@@ -34,7 +34,7 @@ def app():
             st.write( "It is a good practice to understand the data first and try to gather as many insights from it. "
                       "EDA is all about making sense of data in hand,before getting them dirty with it")
 
-        house = get_data.get_data(path='../read_data/raw_data.csv')
+        house = get_data.get_data(path='raw_data.csv')
         st.subheader('How our dataset looks ?')
         st.dataframe(house)
         downnload_button(house, 'nashik.csv')
