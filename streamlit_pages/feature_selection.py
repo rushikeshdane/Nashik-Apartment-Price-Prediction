@@ -5,7 +5,7 @@ import select_feature
 import train_test_split
 import removing_unnecessary_column
 try:
-    df = get_data.get_data(path='../feature_selection/data_after_removing_unnecessary_column')
+    df = get_data.get_data(path='data_after_removing_unnecessary_column')
 
     #print(df)
     o= train_test_split.split(df)
