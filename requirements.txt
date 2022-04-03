@@ -93,7 +93,7 @@ pytz-deprecation-shim==0.1.0.post0
 PyYAML==5.3.1
 pyzmq==22.3.0
 requests==2.27.1
-scikit-learn 
+scikit-learn==0.23.1
 scipy 
 seaborn 
 semver==2.13.0
