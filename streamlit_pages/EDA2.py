@@ -15,7 +15,7 @@ def app():
         st.sidebar.markdown('(note : hover your mouse on the map '
                         'to get extra detail about particular house)')
         st.subheader('How our dataset looks on nashik map 🗺️ ?')
-        df = get_data.get_data(path='../feature_enginerring/data_after_removing_null')
+        df = get_data.get_data(path='data_after_removing_null')
 
         fig = px.scatter_mapbox(df,
                                 lat=df.latitude,
