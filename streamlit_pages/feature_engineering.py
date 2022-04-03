@@ -44,8 +44,8 @@ def app():
         with st.expander('Data after filling missing value '):
 
 
-            st.dataframe(get_data.get_data(path='../feature_enginerring/data_after_removing_null'))
-            df=get_data.get_data(path='../feature_enginerring/data_after_removing_null')
+            st.dataframe(get_data.get_data(path='data_after_removing_null'))
+            df=get_data.get_data(path='data_after_removing_null')
 
 
             downnload_button(df,'data_after_removing_null.csv')
@@ -62,8 +62,8 @@ def app():
                      'further analysis.')
 
         with st.expander('data after removing outlier'):
-            st.dataframe(get_data.get_data(path='../feature_enginerring/data_after_remove_outlier'))
-            df = get_data.get_data(path='../feature_enginerring/data_after_remove_outlier')
+            st.dataframe(get_data.get_data(path='data_after_remove_outlier'))
+            df = get_data.get_data(path='data_after_remove_outlier')
 
             downnload_button(df,name='data_after_removing_outlier.csv')
 
@@ -100,8 +100,8 @@ def app():
 
             st.write('I had applied this method on location column ')
         with st.expander('data after Feature encoding'):
-            st.dataframe(get_data.get_data(path='../feature_enginerring/data_after_encoding'))
-            df = get_data.get_data(path='../feature_enginerring/data_after_encoding')
+            st.dataframe(get_data.get_data(path='data_after_encoding'))
+            df = get_data.get_data(path='data_after_encoding')
 
             downnload_button(df,name='data_after_feature_encoding.csv')
 
@@ -113,7 +113,7 @@ def app():
 
         st.subheader('how continuous variable distributed after removing outlier ?')
         data_distribution = st.selectbox('select feature',['price','per_month_emi','total_sqft'])
-        data_after_removing_outlier=get_data.get_data('../feature_enginerring/data_after_remove_outlier')
+        data_after_removing_outlier=get_data.get_data('data_after_remove_outlier')
         if data_distribution =='price':
             st.plotly_chart(histogram(data_after_removing_outlier,columname='price',xaxis_title='price in lakhs'), use_container_width=True)
         if data_distribution== 'total_sqft':
