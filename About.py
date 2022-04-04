@@ -9,4 +9,4 @@ def app():
             ' I will link my work to  GitHub repositories, so feel free to download my code'
             ' and play around with it.</p>', unsafe_allow_html=True)
 
-    st.subheader('Github   [link](https://github.com/rushikeshdane)')
+    st.subheader('Github   [link](https://github.com/rushikeshdane/Nashik-Apartment-Price-Prediction)')
