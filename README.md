@@ -34,7 +34,7 @@ Nashik is 4th largest city in Maharastra ,Located at an approximate distance of 
 ### page 5
 
 ![4](https://user-images.githubusercontent.com/78649021/174341970-8153b44b-6a9c-46ed-acef-1c11fe130b2c.PNG)
-### page 16
+### page 6
 
 ![5](https://user-images.githubusercontent.com/78649021/174342156-6cdec859-b681-42ae-8034-4531dfdb0340.PNG)
 
