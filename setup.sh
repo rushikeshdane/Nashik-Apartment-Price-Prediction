@@ -1,7 +1,7 @@
 echo "[theme]
 primaryColor = ‘#84a3a7’
-backgroundColor = ‘#EFEDE8’
-secondaryBackgroundColor = ‘#fafafa’
+backgroundColor = ‘#FDEDDB’
+secondaryBackgroundColor = ‘#FFC6A1’
 textColor= ‘#424242’
 font = ‘sans serif’
 [server]
