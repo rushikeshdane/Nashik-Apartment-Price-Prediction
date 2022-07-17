@@ -1,6 +1,5 @@
 
 # Nashik Apartment Price Prediction
-In this project , I had created  multipage streamlit web application which helps beginners to understand data science lifecycle.
 
 Inspiration 💡: I am always curious about real estate market in nashik ,many of my friend and relatives are looking for buying house in Nashik .They are always asking me, if you could find any nearby apartement within our budget then let us know , finding your dream house is real struggle. Then I thought with my python and data science skills , I can help them and make their job little easy.
 
