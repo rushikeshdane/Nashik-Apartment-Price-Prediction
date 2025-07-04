@@ -1,36 +1,49 @@
-# Compatibility pins
-protobuf==3.20.3        # Streamlit needs <6
+##############################################################################
+#  COMPATIBILITY PINS – keep these two lines at the very top                 #
+##############################################################################
+protobuf==3.20.3          # Streamlit ≤ 1.46 needs < 6
+altair==4.2.2             # Streamlit ≤ 1.22 expects Altair 4.x
+toolz==0.12.1             # altair dependency (explicit pin for repeatability)
 
-# --- Streamlit core ---
+##############################################################################
+#  STREAMLIT CORE                                                            #
+##############################################################################
 streamlit==1.7.0
 streamlit-aggrid==0.2.3.post2
 streamlit-folium==0.6.2
 streamlit-lottie==0.0.3
 
-# --- Data & ML ---
+##############################################################################
+#  DATA & MACHINE‑LEARNING                                                  #
+##############################################################################
 numpy==1.24.4
 pandas==2.3.0
 scikit-learn==1.2.2
+scipy==1.13.1
 xgboost==1.7.6
 lightgbm==4.3.0
 statsmodels==0.14.1
 lazypredict==0.2.12
 impyute==0.0.8
-scipy==1.13.1
 
-# --- Visualisation ---
+##############################################################################
+#  VISUALISATION                                                             #
+##############################################################################
 matplotlib==3.9.0
 seaborn==0.13.2
 plotly==6.2.0
-
 pydeck==0.8.1b0
 wordcloud==1.9.4
 
-# --- Geo / mapping ---
+##############################################################################
+#  GEO / MAPPING                                                             #
+##############################################################################
 folium==0.14.0
 geopy==2.4.1
 
-# --- Utilities & misc ---
+##############################################################################
+#  UTILITIES & MISC                                                          #
+##############################################################################
 pyarrow==15.0.2
 joblib==1.5.1
 python-dotenv==0.19.2
@@ -39,3 +52,5 @@ validators==0.35.0
 tqdm==4.67.1
 Pillow==11.3.0
 watchdog==6.0.0
+jinja2==3.0.3            # required by many libs; version known‑good
+jsonschema==4.24.0       # altair dependency (brings in `referencing`, etc.)
