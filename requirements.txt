@@ -11,6 +11,7 @@ toolz                     # altair dependency (pin not needed)
 # Streamlit ecosystem
 ##############################################################################
 streamlit-aggrid==0.2.3.post2   # interactive data‑grid
+streamlit-lottie
 
 ##############################################################################
 # Core data stack
