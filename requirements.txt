@@ -1,28 +1,39 @@
 ##############################################################################
-# Compatibility / runtime pins
+# Compatibility pins ── do NOT remove these
 ##############################################################################
-protobuf==3.20.3        # Streamlit ≤ 1.46 needs <6
-altair==4.2.2           # Streamlit still expects Altair 4.x
-toolz==0.12.1           # Altair dependency
-jinja2==3.1.3           # Required by pandas ≥ 2.3
+streamlit==1.34.0         # modern Streamlit; still needs protobuf < 6
+protobuf<6                # >6 breaks Streamlit as of July 2025
+altair>=5,<6              # Streamlit ≥ 1.30 works with Altair 5
+jinja2>=3.1.3             # pandas ≥ 2.2 requires ≥ 3.1.2
+toolz                     # altair dependency (pin not needed)
 
 ##############################################################################
-# Core packages for app functionality
+# Streamlit ecosystem
 ##############################################################################
-streamlit==1.28.0
-streamlit-aggrid==0.2.3.post2
+streamlit-aggrid==0.2.3.post2   # interactive data‑grid
 
-pandas==2.3.0
+##############################################################################
+# Core data stack
+##############################################################################
 numpy==1.24.4
-seaborn==0.13.2
+pandas==2.3.0
 matplotlib==3.9.0
+seaborn==0.13.2
 plotly==6.2.0
 folium==0.14.0
+
+##############################################################################
+# Machine‑learning & stats
+##############################################################################
 scikit-learn==1.2.2
-st_aggrid
-mpyute
-statsmodels
-lightgbm
-lazypredict
-folium
-# sklearn for ML functionality
+statsmodels==0.14.1
+lightgbm==4.3.0
+lazypredict==0.2.12
+impyute==0.0.8       # (spelled “impyute”, not “mpyute”)
+
+##############################################################################
+# Optional helpers that install automatically but keep explicit for clarity
+##############################################################################
+joblib
+tqdm
+requests
