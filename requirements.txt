@@ -18,4 +18,11 @@ seaborn==0.13.2
 matplotlib==3.9.0
 plotly==6.2.0
 folium==0.14.0
-scikit-learn==1.2.2     # sklearn for ML functionality
+scikit-learn==1.2.2
+st_aggrid
+mpyute
+statsmodels
+lightgbm
+lazypredict
+folium
+# sklearn for ML functionality
