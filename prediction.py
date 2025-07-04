@@ -4,7 +4,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
-import joblib
+import pickle
 import json
 from streamlit_lottie import st_lottie
 from st_aggrid import AgGrid
@@ -26,7 +26,7 @@ def load_lottiefile(filepath: str):
 @st.cache_resource(show_spinner=False)
 def load_model(path: str = "houseing_model"):
     """Load and cache the pre‑trained LightGBM model."""
-    return joblib.load(path)
+    return pickle.load(path)
 
 
 # Load the trained model once per session
