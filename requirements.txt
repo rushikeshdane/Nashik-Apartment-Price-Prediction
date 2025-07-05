@@ -12,6 +12,7 @@ toolz                     # altair dependency (pin not needed)
 ##############################################################################
 streamlit-aggrid==0.2.3.post2   # interactive data‑grid
 streamlit-lottie
+streamlit-folium
 
 ##############################################################################
 # Core data stack
